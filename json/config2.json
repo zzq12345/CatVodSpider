@@ -1,0 +1,223 @@
+{
+  "spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;690e9c8ef197edeca7d3e9372aadec95",
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+
+"lives": [
+  
+    {
+      "name": "TXT",
+      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest2.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "IJK",
+      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest2.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 1
+    },
+    {
+      "name": "EXO",
+      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest2.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 2
+    },
+    {
+      "name": "PRO",
+      "boot": false,
+      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest2.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+      "referer": "https://github.com/"
+    },
+    {
+      "name": "Custom",
+      "boot": false,
+      "pass": true,
+      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest2.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "header": {
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+        "referer": "https://github.com/"
+      }
+    },
+    {
+      "name": "JSON",
+      "type": 1,
+      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest2.txt"
+    }
+
+  ],
+  "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
+  "sites": [
+    {
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "http://zzqwe.giize.com:12228/alist.json"
+    },
+    {
+      "key": "WebDAV",
+      "name": "WebDAV",
+      "type": 3,
+      "api": "csp_WebDAV",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "http://zzqwe.giize.com:12228/webdav.json"
+    },
+    {
+      "key": "哔哩",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "http://zzqwe.giize.com:12228/bili.json"
+    },
+{
+      "key": "百度",
+      "name": "百度",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "大陆剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片"
+      ]
+    },
+
+    {
+      "key": "泥巴",
+      "name": "泥巴",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "獨播",
+      "name": "獨播",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "http://zzqwe.giize.com:12228/duboku.json"
+    },
+    {
+      "key": "櫻花",
+      "name": "櫻花",
+      "type": 3,
+      "api": "csp_Ying",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "巴士",
+      "name": "巴士",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "異界",
+      "name": "異界",
+      "type": 3,
+      "api": "csp_Ysj",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "紙條",
+      "name": "紙條",
+      "type": 3,
+      "api": "csp_Paper",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "七夜",
+      "name": "七夜",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "易搜",
+      "name": "易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "盤搜",
+      "name": "盤搜",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "UP雲搜",
+      "name": "UP雲搜",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "找資源",
+      "name": "找資源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "影視天下第一$$$test2$$$test2"
+    },
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0
+    }
+  ]
+}
