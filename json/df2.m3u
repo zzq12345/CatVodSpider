@@ -3655,7 +3655,8 @@ http://192.168.10.250/NatGeo.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",NatGeoWildyoutube
 http://192.168.10.250/NatGeoWild.php
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",yahoofinace
+http://192.168.10.250/yahoofinace.php
 
 
 
