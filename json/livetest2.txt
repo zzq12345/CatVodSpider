@@ -3813,6 +3813,7 @@ talk,http://192.168.43.159:8081/youtube.php?v=p7jawJD0DQM
 AriseNewsChannel,http://192.168.43.159:8081/AriseNewsChannel.php
 NatGeoyoutube,http://192.168.43.159:8081/NatGeo.php
 NatGeoWildyoutube,http://192.168.43.159:8081/NatGeoWild.php
+yahoofinace,http://192.168.43.159:8081/yahoofinace.php
 TDAmeritrade,http://192.168.43.159:8081/TDAmeritrade.php
 zeebusiness,http://192.168.43.159:8081/zeebusiness.php
 ntd news,https://ntd02.akamaized.net/NTDA/index.m3u8
