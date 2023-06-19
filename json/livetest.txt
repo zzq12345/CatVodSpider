@@ -3455,6 +3455,7 @@ talk,http://127.0.0.1:8081/youtube.php?v=p7jawJD0DQM
 AriseNewsChannel,http://127.0.0.1:8081/AriseNewsChannel.php
 NatGeoyoutube,http://127.0.0.1:8081/NatGeo.php
 NatGeoWildyoutube,http://127.0.0.1:8081/NatGeoWild.php
+yahoofinace,http://127.0.0.1:8081/yahoofinace.php
 TDAmeritrade,http://127.0.0.1:8081/TDAmeritrade.php
 zeebusiness,http://127.0.0.1:8081/zeebusiness.php
 ntd news,https://ntd02.akamaized.net/NTDA/index.m3u8
