@@ -5759,6 +5759,169 @@ http://192.168.10.250/ofiii.php?id=litv-longturn03
 http://192.168.10.250/ofiii.php?id=4gtv-4gtv061
 #EXTINF:-1 group-title="litv",靖天映畫
 http://192.168.10.250/ofiii.php?id=4gtv-4gtv055
+#EXTINF:-1 group-title="litv",民視第一
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv003
+#EXTINF:-1 group-title="litv",民視台灣
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv001
+#EXTINF:-1 group-title="litv",台視
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv066
+
+#EXTINF:-1 group-title="litv",華視
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv041
+#EXTINF:-1 group-title="litv",好消息1台
+http://192.168.10.250/litvtest.php?id=litv-ftv16
+#EXTINF:-1 group-title="litv",東森娛樂
+http://192.168.10.250/litvtest.php?id=litv-vchannel32
+
+#EXTINF:-1 group-title="litv",亞洲旅遊
+http://192.168.10.250/litvtest.php?id=litv-longturn17
+
+#EXTINF:-1 group-title="litv",中天亞洲
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv109
+#EXTINF:-1 group-title="litv",龍華戲劇		
+http://192.168.10.250/litvtest.php?id=litv-longturn18
+#EXTINF:-1 group-title="litv",TVBS精彩	
+http://192.168.10.250/litvtest.php?id=4gtv067
+#EXTINF:-1 group-title="litv",民視影劇	
+http://192.168.10.250/litvtest.php?id=litv-ftv09
+#EXTINF:-1 group-title="litv",龍華偶像	
+http://192.168.10.250/litvtest.php?id=litv-longturn12
+#EXTINF:-1 group-title="litv",龍華日韓	
+http://192.168.10.250/litvtest.php?id=litv-longturn11
+#EXTINF:-1 group-title="litv",東森新聞	
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv152
+#EXTINF:-1 group-title="litv",華視新聞	
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv052
+#EXTINF:-1 group-title="litv",民視新聞	
+http://192.168.10.250/litvtest.php?id=litv-ftv13
+
+#EXTINF:-1 group-title="litv",環宇新聞	
+http://192.168.10.250/litvtest.php?id=litv-longturn14
+#EXTINF:-1 group-title="litv",TVBS新聞	
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv072
+#EXTINF:-1 group-title="litv",東森財經新聞	
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv153
+#EXTINF:-1 group-title="litv",非凡新聞	
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv010
+#EXTINF:-1 group-title="litv",台視新聞	
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv051
+#EXTINF:-1 group-title="litv",中視新聞	
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv074
+#EXTINF:-1 group-title="litv",中天新聞	
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv009
+#EXTINF:-1 group-title="litv",環宇新聞台灣台
+http://192.168.10.250/litvtest.php?id=litv-longturn15
+#EXTINF:-1 group-title="litv",龍華經典
+http://192.168.10.250/litvtest.php?id=litv-longturn21
+#EXTINF:-1 group-title="litv",影迷數位電影台
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv011
+#EXTINF:-1 group-title="litv",龍華電影
+http://192.168.10.250/litvtest.php?id=litv-longturn03
+#EXTINF:-1 group-title="litv",靖天電影台
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv061
+#EXTINF:-1 group-title="litv",靖天映畫
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv055
+#EXTINF:-1 group-title="litv",博斯高球
+http://192.168.10.250/litvtest.php?id=litv-longturn05
+#EXTINF:-1 group-title="litv",博斯高球2台
+http://192.168.10.250/litvtest.php?id=litv-longturn06
+
+#EXTINF:-1 group-title="litv",博斯運動1台
+http://192.168.10.250/litvtest.php?id=litv-longturn07
+
+#EXTINF:-1 group-title="litv",博斯無限
+http://192.168.10.250/litvtest.php?id=itv-longturn10
+#EXTINF:-1 group-title="litv",博斯網球
+http://192.168.10.250/litvtest.php?id=litv-longturn09
+#EXTINF:-1 group-title="litv",博斯運動2台
+http://192.168.10.250/litvtest.php?id=litv-longturn08
+#EXTINF:-1 group-title="litv",博斯無限2台
+http://192.168.10.250/litvtest.php?id=litv-longturn13
+#EXTINF:-1 group-title="litv",非凡商業
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv048
+#EXTINF:-1 group-title="litv",台視財經
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv056
+#EXTINF:-1 group-title="litv",寰宇財經
+http://192.168.10.250/litvtest.php?id=litv-longturn23
+#EXTINF:-1 group-title="litv",台灣戲劇
+http://192.168.10.250/litvtest.php?id=litv-longturn22
+#EXTINF:-1 group-title="litv",視納華仁紀實頻道
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv013
+
+#EXTINF:-1 group-title="litv",八大精彩台
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv034
+
+#EXTINF:-1 group-title="litv",采昌影劇台
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv049
+#EXTINF:-1 group-title="litv", 靖天戲劇台
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv058
+#EXTINF:-1 group-title="litv", 靖天日本台
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv047
+#EXTINF:-1 group-title="litv", 靖天育樂台
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv062
+#EXTINF:-1 group-title="litv", KLT-靖天國際台
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv063
+#EXTINF:-1 group-title="litv", 靖洋戲劇台
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv045
+
+#EXTINF:-1 group-title="litv", 靖天綜合台
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv046
+#EXTINF:-1 group-title="litv", Nice TV靖天歡樂台
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv054
+#EXTINF:-1 group-title="litv", 靖天資訊台
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv065
+#EXTINF:-1 group-title="litv", 民視旅遊台
+http://192.168.10.250/litvtest.php?id=litv-ftv07
+
+#EXTINF:-1 group-title="litv", Smart知識台
+http://192.168.10.250/litvtest.php?id=litv-longturn19
+#EXTINF:-1 group-title="litv", 愛爾達娛樂台
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv070
+#EXTINF:-1 group-title="litv", 中視菁采台
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv064
+#EXTINF:-1 group-title="litv", 中視經典台
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv080
+
+#EXTINF:-1 group-title="litv", 八大綜藝台
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv039
+#EXTINF:-1 group-title="litv", 客家電視台
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv043
+
+#EXTINF:-1 group-title="litv", 半島國際新聞台
+http://192.168.10.250/litvtest.php?id=litv-ftv10
+#EXTINF:-1 group-title="litv", VOA美國之音
+http://192.168.10.250/litvtest.php?id=litv-ftv03
+#EXTINF:-1 group-title="litv", TRACE Sport Stars
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv077
+#EXTINF:-1 group-title="litv", 智林體育台
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv101
+#EXTINF:-1 group-title="litv", 時尚運動X
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv014
+#EXTINF:-1 group-title="litv", GINX Esports TV
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv053
+#EXTINF:-1 group-title="litv", 韓國娛樂台 KMTV
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv016
+#EXTINF:-1 group-title="litv", TRACE Urban
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv082
+#EXTINF:-1 group-title="litv", Mezzo Live HD
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv083
+#EXTINF:-1 group-title="litv", CLASSICA 古典樂
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv059
+#EXTINF:-1 group-title="litv",  ARIRANG阿里郎頻道
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv079
+#EXTINF:-1 group-title="litv",  達文西頻道
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv018
+#EXTINF:-1 group-title="litv",   ELTV生活英語台
+http://192.168.10.250/litvtest.php?id=litv-longturn20
+#EXTINF:-1 group-title="litv",   靖洋卡通Nice Bingo
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv057
+#EXTINF:-1 group-title="litv",   靖天卡通台
+http://192.168.10.250/litvtest.php?id=4gtv-4gtv044
+#EXTINF:-1 group-title="litv",   龍華卡通台
+http://192.168.10.250/litvtest.php?id=litv-longturn01
+
+
+
 
 
 
