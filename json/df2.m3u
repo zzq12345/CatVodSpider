@@ -4179,31 +4179,10 @@ http://192.168.10.250/xianggangwenly.php
 https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
 
-#EXTINF:-1 tvg-id="100440" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="香港",香港开电视
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",耀才财经台2
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-#EXTINF:-1 tvg-id="100642" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="香港",香港電台31
-https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8?v=20200211
 
-#EXTINF:-1 tvg-id="100642" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="香港",香港電台31
-
-
-https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_5400_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="100642" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="香港",香港電台31
-https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_5400_av-b.m3u8?sd=10&rebase=on
-
-
-#EXTINF:-1 tvg-id="100643" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="香港",香港電台32
-https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-#EXTINF:-1 tvg-id="100643" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="香港",香港電台32
-https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8?v=20200211
-
-#EXTINF:-1 tvg-id="100643" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="香港",香港電台32
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_5400_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="100643" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="香港",香港電台32
 
 
 
