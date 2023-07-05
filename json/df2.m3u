@@ -3417,7 +3417,8 @@ http://192.168.10.250/diyicaijinglive.php?id=2
 https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event038/hls-ae-tv/index.m3u8
 #EXTINF:-1 tvg-id="100282" tvg-name="" tvg-logo="" group-title="youtube",中台灣生活新聞
 http://192.168.10.250/linetv.php?id=taiwanshenghuonews
-
+#EXTINF:-1 tvg-id="100282" tvg-name="" tvg-logo="" group-title="youtube",MOD点播
+https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event024/hls-ae-tv/index.m3u8?ar=0
 
 
 #EXTINF:-1 tvg-id="100329" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png"  tvg-name="中视新闻" group-title="youtube",中视新闻台
