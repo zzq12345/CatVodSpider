@@ -4308,6 +4308,43 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_5400_av-b.m3u8?sd=10&r
 
 #EXTINF:-1 tvg-id="100643" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="香港",香港電台32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+
+#EXTINF:-1 tvg-id="100642" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png"  group-title="香港",香港電台31
+https://live.astradamy.com/hk31/index.m3u8
+#EXTINF:-1 tvg-id="100643" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png"  group-title="香港",香港電台32
+https://live.astradamy.com/hk32/index.m3u8
+#EXTINF:-1 tvg-id="100009" tvg-name="港台電視33" tvg-logo="https://www.hkdtmb.com/png_logo/33.png" group-title="香港",港台電視33
+https://live.astradamy.com/hk33/index.m3u8
+
+#EXTINF:-1 tvg-id="100505" tvg-name="港台電視33" tvg-logo="https://www.hkdtmb.com/png_logo/33.png" group-title="香港",港台電視34
+https://live.astradamy.com/hk34/index.m3u8
+
+#EXTINF:-1 tvg-id="100009" tvg-name="港台電視33" tvg-logo="https://www.hkdtmb.com/png_logo/33.png" group-title="香港",港台電視33
+https://live.astradamy.com/hk35/index.m3u8
+#EXTINF:-1 tvg-id="100443" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="香港",香港国际财经
+https://live.astradamy.com/hk76/index.m3u8
+#EXTINF:-1 tvg-id="100440" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="香港",香港开电视
+https://live.astradamy.com/hk77/index.m3u8
+#EXTINF:-1 tvg-id="100441" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="香港",香港开资讯
+https://live.astradamy.com/hk78/index.m3u8
+#EXTINF:-1 tvg-id="70002" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",香港翡翠
+https://live.astradamy.com/hk81/index.m3u8
+
+#EXTINF:-1 tvg-id="70003" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="香港",香港j2
+https://live.astradamy.com/hk82/index.m3u8
+#EXTINF:-1 tvg-id="70004" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="香港",香港无线新闻
+https://live.astradamy.com/hk83/index.m3u8
+#EXTINF:-1 tvg-id="70006" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="香港",香港无线财经
+https://live.astradamy.com/hk85/index.m3u8
+#EXTINF:-1 tvg-id="70005" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="香港",香港无线明珠
+https://live.astradamy.com/hk84/index.m3u8
+#EXTINF:-1 tvg-id="70005" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="香港",香港明珠 
+https://live.astradamy.com/hk84b/index.m3u8
+#EXTINF:-1 tvg-id="100580" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="香港",ViuTV Six
+https://live.astradamy.com/hk96/index.m3u8
+#EXTINF:-1 tvg-id="100581" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="香港",ViuTV
+https://live.astradamy.com/hk99/index.m3u8
+
 #EXTINF:-1 tvg-id="100642" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png"  group-title="香港",香港電台31
 http://cdn.hklive.tv/xxxx/31/index.m3u8
 #EXTINF:-1 tvg-id="100643" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png"  group-title="香港",香港電台32
