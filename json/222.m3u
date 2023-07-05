@@ -1510,8 +1510,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwondernz-
 https://tv.livebcm.com:3425/stream/play.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/pHJm3I0.png",JBS (404p) [Not 24/7]
 http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://ssh101.com/
-https://tna5.bozztv.com/jesstv/index.m3u8
+
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/O7SdkBh.png",Jewelery Maker (1080p)
 https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/KBTqpJ7.png",Johnny Carson TV
@@ -2328,8 +2327,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineve
 http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/KsxWZIw.png",Sorozat+ (576p)
 http://194.76.186.33:8000/play/a05e/index.m3u8
-#EXTINF:-1 ,like Gecko) Mobile/13G36
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
+
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/0zCt8e4.png",SpektraTV (720p)
 https://cloudvideo.servers10.com:8081/8136/index.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.ibb.co/qjsV044/IMG-20230628-141804.jpg",SPI Quran (720p)
@@ -2581,8 +2579,7 @@ https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
 http://rtb.srfms.com:3333/live/telebostonrtb/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.ibb.co/xMYMyHh/telepammmm.png",Tele Pam (1080p)
 https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8
-#EXTINF:-1 ,like Gecko) Chrome/77.0.3865.90 Safari/537.36
-https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8
+
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/qvcf6QC.png",Telepace 2 (1080p)
 https://live.mariatvcdn.com/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/index.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/JKHEL1H.png",Telepace 4 (720p)
@@ -2613,8 +2610,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playli
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/rOSlp93.png",The First (1080p)
 https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
-#EXTINF:-1 ggroup-title="美国" tvg-logo="https://i.imgur.com/o9AYq9V.png",The Guardian (720p)
-https://0d0239e437124ddcb8090d815caf4013.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_TheGuardianChannel/playlist.m3u8
+
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/EtQolw6.png",The Islamic Network (480p) [Not 24/7]
 http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/gZP0Z08.png",The Love Destination (1080p)
@@ -2776,8 +2772,7 @@ https://dai.google.com/linear/hls/event/ygKx2LkmRQCZ_orwBQhfFw/master.m3u8
 https://5a5c57d042315.streamlock.net/live11704001/ngrp:government_all/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/LquGNbh.png",Wonder
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
-#EXTINF:-1 ,like Gecko) Chrome/112.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://live-3.otcnet.ru/wfcenmulti/index.m3u8
+
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/xtbkDDN.png",World Harvest TV (360p)
 https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/98kLMjj.png",World Poker Tour (1080p) [Not 24/7]
