@@ -5504,6 +5504,7 @@ ELTV生活英語台,http://192.168.43.159:8081/litvtest.php?id=litv-longturn20
 靖洋卡通Nice Bingo,http://192.168.43.159:8081/litvtest.php?id=4gtv-4gtv057
 靖天卡通台,http://192.168.43.159:8081/litvtest.php?id=4gtv-4gtv044
 龍華卡通台,http://192.168.43.159:8081/litvtest.php?id=litv-longturn01
+好消息二台,http://192.168.43.159:8081/litvtest.php?id=litv-ftv17
 台視,http://192.168.43.159:8081/ofiii.php?id=4gtv-4gtv066
 中视,http://192.168.43.159:8081/ofiii.php?id=4gtv-4gtv040
 华视,http://192.168.43.159:8081/ofiii.php?id=4gtv-4gtv041
