@@ -4470,7 +4470,7 @@ TVBS+,http://192.168.10.250/tvbs561.php
 寰宇新闻,http://192.168.10.250/huanyunews.php?id=1
 寰宇新闻台湾,http://192.168.10.250/huanyunews.php?id=2
 寰宇新闻,http://192.168.10.250/huanyunews.php?id=3
-非凡新闻,http://192.168.10.250/twitch.php?channel=mbtv002
+非凡新闻,http://192.168.10.250/yuanchuan.php?id=1
 壹新聞,http://60.251.59.180:8501/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 东森新闻,http://192.168.10.250/linetv.php?id=dongsennews
 东森新闻,http://192.168.10.250/dongsennews1.php
