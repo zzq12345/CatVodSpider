@@ -5245,7 +5245,8 @@ http://127.0.0.1:8081/litvtest.php?id=4gtv-4gtv057
 http://127.0.0.1:8081/litvtest.php?id=4gtv-4gtv044
 #EXTINF:-1 tvg-id="litv-longturn01" tvg-name="龍華卡通台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn01_pc.png" group-title="litv",龍華卡通台
 http://127.0.0.1:8081/litvtest.php?id=litv-longturn01
-
+#EXTINF:-1 tvg-id="litv-ftv17" tvg-name="好消息二台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv17_pc.png" group-title="litv",好消息二台
+http://127.0.0.1:8081/litvtest.php?id=litv-ftv17
 
 
 
