@@ -4,7 +4,6 @@
 
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼直播",豆瓣电影
 http://192.168.10.250/douyu.php?id=8770422
 
@@ -2785,7 +2784,6 @@ http://192.168.10.250/kaqiusha.php?id=1
 #EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube",俄罗斯中文频道
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube",cgtn俄语
 http://192.168.10.250/cgtnrussia.php
 
@@ -2795,16 +2793,12 @@ http://192.168.10.250/cctvfrench.php
 
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="youtube",CCTV-13HD
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="youtube",CCTV-16高清
-http://192.168.10.250/cctv164fandai.php
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="youtube",CCTV-16高清
-http://192.168.10.250/cctv-164M.php?id=1
+
 
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="youtube",CCTV-6
 http://192.168.10.250/douyin.php?id=208823316033
 
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="youtube",CCTV4K 14M2160HDR
-http://192.168.10.250/cctv4k.php
+
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="youtube",cctv-4亚洲
 http://192.168.10.250/cctv4.php
 
@@ -3125,12 +3119,6 @@ https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube",Sky News Extra 1 Australi
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",Sky tg24
-http://192.168.10.250/skytg24.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",日本24小时新闻
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="https://atv-cdn.hkatv.vip/images/16166569352816980048.png" group-title="youtube",DW English (1080p)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png" group-title="youtube",NHK World Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
@@ -3408,8 +3396,8 @@ https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 #EXTINF:-1 tvg-id="4gtv-4gtv071" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="youtube",德国DW新闻英语台DW News
 http://192.168.10.250/dwenglish.php
 #EXTINF:-1 tvg-id="100195" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="youtube",德国DW德语台DW Deutsch Livestream
-http://192.168.10.250/dw.php
-#EXTINF:-1 tvg-id="4gtv-4gtv071" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="youtube",德国DW西班牙台DW Deutsch Livestream
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="4gtv-4gtv071" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="youtube",德国DW西班牙台
 http://192.168.10.250/dwspain.php
 
 
@@ -3682,17 +3670,9 @@ http://192.168.10.250/ifeng.php?id=3
 
 
 
-#EXTINF:-1 tvg-id="100630" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰卫视中文台
-http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="100630" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰卫视中文台
-http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="100597" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
-http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="100597" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
-http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 
-#EXTINF:-1 group-title="香港" tvg-id="70002" tvg-chno="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠
-http://113.64.147.186:8081//hls/67/index.m3u8
+
+
 #EXTINF:-1 group-title="香港" tvg-id="70004" tvg-chno="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無線新聞
 http://192.168.10.250/tvb1.php?id=NEWS
 #EXTINF:-1 group-title="香港" tvg-id="70006" tvg-chno="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png",無線財經
@@ -3709,11 +3689,6 @@ http://192.168.10.250/tvb1.php?id=J
 
 
 
-#EXTINF:-1 tvg-id="100440" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="香港",香港开电视
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
-
-#EXTINF:-1 tvg-id="100440" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="香港",香港开电视
-http://61.10.2.141/live_freedirect/opentvhd001_h.live/playlist.m3u8?uid=6a0d339b385034f_vip
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",耀才财经台2
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 
@@ -3724,33 +3699,6 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_5400_av-b.m3u8?sd=10&r
 #EXTINF:-1 tvg-id="100643" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="香港",香港電台32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 
-#EXTINF:-1 tvg-id="100441" tvg-name="" tvg-logo="" group-title="香港",香港國際財經
-http://192.168.10.250/hkdtmb.php?id=76
-#EXTINF:-1 tvg-id="100440" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="香港",香港开电视
-http://192.168.10.250/hkdtmb.php?id=77
-
-#EXTINF:-1 tvg-id="100401" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台
-http://192.168.10.250/hkdtmb.php?id=81
-#EXTINF:-1 tvg-id="100401" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台
-http://192.168.10.250/hkdtmb.php?id=81b
-#EXTINF:-1 tvg-id="100402" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="香港",香港j2
-http://192.168.10.250/hkdtmb.php?id=82
-#EXTINF:-1 tvg-id="100403" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="香港",香港无线新闻
-http://192.168.10.250/hkdtmb.php?id=83
-#EXTINF:-1 tvg-id="100404" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="香港",明珠台
-http://192.168.10.250/hkdtmb.php?id=84
-#EXTINF:-1 tvg-id="100405" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="香港",无线财经
-http://192.168.10.250/hkdtmb.php?id=85
-#EXTINF:-1 tvg-id="100642" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="香港",香港電台31
-http://192.168.10.250/hkdtmb.php?id=31
-#EXTINF:-1 tvg-id="100643" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="香港",香港電台32
-http://192.168.10.250/hkdtmb.php?id=32
-#EXTINF:-1 tvg-id="100505" tvg-name="港台電視33" tvg-logo="https://www.hkdtmb.com/png_logo/33.png" group-title="香港",港台電視33
-http://192.168.10.250/hkdtmb.php?id=33
-#EXTINF:-1 tvg-id="100581" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="香港",ViuTV
-http://192.168.10.250/hkdtmb.php?id=99
-#EXTINF:-1 tvg-id="100580" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="香港",ViuTV Six
-http://192.168.10.250/hkdtmb.php?id=96
 
 
 
@@ -3793,6 +3741,33 @@ https://live.astradamy.com/hk96/index.m3u8
 #EXTINF:-1 tvg-id="100581" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="香港",ViuTV
 https://live.astradamy.com/hk99/index.m3u8
 
+#EXTINF:-1 tvg-id="100441" tvg-name="" tvg-logo="" group-title="香港",香港國際財經
+http://192.168.10.250/hkdtmb.php?id=76
+#EXTINF:-1 tvg-id="100440" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="香港",香港开电视
+http://192.168.10.250/hkdtmb.php?id=77
+
+#EXTINF:-1 tvg-id="100401" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台
+http://192.168.10.250/hkdtmb.php?id=81
+#EXTINF:-1 tvg-id="100401" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台
+http://192.168.10.250/hkdtmb.php?id=81b
+#EXTINF:-1 tvg-id="100402" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="香港",香港j2
+http://192.168.10.250/hkdtmb.php?id=82
+#EXTINF:-1 tvg-id="100403" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="香港",香港无线新闻
+http://192.168.10.250/hkdtmb.php?id=83
+#EXTINF:-1 tvg-id="100404" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="香港",明珠台
+http://192.168.10.250/hkdtmb.php?id=84
+#EXTINF:-1 tvg-id="100405" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="香港",无线财经
+http://192.168.10.250/hkdtmb.php?id=85
+#EXTINF:-1 tvg-id="100642" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="香港",香港電台31
+http://192.168.10.250/hkdtmb.php?id=31
+#EXTINF:-1 tvg-id="100643" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="香港",香港電台32
+http://192.168.10.250/hkdtmb.php?id=32
+#EXTINF:-1 tvg-id="100505" tvg-name="港台電視33" tvg-logo="https://www.hkdtmb.com/png_logo/33.png" group-title="香港",港台電視33
+http://192.168.10.250/hkdtmb.php?id=33
+#EXTINF:-1 tvg-id="100581" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="香港",ViuTV
+http://192.168.10.250/hkdtmb.php?id=99
+#EXTINF:-1 tvg-id="100580" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="香港",ViuTV Six
+http://192.168.10.250/hkdtmb.php?id=96
 
 
 
@@ -4345,7 +4320,7 @@ http://192.168.10.250/zhonghuadianxin.php?id=4gtv-4gtv013
 http://192.168.10.250/zhonghuadianxin.php?id=litv-longturn03
 #EXTINF:-1 group-title="中华电信直播",民視綜藝台
 http://192.168.10.250/zhonghuadianxin.php?id=4gtv-4gtv004
-#EXTINF:-1 group-title="中华电信直播",ELTV英語學習台
+#EXTINF:-1 tvg-id="litv-longturn20" tvg-name="ELTV生活英語台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn20_mobile.png" group-title="中华电信直播"ELTV生活英語台
 http://192.168.10.250/zhonghuadianxin.php?id=litv-longturn20
 #EXTINF:-1 tvg-id="4gtv-4gtv040" tvg-name="中視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="中华电信直播",中視
 http://192.168.10.250/zhonghuadianxin.php?id=4gtv-4gtv040
@@ -4358,14 +4333,14 @@ http://192.168.10.250/zhonghuadianxin.php?id=4gtv-4gtv003
 
 #EXTINF:-1 group-title="中华电信直播",大愛電視台
 http://192.168.10.250/zhonghuadianxin.php?id=4gtv-live007
-#EXTINF:-1 group-title="中华电信直播",CNBC
+#EXTINF:-1 tvg-id="4gtv-live130" tvg-name="CNBC Asia 財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live130_mobile.png"  group-title="中华电信直播",CNBC
 http://192.168.10.250/zhonghuadianxin.php?id=4gtv-live130
-#EXTINF:-1 group-title="中华电信直播",半島電視台
+#EXTINF:-1 tvg-id="litv-ftv10" tvg-name="半島國際新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv10_mobile.png"  group-title="中华电信直播",半島電視台
 http://192.168.10.250/zhonghuadianxin.php?id=litv-ftv10
-#EXTINF:-1 group-title="中华电信直播",美国之音
+#EXTINF:-1 tvg-id="litv-ftv03" tvg-name="VOA美國之音" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv03_mobile.png"  group-title="中华电信直播",美国之音
 http://192.168.10.250/zhonghuadianxin.php?id=litv-ftv03
 
-#EXTINF:-1 group-title="中华电信直播",爱自然
+#EXTINF:-1 tvg-id="4gtv-live208" tvg-name="Love Nature" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live208_mobile.png"  group-title="中华电信直播",爱自然
 http://192.168.10.250/zhonghuadianxin.php?id=4gtv-live208
 #EXTINF:-1 tvg-id="4gtv-live026" tvg-name="History 歷史頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live026_mobile.png"  group-title="中华电信直播",历史频道
 http://192.168.10.250/zhonghuadianxin.php?id=4gtv-live026
@@ -4834,7 +4809,6 @@ http://192.168.10.250/litvtest.php?id=4gtv-4gtv057
 http://192.168.10.250/litvtest.php?id=4gtv-4gtv044
 #EXTINF:-1 tvg-id="litv-longturn01" tvg-name="龍華卡通台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn01_pc.png" group-title="litv",龍華卡通台
 http://192.168.10.250/litvtest.php?id=litv-longturn01
-
 #EXTINF:-1 tvg-id="litv-ftv17" tvg-name="好消息二台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv17_pc.png" group-title="litv",好消息二台
 http://192.168.10.250/litvtest.php?id=litv-ftv17
 
