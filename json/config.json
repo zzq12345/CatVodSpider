@@ -92,7 +92,7 @@
       "changeable": 0,
       "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
     },
-{
+      {
       "key": "百度",
       "name": "百度",
       "type": 1,
@@ -343,7 +343,7 @@
       "filterable": 0,
       "changeable": 0
     }
-  ]
+  
 ],
   "doh": [
     {
