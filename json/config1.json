@@ -1,10 +1,9 @@
 {
-  "spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;",
-  "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
-  "lives": [
-  
+  "spider": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;942e99b122cf9eb8d0859bbab9994f12",
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 
-    {
+  "lives": [
+      {
       "name": "TXT",
       "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest1.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
@@ -50,13 +49,12 @@
       "type": 1,
       "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest.txt"
     }
-
   ],
 
 
+
   "sites": [
-   
-     {
+    {
       "key": "本地",
       "name": "本地",
       "type": 3,
@@ -71,7 +69,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+      "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/alist.json"
     },
     {
       "key": "WebDAV",
@@ -80,7 +78,7 @@
       "api": "csp_WebDAV",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
+      "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/webdav.json"
     },
     {
       "key": "哔哩",
@@ -88,11 +86,13 @@
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
-      "filterable": 1,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
+      "ext": {
+        "type": "帕梅拉#太极拳#广场舞#演唱会",
+        "cookie": ""
+      }
     },
-      {
+ {
       "key": "百度",
       "name": "百度",
       "type": 1,
@@ -123,7 +123,6 @@
       "type": 3,
       "api": "csp_NiNi",
       "searchable": 1,
-      "filterable": 1,
       "changeable": 1
     },
     {
@@ -135,10 +134,19 @@
       "changeable": 1
     },
     {
+      "key": "獨播",
+      "name": "獨播",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json"
+    },
+    {
       "key": "廠長",
       "name": "廠長",
       "type": 3,
-      "api": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/js/czzy_open.js",
+      "api": "https://fongmi.cachefly.net/catvod/CatVodOpen/main/open/czzy_open.js",
       "searchable": 1,
       "changeable": 1
     },
@@ -146,21 +154,18 @@
       "key": "愛看",
       "name": "愛看",
       "type": 3,
-      "api": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/js/ikanbot_open.js",
+      "api": "https://fongmi.cachefly.net/catvod/CatVodOpen/main/open/ikanbot_open.js",
+      "searchable": 1,
+      "changeable": 1
+    },{
+      "key": "快看",
+      "name": "快看",
+      "type": 3,
+      "api": "https://fongmi.cachefly.net/catvod/CatVodOpen/main/open/kkys_open.js",
       "searchable": 1,
       "changeable": 1
     },
     {
-      "key": "獨播",
-      "name": "獨播",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json"
-    },
-     {
       "key": "量子",
       "name": "量子",
       "type": 0,
@@ -244,21 +249,11 @@
       ]
     },
     {
-      "key": "熊熊",
-      "name": "熊熊",
-      "type": 1,
-      "api": "https://v.3412.net.cn/macapi.php/provide/vod",
-      "playUrl": "https://player.i597.cc/?url=",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "櫻花",
       "name": "櫻花",
       "type": 3,
       "api": "csp_Ying",
       "searchable": 1,
-      "filterable": 1,
       "changeable": 1
     },
     {
@@ -267,7 +262,6 @@
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
-      "filterable": 1,
       "changeable": 1
     },
     {
@@ -276,16 +270,14 @@
       "type": 3,
       "api": "csp_Ysj",
       "searchable": 1,
-      "filterable": 1,
       "changeable": 1
     },
     {
-      "key": "紙條",
-      "name": "紙條",
+      "key": "玩偶",
+      "name": "玩偶",
       "type": 3,
-      "api": "csp_Paper",
+      "api": "csp_Wogg",
       "searchable": 1,
-      "filterable": 1,
       "changeable": 0
     },
     {
@@ -294,16 +286,14 @@
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
-      "filterable": 0,
       "changeable": 0
     },
     {
-      "key": "易搜",
-      "name": "易搜",
+      "key": "雲搜",
+      "name": "雲搜",
       "type": 3,
-      "api": "csp_YiSo",
+      "api": "csp_UpYun",
       "searchable": 1,
-      "filterable": 0,
       "changeable": 0
     },
     {
@@ -312,16 +302,14 @@
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
-      "filterable": 0,
       "changeable": 0
     },
     {
-      "key": "UP雲搜",
-      "name": "UP雲搜",
+      "key": "盤搜索",
+      "name": "盤搜索",
       "type": 3,
-      "api": "csp_UpYun",
+      "api": "csp_PanSearch",
       "searchable": 1,
-      "filterable": 0,
       "changeable": 0
     },
     {
@@ -330,7 +318,6 @@
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
-      "filterable": 0,
       "changeable": 0,
       "ext": "影視天下第一$$$test2$$$test2"
     },
@@ -340,11 +327,9 @@
       "type": 3,
       "api": "csp_Push",
       "searchable": 1,
-      "filterable": 0,
       "changeable": 0
     }
-  
-],
+  ],
   "doh": [
     {
       "name": "Google",
@@ -387,10 +372,10 @@
         "9.9.9.9",
         "149.112.112.112"
       ]
-    
+    }
   ],
   "rules": [
-     {
+    {
       "name": "星星",
       "hosts": [
         "aws.ulivetv.net"
@@ -434,10 +419,10 @@
       "name": "抖音嗅探",
       "hosts": [
         "douyin.com"
-              ],
+      ],
       "regex": [
         "is_play_url="
-               ]
-      }
-                   ]
+      ]
+    }
+  ]
 }
