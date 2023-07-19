@@ -37,7 +37,7 @@
       "name": "Custom",
       "boot": false,
       "pass": true,
-      "url": "hhttps://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest1.txt",
+      "url": "hhttps://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "header": {
@@ -48,7 +48,7 @@
     {
       "name": "JSON",
       "type": 1,
-      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest1.txt"
+      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest.txt"
     }
 
   ],
@@ -92,7 +92,7 @@
       "changeable": 0,
       "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
     },
-{
+      {
       "key": "百度",
       "name": "百度",
       "type": 1,
@@ -127,6 +127,14 @@
       "changeable": 1
     },
     {
+      "key": "星星",
+      "name": "星星",
+      "type": 3,
+      "api": "csp_Star",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "廠長",
       "name": "廠長",
       "type": 3,
@@ -139,14 +147,6 @@
       "name": "愛看",
       "type": 3,
       "api": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/js/ikanbot_open.js",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "星星",
-      "name": "星星",
-      "type": 3,
-      "api": "csp_Star",
       "searchable": 1,
       "changeable": 1
     },
