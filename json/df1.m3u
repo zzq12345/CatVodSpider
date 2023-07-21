@@ -3647,10 +3647,6 @@ http://127.0.0.1:8081/youtube.php?v=iNz2lOJwd2g
 http://127.0.0.1:8081/rtarabic.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",EKOTÜRK TV 
 http://127.0.0.1:8081/youtube.php?v=5mD5UR-loQo
-#EXTINF:-1 tvg-id="100630" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰卫视中文台
-http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
-#EXTINF:-1 tvg-id="100597" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
-http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 
 
 
@@ -3757,7 +3753,8 @@ https://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="澳门",亚旅卫视
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" tvg-id="100133" tvg-name="tvN"  group-title="台湾",TVN
+http://127.0.0.1:8081/myvideoapp.php?id=12
 #EXTINF:-1 tvg-id="100274" tvg-name="MOMO亲子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="台湾",momo综合 
 http://127.0.0.1:8081/myvideoapp.php?id=04
 #EXTINF:-1 tvg-id="100205" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="台湾",民视
