@@ -4873,6 +4873,7 @@ TDM Sports Macau,http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m
 澳门衛星,https://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 台湾,#genre#
+TVN,http://127.0.0.1:8081/myvideoapp.php?id=12
 momo综合,http://127.0.0.1:8081/myvideoapp.php?id=04
 民视,http://127.0.0.1:8081/minshi.php?id=4gtv-4gtv002
 民视台湾台,http://127.0.0.1:8081/minshi.php?id=4gtv-4gtv001
