@@ -2956,6 +2956,8 @@ http://127.0.0.1:8081/youtube.php?v=RAP4h3q6_Sg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",MIT台灣誌
 http://127.0.0.1:8081/mit.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",台湾启示录
+http://127.0.0.1:8081//taiwanqishilu.php
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",JOJO的奇妙冒險 
