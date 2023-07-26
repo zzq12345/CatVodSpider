@@ -4502,6 +4502,8 @@ SPIDEY SHORTS,http://192.168.43.159:8081/youtube.php?v=-7UhkbevsDg
 AriseNewsChannel,http://192.168.43.159:8081/AriseNewsChannel.php
 NatGeoyoutube,http://192.168.43.159:8081/NatGeo.php
 NatGeoWildyoutube,http://192.168.43.159:8081/NatGeoWild.php
+USATODAY,http://192.168.43.159:8081/USATODAY.php
+60minutes,http://192.168.43.159:8081/60minutes.php
 yahoofinace,http://192.168.43.159:8081/yahoofinace.php
 TDAmeritrade,http://192.168.43.159:8081/TDAmeritrade.php
 zeebusiness,http://192.168.43.159:8081/zeebusiness.php
