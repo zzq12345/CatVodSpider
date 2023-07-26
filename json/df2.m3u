@@ -2783,7 +2783,10 @@ http://192.168.10.250/fenghuangyoutube.php?id=1
 http://192.168.10.250/kaqiusha.php?id=1
 #EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube",俄罗斯中文频道
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-
+#EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube",金砖中文
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube",金砖英文
+http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube",cgtn俄语
 http://192.168.10.250/cgtnrussia.php
 
