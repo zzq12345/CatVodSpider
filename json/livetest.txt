@@ -4462,6 +4462,7 @@ taiwanplus,http://127.0.0.1:8081/taiwanplus.php
 国会1,http://127.0.0.1:8081/youtube.php?v=4HysYHJ6GkY
 国会2,http://127.0.0.1:8081/youtube.php?v=RAP4h3q6_Sg
 MIT台灣誌,http://127.0.0.1:8081/mit.php
+台湾启示录,http://127.0.0.1:8081//taiwanqishilu.php
 JOJO的奇妙冒險,http://127.0.0.1:8081/mumianhua.php
 靈異電視劇,http://127.0.0.1:8081/huashixiju.php
 天才衝衝衝,http://127.0.0.1:8081/tiancaichongchongchong.php
