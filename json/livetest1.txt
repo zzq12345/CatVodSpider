@@ -4502,7 +4502,7 @@ SPIDEY SHORTS,http://192.168.10.250/youtube.php?v=-7UhkbevsDg
 AriseNewsChannel,http://192.168.10.250/AriseNewsChannel.php
 NatGeoyoutube,http://192.168.10.250/NatGeo.php
 NatGeoWildyoutube,http://192.168.10.250/NatGeoWild.php
-USATODAY,http://192.168.10.2501/USATODAY.php
+USATODAY,http://192.168.10.250/USATODAY.php
 60minutes,http://192.168.10.250/60minutes.php
 yahoofinace,http://192.168.10.250/yahoofinace.php
 TDAmeritrade,http://192.168.10.250/TDAmeritrade.php
