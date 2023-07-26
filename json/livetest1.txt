@@ -4462,6 +4462,7 @@ taiwanplus,http://192.168.10.250/taiwanplus.php
 国会1,http://192.168.10.250/youtube.php?v=4HysYHJ6GkY
 国会2,http://192.168.10.250/youtube.php?v=RAP4h3q6_Sg
 MIT台灣誌,http://192.168.10.250/mit.php
+台湾启示录,http://192.168.10.250//taiwanqishilu.php
 JOJO的奇妙冒險,http://192.168.10.250/mumianhua.php
 靈異電視劇,http://192.168.10.250/huashixiju.php
 天才衝衝衝,http://192.168.10.250/tiancaichongchongchong.php
