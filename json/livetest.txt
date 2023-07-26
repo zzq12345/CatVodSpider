@@ -4502,6 +4502,8 @@ SPIDEY SHORTS,http://127.0.0.1:8081/youtube.php?v=-7UhkbevsDg
 AriseNewsChannel,http://127.0.0.1:8081/AriseNewsChannel.php
 NatGeoyoutube,http://127.0.0.1:8081/NatGeo.php
 NatGeoWildyoutube,http://127.0.0.1:8081/NatGeoWild.php
+USATODAY,http://127.0.0.1:8081/USATODAY.php
+60minutes,http://127.0.0.1:8081/60minutes.php
 yahoofinace,http://127.0.0.1:8081/yahoofinace.php
 TDAmeritrade,http://127.0.0.1:8081/TDAmeritrade.php
 zeebusiness,http://127.0.0.1:8081/zeebusiness.php
