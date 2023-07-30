@@ -4511,7 +4511,7 @@ R1SE-何洛洛,http://192.168.43.159:8081/huya.php?id=532671
 娱乐大王牌,http://192.168.43.159:8081/huya.php?id=880242
 NCT127-在玹,http://192.168.43.159:8081/huya.php?id=637218
 youtube,#genre#
-ww竞技,http://192.168.43.159:8081/wwe.php
+WWE摔跤竞技,http://192.168.43.159:8081/wwe.php
 鳳凰資訊頻道,http://192.168.43.159:8081/fenghuangyoutube.php?id=1
 喀秋莎,http://192.168.43.159:8081/kaqiusha.php?id=1
 俄罗斯中文频道,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
