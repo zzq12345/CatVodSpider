@@ -1,5 +1,5 @@
 央视频,#genre#
-CCTV1综合,http://192.168.43.159:8081/ysp1.php?id=cctv1
+CCTV1综合,http://192.168.43.159:8081/ysp.php?id=cctv1
 CCTV2财经,http://192.168.43.159:8081/ysp.php?id=cctv2
 CCTV3综艺,http://192.168.43.159:8081/ysp.php?id=cctv3
 CCTV4中文国际,http://192.168.43.159:8081/ysp.php?id=cctv4
