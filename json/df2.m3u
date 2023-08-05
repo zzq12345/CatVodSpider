@@ -1,4 +1,447 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,http://zzqwe.giize.com:12228/epgmysuper.xml,http://zzqwe.giize.com:12228/epg4gtv2.xml,http://zzqwe.giize.com:12228/epganywhere.xml,https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",CCTV-1 综合
+http://192.168.10.250/histar.php?id=cctv1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",CCTV-2 财经
+http://192.168.10.250/histar.php?id=cctv2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",CCTV-3 综艺
+http://192.168.10.250/histar.php?id=cctv3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",CCTV-4 中文国际
+http://192.168.10.250/histar.php?id=cctv4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",CCTV-5 体育
+http://192.168.10.250/histar.php?id=cctv5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",CCTV-6 电影
+http://192.168.10.250/histar.php?id=cctv6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",CCTV-7 国防军事
+http://192.168.10.250/histar.php?id=cctv7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",CCTV-8 电视剧
+http://192.168.10.250/histar.php?id=cctv8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",CCTV-9 纪录
+http://192.168.10.250/histar.php?id=cctv9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",CCTV-10 科教
+http://192.168.10.250/histar.php?id=cctv10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",CCTV-11 戏曲
+http://192.168.10.250/histar.php?id=cctv11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",CCTV-12 社会与法
+http://192.168.10.250/histar.php?id=cctv12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",CCTV-13 新闻
+http://192.168.10.250/histar.php?id=cctv13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",CCTV-14 少儿
+http://192.168.10.250/histar.php?id=cctv14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",CCTV-15 音乐
+http://192.168.10.250/histar.php?id=cctv15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",CCTV-16 奥林匹克
+http://192.168.10.250/histar.php?id=cctv16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",CCTV-17 农业农村
+http://192.168.10.250/histar.php?id=cctv17
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",CCTV-5+ 体育赛事
+http://192.168.10.250/histar.php?id=cctv5plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",北京卫视
+http://192.168.10.250/histar.php?id=beijing
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",湖南卫视
+http://192.168.10.250/histar.php?id=hunan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",浙江卫视
+http://192.168.10.250/histar.php?id=zhejiang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",东方卫视
+http://192.168.10.250/histar.php?id=dongfang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",江苏卫视
+http://192.168.10.250/histar.php?id=jiangsu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",重庆卫视
+http://192.168.10.250/histar.php?id=chongqing
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",东南卫视
+http://192.168.10.250/histar.php?id=dongnan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",福建海峡卫视
+http://192.168.10.250/histar.php?id=fujianhaixia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",甘肃卫视
+http://192.168.10.250/histar.php?id=gansu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",广西卫视
+http://192.168.10.250/histar.php?id=guangxi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",贵州卫视
+http://192.168.10.250/histar.php?id=guizhou
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",海南卫视
+http://192.168.10.250/histar.php?id=hainan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",河北卫视
+http://192.168.10.250/histar.php?id=hebei
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",黑龙江卫视
+http://192.168.10.250/histar.php?id=heilongjiang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",湖北卫视
+http://192.168.10.250/histar.php?id=hubei
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",江西卫视
+http://192.168.10.250/histar.php?id=jiangxi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",吉林卫视
+http://192.168.10.250/histar.php?id=jilin
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",辽宁卫视
+http://192.168.10.250/histar.php?id=liaoning
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",南方卫视
+http://192.168.10.250/histar.php?id=nanfang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",内蒙古卫视
+http://192.168.10.250/histar.php?id=neimenggu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",宁夏卫视
+http://192.168.10.250/histar.php?id=ningxia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",陕西卫视
+http://192.168.10.250/histar.php?id=shaanxi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",山东卫视
+http://192.168.10.250/histar.php?id=shandong
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",山西卫视
+http://192.168.10.250/histar.php?id=shanxi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",深圳卫视
+http://192.168.10.250/histar.php?id=shenzhen
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",四川卫视
+http://192.168.10.250/histar.php?id=sichuan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",天津卫视
+http://192.168.10.250/histar.php?id=tianjin
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",厦门卫视
+http://192.168.10.250/histar.php?id=xiamen
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",新疆卫视
+http://192.168.10.250/histar.php?id=xinjiang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",西藏卫视
+http://192.168.10.250/histar.php?id=xizang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",云南卫视
+http://192.168.10.250/histar.php?id=yunnan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",广东卫视
+http://192.168.10.250/histar.php?id=guangdong
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",安徽卫视
+http://192.168.10.250/histar.php?id=anhui
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",河南卫视
+http://192.168.10.250/histar.php?id=henan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",青海卫视
+http://192.168.10.250/histar.php?id=qinghai
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",凤凰卫视 中文台
+http://192.168.10.250/histar.php?id=phtv-cn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",凤凰卫视 资讯台
+http://192.168.10.250/histar.php?id=phtv-info
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",J2
+http://192.168.10.250/histar.php?id=j2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",TVB 明珠台
+http://192.168.10.250/histar.php?id=pearl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",ViuTV
+http://192.168.10.250/histar.php?id=viutv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",TVB 翡翠台
+http://192.168.10.250/histar.php?id=feicui
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Now 财经台
+http://192.168.10.250/histar.php?id=now-finance
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",凤凰卫视
+http://192.168.10.250/histar.php?id=phtv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",澳门莲花卫视
+http://192.168.10.250/histar.php?id=lotustv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",TVB 无线新闻台
+http://192.168.10.250/histar.php?id=tvb-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",TVB 无线财经体育资讯台
+http://192.168.10.250/histar.php?id=tvb-finance
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",ViuTV6
+http://192.168.10.250/histar.php?id=viutv6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",港台电视 31
+http://192.168.10.250/histar.php?id=rthk31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",港台电视 32
+http://192.168.10.250/histar.php?id=rthk32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",HOY TV
+http://192.168.10.250/histar.php?id=hoytv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",香港国际财经台
+http://192.168.10.250/histar.php?id=hkibc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",HOY 资讯台
+http://192.168.10.250/histar.php?id=hoy-info
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",澳门资讯
+http://192.168.10.250/histar.php?id=amzx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",澳视澳门
+http://192.168.10.250/histar.php?id=asam
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Now 新闻台
+http://192.168.10.250/histar.php?id=now-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",TVB 经典台
+http://192.168.10.250/histar.php?id=tvb-classic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",凤凰卫视 香港台
+http://192.168.10.250/histar.php?id=phtv-hk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",天映经典
+http://192.168.10.250/histar.php?id=cccm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",天映频道 HD
+http://192.168.10.250/histar.php?id=celestial
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Now 华剧台
+http://192.168.10.250/histar.php?id=now-hairun
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",TVB 华语剧台
+http://192.168.10.250/histar.php?id=tvb-drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Now 直播台
+http://192.168.10.250/histar.php?id=now-331
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",TVB 星河台
+http://192.168.10.250/histar.php?id=tvb-xinghe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Now 爆谷台
+http://192.168.10.250/histar.php?id=baogu-movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",大爱二台
+http://192.168.10.250/histar.php?id=daai2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",大爱一台
+http://192.168.10.250/histar.php?id=daai1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",中视 HD
+http://192.168.10.250/histar.php?id=ctv-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",公视
+http://192.168.10.250/histar.php?id=pts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",公视3台
+http://192.168.10.250/histar.php?id=pts3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",中天综合台
+http://192.168.10.250/histar.php?id=ctitv36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",中天亚洲台
+http://192.168.10.250/histar.php?id=cti-asia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",东森超视 HD
+http://192.168.10.250/histar.php?id=ebc-supertv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",靖天国际台
+http://192.168.10.250/histar.php?id=jtgj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",TVBS Asia
+http://192.168.10.250/histar.php?id=tvbs-asia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",八大综合台
+http://192.168.10.250/histar.php?id=gtv28
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",客家电视台
+http://192.168.10.250/histar.php?id=hakkatv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",东森综合台
+http://192.168.10.250/histar.php?id=ebc-ettv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",中视
+http://192.168.10.250/histar.php?id=ctv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",华视
+http://192.168.10.250/histar.php?id=cts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",台视
+http://192.168.10.250/histar.php?id=ttv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",纬来日本
+http://192.168.10.250/histar.php?id=videoland-japan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",纬来综合台
+http://192.168.10.250/histar.php?id=videoland
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",八大第一台
+http://192.168.10.250/histar.php?id=gtv27
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",ELTA 综合
+http://192.168.10.250/histar.php?id=elta-tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",TVBS 新闻台
+http://192.168.10.250/histar.php?id=tvbs-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",寰宇新闻台
+http://192.168.10.250/histar.php?id=global-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",华视新闻
+http://192.168.10.250/histar.php?id=cts-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",中天新闻
+http://192.168.10.250/histar.php?id=cti-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",镜新闻
+http://192.168.10.250/histar.php?id=mnews
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",壹新闻 HD
+http://192.168.10.250/histar.php?id=nexttv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",靖天资讯台
+http://192.168.10.250/histar.php?id=jtzx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",中视新闻
+http://192.168.10.250/histar.php?id=ctv-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",台视新闻
+http://192.168.10.250/histar.php?id=ttv-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",TVBS HD
+http://192.168.10.250/histar.php?id=tvbs-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",东森财经新闻
+http://192.168.10.250/histar.php?id=ebc-finance
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",年代新闻
+http://192.168.10.250/histar.php?id=era-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",非凡新闻
+http://192.168.10.250/histar.php?id=ustv-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",东森新闻
+http://192.168.10.250/histar.php?id=ebc-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",TVBS 欢乐台
+http://192.168.10.250/histar.php?id=tvbs-huanle
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",中天娱乐台
+http://192.168.10.250/histar.php?id=ctitv39
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",八大娱乐台
+http://192.168.10.250/histar.php?id=gtv86
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",东森电影
+http://192.168.10.250/histar.php?id=ebc-movie
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",东森戏剧
+http://192.168.10.250/histar.php?id=ebc-drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",东森洋片
+http://192.168.10.250/histar.php?id=ebc-emovie
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",卫视中文台
+http://192.168.10.250/histar.php?id=star-chinese-channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",卫视电影台
+http://192.168.10.250/histar.php?id=star-chinese-movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",龙祥电影台
+http://192.168.10.250/histar.php?id=lstime
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",好莱坞电影台
+http://192.168.10.250/histar.php?id=hollywood-tw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",八大戏剧台
+http://192.168.10.250/histar.php?id=gtv41
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",纬来戏剧台
+http://192.168.10.250/histar.php?id=videoland-drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",纬来电影台
+http://192.168.10.250/histar.php?id=videoland-movie
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",龙华电影台
+http://192.168.10.250/histar.php?id=ltv-movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",龙华洋片台
+http://192.168.10.250/histar.php?id=ltv-movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",靖天电影台
+http://192.168.10.250/histar.php?id=jtdy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",美亚电影台
+http://192.168.10.250/histar.php?id=meiah-movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",ELTA 影剧
+http://192.168.10.250/histar.php?id=elta-drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",EYE 戏剧台
+http://192.168.10.250/histar.php?id=eye-drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",星卫HD电影台
+http://192.168.10.250/histar.php?id=star-movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",星卫娱乐台
+http://192.168.10.250/histar.php?id=star-entetainment
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",MTV Live HD 频道
+http://192.168.10.250/histar.php?id=mtv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",国兴卫视
+http://192.168.10.250/histar.php?id=gold-sun-tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Astro Awani
+http://192.168.10.250/histar.php?id=astro-awani
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Astro Ceria
+http://192.168.10.250/histar.php?id=astro-ceria
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Astro ONE
+http://192.168.10.250/histar.php?id=astro-one
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Astro Prima
+http://192.168.10.250/histar.php?id=astro-prima
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Astro Oasis
+http://192.168.10.250/histar.php?id=astro-oasis
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Astro Warna
+http://192.168.10.250/histar.php?id=astro-warna
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Astro Rania
+http://192.168.10.250/histar.php?id=astro-rania
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Astro Aura
+http://192.168.10.250/histar.php?id=astro-aura
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",8TV
+http://192.168.10.250/histar.php?id=8tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",TV9
+http://192.168.10.250/histar.php?id=tv9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Astro Citra
+http://192.168.10.250/histar.php?id=astro-citra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Astro 双星台
+http://192.168.10.250/histar.php?id=astro-shuangxing
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Astro AOD HD
+http://192.168.10.250/histar.php?id=astro-aod-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Astro 欢喜台
+http://192.168.10.250/histar.php?id=astro-huaheedai
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Astro AOD
+http://192.168.10.250/histar.php?id=astro-aod
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Astro Arena HD
+http://192.168.10.250/histar.php?id=astro-arena-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Astro Arena 2
+http://192.168.10.250/histar.php?id=astro-arena2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Astro 爱奇艺
+http://192.168.10.250/histar.php?id=astro-iqiyi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Channel 5
+http://192.168.10.250/histar.php?id=channel-5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Channel U
+http://192.168.10.250/histar.php?id=channel-u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",OKEY
+http://192.168.10.250/histar.php?id=okey
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Astro 华丽台
+http://192.168.10.250/histar.php?id=astro-wahlaitoi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Channel 8
+http://192.168.10.250/histar.php?id=channel8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",第一财经
+http://192.168.10.250/histar.php?id=yicai
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",北京财经
+http://192.168.10.250/histar.php?id=bjcj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",上海都市
+http://192.168.10.250/histar.php?id=shds
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",上海新闻
+http://192.168.10.250/histar.php?id=shxw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",广东珠江
+http://192.168.10.250/histar.php?id=gdzj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",湖南经视
+http://192.168.10.250/histar.php?id=hnjs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",北京体育休闲
+http://192.168.10.250/histar.php?id=bjtyxx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",五星体育
+http://192.168.10.250/histar.php?id=wxty
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",天津体育
+http://192.168.10.250/histar.php?id=tjty
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",辽宁体育
+http://192.168.10.250/histar.php?id=lnty
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",广东体育
+http://192.168.10.250/histar.php?id=gdty
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",河南梨园
+http://192.168.10.250/histar.php?id=hnly
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",纬来体育
+http://192.168.10.250/histar.php?id=videoland-sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",ELEVEN体育-1
+http://192.168.10.250/histar.php?id=eleven-sport1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",ELEVEN体育-2
+http://192.168.10.250/histar.php?id=eleven-sport2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",博斯运动-1
+http://192.168.10.250/histar.php?id=sportcast1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",博斯运动-2
+http://192.168.10.250/histar.php?id=sportcast2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",博斯高球-1
+http://192.168.10.250/histar.php?id=sportcast-golf1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",博斯高球-2
+http://192.168.10.250/histar.php?id=sportcast-golf2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",博斯网球
+http://192.168.10.250/histar.php?id=sportcast-tennis
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Sony Sports 1 HD
+http://192.168.10.250/histar.php?id=super-sports1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Sony Sports 2 HD
+http://192.168.10.250/histar.php?id=super-sports2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Sony Sports 3 HD
+http://192.168.10.250/histar.php?id=super-sports3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Sony Sports 4 HD
+http://192.168.10.250/histar.php?id=super-sports4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Eurosports-2
+http://192.168.10.250/histar.php?id=super-sports5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",beIN Sports MAX
+http://192.168.10.250/histar.php?id=bein-max
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",SPOTV-2
+http://192.168.10.250/histar.php?id=spotv2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",SPOTV
+http://192.168.10.250/histar.php?id=spotv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",beIN Sports 2
+http://192.168.10.250/histar.php?id=bein-sports2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",beIN Sports 1
+http://192.168.10.250/histar.php?id=bein-sports1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",beIN Sports 3
+http://192.168.10.250/histar.php?id=bein-sports3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Eurosport HD
+http://192.168.10.250/histar.php?id=eurosport-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Eurosports-1
+http://192.168.10.250/histar.php?id=eurosports-1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",博斯无限
+http://192.168.10.250/histar.php?id=sportcast-wx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",ELTA体育-1
+http://192.168.10.250/histar.php?id=elta-sport1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",ELTA体育-2
+http://192.168.10.250/histar.php?id=elta-sport2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",ELTA体育-3
+http://192.168.10.250/histar.php?id=elta-sport3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",国家地理
+http://192.168.10.250/histar.php?id=natgeo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",国家地理 野生频道
+http://192.168.10.250/histar.php?id=natgeo-wild
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",动物星球频道
+http://192.168.10.250/histar.php?id=animal-planet
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",探索频道
+http://192.168.10.250/histar.php?id=discovery
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",DMAX
+http://192.168.10.250/histar.php?id=dmax
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",探索科学频道
+http://192.168.10.250/histar.php?id=discovery-sci
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",探索亚洲频道
+http://192.168.10.250/histar.php?id=discovery-asia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",History 频道
+http://192.168.10.250/histar.php?id=history
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",History-2 频道
+http://192.168.10.250/histar.php?id=history-2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",TLC 旅游生活頻道
+http://192.168.10.250/histar.php?id=tlc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",CI 罪案侦查频道
+http://192.168.10.250/histar.php?id=ci
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",亚洲旅游台
+http://192.168.10.250/histar.php?id=asia-travel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",美食星球频道
+http://192.168.10.250/histar.php?id=food-planet
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",EYE 旅游台
+http://192.168.10.250/histar.php?id=eye-travel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",ABC News
+http://192.168.10.250/histar.php?id=abc-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Bloomberg
+http://192.168.10.250/histar.php?id=bloomberg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",Fox News
+http://192.168.10.250/histar.php?id=fox-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",BBC World News
+http://192.168.10.250/histar.php?id=bbc-world-news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",CNN
+http://192.168.10.250/histar.php?id=cnn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",CBS News
+http://192.168.10.250/histar.php?id=cbsn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",CNBC
+http://192.168.10.250/histar.php?id=cnbc
+
+
 #EXTINF:-1 tvg-id="800000" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频",CCTV1综合
 http://192.168.10.250/ysp.php?id=cctv1
 #EXTINF:-1 tvg-id="800001" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频",CCTV2财经
