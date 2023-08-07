@@ -204,7 +204,7 @@ http://127.0.0.1:8081/histar.php?id=hakkatv
 http://127.0.0.1:8081/histar.php?id=pts3
 #EXTINF:-1 tvg-id="" tvg-name="公視" tvg-logo="" group-title="histar",公視
 http://127.0.0.1:8081/histar.php?id=pts
-#EXTINF:-1 tvg-id="" tvg-name="靖天國際" tvg-logo="" group-title="histar",靖天國際
+#EXTINF:-1 tvg-id="" tvg-name="KLT-靖天國際台" tvg-logo="" group-title="histar",KLT-靖天國際台
 http://127.0.0.1:8081/histar.php?id=jtgj
 #EXTINF:-1 tvg-id="" tvg-name="大愛電視台" tvg-logo="" group-title="histar",大愛電視台
 http://127.0.0.1:8081/histar.php?id=daai1
@@ -242,7 +242,7 @@ http://127.0.0.1:8081/histar.php?id=jtzx
 http://127.0.0.1:8081/histar.php?id=star-movies
 #EXTINF:-1 tvg-id="" tvg-name="緯來戲劇台" tvg-logo="" group-title="histar",緯來戲劇台
 http://127.0.0.1:8081/histar.php?id=videoland-drama
-#EXTINF:-1 tvg-id="" tvg-name="東森電影 HD" tvg-logo="" group-title="histar",東森電影 HD
+#EXTINF:-1 tvg-id="" tvg-name="東森電影台" tvg-logo="" group-title="histar",東森電影 HD
 http://127.0.0.1:8081/histar.php?id=ebc-movie-hd
 #EXTINF:-1 tvg-id="100261" tvg-name="東森電影台" tvg-logo="" group-title="histar",東森電影台
 http://127.0.0.1:8081/histar.php?id=ebc-movie
@@ -266,7 +266,7 @@ http://127.0.0.1:8081/histar.php?id=hollywood-tw
 http://127.0.0.1:8081/histar.php?id=tvbs-huanle
 #EXTINF:-1 tvg-id="" tvg-name="愛爾達影劇台" tvg-logo="" group-title="histar",愛爾達影劇台
 http://127.0.0.1:8081/histar.php?id=elta-drama
-#EXTINF:-1 tvg-id="" tvg-name="龍祥電影" tvg-logo="" group-title="histar",龍祥電影
+#EXTINF:-1 tvg-id="" tvg-name="LS TIME電影台" tvg-logo="" group-title="histar",LS TIME電影台
 http://127.0.0.1:8081/histar.php?id=lstime
 #EXTINF:-1 tvg-id="" tvg-name="EYE TV戲劇台" tvg-logo="" group-title="histar",EYE TV戲劇台
 http://127.0.0.1:8081/histar.php?id=eye-drama
@@ -366,7 +366,7 @@ http://127.0.0.1:8081/histar.php?id=elta-sport2
 http://127.0.0.1:8081/histar.php?id=elta-sport3
 #EXTINF:-1 tvg-id="" tvg-name="NBA" tvg-logo="" group-title="histar",NBA
 http://127.0.0.1:8081/histar.php?id=nba
-#EXTINF:-1 tvg-id="" tvg-name="緯來體育" tvg-logo="" group-title="histar",緯來體育
+#EXTINF:-1 tvg-id="" tvg-name="緯來體育台" tvg-logo="" group-title="histar",緯來體育台
 http://127.0.0.1:8081/histar.php?id=videoland-sport
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="" group-title="histar",ELEVEN SPORTS 1
 http://127.0.0.1:8081/histar.php?id=eleven-sport1
@@ -404,19 +404,19 @@ http://127.0.0.1:8081/histar.php?id=sportcast2
 http://127.0.0.1:8081/histar.php?id=sportcast-golf1
 #EXTINF:-1 tvg-id="" tvg-name="博斯高球二台" tvg-logo="" group-title="histar",博斯高球二台
 http://127.0.0.1:8081/histar.php?id=sportcast-golf2
-#EXTINF:-1 tvg-id="" tvg-name="SPOTV" tvg-logo="" group-title="histar",SPOTV
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV" tvg-logo="" group-title="histar",超级体育
 http://127.0.0.1:8081/histar.php?id=spotv
-#EXTINF:-1 tvg-id="" tvg-name="SPOTV-2" tvg-logo="" group-title="histar",SPOTV-2
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV-2" tvg-logo="" group-title="histar",超级体育2
 http://127.0.0.1:8081/histar.php?id=spotv2
 #EXTINF:-1 tvg-id="" tvg-name="迪士尼頻道" tvg-logo="" group-title="histar",迪士尼頻道
 http://127.0.0.1:8081/histar.php?id=disney
 #EXTINF:-1 tvg-id="" tvg-name="東森幼幼台" tvg-logo="" group-title="histar",東森幼幼台
 http://127.0.0.1:8081/histar.php?id=ebc-yoyo
-#EXTINF:-1 tvg-id="" tvg-name="CN卡通" tvg-logo="" group-title="histar",CN卡通
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="histar",Cartoon Network
 http://127.0.0.1:8081/histar.php?id=cn-cartoon
 #EXTINF:-1 tvg-id="" tvg-name="MOMO親子台" tvg-logo="" group-title="histar",MOMO親子台
 http://127.0.0.1:8081/histar.php?id=momo-kids
-#EXTINF:-1 tvg-id="" tvg-name="MOMOTV" tvg-logo="" group-title="histar",MOMOTV
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="histar",Cartoon Network
 http://127.0.0.1:8081/histar.php?id=momotv
 #EXTINF:-1 tvg-id="" tvg-name="尼克兒童頻道" tvg-logo="" group-title="histar",尼克兒童頻道
 http://127.0.0.1:8081/histar.php?id=nickelodeon
@@ -434,13 +434,13 @@ http://127.0.0.1:8081/histar.php?id=jtkt
 http://127.0.0.1:8081/histar.php?id=natgeo
 #EXTINF:-1 tvg-id="" tvg-name="國家地理 野生頻道" tvg-logo="" group-title="histar",國家地理 野生頻道
 http://127.0.0.1:8081/histar.php?id=natgeo-wild
-#EXTINF:-1 tvg-id="" tvg-name="探索頻道" tvg-logo="" group-title="histar",探索頻道
+#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="" group-title="histar",探索頻道
 http://127.0.0.1:8081/histar.php?id=discovery
 #EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" group-title="histar",DMAX
 http://127.0.0.1:8081/histar.php?id=dmax
-#EXTINF:-1 tvg-id="" tvg-name="探索科學頻道" tvg-logo="" group-title="histar",探索科學頻道
+#EXTINF:-1 tvg-id="" tvg-name="Discovery科學頻道" tvg-logo="" group-title="histar",探索科學頻道
 http://127.0.0.1:8081/histar.php?id=discovery-sci
-#EXTINF:-1 tvg-id="" tvg-name="探索亞洲頻道" tvg-logo="" group-title="histar",探索亞洲頻道
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="" group-title="histar",探索亞洲頻道
 http://127.0.0.1:8081/histar.php?id=discovery-asia
 #EXTINF:-1 tvg-id="" tvg-name="History 頻道" tvg-logo="" group-title="histar",History 頻道
 http://127.0.0.1:8081/histar.php?id=history
@@ -450,9 +450,9 @@ http://127.0.0.1:8081/histar.php?id=history-2
 http://127.0.0.1:8081/histar.php?id=food-planet
 #EXTINF:-1 tvg-id="" tvg-name="亞洲旅遊台" tvg-logo="" group-title="histar",亞洲旅遊台
 http://127.0.0.1:8081/histar.php?id=asia-travel
-#EXTINF:-1 tvg-id="" tvg-name="TLC 旅遊生活頻道" tvg-logo="" group-title="histar",TLC 旅遊生活頻道
+#EXTINF:-1 tvg-id="" tvg-name="Discovery 旅遊生活頻道" tvg-logo="" group-title="histar",Discovery 旅遊生活頻道
 http://127.0.0.1:8081/histar.php?id=tlc
-#EXTINF:-1 tvg-id="" tvg-name="EYE 旅遊台" tvg-logo="" group-title="histar",EYE 旅遊台
+#EXTINF:-1 tvg-id="" tvg-name="EYE TV旅遊台" tvg-logo="" group-title="histar",EYE TV旅遊台
 http://127.0.0.1:8081/histar.php?id=eye-travel
 #EXTINF:-1 tvg-id="" tvg-name="動物星球頻道" tvg-logo="" group-title="histar",動物星球頻道
 http://127.0.0.1:8081/histar.php?id=animal-planet
@@ -460,7 +460,7 @@ http://127.0.0.1:8081/histar.php?id=animal-planet
 http://127.0.0.1:8081/histar.php?id=ci
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="histar",HBO HD
 http://127.0.0.1:8081/histar.php?id=hbo-hd
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits HD" tvg-logo="" group-title="histar",HBO Hits HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits 強檔鉅獻" tvg-logo="" group-title="histar",HBO Hits 強檔鉅獻
 http://127.0.0.1:8081/histar.php?id=hbo-hits-hd
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="histar",CNN
 http://127.0.0.1:8081/histar.php?id=cnn
