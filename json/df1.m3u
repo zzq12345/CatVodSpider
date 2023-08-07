@@ -418,21 +418,21 @@ http://127.0.0.1:8081/histar.php?id=cn-cartoon
 http://127.0.0.1:8081/histar.php?id=momo-kids
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="histar",Cartoon Network
 http://127.0.0.1:8081/histar.php?id=momotv
-#EXTINF:-1 tvg-id="" tvg-name="尼克兒童頻道" tvg-logo="" group-title="histar",尼克兒童頻道
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Asia(尼克兒童頻道)" tvg-logo="" group-title="histar",尼克兒童頻道
 http://127.0.0.1:8081/histar.php?id=nickelodeon
-#EXTINF:-1 tvg-id="" tvg-name="小尼克頻道" tvg-logo="" group-title="histar",小尼克頻道
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="" group-title="histar",小尼克頻道
 http://127.0.0.1:8081/histar.php?id=nick-jr
-#EXTINF:-1 tvg-id="" tvg-name="Animax卡通" tvg-logo="" group-title="histar",Animax卡通
+#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="" group-title="histar",Animax卡通
 http://127.0.0.1:8081/histar.php?id=animax-cartoon
 #EXTINF:-1 tvg-id="" tvg-name="Astro 小太陽" tvg-logo="" group-title="histar",Astro 小太陽
 http://127.0.0.1:8081/histar.php?id=astro-xty
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo="" group-title="histar",Boomerang HD
+#EXTINF:-1 tvg-id="" tvg-name="boomerang" tvg-logo="" group-title="histar",Boomerang HD
 http://127.0.0.1:8081/histar.php?id=boomerang-hd
 #EXTINF:-1 tvg-id="" tvg-name="靖天卡通台" tvg-logo="" group-title="histar",靖天卡通台
 http://127.0.0.1:8081/histar.php?id=jtkt
-#EXTINF:-1 tvg-id="" tvg-name="國家地理" tvg-logo="" group-title="histar",國家地理
+#EXTINF:-1 tvg-id="" tvg-name="國家地理頻道" tvg-logo="" group-title="histar",國家地理
 http://127.0.0.1:8081/histar.php?id=natgeo
-#EXTINF:-1 tvg-id="" tvg-name="國家地理 野生頻道" tvg-logo="" group-title="histar",國家地理 野生頻道
+#EXTINF:-1 tvg-id="" tvg-name="國家地理高畫質野生頻道" tvg-logo="" group-title="histar",國家地理 野生頻道
 http://127.0.0.1:8081/histar.php?id=natgeo-wild
 #EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="" group-title="histar",探索頻道
 http://127.0.0.1:8081/histar.php?id=discovery
@@ -442,7 +442,7 @@ http://127.0.0.1:8081/histar.php?id=dmax
 http://127.0.0.1:8081/histar.php?id=discovery-sci
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="" group-title="histar",探索亞洲頻道
 http://127.0.0.1:8081/histar.php?id=discovery-asia
-#EXTINF:-1 tvg-id="" tvg-name="History 頻道" tvg-logo="" group-title="histar",History 頻道
+#EXTINF:-1 tvg-id="" tvg-name="歷史頻道" tvg-logo="" group-title="histar",History 頻道
 http://127.0.0.1:8081/histar.php?id=history
 #EXTINF:-1 tvg-id="" tvg-name="History-2 頻道" tvg-logo="" group-title="histar",History-2 頻道
 http://127.0.0.1:8081/histar.php?id=history-2
