@@ -182,7 +182,7 @@ http://192.168.10.250/histar.php?id=videoland
 http://192.168.10.250/histar.php?id=tvbs-asia
 #EXTINF:-1 tvg-id="" tvg-name="東森綜合台" tvg-logo="" group-title="histar",東森綜合台
 http://192.168.10.250/histar.php?id=ebc-ettv
-#EXTINF:-1 tvg-id="" tvg-name="東森超視 HD" tvg-logo="" group-title="histar",東森超視
+#EXTINF:-1 tvg-id="100232" tvg-name="超視" tvg-logo="" group-title="histar",超視
 http://192.168.10.250/histar.php?id=ebc-supertv
 #EXTINF:-1 tvg-id="" tvg-name="台視" tvg-logo="" group-title="histar",台視
 http://192.168.10.250/histar.php?id=ttv
@@ -198,39 +198,39 @@ http://192.168.10.250/histar.php?id=ctv
 http://192.168.10.250/histar.php?id=cts
 #EXTINF:-1 tvg-id="100093" tvg-name="愛爾達綜合台" tvg-logo="" group-title="histar",愛爾達綜合台
 http://192.168.10.250/histar.php?id=elta-tv
-#EXTINF:-1 tvg-id="" tvg-name="客家電視" tvg-logo="" group-title="histar",客家電視
+#EXTINF:-1 tvg-id="100216" tvg-name="客家電視台" tvg-logo="" group-title="histar",客家電視台
 http://192.168.10.250/histar.php?id=hakkatv
 #EXTINF:-1 tvg-id="" tvg-name="公視3台" tvg-logo="" group-title="histar",公視3台
 http://192.168.10.250/histar.php?id=pts3
 #EXTINF:-1 tvg-id="" tvg-name="公視" tvg-logo="" group-title="histar",公視
 http://192.168.10.250/histar.php?id=pts
-#EXTINF:-1 tvg-id="" tvg-name="靖天國際台" tvg-logo="" group-title="histar",靖天國際
+#EXTINF:-1 tvg-id="" tvg-name="靖天國際" tvg-logo="" group-title="histar",靖天國際
 http://192.168.10.250/histar.php?id=jtgj
-#EXTINF:-1 tvg-id="" tvg-name="大愛一台" tvg-logo="" group-title="histar",大愛
+#EXTINF:-1 tvg-id="" tvg-name="大愛電視台" tvg-logo="" group-title="histar",大愛電視台
 http://192.168.10.250/histar.php?id=daai1
 #EXTINF:-1 tvg-id="" tvg-name="大愛二台" tvg-logo="" group-title="histar",大愛二台
 http://192.168.10.250/histar.php?id=daai2
-#EXTINF:-1 tvg-id="" tvg-name="中天新聞" tvg-logo="" group-title="histar",中天新聞
+#EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="histar",中天新聞
 http://192.168.10.250/histar.php?id=cti-news
 #EXTINF:-1 tvg-id="100255" tvg-name="TVBS HD" tvg-logo="" group-title="histar",TVBS HD
 http://192.168.10.250/histar.php?id=tvbs-hd
 #EXTINF:-1 tvg-id="" tvg-name="TVBS 新聞台" tvg-logo="" group-title="histar",TVBS 新聞台
 http://192.168.10.250/histar.php?id=tvbs-news
-#EXTINF:-1 tvg-id="" tvg-name="東森新聞" tvg-logo="" group-title="histar",東森新聞
+#EXTINF:-1 tvg-id="100250" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png"  group-title="histar",東森新聞台
 http://192.168.10.250/histar.php?id=ebc-news
-#EXTINF:-1 tvg-id="" tvg-name="東森財經新聞" tvg-logo="" group-title="histar",東森財經新聞
+#EXTINF:-1 tvg-id="100256" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png"  group-title="histar",東森財經新聞
 http://192.168.10.250/histar.php?id=ebc-finance
-#EXTINF:-1 tvg-id="" tvg-name="壹新聞 HD" tvg-logo="" group-title="histar",壹新聞 HD
+#EXTINF:-1 tvg-id="100148" tvg-name="壹電視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png"  group-title="histar",壹新聞
 http://192.168.10.250/histar.php?id=nexttv
 #EXTINF:-1 tvg-id="" tvg-name="中視新聞" tvg-logo="" group-title="histar",中視新聞
 http://192.168.10.250/histar.php?id=ctv-news
-#EXTINF:-1 tvg-id="" tvg-name="年代新聞" tvg-logo="" group-title="histar",年代新聞
+#EXTINF:-1 tvg-id="100249" tvg-name="era news 年代新聞" tvg-logo="" group-title="histar",era news 年代新聞
 http://192.168.10.250/histar.php?id=era-news
 #EXTINF:-1 tvg-id="" tvg-name="寰宇新聞台" tvg-logo="" group-title="histar",寰宇新聞台
 http://192.168.10.250/histar.php?id=global-news
 #EXTINF:-1 tvg-id="" tvg-name="台視新聞" tvg-logo="" group-title="histar",台視新聞
 http://192.168.10.250/histar.php?id=ttv-news
-#EXTINF:-1 tvg-id="" tvg-name="非凡新聞" tvg-logo="" group-title="histar",非凡新聞
+#EXTINF:-1 tvg-id="100257" tvg-name="非凡新聞台" tvg-logo=""  group-title="histar",非凡新聞
 http://192.168.10.250/histar.php?id=ustv-news
 #EXTINF:-1 tvg-id="" tvg-name="華視新聞" tvg-logo="" group-title="histar",華視新聞
 http://192.168.10.250/histar.php?id=cts-news
@@ -244,11 +244,11 @@ http://192.168.10.250/histar.php?id=star-movies
 http://192.168.10.250/histar.php?id=videoland-drama
 #EXTINF:-1 tvg-id="" tvg-name="東森電影 HD" tvg-logo="" group-title="histar",東森電影 HD
 http://192.168.10.250/histar.php?id=ebc-movie-hd
-#EXTINF:-1 tvg-id="" tvg-name="東森電影" tvg-logo="" group-title="histar",東森電影
+#EXTINF:-1 tvg-id="100261" tvg-name="東森電影台" tvg-logo="" group-title="histar",東森電影台
 http://192.168.10.250/histar.php?id=ebc-movie
-#EXTINF:-1 tvg-id="" tvg-name="東森洋片" tvg-logo="" group-title="histar",東森洋片
+#EXTINF:-1 tvg-id="" tvg-name="東森洋片台" tvg-logo="" group-title="histar",東森洋片台
 http://192.168.10.250/histar.php?id=ebc-emovie
-#EXTINF:-1 tvg-id="" tvg-name="東森戲劇" tvg-logo="" group-title="histar",東森戲劇
+#EXTINF:-1 tvg-id="" tvg-name="東森戲劇台" tvg-logo="" group-title="histar",東森戲劇台
 http://192.168.10.250/histar.php?id=ebc-drama
 #EXTINF:-1 tvg-id="" tvg-name="衛視電影台" tvg-logo="" group-title="histar",衛視電影台
 http://192.168.10.250/histar.php?id=star-chinese-movies
@@ -258,23 +258,23 @@ http://192.168.10.250/histar.php?id=star-entetainment
 http://192.168.10.250/histar.php?id=star-chinese-channel
 #EXTINF:-1 tvg-id="" tvg-name="龍華電影台" tvg-logo="" group-title="histar",龍華電影台
 http://192.168.10.250/histar.php?id=ltv-movies
-#EXTINF:-1 tvg-id="" tvg-name="龍華洋片台" tvg-logo="" group-title="histar",龍華洋片台
+#EXTINF:-1 tvg-id="" tvg-name="龍華洋片" tvg-logo="" group-title="histar",龍華洋片
 http://192.168.10.250/histar.php?id=ltv-yangpian
 #EXTINF:-1 tvg-id="" tvg-name="好萊塢電影台" tvg-logo="" group-title="histar",好萊塢電影台
 http://192.168.10.250/histar.php?id=hollywood-tw
-#EXTINF:-1 tvg-id="" tvg-name="TVBS 歡樂台" tvg-logo="" group-title="histar",TVBS 歡樂台
+#EXTINF:-1 tvg-id="100241" tvg-name="TVBS歡樂台" tvg-logo="" group-title="histar",TVBS歡樂台
 http://192.168.10.250/histar.php?id=tvbs-huanle
-#EXTINF:-1 tvg-id="" tvg-name="ELTA 影劇" tvg-logo="" group-title="histar",ELTA 影劇
+#EXTINF:-1 tvg-id="" tvg-name="愛爾達影劇台" tvg-logo="" group-title="histar",愛爾達影劇台
 http://192.168.10.250/histar.php?id=elta-drama
-#EXTINF:-1 tvg-id="" tvg-name="龍祥電影台" tvg-logo="" group-title="histar",龍祥電影台
+#EXTINF:-1 tvg-id="" tvg-name="龍祥電影" tvg-logo="" group-title="histar",龍祥電影
 http://192.168.10.250/histar.php?id=lstime
-#EXTINF:-1 tvg-id="" tvg-name="EYE 戲劇台" tvg-logo="" group-title="histar",EYE 戲劇台
+#EXTINF:-1 tvg-id="" tvg-name="EYE TV戲劇台" tvg-logo="" group-title="histar",EYE TV戲劇台
 http://192.168.10.250/histar.php?id=eye-drama
 #EXTINF:-1 tvg-id="" tvg-name="八大戲劇台" tvg-logo="" group-title="histar",八大戲劇台
 http://192.168.10.250/histar.php?id=gtv41
 #EXTINF:-1 tvg-id="" tvg-name="八大娛樂台" tvg-logo="" group-title="histar",八大娛樂台
 http://192.168.10.250/histar.php?id=gtv86
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD 頻道" tvg-logo="" group-title="histar",MTV Live HD 頻道
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="" group-title="histar",MTV Live
 http://192.168.10.250/histar.php?id=mtv
 #EXTINF:-1 tvg-id="" tvg-name="靖天電影台" tvg-logo="" group-title="histar",靖天電影台
 http://192.168.10.250/histar.php?id=jtdy
@@ -358,19 +358,19 @@ http://192.168.10.250/histar.php?id=tjty
 http://192.168.10.250/histar.php?id=hnly
 #EXTINF:-1 tvg-id="" tvg-name="遼寧體育" tvg-logo="" group-title="histar",遼寧體育
 http://192.168.10.250/histar.php?id=lnty
-#EXTINF:-1 tvg-id="" tvg-name="ELTA體育-1" tvg-logo="" group-title="histar",ELTA體育-1
+#EXTINF:-1 tvg-id="" tvg-name="愛爾達體育1台" tvg-logo="" group-title="histar",愛爾達體育1台
 http://192.168.10.250/histar.php?id=elta-sport1
-#EXTINF:-1 tvg-id="" tvg-name="ELTA體育-2" tvg-logo="" group-title="histar",ELTA體育-2
+#EXTINF:-1 tvg-id="" tvg-name="愛爾達體育2台" tvg-logo="" group-title="histar",愛爾達體育2台
 http://192.168.10.250/histar.php?id=elta-sport2
-#EXTINF:-1 tvg-id="" tvg-name="ELTA體育-3" tvg-logo="" group-title="histar",ELTA體育-3
+#EXTINF:-1 tvg-id="" tvg-name="愛爾達體育3台" tvg-logo="" group-title="histar",愛爾達體育3台
 http://192.168.10.250/histar.php?id=elta-sport3
 #EXTINF:-1 tvg-id="" tvg-name="NBA" tvg-logo="" group-title="histar",NBA
 http://192.168.10.250/histar.php?id=nba
 #EXTINF:-1 tvg-id="" tvg-name="緯來體育" tvg-logo="" group-title="histar",緯來體育
 http://192.168.10.250/histar.php?id=videoland-sport
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN體育-1" tvg-logo="" group-title="histar",ELEVEN體育-1
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="" group-title="histar",ELEVEN SPORTS 1
 http://192.168.10.250/histar.php?id=eleven-sport1
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN體育-2" tvg-logo="" group-title="histar",ELEVEN體育-2
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2" tvg-logo="" group-title="histar",ELEVEN SPORTS 2
 http://192.168.10.250/histar.php?id=eleven-sport2
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="" group-title="histar",beIN Sports 1
 http://192.168.10.250/histar.php?id=bein-sports1
@@ -392,17 +392,17 @@ http://192.168.10.250/histar.php?id=super-sports2
 http://192.168.10.250/histar.php?id=super-sports3
 #EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="" group-title="histar",Astro SuperSport 4
 http://192.168.10.250/histar.php?id=super-sports4
-#EXTINF:-1 tvg-id="" tvg-name="博斯無限" tvg-logo="" group-title="histar",博斯無限
+#EXTINF:-1 tvg-id="" tvg-name="博斯無限台" tvg-logo="" group-title="histar",博斯無限台
 http://192.168.10.250/histar.php?id=sportcast-wx
-#EXTINF:-1 tvg-id="" tvg-name="博斯網球" tvg-logo="" group-title="histar",博斯網球
+#EXTINF:-1 tvg-id="" tvg-name="博斯網球台" tvg-logo="" group-title="histar",博斯網球台
 http://192.168.10.250/histar.php?id=sportcast-tennis
-#EXTINF:-1 tvg-id="" tvg-name="博斯運動-1" tvg-logo="" group-title="histar",博斯運動-1
+#EXTINF:-1 tvg-id="" tvg-name="博斯運動一台" tvg-logo="" group-title="histar",博斯運動一台
 http://192.168.10.250/histar.php?id=sportcast1
-#EXTINF:-1 tvg-id="" tvg-name="博斯運動-2" tvg-logo="" group-title="histar",博斯運動-2
+#EXTINF:-1 tvg-id="" tvg-name="博斯運動二台" tvg-logo="" group-title="histar",博斯運動二台
 http://192.168.10.250/histar.php?id=sportcast2
-#EXTINF:-1 tvg-id="" tvg-name="博斯高球-1" tvg-logo="" group-title="histar",博斯高球-1
+#EXTINF:-1 tvg-id="" tvg-name="博斯高球一台" tvg-logo="" group-title="histar",博斯高球一台
 http://192.168.10.250/histar.php?id=sportcast-golf1
-#EXTINF:-1 tvg-id="" tvg-name="博斯高球-2" tvg-logo="" group-title="histar",博斯高球-2
+#EXTINF:-1 tvg-id="" tvg-name="博斯高球二台" tvg-logo="" group-title="histar",博斯高球二台
 http://192.168.10.250/histar.php?id=sportcast-golf2
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV" tvg-logo="" group-title="histar",SPOTV
 http://192.168.10.250/histar.php?id=spotv
