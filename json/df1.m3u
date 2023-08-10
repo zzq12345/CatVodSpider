@@ -3117,8 +3117,7 @@ http://127.0.0.1:8081/huya.php?id=18055625
 http://127.0.0.1:8081/huya.php?id=880242
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1064/d4/14d682e455e66d7ebfa0c440feedde_180_135.jpg?1640588965" group-title="虎牙", NCT127-在玹
 http://127.0.0.1:8081/huya.php?id=637218
-#EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube",WWE竞技
-http://127.0.0.1:8081/wwe.php
+
 #EXTINF:-1 tvg-id="100597" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="youtube",鳳凰資訊頻道
 http://127.0.0.1:8081/fenghuangyoutube.php?id=1
 
