@@ -280,20 +280,7 @@
             "filterable": 1,
             "ext": "http://shuyuan.miaogongzi.net/shuyuan/1691184809.json"
         },
-{"key":"drpy_js_哔哩直播","name":"直播 | 哔哩[js]","type":3,"style":{ "type":"rect", "ratio":1.33 },"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩直播.js"},
-{"key":"drpy_js_斗鱼直播","name":"直播 | 斗鱼[js]","type":3,"style":{ "type":"rect", "ratio":1.33 },"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/斗鱼直播.js"},
-{"key":"drpy_js_虎牙直播","name":"直播 | 虎牙[js]","type":3,"style":{ "type":"rect", "ratio":1.33 },"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js"},
-{
-      "key": "csp_XYQHiker_虎牙直播",
-      "name": "❤🐯虎牙直播(XYQH)",
-      "type": 3,
-      "style":{ "type":"rect", "ratio":1.33 },
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://qu.ax/uNjv.json"
-    }, 
+
     {
       "key":"csp_XYQBiu_斗鱼",
       "name":"❤🐟┃斗鱼┃直播",
@@ -646,10 +633,10 @@
 {"name":"解析接口二","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"解析接口三","type":0,"url":"http://www.miaoys.cc/vip/?url="},
 {"name" : "13","type":0,"url":"http://www.miaoys.cc/vip/?url="}
-    ],
+    ,
 //最后一个“不用逗号”//
 //----------------flags//
-"flags" : ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","csm3u8","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],
+"flags" : ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","csm3u8","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"]],
 /*-----------------------解码模式-----------------------*/
 "ijk":[
 {"group":"软解码","options":[
