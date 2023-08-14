@@ -480,7 +480,7 @@ http://192.168.10.250/histar.php?id=cbsn
 http://192.168.10.250/histar.php?id=euronews
 #EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="" group-title="histar",ABC News
 http://192.168.10.250/histar.php?id=abc-news
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="histar",Bloomberg
+#EXTINF:-1 tvg-id="100334" tvg-name="Bloomberg Television" tvg-logo="" group-title="histar",Bloomberg Television
 http://192.168.10.250/histar.php?id=bloomberg
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" tvg-id="100354" tvg-name="HBOHD"  group-title="histar",hbo hd
