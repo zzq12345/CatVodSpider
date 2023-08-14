@@ -483,7 +483,15 @@ http://127.0.0.1:8081/histar.php?id=abc-news
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="histar",Bloomberg
 http://127.0.0.1:8081/histar.php?id=bloomberg
 
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="histar",hbo hd
+http://127.0.0.1:8081/histarapp.php?id=538
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="histar",hbo sig
+http://127.0.0.1:8081/histarapp.php?id=539
 
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="histar",hbo fam
+http://127.0.0.1:8081/histarapp.php?id=540
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="histar",hbo hits
+http://127.0.0.1:8081/histarapp.php?id=541
 
 #EXTINF:-1 tvg-id="800000" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频",CCTV1综合
 http://127.0.0.1:8081/ysp1.php?id=cctv1
@@ -3015,7 +3023,8 @@ https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="youtube",CCTV-6
 http://127.0.0.1:8081/douyin.php?id=208823316033
-
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="youtube",CCTV-6
+http://mobilelive-pull.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="youtube",cctv-4亚洲
 http://127.0.0.1:8081/cctv4.php
