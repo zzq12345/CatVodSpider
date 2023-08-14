@@ -483,14 +483,14 @@ http://127.0.0.1:8081/histar.php?id=abc-news
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="histar",Bloomberg
 http://127.0.0.1:8081/histar.php?id=bloomberg
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" tvg-id="6152" tvg-name="HBOHD"  group-title="histar",hbo hd
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" tvg-id="100354" tvg-name="HBOHD"  group-title="histar",hbo hd
 http://127.0.0.1:8081/histarapp.php?id=538
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" tvg-id="6154" tvg-name="HBOSignature"  group-title="histar",hbo sig
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" tvg-id="100355" tvg-name="HBO Signature 原創鉅獻"  group-title="histar",HBO Signature 原創鉅獻
 http://127.0.0.1:8081/histarapp.php?id=539
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" tvg-id="6155" tvg-name="HBOFamily" group-title="histar",hbo fam
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" tvg-id="100357" tvg-name="HBO Family" group-title="histar",HBO Family
 http://127.0.0.1:8081/histarapp.php?id=540
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" tvg-id="6153" tvg-name="HBOHits"  group-title="histar",hbo hits
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" tvg-id="100356" tvg-name="HBO Hits 強檔鉅獻"  group-title="histar",HBO Hits 強檔鉅獻
 http://127.0.0.1:8081/histarapp.php?id=541
 
 #EXTINF:-1 tvg-id="800000" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频",CCTV1综合
