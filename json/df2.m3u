@@ -483,7 +483,15 @@ http://192.168.10.250/histar.php?id=abc-news
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="histar",Bloomberg
 http://192.168.10.250/histar.php?id=bloomberg
 
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="histar",hbo hd
+http://192.168.10.250/histarapp.php?id=538
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="histar",hbo sig
+http://192.168.10.250/histarapp.php?id=539
 
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="histar",hbo fam
+http://192.168.10.250/histarapp.php?id=540
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="histar",hbo hits
+http://192.168.10.250/histarapp.php?id=541
 
 
 
