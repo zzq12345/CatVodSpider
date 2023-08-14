@@ -353,6 +353,7 @@ CBS News,http://127.0.0.1:8081/histar.php?id=cbsn
 Euronews,http://127.0.0.1:8081/histar.php?id=euronews
 ABC News,http://127.0.0.1:8081/histar.php?id=abc-news
 Bloomberg,http://127.0.0.1:8081/histar.php?id=bloomberg
+cinemax,,http://127.0.0.1:8081/histarapp.php?id=587
 hbo hd,,http://127.0.0.1:8081/histarapp.php?id=538
 hbo sig,,http://127.0.0.1:8081/histarapp.php?id=539
 
