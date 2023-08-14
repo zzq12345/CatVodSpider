@@ -353,6 +353,7 @@ CBS News,http://192.168.43.159:8081/histar.php?id=cbsn
 Euronews,http://192.168.43.159:8081/histar.php?id=euronews
 ABC News,http://192.168.43.159:8081/histar.php?id=abc-news
 Bloomberg,http://192.168.43.159:8081/histar.php?id=bloomberg
+cinemax,,http://192.168.43.250/histarapp.php?id=587
 hbo hd,,http://192.168.43.159:8081/histarapp.php?id=538
 hbo sig,,http://192.168.43.159:8081/histarapp.php?id=539
 
