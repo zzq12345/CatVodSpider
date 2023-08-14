@@ -483,15 +483,16 @@ http://192.168.10.250/histar.php?id=abc-news
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="histar",Bloomberg
 http://192.168.10.250/histar.php?id=bloomberg
 
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="histar",hbo hd
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" tvg-id="6152" tvg-name="HBOHD"  group-title="histar",hbo hd
 http://192.168.10.250/histarapp.php?id=538
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="histar",hbo sig
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" tvg-id="6154" tvg-name="HBOSignature"  group-title="histar",hbo sig
 http://192.168.10.250/histarapp.php?id=539
 
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="histar",hbo fam
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" tvg-id="6155" tvg-name="HBOFamily" group-title="histar",hbo fam
 http://192.168.10.250/histarapp.php?id=540
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="histar",hbo hits
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" tvg-id="6153" tvg-name="HBOHits"  group-title="histar",hbo hits
 http://192.168.10.250/histarapp.php?id=541
+
 
 
 
