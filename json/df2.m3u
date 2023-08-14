@@ -482,7 +482,7 @@ http://192.168.10.250/histar.php?id=euronews
 http://192.168.10.250/histar.php?id=abc-news
 #EXTINF:-1 tvg-id="100334" tvg-name="Bloomberg Television" tvg-logo="" group-title="histar",Bloomberg Television
 http://192.168.10.250/histar.php?id=bloomberg
-#EXTINF:-1 tvg-id="100587" tvg-name="cinemax," tvg-logo="" group-title="histar",cinemax,
+#EXTINF:-1 tvg-id="100587" tvg-name="cinemax," tvg-logo="" group-title="histar",cinemax
 http://192.168.10.250/histarapp.php?id=587
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" tvg-id="100354" tvg-name="HBOHD"  group-title="histar",hbo hd
 http://192.168.10.250/histarapp.php?id=538
