@@ -36,7 +36,7 @@ http://tv6.blcu.edu.cn/liverespath/59c02d176e7c3b05a62a9bb42be1ca2a92df2e1c/faaa
 http://tv6.blcu.edu.cn/liverespath/ca00a716bb06331fdc9891091377d8ab274f4507/0b203084fc-0-0-3d2ba6e141dbfb1c6b979b65023d1d1b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京教育网p6",CGTN
 http://tv6.blcu.edu.cn/liverespath/42085633aae0f63aebc607259e815b0088ab8017/ef885e1003-0-0-956b9fa98a1e0a17942b06edcebc7f83/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京教育网p6",CGTN纪录
+#EXTINF:-1 tvg-id="800037" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="北京教育网p6",CGTN纪录高清
 http://tv6.blcu.edu.cn/liverespath/0260f18be1f84384ff88433f79b76b0dcd7cdc7b/15687f0fa6-0-0-df0ad3d9f8464c1644cc29e36a242816/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京教育网p6",中国教育1台
 http://tv6.blcu.edu.cn/liverespath/85558d86e1bcab9405a28515bc414ba3676ecbde/a906597210-0-0-8a777d3e0466034e358f341edc625f48/index.m3u8
