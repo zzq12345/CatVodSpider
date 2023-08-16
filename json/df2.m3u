@@ -482,8 +482,11 @@ http://192.168.10.250/histar.php?id=euronews
 http://192.168.10.250/histar.php?id=abc-news
 #EXTINF:-1 tvg-id="100334" tvg-name="Bloomberg Television" tvg-logo="" group-title="histar",Bloomberg Television
 http://192.168.10.250/histar.php?id=bloomberg
+
+
 #EXTINF:-1 tvg-id="100587" tvg-name="cinemax" tvg-logo="" group-title="histar",cinemax
 http://192.168.10.250/histarapp.php?id=587
+
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" tvg-id="100354" tvg-name="HBOHD"  group-title="histar",hbo hd
 http://192.168.10.250/histarapp.php?id=538
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" tvg-id="100355" tvg-name="HBO Signature 原創鉅獻"  group-title="histar",HBO Signature 原創鉅獻
@@ -538,19 +541,19 @@ http://192.168.10.250/ysp2.php?id=cctv16-4k
 http://192.168.10.250/ysp2.php?id=cctv17
 #EXTINF:-1 tvg-id="800018" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频",cctv4k
 http://192.168.10.250/ysp2.php?id=cctv4k
-#EXTINF:-1 tvg-id="800032" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN
+#EXTINF:-1 tvg-id="800032" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn
 http://192.168.10.250/ysp2.php?id=cgtn
 
 
-#EXTINF:-1 tvg-id="800037" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN纪录高清
+#EXTINF:-1 tvg-id="800037" tvg-name="cgtn英文记录片" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn纪录
 http://192.168.10.250/ysp2.php?id=cgtnjl
-#EXTINF:-1 tvg-id="800033" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN法语高清
+#EXTINF:-1 tvg-id="800033" tvg-name="cgtn法语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn法语
 http://192.168.10.250/ysp2.php?id=cgtnf
-#EXTINF:-1 tvg-id="800034" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN俄语高清
+#EXTINF:-1 tvg-id="800034" tvg-name="cgtn俄语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn俄语
 http://192.168.10.250/ysp2.php?id=cgtnr
-#EXTINF:-1 tvg-id="800035" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN阿拉伯语高清
+#EXTINF:-1 tvg-id="800035" tvg-name="cgtn阿拉伯语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn阿拉伯语
 http://192.168.10.250/ysp2.php?id=cgtna
-#EXTINF:-1 tvg-id="800036" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN西班牙语高清
+#EXTINF:-1 tvg-id="800036" tvg-name="cgtn西班牙语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn西班牙语
 http://192.168.10.250/ysp2.php?id=cgtne
 #EXTINF:-1 tvg-id="800021" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视频",CCTV-怀旧剧场
 http://192.168.10.250/ysp2.php?id=hjjc
@@ -668,20 +671,22 @@ http://192.168.10.250/ysp1.php?id=cctv16-4k
 http://192.168.10.250/ysp1.php?id=cctv17
 #EXTINF:-1 tvg-id="800018" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频",cctv4k
 http://192.168.10.250/ysp1.php?id=cctv4k
-#EXTINF:-1 tvg-id="800032" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN
+#EXTINF:-1 tvg-id="800032" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn
 http://192.168.10.250/ysp1.php?id=cgtn
 
 
-#EXTINF:-1 tvg-id="800037" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN纪录高清
+#EXTINF:-1 tvg-id="800037" tvg-name="cgtn英文记录片" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn纪录
 http://192.168.10.250/ysp1.php?id=cgtnjl
-#EXTINF:-1 tvg-id="800033" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN法语高清
+#EXTINF:-1 tvg-id="800033" tvg-name="cgtn法语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn法语
 http://192.168.10.250/ysp1.php?id=cgtnf
-#EXTINF:-1 tvg-id="800034" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN俄语高清
+#EXTINF:-1 tvg-id="800034" tvg-name="cgtn俄语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn俄语
 http://192.168.10.250/ysp1.php?id=cgtnr
-#EXTINF:-1 tvg-id="800035" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN阿拉伯语高清
+#EXTINF:-1 tvg-id="800035" tvg-name="cgtn阿拉伯语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn阿拉伯语
 http://192.168.10.250/ysp1.php?id=cgtna
-#EXTINF:-1 tvg-id="800036" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN西班牙语高清
+#EXTINF:-1 tvg-id="800036" tvg-name="cgtn西班牙语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn西班牙语
 http://192.168.10.250/ysp1.php?id=cgtne
+#EXTINF:-1 tvg-id="800021" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视频",CCTV-怀旧剧场
+http://192.168.10.250/ysp1.php?id=hjjc
 
 #EXTINF:-1 tvg-id="800039" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="央视频",江苏卫视
 http://192.168.10.250/ysp1.php?id=jsws
@@ -758,113 +763,113 @@ http://192.168.10.250/ysp1.php?id=2fzq
 http://192.168.10.250/ysp1.php?id=dyjc
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆卫视
 http://192.168.10.250/cqyx.php?id=chongqingHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆新闻高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆新闻
 http://192.168.10.250/cqyx.php?id=CQTVNewsHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆影视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆影视
 http://192.168.10.250/cqyx.php?id=cqyingshiHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆社会与法高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆社会与法
 http://192.168.10.250/cqyx.php?id=CQTVTrendyHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆时尚生活高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆时尚生活
 http://192.168.10.250/cqyx.php?id=cqssgwHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆文体娱乐高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆文体娱乐
 http://192.168.10.250/cqyx.php?id=cqwtylHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆新农村高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆新农村
 http://192.168.10.250/cqyx.php?id=cqggncHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆少儿高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆少儿
 http://192.168.10.250/cqyx.php?id=cqseHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆科教高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆科教
 http://192.168.10.250/cqyx.php?id=CQTVkejiaoHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",爱看导视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",爱看导视
 http://192.168.10.250/cqyx.php?id=aikanHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆汽摩高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆汽摩
 http://192.168.10.250/cqyx.php?id=cqcarSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆移动高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆移动
 http://192.168.10.250/cqyx.php?id=mryyHD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重广融媒
 http://192.168.10.250/cqyx.php?id=cqrongmei
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV1综合高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv1
 http://192.168.10.250/cqyx.php?id=cctv1HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV2财*高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv2
 http://192.168.10.250/cqyx.php?id=cctv2HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV3综艺高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv3
 http://192.168.10.250/cqyx.php?id=cctv3HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV4中文国际高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv4
 http://192.168.10.250/cqyx.php?id=cctv4HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV5体育高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv5
 http://192.168.10.250/cqyx.php?id=cctv5HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV6电影高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv6
 http://192.168.10.250/cqyx.php?id=cctv6HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV7国防军事高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv7
 http://192.168.10.250/cqyx.php?id=cctv7HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV8电视剧高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv8
 http://192.168.10.250/cqyx.php?id=cctv8HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV9纪录高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv9
 http://192.168.10.250/cqyx.php?id=cctv9HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV10科教高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv10
 http://192.168.10.250/cqyx.php?id=cctv10HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV11戏曲高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv11
 http://192.168.10.250/cqyx.php?id=cctv11HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV12社会与法高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv12
 http://192.168.10.250/cqyx.php?id=cctv12HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV13新闻高清
-http://192.168.10.250/cqyx.php?id=CCTVNewsHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV14少儿高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv13
+http://192.168.10.250/cqyx.php?id=cctvNewsHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv14
 http://192.168.10.250/cqyx.php?id=cctvseHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV15音乐高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv15
 http://192.168.10.250/cqyx.php?id=cctv15HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV16奥林匹克高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv16
 http://192.168.10.250/cqyx.php?id=cctv16HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",湖南卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",湖南卫视
 http://192.168.10.250/cqyx.php?id=hunanHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",江苏卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",江苏卫视
 http://192.168.10.250/cqyx.php?id=jiangsuHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",北京卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",北京卫视
 http://192.168.10.250/cqyx.php?id=beijingHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",浙江卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",浙江卫视
 http://192.168.10.250/cqyx.php?id=zhejiangHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",东方卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",东方卫视
 http://192.168.10.250/cqyx.php?id=shanghaiHD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",生活时尚
 http://192.168.10.250/cqyx.php?id=shenghuo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",百姓健康
 http://192.168.10.250/cqyx.php?id=jiankangSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",快乐垂钓高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",快乐垂钓
 http://192.168.10.250/cqyx.php?id=klcdHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",第一剧场高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",第一剧场
 http://192.168.10.250/cqyx.php?id=diyijuchangHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",都市剧场高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",都市剧场
 http://192.168.10.250/cqyx.php?id=dsjcHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",动漫秀场高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",动漫秀场
 http://192.168.10.250/cqyx.php?id=dmxcHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",魅力足球高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",魅力足球
 http://192.168.10.250/cqyx.php?id=mlzqHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",风云剧场高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",风云剧场
 http://192.168.10.250/cqyx.php?id=fyjcHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",求索纪录高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",求索纪录
 http://192.168.10.250/cqyx.php?id=qsjlHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",兵器科技高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",兵器科技
 http://192.168.10.250/cqyx.php?id=bqkjHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",游戏风云高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",游戏风云
 http://192.168.10.250/cqyx.php?id=yxfyHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",怀旧剧场高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",怀旧剧场
 http://192.168.10.250/cqyx.php?id=hjjcHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",风云音乐高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",风云音乐
 http://192.168.10.250/cqyx.php?id=fyyyHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",央视台球高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",央视台球
 http://192.168.10.250/cqyx.php?id=ystqHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",风云足球高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",风云足球
 http://192.168.10.250/cqyx.php?id=fyzqHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",央视文化精品高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",央视文化精品
 http://192.168.10.250/cqyx.php?id=yswhHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",高尔夫网球高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",高尔夫网球
 http://192.168.10.250/cqyx.php?id=golfHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",早期教育高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",早期教育
 http://192.168.10.250/cqyx.php?id=zaojiaoHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",东方财*高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",东方财经
 http://192.168.10.250/cqyx.php?id=dfcj
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",证券服务
 http://192.168.10.250/cqyx.php?id=jiazheng
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",书画
@@ -911,47 +916,47 @@ http://192.168.10.250/cqyx.php?id=gushi
 http://192.168.10.250/cqyx.php?id=sheying
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",靓妆
 http://192.168.10.250/cqyx.php?id=liang
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV4K超高清
-http://192.168.10.250/cqyx.php?id=CCTV4K
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",欢笑剧场4K超高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv4K超
+http://192.168.10.250/cqyx.php?id=cctv4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",欢笑剧场4K超
 http://192.168.10.250/cqyx.php?id=hxjc_4K
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV16奥林匹克4K超高清
-http://192.168.10.250/cqyx.php?id=CCTV16_4K
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",深圳卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv16奥林匹克4K超
+http://192.168.10.250/cqyx.php?id=cctv16_4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",深圳卫视
 http://192.168.10.250/cqyx.php?id=shenzhenHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",辽宁卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",辽宁卫视
 http://192.168.10.250/cqyx.php?id=liaoningHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",天津卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",天津卫视
 http://192.168.10.250/cqyx.php?id=tianjinHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",贵州卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",贵州卫视
 http://192.168.10.250/cqyx.php?id=guizhouHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",四川卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",四川卫视
 http://192.168.10.250/cqyx.php?id=sichuanHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",云南卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",云南卫视
 http://192.168.10.250/cqyx.php?id=yunnanSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",东南卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",东南卫视
 http://192.168.10.250/cqyx.php?id=dongnanHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",黑龙江卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",黑龙江卫视
 http://192.168.10.250/cqyx.php?id=heilongjiangHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",安徽卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",安徽卫视
 http://192.168.10.250/cqyx.php?id=anhuiSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",河北卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",河北卫视
 http://192.168.10.250/cqyx.php?id=hebeiSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",江西卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",江西卫视
 http://192.168.10.250/cqyx.php?id=jiangxiHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",湖北卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",湖北卫视
 http://192.168.10.250/cqyx.php?id=hubeiSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",海南卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",海南卫视
 http://192.168.10.250/cqyx.php?id=hainanSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",吉林卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",吉林卫视
 http://192.168.10.250/cqyx.php?id=jilinHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",广西卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",广西卫视
 http://192.168.10.250/cqyx.php?id=guangxiHD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",内蒙古卫视
 http://192.168.10.250/cqyx.php?id=neimengkuSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",广东卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",广东卫视
 http://192.168.10.250/cqyx.php?id=guangdongHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",河南卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",河南卫视
 http://192.168.10.250/cqyx.php?id=henanHD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",山西卫视
 http://192.168.10.250/cqyx.php?id=shanxiSD
@@ -959,9 +964,9 @@ http://192.168.10.250/cqyx.php?id=shanxiSD
 http://192.168.10.250/cqyx.php?id=bingtuanSD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",宁夏卫视
 http://192.168.10.250/cqyx.php?id=ningxia
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",北京卡酷少儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",卡酷少儿
 http://192.168.10.250/cqyx.php?id=bjkakuSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",金鹰卡通高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",金鹰卡通
 http://192.168.10.250/cqyx.php?id=jinyingSD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",三沙卫视
 http://192.168.10.250/cqyx.php?id=sanshaSD
@@ -969,7 +974,7 @@ http://192.168.10.250/cqyx.php?id=sanshaSD
 http://192.168.10.250/cqyx.php?id=qinghaiSD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",中国天气
 http://192.168.10.250/cqyx.php?id=tianqiSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",北京纪实科教高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",北京纪实科教
 http://192.168.10.250/cqyx.php?id=bjayjsSD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",山东教育卫视
 http://192.168.10.250/cqyx.php?id=sdjiaoyuSD
@@ -977,7 +982,7 @@ http://192.168.10.250/cqyx.php?id=sdjiaoyuSD
 http://192.168.10.250/cqyx.php?id=xinjiangSD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",西藏卫视
 http://192.168.10.250/cqyx.php?id=xizangSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CGTN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cgtn
 http://192.168.10.250/cqyx.php?id=cgtnSD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CETV-1
 http://192.168.10.250/cqyx.php?id=cetv-1SD
@@ -3014,7 +3019,7 @@ http://192.168.10.250/cgtnrussia.php
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube",金砖英文
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="youtube",CCTV NEWS欧洲
+#EXTINF:-1 tvg-id="20" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="youtube",CCTV NEWS欧洲
 http://192.168.10.250/cctvfrench.php
 
 
@@ -3024,7 +3029,8 @@ https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="youtube",CCTV-6
 http://192.168.10.250/douyin.php?id=208823316033
-
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="youtube",CCTV-6
+http://mobilelive-pull.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="youtube",cctv-4亚洲
 http://192.168.10.250/cctv4.php
@@ -3581,11 +3587,11 @@ https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737d
 
 #EXTINF:-1 tvg-id="100156" group-title="youtube" tvg-logo="",CBSN New York
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
-#EXTINF:-1 tvg-id="100156" group-title="youtube" tvg-logo="",CGTN[
+#EXTINF:-1 tvg-id="100156" group-title="youtube" tvg-logo="",cgtn[
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="100156" group-title="youtube" tvg-logo="",CGTN Channel 1
+#EXTINF:-1 tvg-id="100156" group-title="youtube" tvg-logo="",cgtn Channel 1
 http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
-#EXTINF:-1 tvg-id="100156" group-title="youtube" tvg-logo="",CGTN Channel 2
+#EXTINF:-1 tvg-id="100156" group-title="youtube" tvg-logo="",cgtn Channel 2
 http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
 
 
@@ -4804,7 +4810,7 @@ http://192.168.10.250/yatai.php?id=1&m=en
 http://192.168.10.250/yatai.php?id=2&m=en
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",cgtn docu
 http://192.168.10.250/yatai.php?id=3&m=en
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",CGTN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",cgtn
 http://192.168.10.250/yatai.php?id=4&m=en
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",Din News HD
 http://192.168.10.250/yatai.php?id=5&m=en

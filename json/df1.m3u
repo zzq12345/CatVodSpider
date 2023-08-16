@@ -539,20 +539,22 @@ http://127.0.0.1:8081/ysp1.php?id=cctv16-4k
 http://127.0.0.1:8081/ysp1.php?id=cctv17
 #EXTINF:-1 tvg-id="800018" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频",cctv4k
 http://127.0.0.1:8081/ysp1.php?id=cctv4k
-#EXTINF:-1 tvg-id="800032" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN
+#EXTINF:-1 tvg-id="800032" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn
 http://127.0.0.1:8081/ysp1.php?id=cgtn
 
 
-#EXTINF:-1 tvg-id="800037" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN纪录高清
+#EXTINF:-1 tvg-id="800037" tvg-name="cgtn英文记录片" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn纪录
 http://127.0.0.1:8081/ysp1.php?id=cgtnjl
-#EXTINF:-1 tvg-id="800033" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN法语高清
+#EXTINF:-1 tvg-id="800033" tvg-name="cgtn法语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn法语
 http://127.0.0.1:8081/ysp1.php?id=cgtnf
-#EXTINF:-1 tvg-id="800034" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN俄语高清
+#EXTINF:-1 tvg-id="800034" tvg-name="cgtn俄语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn俄语
 http://127.0.0.1:8081/ysp1.php?id=cgtnr
-#EXTINF:-1 tvg-id="800035" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN阿拉伯语高清
+#EXTINF:-1 tvg-id="800035" tvg-name="cgtn阿拉伯语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn阿拉伯语
 http://127.0.0.1:8081/ysp1.php?id=cgtna
-#EXTINF:-1 tvg-id="800036" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN西班牙语高清
+#EXTINF:-1 tvg-id="800036" tvg-name="cgtn西班牙语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn西班牙语
 http://127.0.0.1:8081/ysp1.php?id=cgtne
+#EXTINF:-1 tvg-id="800021" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视频",CCTV-怀旧剧场
+http://127.0.0.1:8081/ysp1.php?id=hjjc
 
 #EXTINF:-1 tvg-id="800039" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="央视频",江苏卫视
 http://127.0.0.1:8081/ysp1.php?id=jsws
@@ -671,19 +673,19 @@ http://127.0.0.1:8081/ysp2.php?id=cctv16-4k
 http://127.0.0.1:8081/ysp2.php?id=cctv17
 #EXTINF:-1 tvg-id="800018" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频",cctv4k
 http://127.0.0.1:8081/ysp2.php?id=cctv4k
-#EXTINF:-1 tvg-id="800032" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN
+#EXTINF:-1 tvg-id="800032" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn
 http://127.0.0.1:8081/ysp2.php?id=cgtn
 
 
-#EXTINF:-1 tvg-id="800037" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN纪录高清
+#EXTINF:-1 tvg-id="800037" tvg-name="cgtn英文记录片" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn纪录
 http://127.0.0.1:8081/ysp2.php?id=cgtnjl
-#EXTINF:-1 tvg-id="800033" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN法语高清
+#EXTINF:-1 tvg-id="800033" tvg-name="cgtn法语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn法语
 http://127.0.0.1:8081/ysp2.php?id=cgtnf
-#EXTINF:-1 tvg-id="800034" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN俄语高清
+#EXTINF:-1 tvg-id="800034" tvg-name="cgtn俄语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn俄语
 http://127.0.0.1:8081/ysp2.php?id=cgtnr
-#EXTINF:-1 tvg-id="800035" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN阿拉伯语高清
+#EXTINF:-1 tvg-id="800035" tvg-name="cgtn阿拉伯语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn阿拉伯语
 http://127.0.0.1:8081/ysp2.php?id=cgtna
-#EXTINF:-1 tvg-id="800036" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN西班牙语高清
+#EXTINF:-1 tvg-id="800036" tvg-name="cgtn西班牙语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn西班牙语
 http://127.0.0.1:8081/ysp2.php?id=cgtne
 #EXTINF:-1 tvg-id="800021" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视频",CCTV-怀旧剧场
 http://127.0.0.1:8081/ysp2.php?id=hjjc
@@ -980,7 +982,7 @@ http://127.0.0.1:8081/cqyx.php?id=sdjiaoyuSD
 http://127.0.0.1:8081/cqyx.php?id=xinjiangSD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",西藏卫视
 http://127.0.0.1:8081/cqyx.php?id=xizangSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CGTN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cgtn
 http://127.0.0.1:8081/cqyx.php?id=cgtnSD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CETV-1
 http://127.0.0.1:8081/cqyx.php?id=cetv-1SD
@@ -3017,7 +3019,7 @@ http://127.0.0.1:8081/cgtnrussia.php
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube",金砖英文
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="youtube",CCTV NEWS欧洲
+#EXTINF:-1 tvg-id="20" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="youtube",CCTV NEWS欧洲
 http://127.0.0.1:8081/cctvfrench.php
 
 
@@ -3585,11 +3587,11 @@ https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737d
 
 #EXTINF:-1 tvg-id="100156" group-title="youtube" tvg-logo="",CBSN New York
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
-#EXTINF:-1 tvg-id="100156" group-title="youtube" tvg-logo="",CGTN[
+#EXTINF:-1 tvg-id="100156" group-title="youtube" tvg-logo="",cgtn[
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="100156" group-title="youtube" tvg-logo="",CGTN Channel 1
+#EXTINF:-1 tvg-id="100156" group-title="youtube" tvg-logo="",cgtn Channel 1
 http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
-#EXTINF:-1 tvg-id="100156" group-title="youtube" tvg-logo="",CGTN Channel 2
+#EXTINF:-1 tvg-id="100156" group-title="youtube" tvg-logo="",cgtn Channel 2
 http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
 
 
@@ -4808,7 +4810,7 @@ http://127.0.0.1:8081/yatai.php?id=1&m=en
 http://127.0.0.1:8081/yatai.php?id=2&m=en
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",cgtn docu
 http://127.0.0.1:8081/yatai.php?id=3&m=en
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",CGTN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",cgtn
 http://127.0.0.1:8081/yatai.php?id=4&m=en
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",Din News HD
 http://127.0.0.1:8081/yatai.php?id=5&m=en
