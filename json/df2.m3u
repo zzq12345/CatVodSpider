@@ -496,9 +496,6 @@ http://192.168.10.250/histarapp.php?id=539
 http://192.168.10.250/histarapp.php?id=540
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" tvg-id="100356" tvg-name="HBO Hits 強檔鉅獻"  group-title="histar",HBO Hits 強檔鉅獻
 http://192.168.10.250/histarapp.php?id=541
-
-
-
 #EXTINF:-1 tvg-id="800000" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频",CCTV1综合
 http://192.168.10.250/ysp2.php?id=cctv1
 
@@ -761,6 +758,9 @@ http://192.168.10.250/ysp1.php?id=fyyy
 http://192.168.10.250/ysp1.php?id=2fzq
 #EXTINF:-1 tvg-id="800019" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视频",CCTV-第一剧场
 http://192.168.10.250/ysp1.php?id=dyjc
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆卫视
@@ -3048,14 +3048,14 @@ https://www.yicai.com/api/dycj/liveIndex.m3u8
 https://www.yicai.com/api/dfcj/liveIndex.m3u8
 
 
-#EXTINF:-1 tvg-id="100645" tvg-name="" tvg-logo="" group-title="youtube",看看新闻直播
+#EXTINF:-1 tvg-id="100448" tvg-name="" tvg-logo="" group-title="youtube",看看新闻直播
 http://192.168.10.250/kankanlive.php?id=1
-#EXTINF:-1 tvg-id="100645" tvg-name="" tvg-logo="" group-title="youtube",看看新闻直播
+#EXTINF:-1 tvg-id="100448" tvg-name="" tvg-logo="" group-title="youtube",看看新闻直播
 http://192.168.10.250/kankanlive.php?id=2
 
-#EXTINF:-1 tvg-id="100646" tvg-name="" tvg-logo="" group-title="youtube",第一财经直播
+#EXTINF:-1 tvg-id="100447" tvg-name="" tvg-logo="" group-title="youtube",第一财经直播
 http://192.168.10.250/diyicaijinglive.php?id=1
-#EXTINF:-1 tvg-id="100646" tvg-name="" tvg-logo="" group-title="youtube",第一财经直播
+#EXTINF:-1 tvg-id="100447" tvg-name="" tvg-logo="" group-title="youtube",第一财经直播
 http://192.168.10.250/diyicaijinglive.php?id=2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",NBA動態
