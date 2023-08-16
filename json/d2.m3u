@@ -3048,14 +3048,14 @@ https://www.yicai.com/api/dycj/liveIndex.m3u8
 https://www.yicai.com/api/dfcj/liveIndex.m3u8
 
 
-#EXTINF:-1 tvg-id="100645" tvg-name="" tvg-logo="" group-title="youtube",看看新闻直播
+#EXTINF:-1 tvg-id="100448" tvg-name="" tvg-logo="" group-title="youtube",看看新闻直播
 http://192.168.10.250/kankanlive.php?id=1
-#EXTINF:-1 tvg-id="100645" tvg-name="" tvg-logo="" group-title="youtube",看看新闻直播
+#EXTINF:-1 tvg-id="100448" tvg-name="" tvg-logo="" group-title="youtube",看看新闻直播
 http://192.168.10.250/kankanlive.php?id=2
 
-#EXTINF:-1 tvg-id="100646" tvg-name="" tvg-logo="" group-title="youtube",第一财经直播
+#EXTINF:-1 tvg-id="100447" tvg-name="" tvg-logo="" group-title="youtube",第一财经直播
 http://192.168.10.250/diyicaijinglive.php?id=1
-#EXTINF:-1 tvg-id="100646" tvg-name="" tvg-logo="" group-title="youtube",第一财经直播
+#EXTINF:-1 tvg-id="100447" tvg-name="" tvg-logo="" group-title="youtube",第一财经直播
 http://192.168.10.250/diyicaijinglive.php?id=2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",NBA動態
