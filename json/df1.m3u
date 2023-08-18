@@ -4158,9 +4158,9 @@ http://127.0.0.1:8081/4gtv720.php?id=22
 #EXTINF:-1 tvg-id="4gtv-live032" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live032_mobile.png" group-title="4gtv",Nick Jr. 兒童頻道
 http://127.0.0.1:8081/4gtv1080.php?id=23
 #EXTINF:-1 tvg-id="4gtv-live105" tvg-name="尼克兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live105_mobile.png" group-title="4gtv",尼克兒童頻道
-http://127.0.0.1:8081/4gtv720.php?id=24
+http://127.0.0.1:8081/4gtv10801.php?id=24
 #EXTINF:-1 tvg-id="4gtv-live017" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live017_mobile.png" group-title="4gtv",DreamWorks 夢工廠動畫
-http://127.0.0.1:8081/4gtv720.php?id=25
+http://127.0.0.1:8081/4gtv10801.php?id=25
 
 #EXTINF:-1 tvg-id="4gtv-4gtv044" tvg-name="靖天卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv044_mobile.png" group-title="4gtv",靖天卡通台
 http://127.0.0.1:8081/4gtv720.php?id=26
@@ -4169,9 +4169,9 @@ http://127.0.0.1:8081/4gtv720.php?id=27
 #EXTINF:-1 tvg-id="litv-ftv15" tvg-name="i-Fun動漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv15_mobile.png" group-title="4gtv",i-Fun動漫台
 http://127.0.0.1:8081/4gtv720.php?id=28
 #EXTINF:-1 tvg-id="4gtv-live107" tvg-name="MOMO親子台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live107_mobile.png" group-title="4gtv",MOMO親子台
-http://127.0.0.1:8081/4gtv720.php?id=29
+http://127.0.0.1:8081/4gtv10801.php?id=29
 #EXTINF:-1 tvg-id="4gtv-live047" tvg-name="東森購物一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="4gtv",東森購物一台
-http://127.0.0.1:8081/4gtv720.php?id=30
+http://127.0.0.1:8081/4gtv108010.php?id=30
 #EXTINF:-1 tvg-id="4gtv-4gtv075" tvg-name="鏡電視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv075_mobile.png" group-title="4gtv",鏡電視新聞台
 http://127.0.0.1:8081/4gtv720.php?id=31
 #EXTINF:-1 tvg-id="4gtv-live114" tvg-name="東森新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live114_mobile.png" group-title="4gtv",東森新聞台
