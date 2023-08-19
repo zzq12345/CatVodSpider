@@ -539,6 +539,13 @@ http://127.0.0.1:8081/ysp1.php?id=cctv16-4k
 http://127.0.0.1:8081/ysp1.php?id=cctv17
 #EXTINF:-1 tvg-id="800018" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频",cctv4k
 http://127.0.0.1:8081/ysp1.php?id=cctv4k
+
+
+#EXTINF:-1 tvg-id="800062" tvg-name="cctv8k" tvg-logo="" group-title="央视频",CCTV8k
+http://127.0.0.1:8081/ysp1.php?id=cctv8k
+#EXTINF:-1 tvg-id="800062" tvg-name="cctv8k" tvg-logo="" group-title="央视频",CCTV8k
+http://127.0.0.1:8081/ysp1.php?id=cctv8k1
+
 #EXTINF:-1 tvg-id="800032" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn
 http://127.0.0.1:8081/ysp1.php?id=cgtn
 
@@ -673,6 +680,11 @@ http://127.0.0.1:8081/ysp2.php?id=cctv16-4k
 http://127.0.0.1:8081/ysp2.php?id=cctv17
 #EXTINF:-1 tvg-id="800018" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频",cctv4k
 http://127.0.0.1:8081/ysp2.php?id=cctv4k
+
+#EXTINF:-1 tvg-id="800062" tvg-name="cctv8k" tvg-logo="" group-title="央视频",CCTV8k
+http://127.0.0.1:8081/ysp2.php?id=cctv8k
+#EXTINF:-1 tvg-id="800062" tvg-name="cctv8k" tvg-logo="" group-title="央视频",CCTV8k
+http://127.0.0.1:8081/ysp2.php?id=cctv8k1
 #EXTINF:-1 tvg-id="800032" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn
 http://127.0.0.1:8081/ysp2.php?id=cgtn
 
@@ -4171,7 +4183,7 @@ http://127.0.0.1:8081/4gtv720.php?id=28
 #EXTINF:-1 tvg-id="4gtv-live107" tvg-name="MOMO親子台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live107_mobile.png" group-title="4gtv",MOMO親子台
 http://127.0.0.1:8081/4gtv10801.php?id=29
 #EXTINF:-1 tvg-id="4gtv-live047" tvg-name="東森購物一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="4gtv",東森購物一台
-http://127.0.0.1:8081/4gtv108010.php?id=30
+http://127.0.0.1:8081/4gtv10801.php?id=30
 #EXTINF:-1 tvg-id="4gtv-4gtv075" tvg-name="鏡電視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv075_mobile.png" group-title="4gtv",鏡電視新聞台
 http://127.0.0.1:8081/4gtv720.php?id=31
 #EXTINF:-1 tvg-id="4gtv-live114" tvg-name="東森新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live114_mobile.png" group-title="4gtv",東森新聞台
