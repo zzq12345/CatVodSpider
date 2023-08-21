@@ -541,7 +541,8 @@ http://192.168.10.250/ysp2.php?id=cctv16-4k
 http://192.168.10.250/ysp2.php?id=cctv17
 #EXTINF:-1 tvg-id="800018" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频",cctv4k
 http://192.168.10.250/ysp2.php?id=cctv4k
-
+#EXTINF:-1 tvg-id="800061" tvg-name="cctv8k" tvg-logo="" group-title="央视频",CCTV8k
+http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230960/1.m3u8
 #EXTINF:-1 tvg-id="800061" tvg-name="cctv8k" tvg-logo="" group-title="央视频",CCTV8k
 http://192.168.10.250/ysp2.php?id=cctv8k
 #EXTINF:-1 tvg-id="800061" tvg-name="cctv8k" tvg-logo="" group-title="央视频",CCTV8k
