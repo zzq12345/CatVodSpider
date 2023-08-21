@@ -681,9 +681,9 @@ http://127.0.0.1:8081/ysp2.php?id=cctv17
 #EXTINF:-1 tvg-id="800018" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频",cctv4k
 http://127.0.0.1:8081/ysp2.php?id=cctv4k
 
-#EXTINF:-1 tvg-id="800062" tvg-name="cctv8k" tvg-logo="" group-title="央视频",CCTV8k
+#EXTINF:-1 tvg-id="800061" tvg-name="cctv8k" tvg-logo="" group-title="央视频",CCTV8k
 http://127.0.0.1:8081/ysp2.php?id=cctv8k
-#EXTINF:-1 tvg-id="800062" tvg-name="cctv8k" tvg-logo="" group-title="央视频",CCTV8k
+#EXTINF:-1 tvg-id="800061" tvg-name="cctv8k" tvg-logo="" group-title="央视频",CCTV8k
 http://127.0.0.1:8081/ysp2.php?id=cctv8k1
 #EXTINF:-1 tvg-id="800032" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn
 http://127.0.0.1:8081/ysp2.php?id=cgtn
