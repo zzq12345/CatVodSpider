@@ -541,11 +541,11 @@ http://192.168.10.250/ysp2.php?id=cctv16-4k
 http://192.168.10.250/ysp2.php?id=cctv17
 #EXTINF:-1 tvg-id="800018" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频",cctv4k
 http://192.168.10.250/ysp2.php?id=cctv4k
-#EXTINF:-1 tvg-id="800061" tvg-name="cctv8k" tvg-logo="https://github.com/zzq12345/CatVodSpider/blob/main/json/cctv-8k.png" group-title="央视频",CCTV8k
+#EXTINF#EXTINF:-1 tvg-id="800061" tvg-name="CCTV8K" tvg-logo="https://github.com/zzq12345/CatVodSpider/blob/main/json/cctv-8k.png?raw=true" group-title="央视频",cctv8k1080
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230960/1.m3u8
-#EXTINF:-1 tvg-id="800061" tvg-name="cctv8k" tvg-logo="https://github.com/zzq12345/CatVodSpider/blob/main/json/cctv-8k.png" group-title="央视频",CCTV8k
+#EXTINF#EXTINF:-1 tvg-id="800061" tvg-name="CCTV8K" tvg-logo="https://github.com/zzq12345/CatVodSpider/blob/main/json/cctv-8k.png?raw=true" group-title="央视频",cctv8k1080
 http://192.168.10.250/ysp2.php?id=cctv8k
-#EXTINF:-1 tvg-id="800061" tvg-name="cctv8k" tvg-logo="https://github.com/zzq12345/CatVodSpider/blob/main/json/cctv-8k.png" group-title="央视频",CCTV8k
+#EXTINF#EXTINF:-1 tvg-id="800061" tvg-name="CCTV8K" tvg-logo="https://github.com/zzq12345/CatVodSpider/blob/main/json/cctv-8k.png?raw=true" group-title="央视频",cctv8k1080
 http://192.168.10.250/ysp2.php?id=cctv8k1
 #EXTINF:-1 tvg-id="800032" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn
 http://192.168.10.250/ysp2.php?id=cgtn
@@ -680,9 +680,9 @@ http://192.168.10.250/ysp1.php?id=cctv17
 http://192.168.10.250/ysp1.php?id=cctv4k
 
 
-#EXTINF:-1 tvg-id="800061" tvg-name="cctv8k" tvg-logo="https://github.com/zzq12345/CatVodSpider/blob/main/json/cctv-8k.png" group-title="央视频",CCTV8k
+#EXTINF#EXTINF:-1 tvg-id="800061" tvg-name="CCTV8K" tvg-logo="https://github.com/zzq12345/CatVodSpider/blob/main/json/cctv-8k.png?raw=true" group-title="央视频",cctv8k1080
 http://192.168.10.250/ysp1.php?id=cctv8k
-#EXTINF:-1 tvg-id="800061" tvg-name="cctv8k" tvg-logo="https://github.com/zzq12345/CatVodSpider/blob/main/json/cctv-8k.png" group-title="央视频",CCTV8k
+#EXTINF#EXTINF:-1 tvg-id="800061" tvg-name="CCTV8K" tvg-logo="https://github.com/zzq12345/CatVodSpider/blob/main/json/cctv-8k.png?raw=true" group-title="央视频",cctv8k1080
 http://192.168.10.250/ysp1.php?id=cctv8k1
 
 #EXTINF:-1 tvg-id="800032" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn
