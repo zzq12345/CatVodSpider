@@ -381,6 +381,8 @@ CCTV-16高清,http://127.0.0.1:8081/ysp1.php?id=cctv16
 CCTV-16高清,http://127.0.0.1:8081/ysp1.php?id=cctv16-4k
 CCTV17农村农业,http://127.0.0.1:8081/ysp1.php?id=cctv17
 cctv4k,http://127.0.0.1:8081/ysp1.php?id=cctv4k
+CCTV8k,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230960/1.m3u8
+cctv8k,http://127.0.0.1:8081/ysp1.php?id=cctv8k
 CGTN,http://127.0.0.1:8081/ysp1.php?id=cgtn
 CGTN纪录高清,http://127.0.0.1:8081/ysp1.php?id=cgtnjl
 CGTN法语高清,http://127.0.0.1:8081/ysp1.php?id=cgtnf
