@@ -3914,28 +3914,9 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 
 
-#EXTINF:-1 tvg-id="100597" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
-http://php.17186.eu.org/phtv/fhzx.m3u8
-#EXTINF:-1 tvg-id="100630" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰卫视中文台
-http://php.17186.eu.org/phtv/fhzw.m3u8
-#EXTINF:-1 tvg-id="100598" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",凤凰卫视香港台
-http://php.17186.eu.org/phtv/fhhk.m3u8
 
 
 
-#EXTINF:-1 tvg-id="100630" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰卫视中文台
-https://17186.eu.org/php/phtv/fhzw.flv
-
-#EXTINF:-1 tvg-id="100597" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
-https://17186.eu.org/php/phtv/fhzx.flv
-#EXTINF:-1 tvg-id="100598" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",凤凰卫视香港台
-https://17186.eu.org/php/phtv/fhhk.flv
-#EXTINF:-1 tvg-id="100630" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰卫视中文台
-http://php.17186.eu.org/phtv/fhzw.flv
-#EXTINF:-1 tvg-id="100597" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
-http://php.17186.eu.org/phtv/fhzx.flv
-#EXTINF:-1 tvg-id="100598" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",凤凰卫视香港台
-http://php.17186.eu.org/phtv/fhhk.flv
 
 
 
@@ -4051,71 +4032,7 @@ http://192.168.10.250/minshi.php?id=litv-ftv09
 
 
 
-#EXTINF:-1  tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv13_mobile.png" group-title="中华电信直播",民視新聞台
-http://192.168.10.250/zhonghuadianxin.php?id=litv-ftv13
-#EXTINF:-1  tvg-id="4gtv-4gtv052" tvg-name="華視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv052_mobile.png" group-title="中华电信直播",華視新聞資訊台
-http://192.168.10.250/zhonghuadianxin.php?id=4gtv-4gtv052
 
-#EXTINF:-1 group-title="中华电信直播",民視旅遊台
-http://192.168.10.250/zhonghuadianxin.php?id=litv-ftv07
-#EXTINF:-1 group-title="中华电信直播",i-Fun動漫台
-http://192.168.10.250/zhonghuadianxin.php?id=litv-ftv15
-#EXTINF:-1 group-title="中华电信直播",幸福空間居家台
-http://192.168.10.250/zhonghuadianxin.php?id=4gtv-live206
-#EXTINF:-1 group-title="中华电信直播",愛爾達娛樂台
-http://192.168.10.250/zhonghuadianxin.php?id=4gtv-4gtv070
-#EXTINF:-1 tvg-id="4gtv-live025" tvg-name="MTV Live HD 音樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live025_mobile.png"  group-title="中华电信直播",MTV
-http://192.168.10.250/zhonghuadianxin.php?id=4gtv-live025
-#EXTINF:-1 group-title="中华电信直播",中視新聞台
-http://192.168.10.250/zhonghuadianxin.php?id=4gtv-4gtv074
-#EXTINF:-1 group-title="中华电信直播",,影迷數位電影台
-http://192.168.10.250/zhonghuadianxin.php?id=4gtv-4gtv011
-
-#EXTINF:-1 tvg-id="4gtv-4gtv046" tvg-name="靖天綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv046_mobile.png"  group-title="中华电信直播",靖天日本台
-http://192.168.10.250/zhonghuadianxin.php?id=4gtv-4gtv047
-#EXTINF:-1 group-title="中华电信直播",龍華日韓台
-http://192.168.10.250/zhonghuadianxin.php?id=litv-longturn11
-#EXTINF:-1 group-title="中华电信直播",公視戲劇
-http://192.168.10.250/zhonghuadianxin.php?id=4gtv-4gtv042
-#EXTINF:-1 tvg-id="4gtv-4gtv002" tvg-name="民視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png" group-title="中华电信直播",民視
-http://192.168.10.250/zhonghuadianxin.php?id=4gtv-4gtv002
-#EXTINF:-1 tvg-id="4gtv-live027" tvg-name="CI 罪案偵查頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live027_mobile.png" group-title="中华电信直播",CI 罪案偵查頻道
-http://192.168.10.250/zhonghuadianxin.php?id=4gtv-live027
-#EXTINF:-1 tvg-id="4gtv-4gtv013" tvg-name="視納華仁紀實頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv013_mobile.png" group-title="中华电信直播",CNEX紀實頻道
-http://192.168.10.250/zhonghuadianxin.php?id=4gtv-4gtv013
-#EXTINF:-1 tvg-id="litv-longturn03" tvg-name="龍華電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn03_mobile.png" group-title="中华电信直播",龍華電影台
-http://192.168.10.250/zhonghuadianxin.php?id=litv-longturn03
-#EXTINF:-1 group-title="中华电信直播",民視綜藝台
-http://192.168.10.250/zhonghuadianxin.php?id=4gtv-4gtv004
-#EXTINF:-1 tvg-id="litv-longturn20" tvg-name="ELTV生活英語台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn20_mobile.png" group-title="中华电信直播"ELTV生活英語台
-http://192.168.10.250/zhonghuadianxin.php?id=litv-longturn20
-#EXTINF:-1 tvg-id="4gtv-4gtv040" tvg-name="中視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="中华电信直播",中視
-http://192.168.10.250/zhonghuadianxin.php?id=4gtv-4gtv040
-#EXTINF:-1 group-title="中华电信直播",民視第一台
-http://192.168.10.250/zhonghuadianxin.php?id=4gtv-4gtv003
-
-
-
-
-
-#EXTINF:-1 group-title="中华电信直播",大愛電視台
-http://192.168.10.250/zhonghuadianxin.php?id=4gtv-live007
-#EXTINF:-1 tvg-id="4gtv-live130" tvg-name="CNBC Asia 財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live130_mobile.png"  group-title="中华电信直播",CNBC
-http://192.168.10.250/zhonghuadianxin.php?id=4gtv-live130
-#EXTINF:-1 tvg-id="litv-ftv10" tvg-name="半島國際新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv10_mobile.png"  group-title="中华电信直播",半島電視台
-http://192.168.10.250/zhonghuadianxin.php?id=litv-ftv10
-#EXTINF:-1 tvg-id="litv-ftv03" tvg-name="VOA美國之音" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv03_mobile.png"  group-title="中华电信直播",美国之音
-http://192.168.10.250/zhonghuadianxin.php?id=litv-ftv03
-
-#EXTINF:-1 tvg-id="4gtv-live208" tvg-name="Love Nature" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live208_mobile.png"  group-title="中华电信直播",爱自然
-http://192.168.10.250/zhonghuadianxin.php?id=4gtv-live208
-#EXTINF:-1 tvg-id="4gtv-live026" tvg-name="History 歷史頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live026_mobile.png"  group-title="中华电信直播",历史频道
-http://192.168.10.250/zhonghuadianxin.php?id=4gtv-live026
-#EXTINF:-1 group-title="中华电信直播",寰宇新聞台
-http://192.168.10.250/zhonghuadianxin.php?id=litv-longturn14
-
-#EXTINF:-1 tvg-id="4gtv-4gtv001" tvg-name="民視台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="中华电信直播",民視台灣台
-http://192.168.10.250/zhonghuadianxin.php?id=4gtv-4gtv001
 
 #EXTINF:-1 tvg-id="litv-ftv16" tvg-name="GoodTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoodTV.png" group-title="台湾",好消息电视1
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
@@ -4360,18 +4277,15 @@ http://192.168.10.250/4gtv1080.php?id=114
 http://192.168.10.250/4gtv1080.php?id=115
 #EXTINF:-1 tvg-id="4gtv-live024" tvg-name="精選動漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live024_mobile.png" group-title="4gtv",精選動漫台
 http://192.168.10.250/4gtv1080.php?id=116
-#EXTINF:-1 tvg-id="4gtv-live005" tvg-name="華語戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live005_mobile.png" group-title="4gtv",華語戲劇台
-http://192.168.10.250/4gtv1080.php?id=117
-#EXTINF:-1 tvg-id="4gtv-live006" tvg-name="華語綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live006_mobile.png" group-title="4gtv",華語綜藝台
-http://192.168.10.250/4gtv1080.php?id=118
+
 #EXTINF:-1 tvg-id="4gtv-live010" tvg-name="戲劇免費看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live010_mobile.png" group-title="4gtv",戲劇免費看
-http://192.168.10.250/4gtv1080.php?id=119
+http://192.168.10.250/4gtv1080.php?id=117
 #EXTINF:-1 tvg-id="4gtv-live013" tvg-name="電影免費看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live013_mobile.png" group-title="4gtv",電影免費看
-http://192.168.10.250/4gtv1080.php?id=120
+http://192.168.10.250/4gtv1080.php?id=118
 #EXTINF:-1 tvg-id="4gtv-live015" tvg-name="超人力霸王整套看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live015_mobile.png" group-title="4gtv",超人力霸王整套看
-http://192.168.10.250/4gtv1080.php?id=121
+http://192.168.10.250/4gtv1080.php?id=119
 #EXTINF:-1 tvg-id="4gtv-live016" tvg-name="花系列 經典劇場" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live016_mobile.png" group-title="4gtv",花系列 經典劇場
-http://192.168.10.250/4gtv1080.php?id=122
+http://192.168.10.250/4gtv1080.php?id=120
 
 
 
@@ -4571,65 +4485,7 @@ http://192.168.10.250/huanlekan.php?id=kj
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",CNC World English
-http://192.168.10.250/yatai.php?id=0&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",cctv-4
-http://192.168.10.250/yatai.php?id=1&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",cctv-娱乐
-http://192.168.10.250/yatai.php?id=2&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",cgtn
-http://192.168.10.250/yatai.php?id=3&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",电影频道
-http://192.168.10.250/yatai.php?id=4&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",湖南国际
-http://192.168.10.250/yatai.php?id=5&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",浙江国际
-http://192.168.10.250/yatai.php?id=6&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",海峡卫视
-http://192.168.10.250/yatai.php?id=7&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",北京国际
-http://192.168.10.250/yatai.php?id=8&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",东方国际
-http://192.168.10.250/yatai.php?id=9&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",深圳国际
-http://192.168.10.250/yatai.php?id=10&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",亚太第一卫视
-http://192.168.10.250/yatai.php?id=11&m=cn
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",OneTV Discovery
-http://192.168.10.250/yatai.php?id=12&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",香港丝路国际卫视
-http://192.168.10.250/yatai.php?id=13&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",tvN MOVIES PROMOTION
-http://192.168.10.250/yatai.php?id=14&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",tvN PROMOTION
-http://192.168.10.250/yatai.php?id=15&m=cn
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",CNC World English
-http://192.168.10.250/yatai.php?id=0&m=en
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",telefilm
-http://192.168.10.250/yatai.php?id=1&m=en
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",fashion
-http://192.168.10.250/yatai.php?id=2&m=en
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",cgtn docu
-http://192.168.10.250/yatai.php?id=3&m=en
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",cgtn
-http://192.168.10.250/yatai.php?id=4&m=en
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",Din News HD
-http://192.168.10.250/yatai.php?id=5&m=en
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",HKitv
-http://192.168.10.250/yatai.php?id=6&m=en
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",tvN MOVIES PROMOTION
-http://192.168.10.250/yatai.php?id=7&m=en
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",tvN PROMOTION
-http://192.168.10.250/yatai.php?id=8&m=en
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",bolnews
-http://192.168.10.250/yatai.php?id=9&m=en
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",bol娱乐
-http://192.168.10.250/yatai.php?id=10&m=en
 
 #EXTINF:-1 tvg-id="600021" tvg-name="" tvg-logo="" group-title="韩国",KBS-1
 http://192.168.10.250/kbs.php?id=11

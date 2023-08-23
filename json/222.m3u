@@ -106,7 +106,9 @@ http://hlsout-test.ysp.cctv.cn/ysp/2000295103.m3u8
 http://hlsout-test.ysp.cctv.cn/ysp/2000294403.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="青海央视频" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="央视频",青海央视频
 http://hlsout-test.ysp.cctv.cn/ysp/2000294703.m3u8
-:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京教育网p6",cctv1
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="北京教育网p6",cctv1
 http://tv6.blcu.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/5f7227d965-0-0-b3f66f58f70b63d188ac604e946e4b74/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京教育网p6",cctv2
 http://tv6.blcu.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/481d1204e4-0-0-a7609aa58ecf988917b06f65dd885fda/index.m3u8
@@ -244,6 +246,8 @@ http://tv6.blcu.edu.cn/liverespath/43e028d4df4dc0757f4e1b6241f7cdcad721486f/79de
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo=" " group-title="河北广电",cctv1
 http://cyz32.livehbindex.hbcatv.cn/live/50000020935c4d59965a1cbf159c9be9.m3u8?bitrate=2300&pt=5
+
+
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo=" " group-title="河北广电",cctv2
 http://cyz32.livehbindex.hbcatv.cn/live/50000020d7ae404dbd55b5d0ba6fe735.m3u8?bitrate=2300&pt=5
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo=" " group-title="河北广电",cctv3
