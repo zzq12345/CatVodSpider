@@ -360,7 +360,7 @@ hbo sig,,http://192.168.43.159:8081/histarapp.php?id=539
 hbo fam,http://192.168.43.159:8081/histarapp.php?id=540
 hbo hits,http://192.168.43.159:8081/histarapp.php?id=541
 央视频,#genre#
-
+cctv8k,http://hlsout-test.ysp.cctv.cn/ysp/2020603421.m3u8
 CCTV1综合,http://192.168.43.159:8081/ysp1.php?id=cctv1
 CCTV2财经,http://192.168.43.159:8081/ysp1.php?id=cctv2
 CCTV3综艺,http://192.168.43.159:8081/ysp1.php?id=cctv3
