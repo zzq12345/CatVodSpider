@@ -4355,8 +4355,7 @@ http://192.168.10.250/litvtest.php?id=4gtv-4gtv155
 
 #EXTINF:-1 tvg-id="4gtv-4gtv066" tvg-name="台視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_pc.png" group-title="litv",台視
 http://192.168.10.250/litvtest.php?id=4gtv-4gtv066
-#EXTINF:-1 tvg-id="litv-vchannel9" tvg-name="包青天 1993版" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel9_pc_20210804.png" group-title="litv",包青天 1993版
-http://192.168.10.250/litvtest.php?id=litv-vchannel9
+
 #EXTINF:-1 tvg-id="4gtv-4gtv040" tvg-name="中視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_pc.png" group-title="litv",中視
 http://192.168.10.250/litvtest.php?id=4gtv-4gtv040
 
