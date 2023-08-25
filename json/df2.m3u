@@ -4426,7 +4426,7 @@ http://192.168.10.250/litvtest.php?id=4gtv-4gtv009
 http://192.168.10.250/litvtest.php?id=litv-longturn15
 #EXTINF:-1 tvg-id="litv-longturn14" tvg-name="寰宇新聞台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_pc.png" group-title="litv",寰宇新聞台
 http://192.168.10.250/litvtest.php?id=litv-longturn14
-#EXTINF:-1 tvg-id="litv-longturn21" tvg-name="龍華經典台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_pc.png" group-title="litv",龍華經典台
+#EXTINF:-1 tvg-id="litv-longturn21" tvg-name="龍華經典" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_pc.png" group-title="litv",龍華經典
 http://192.168.10.250/litvtest.php?id=litv-longturn21
 
 #EXTINF:-1 tvg-id="4gtv-4gtv011" tvg-name="影迷數位電影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv011_pc.png" group-title="litv",影迷數位電影台
