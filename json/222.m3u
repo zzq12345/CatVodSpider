@@ -52,11 +52,11 @@ https://cntv.sbs/tv?auth=230813&id=jsws
 https://cntv.sbs/tv?auth=230813&id=zjws
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="国内频道备用",湖南卫视
 https://cntv.sbs/tv?auth=230813&id=hunws
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="电影",CHC动作电影
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="国内频道备用",CHC动作电影
 http://pi.0472.org/tv/cbn.php?id=chcdzdyHD
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="电影",CHC家庭影院
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="国内频道备用",CHC家庭影院
 http://pi.0472.org/tv/cbn.php?id=chcjtyyHD
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="电影",CHC高清电影
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="国内频道备用",CHC高清电影
 http://pi.0472.org/tv/cbn.php?id=chcgqdyHD
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png" group-title="国内频道备用",海峡卫视
 https://cntv.sbs/tv?auth=230813&id=hxws
