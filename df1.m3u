@@ -1,259 +1,503 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,http://zzqwe.giize.com:12228/epgmysuper.xml,http://zzqwe.giize.com:12228/epg4gtv2.xml,http://zzqwe.giize.com:12228/epganywhere.xml,https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 tvg-id="800001" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频",CCTV2财经
-http://127.0.0.1:8081/ysp.php?id=cctv2
-#EXTINF:-1 tvg-id="800002" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视频",CCTV3综艺
-http://127.0.0.1:8081/ysp.php?id=cctv3
-#EXTINF:-1 tvg-id="800003" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频",CCTV4中文国际
-http://127.0.0.1:8081/ysp.php?id=cctv4
-#EXTINF:-1 tvg-id="800004" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频",CCTV5体育
-http://127.0.0.1:8081/ysp.php?id=cctv5
-#EXTINF:-1 tvg-id="800005" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频",CCTV5+体育赛事
-http://127.0.0.1:8081/ysp.php?id=cctv5p
-#EXTINF:-1 tvg-id="800006" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频",CCTV6电影
-http://127.0.0.1:8081/ysp.php?id=cctv6
 
-#EXTINF:-1 tvg-id="800007" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视频",CCTV7国防军事
-http://127.0.0.1:8081/ysp.php?id=cctv7
-#EXTINF:-1 tvg-id="800008" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视频",CCTV8电视剧
-http://127.0.0.1:8081/ysp.php?id=cctv8
-#EXTINF:-1 tvg-id="800009" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视频",CCTV9纪录
-http://127.0.0.1:8081/ysp.php?id=cctv9
-#EXTINF:-1 tvg-id="800010" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视频",CCTV10科教
-http://127.0.0.1:8081/ysp.php?id=cctv10
-#EXTINF:-1 tvg-id="800011" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视频",CCTV11戏曲
-http://127.0.0.1:8081/ysp.php?id=cctv11
-#EXTINF:-1 tvg-id="800012" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视频",CCTV12社会与法
-http://127.0.0.1:8081/ysp.php?id=cctv12
-#EXTINF:-1 tvg-id="800013" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频",CCTV13新闻
-http://127.0.0.1:8081/ysp.php?id=cctv13
-#EXTINF:-1 tvg-id="800014" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视频",CCTV14少儿
-http://127.0.0.1:8081/ysp.php?id=cctv14
-#EXTINF:-1 tvg-id="800015" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视频",CCTV15音乐
-http://127.0.0.1:8081/ysp.php?id=cctv15
-#EXTINF:-1 tvg-id="800016" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视频",CCTV-16高清
-http://127.0.0.1:8081/ysp.php?id=cctv16
-#EXTINF:-1 tvg-id="800016" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视频",CCTV-16高清
-http://127.0.0.1:8081/ysp.php?id=cctv16-4k
-#EXTINF:-1 tvg-id="800017" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频",CCTV17农村农业
-http://127.0.0.1:8081/ysp.php?id=cctv17
-#EXTINF:-1 tvg-id="800018" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频",cctv4k
-http://127.0.0.1:8081/ysp.php?id=cctv4k
-#EXTINF:-1 tvg-id="800032" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN
-http://127.0.0.1:8081/ysp.php?id=cgtn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",cctv1
+http://127.0.0.1:8081/histar.php?id=cctv1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",cctv2
+http://127.0.0.1:8081/histar.php?id=cctv2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",cctv3 
+http://127.0.0.1:8081/histar.php?id=cctv3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",cctv4
+http://127.0.0.1:8081/histar.php?id=cctv4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",cctv5 
+http://127.0.0.1:8081/histar.php?id=cctv5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",cctv6
+http://127.0.0.1:8081/histar.php?id=cctv6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",cctv7
+http://127.0.0.1:8081/histar.php?id=cctv7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",cctv8 
+http://127.0.0.1:8081/histar.php?id=cctv8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",cctv9 
+http://127.0.0.1:8081/histar.php?id=cctv9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",cctv10 
+http://127.0.0.1:8081/histar.php?id=cctv10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",cctv11 
+http://127.0.0.1:8081/histar.php?id=cctv11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",cctv12
+http://127.0.0.1:8081/histar.php?id=cctv12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",cctv13 
+http://127.0.0.1:8081/histar.php?id=cctv13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",cctv14 
+http://127.0.0.1:8081/histar.php?id=cctv14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",cctv15 
+http://127.0.0.1:8081/histar.php?id=cctv15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",cctv16 
+http://127.0.0.1:8081/histar.php?id=cctv16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",cctv17 
+http://127.0.0.1:8081/histar.php?id=cctv17
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",cctv5+ 
+http://127.0.0.1:8081/histar.php?id=cctv5plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",北京卫视
+http://127.0.0.1:8081/histar.php?id=beijing
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",湖南卫视
+http://127.0.0.1:8081/histar.php?id=hunan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",浙江卫视
+http://127.0.0.1:8081/histar.php?id=zhejiang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",东方卫视
+http://127.0.0.1:8081/histar.php?id=dongfang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",江苏卫视
+http://127.0.0.1:8081/histar.php?id=jiangsu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",重庆卫视
+http://127.0.0.1:8081/histar.php?id=chongqing
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",东南卫视
+http://127.0.0.1:8081/histar.php?id=dongnan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",海峡卫视
+http://127.0.0.1:8081/histar.php?id=fujianhaixia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",甘肃卫视
+http://127.0.0.1:8081/histar.php?id=gansu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",广西卫视
+http://127.0.0.1:8081/histar.php?id=guangxi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",贵州卫视
+http://127.0.0.1:8081/histar.php?id=guizhou
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",海南卫视
+http://127.0.0.1:8081/histar.php?id=hainan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",河北卫视
+http://127.0.0.1:8081/histar.php?id=hebei
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",黑龙江卫视
+http://127.0.0.1:8081/histar.php?id=heilongjiang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",湖北卫视
+http://127.0.0.1:8081/histar.php?id=hubei
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",江西卫视
+http://127.0.0.1:8081/histar.php?id=jiangxi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",吉林卫视
+http://127.0.0.1:8081/histar.php?id=jilin
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",辽宁卫视
+http://127.0.0.1:8081/histar.php?id=liaoning
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",南方卫视
+http://127.0.0.1:8081/histar.php?id=nanfang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",内蒙古卫视
+http://127.0.0.1:8081/histar.php?id=neimenggu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",宁夏卫视
+http://127.0.0.1:8081/histar.php?id=ningxia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",陕西卫视
+http://127.0.0.1:8081/histar.php?id=shaanxi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",山东卫视
+http://127.0.0.1:8081/histar.php?id=shandong
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",山西卫视
+http://127.0.0.1:8081/histar.php?id=shanxi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",深圳卫视
+http://127.0.0.1:8081/histar.php?id=shenzhen
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",四川卫视
+http://127.0.0.1:8081/histar.php?id=sichuan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",天津卫视
+http://127.0.0.1:8081/histar.php?id=tianjin
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",厦门卫视
+http://127.0.0.1:8081/histar.php?id=xiamen
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",新疆卫视
+http://127.0.0.1:8081/histar.php?id=xinjiang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",西藏卫视
+http://127.0.0.1:8081/histar.php?id=xizang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",云南卫视
+http://127.0.0.1:8081/histar.php?id=yunnan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",广东卫视
+http://127.0.0.1:8081/histar.php?id=guangdong
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",安徽卫视
+http://127.0.0.1:8081/histar.php?id=anhui
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",河南卫视
+http://127.0.0.1:8081/histar.php?id=henan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="histar",青海卫视
+http://127.0.0.1:8081/histar.php?id=qinghai
+#EXTINF:-1 tvg-id="70002" tvg-name="翡翠台" tvg-logo="" group-title="histar",翡翠台
+http://127.0.0.1:8081/histar.php?id=feicui
+#EXTINF:-1 tvg-id="70004" tvg-name="TVB 無線新聞台" tvg-logo="" group-title="histar",無線新聞台
+http://127.0.0.1:8081/histar.php?id=tvb-news
+#EXTINF:-1 tvg-id="100644" tvg-name="TVB星河" tvg-logo="" group-title="histar",TVB星河
+http://127.0.0.1:8081/histar.php?id=tvb-xinghe
+#EXTINF:-1 tvg-id="70010" tvg-name="娛樂新聞台" tvg-logo="" group-title="histar",娛樂新聞台
+http://127.0.0.1:8081/histar.php?id=TVB%20ylxw
+#EXTINF:-1 tvg-id="70007" tvg-name="千禧經典台" tvg-logo="" group-title="histar",經典台
+http://127.0.0.1:8081/histar.php?id=tvb-classic
+#EXTINF:-1 tvg-id="70006" tvg-name="無線財經台" tvg-logo="" group-title="histar",無線財經台
+http://127.0.0.1:8081/histar.php?id=tvb-finance
+#EXTINF:-1 tvg-id="70017" tvg-name="粵語片台" tvg-logo="" group-title="histar",粵語片台
+http://127.0.0.1:8081/histar.php?id=tvb-yueyu
+#EXTINF:-1 tvg-id="70005" tvg-name="明珠台" tvg-logo="" group-title="histar",明珠台
+http://127.0.0.1:8081/histar.php?id=pearl
+#EXTINF:-1 tvg-id="70008" tvg-name="亞洲劇台" tvg-logo="" group-title="histar",亞洲劇台
+http://127.0.0.1:8081/histar.php?id=tvb-asia-drama
+#EXTINF:-1 tvg-id="70009" tvg-name="華語劇台" tvg-logo="" group-title="histar",華語劇台
+http://127.0.0.1:8081/histar.php?id=tvb-drama
+#EXTINF:-1 tvg-id="70058"" tvg-name="鳳凰衛視中文台" tvg-logo="" group-title="histar",鳳凰衛視中文台
+http://127.0.0.1:8081/histar.php?id=phtv
+#EXTINF:-1 tvg-id="70059" tvg-name="鳳凰衛視資訊台" tvg-logo="" group-title="histar",鳳凰衛視資訊台
+http://127.0.0.1:8081/histar.php?id=phtv-info
+#EXTINF:-1 tvg-id="70058"" tvg-name="鳳凰衛視中文台" tvg-logo="" group-title="histar",鳳凰衛視中文台
+http://127.0.0.1:8081/histar.php?id=phtv-cn
+#EXTINF:-1 tvg-id="70060" tvg-name="鳳凰衛視香港台" tvg-logo="" group-title="histar",鳳凰衛視香港台
+http://127.0.0.1:8081/histar.php?id=phtv-hk
+#EXTINF:-1 tvg-id="100594" tvg-name="now財經" tvg-logo="" group-title="histar",now財經
+http://127.0.0.1:8081/histar.php?id=now-finance
+#EXTINF:-1 tvg-id="" tvg-name="Now華劇台" tvg-logo="" group-title="histar",Now 華劇台
+http://127.0.0.1:8081/histar.php?id=nowhjt
+#EXTINF:-1 tvg-id="" tvg-name="Now 星影台" tvg-logo="" group-title="histar",Now 星影台
+http://127.0.0.1:8081/histar.php?id=now-baogu-superstars
+#EXTINF:-1 tvg-id="100588" tvg-name="Now 爆穀台" tvg-logo="" group-title="histar",Now 爆穀台
+http://127.0.0.1:8081/histar.php?id=baogu-movies
+#EXTINF:-1 tvg-id="" tvg-name="天映頻道 HD" tvg-logo="" group-title="histar",天映頻道 HD
+http://127.0.0.1:8081/histar.php?id=celestial
+#EXTINF:-1 tvg-id="70020" tvg-name="天映經典頻道" tvg-logo="" group-title="histar",天映經典頻道
+http://127.0.0.1:8081/histar.php?id=cccm
+#EXTINF:-1 tvg-id="70003" tvg-name="J2" tvg-logo="" group-title="histar",J2
+http://127.0.0.1:8081/histar.php?id=j2
+#EXTINF:-1 tvg-id="100581" tvg-name="ViuTV" tvg-logo="" group-title="histar",ViuTV
+http://127.0.0.1:8081/histar.php?id=viutv
+#EXTINF:-1 tvg-id="100580" tvg-name="ViuTV6" tvg-logo="" group-title="histar",ViuTV6
+http://127.0.0.1:8081/histar.php?id=viutv6
+#EXTINF:-1 tvg-id="100440" tvg-name="香港開電視" tvg-logo="" group-title="histar",HOY TV
+http://127.0.0.1:8081/histar.php?id=hoytv
+#EXTINF:-1 tvg-id="100441" tvg-name="香港开资讯" tvg-logo="" group-title="histar",HOY 資訊台
+http://127.0.0.1:8081/histar.php?id=hoy-info
+#EXTINF:-1 tvg-id="100443" tvg-name="香港國際財經" tvg-logo="" group-title="histar",香港國際財經台
+http://127.0.0.1:8081/histar.php?id=hkibc
+
+#EXTINF:-1 tvg-id="100007" tvg-name="蓮花衛視" tvg-logo="" group-title="histar",蓮花衛視
+http://127.0.0.1:8081/histar.php?id=lotustv
+#EXTINF:-1 tvg-id="100643" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png"  group-title="histar",港臺電視 31
+http://127.0.0.1:8081/histar.php?id=rthk31
+#EXTINF:-1 tvg-id="100644" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png"  group-title="histar",港臺電視 32
+http://127.0.0.1:8081/histar.php?id=rthk32
+#EXTINF:-1 tvg-id="" tvg-name="澳門資訊" tvg-logo="" group-title="histar",澳門資訊
+http://127.0.0.1:8081/histar.php?id=amzx
+#EXTINF:-1 tvg-id="" tvg-name="澳視澳門" tvg-logo="" group-title="histar",澳視澳門
+http://127.0.0.1:8081/histar.php?id=asam
+
+#EXTINF:-1 tvg-id="" tvg-name="中天綜合台" tvg-logo="" group-title="histar",中天綜合台
+http://127.0.0.1:8081/histar.php?id=ctitv36
+#EXTINF:-1 tvg-id="" tvg-name="中天亞洲台" tvg-logo="" group-title="histar",中天亞洲台
+http://127.0.0.1:8081/histar.php?id=cti-asia
+#EXTINF:-1 tvg-id="100275" tvg-name="緯來日本台" tvg-logo="" group-title="histar",緯來日本台
+http://127.0.0.1:8081/histar.php?id=videoland-japan
+#EXTINF:-1 tvg-id="" tvg-name="緯來綜合台" tvg-logo="" group-title="histar",緯來綜合台
+http://127.0.0.1:8081/histar.php?id=videoland
+#EXTINF:-1 tvg-id="70045" tvg-name="TVBS Asia" tvg-logo="" group-title="histar",TVBS Asia
+http://127.0.0.1:8081/histar.php?id=tvbs-asia
+#EXTINF:-1 tvg-id="" tvg-name="東森綜合台" tvg-logo="" group-title="histar",東森綜合台
+http://127.0.0.1:8081/histar.php?id=ebc-ettv
+#EXTINF:-1 tvg-id="100232" tvg-name="超視" tvg-logo="" group-title="histar",超視
+http://127.0.0.1:8081/histar.php?id=ebc-supertv
+#EXTINF:-1 tvg-id="" tvg-name="台視" tvg-logo="" group-title="histar",台視
+http://127.0.0.1:8081/histar.php?id=ttv
+#EXTINF:-1 tvg-id="" tvg-name="八大綜合台" tvg-logo="" group-title="histar",八大綜合台
+http://127.0.0.1:8081/histar.php?id=gtv28
+#EXTINF:-1 tvg-id="" tvg-name="八大第一台" tvg-logo="" group-title="histar",八大第一台
+http://127.0.0.1:8081/histar.php?id=gtv27
+#EXTINF:-1 tvg-id="" tvg-name="中視" tvg-logo="" group-title="histar",中視
+http://127.0.0.1:8081/histar.php?id=ctv-hd
+#EXTINF:-1 tvg-id="" tvg-name="中視" tvg-logo="" group-title="histar",中視
+http://127.0.0.1:8081/histar.php?id=ctv
+#EXTINF:-1 tvg-id="" tvg-name="華視" tvg-logo="" group-title="histar",華視
+http://127.0.0.1:8081/histar.php?id=cts
+#EXTINF:-1 tvg-id="100093" tvg-name="愛爾達綜合台" tvg-logo="" group-title="histar",愛爾達綜合台
+http://127.0.0.1:8081/histar.php?id=elta-tv
+#EXTINF:-1 tvg-id="100216" tvg-name="客家電視台" tvg-logo="" group-title="histar",客家電視台
+http://127.0.0.1:8081/histar.php?id=hakkatv
+#EXTINF:-1 tvg-id="" tvg-name="公視3台" tvg-logo="" group-title="histar",公視3台
+http://127.0.0.1:8081/histar.php?id=pts3
+#EXTINF:-1 tvg-id="" tvg-name="公視" tvg-logo="" group-title="histar",公視
+http://127.0.0.1:8081/histar.php?id=pts
+#EXTINF:-1 tvg-id="" tvg-name="KLT-靖天國際台" tvg-logo="" group-title="histar",KLT-靖天國際台
+http://127.0.0.1:8081/histar.php?id=jtgj
+#EXTINF:-1 tvg-id="" tvg-name="大愛電視台" tvg-logo="" group-title="histar",大愛電視台
+http://127.0.0.1:8081/histar.php?id=daai1
+#EXTINF:-1 tvg-id="" tvg-name="大愛二台" tvg-logo="" group-title="histar",大愛二台
+http://127.0.0.1:8081/histar.php?id=daai2
+#EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="histar",中天新聞
+http://127.0.0.1:8081/histar.php?id=cti-news
+#EXTINF:-1 tvg-id="100255" tvg-name="TVBS HD" tvg-logo="" group-title="histar",TVBS HD
+http://127.0.0.1:8081/histar.php?id=tvbs-hd
+#EXTINF:-1 tvg-id="" tvg-name="TVBS 新聞台" tvg-logo="" group-title="histar",TVBS 新聞台
+http://127.0.0.1:8081/histar.php?id=tvbs-news
+#EXTINF:-1 tvg-id="100250" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png"  group-title="histar",東森新聞台
+http://127.0.0.1:8081/histar.php?id=ebc-news
+#EXTINF:-1 tvg-id="100256" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png"  group-title="histar",東森財經新聞
+http://127.0.0.1:8081/histar.php?id=ebc-finance
+#EXTINF:-1 tvg-id="100148" tvg-name="壹電視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png"  group-title="histar",壹新聞
+http://127.0.0.1:8081/histar.php?id=nexttv
+#EXTINF:-1 tvg-id="" tvg-name="中視新聞" tvg-logo="" group-title="histar",中視新聞
+http://127.0.0.1:8081/histar.php?id=ctv-news
+#EXTINF:-1 tvg-id="100249" tvg-name="era news 年代新聞" tvg-logo="" group-title="histar",era news 年代新聞
+http://127.0.0.1:8081/histar.php?id=era-news
+#EXTINF:-1 tvg-id="" tvg-name="寰宇新聞台" tvg-logo="" group-title="histar",寰宇新聞台
+http://127.0.0.1:8081/histar.php?id=global-news
+#EXTINF:-1 tvg-id="" tvg-name="台視新聞" tvg-logo="" group-title="histar",台視新聞
+http://127.0.0.1:8081/histar.php?id=ttv-news
+#EXTINF:-1 tvg-id="100257" tvg-name="非凡新聞台" tvg-logo=""  group-title="histar",非凡新聞
+http://127.0.0.1:8081/histar.php?id=ustv-news
+#EXTINF:-1 tvg-id="" tvg-name="華視新聞" tvg-logo="" group-title="histar",華視新聞
+http://127.0.0.1:8081/histar.php?id=cts-news
+#EXTINF:-1 tvg-id="" tvg-name="鏡新聞" tvg-logo="" group-title="histar",鏡新聞
+http://127.0.0.1:8081/histar.php?id=mnews
+#EXTINF:-1 tvg-id="" tvg-name="靖天資訊台" tvg-logo="" group-title="histar",靖天資訊台
+http://127.0.0.1:8081/histar.php?id=jtzx
+#EXTINF:-1 tvg-id="" tvg-name="星衛HD電影台" tvg-logo="" group-title="histar",星衛HD電影台
+http://127.0.0.1:8081/histar.php?id=star-movies
+#EXTINF:-1 tvg-id="" tvg-name="緯來戲劇台" tvg-logo="" group-title="histar",緯來戲劇台
+http://127.0.0.1:8081/histar.php?id=videoland-drama
+#EXTINF:-1 tvg-id="" tvg-name="東森電影台" tvg-logo="" group-title="histar",東森電影 HD
+http://127.0.0.1:8081/histar.php?id=ebc-movie-hd
+#EXTINF:-1 tvg-id="100261" tvg-name="東森電影台" tvg-logo="" group-title="histar",東森電影台
+http://127.0.0.1:8081/histar.php?id=ebc-movie
+#EXTINF:-1 tvg-id="" tvg-name="東森洋片台" tvg-logo="" group-title="histar",東森洋片台
+http://127.0.0.1:8081/histar.php?id=ebc-emovie
+#EXTINF:-1 tvg-id="" tvg-name="東森戲劇台" tvg-logo="" group-title="histar",東森戲劇台
+http://127.0.0.1:8081/histar.php?id=ebc-drama
+#EXTINF:-1 tvg-id="" tvg-name="衛視電影台" tvg-logo="" group-title="histar",衛視電影台
+http://127.0.0.1:8081/histar.php?id=star-chinese-movies
+#EXTINF:-1 tvg-id="" tvg-name="星衛娛樂台" tvg-logo="" group-title="histar",星衛娛樂台
+http://127.0.0.1:8081/histar.php?id=star-entetainment
+#EXTINF:-1 tvg-id="" tvg-name="衛視中文台" tvg-logo="" group-title="histar",衛視中文台
+http://127.0.0.1:8081/histar.php?id=star-chinese-channel
+#EXTINF:-1 tvg-id="" tvg-name="龍華電影台" tvg-logo="" group-title="histar",龍華電影台
+http://127.0.0.1:8081/histar.php?id=ltv-movies
+#EXTINF:-1 tvg-id="" tvg-name="龍華洋片" tvg-logo="" group-title="histar",龍華洋片
+http://127.0.0.1:8081/histar.php?id=ltv-yangpian
+#EXTINF:-1 tvg-id="" tvg-name="好萊塢電影台" tvg-logo="" group-title="histar",好萊塢電影台
+http://127.0.0.1:8081/histar.php?id=hollywood-tw
+#EXTINF:-1 tvg-id="100241" tvg-name="TVBS歡樂台" tvg-logo="" group-title="histar",TVBS歡樂台
+http://127.0.0.1:8081/histar.php?id=tvbs-huanle
+#EXTINF:-1 tvg-id="" tvg-name="愛爾達影劇台" tvg-logo="" group-title="histar",愛爾達影劇台
+http://127.0.0.1:8081/histar.php?id=elta-drama
+#EXTINF:-1 tvg-id="" tvg-name="LS TIME電影台" tvg-logo="" group-title="histar",LS TIME電影台
+http://127.0.0.1:8081/histar.php?id=lstime
+#EXTINF:-1 tvg-id="" tvg-name="EYE TV戲劇台" tvg-logo="" group-title="histar",EYE TV戲劇台
+http://127.0.0.1:8081/histar.php?id=eye-drama
+#EXTINF:-1 tvg-id="" tvg-name="八大戲劇台" tvg-logo="" group-title="histar",八大戲劇台
+http://127.0.0.1:8081/histar.php?id=gtv41
+#EXTINF:-1 tvg-id="" tvg-name="八大娛樂台" tvg-logo="" group-title="histar",八大娛樂台
+http://127.0.0.1:8081/histar.php?id=gtv86
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="" group-title="histar",MTV Live
+http://127.0.0.1:8081/histar.php?id=mtv
+#EXTINF:-1 tvg-id="" tvg-name="靖天電影台" tvg-logo="" group-title="histar",靖天電影台
+http://127.0.0.1:8081/histar.php?id=jtdy
+#EXTINF:-1 tvg-id="" tvg-name="中天娛樂台" tvg-logo="" group-title="histar",中天娛樂台
+http://127.0.0.1:8081/histar.php?id=ctitv39
+#EXTINF:-1 tvg-id="" tvg-name="靖洋戲劇台" tvg-logo="" group-title="histar",靖洋戲劇台
+http://127.0.0.1:8081/histar.php?id=jyxj
+#EXTINF:-1 tvg-id="" tvg-name="美亞電影台" tvg-logo="" group-title="histar",美亞電影台
+http://127.0.0.1:8081/histar.php?id=meiah-movies
+#EXTINF:-1 tvg-id="" tvg-name="8TV" tvg-logo="" group-title="histar",8TV
+http://127.0.0.1:8081/histar.php?id=8tv
+#EXTINF:-1 tvg-id="" tvg-name="Astro AEC" tvg-logo="" group-title="histar",Astro AEC
+http://127.0.0.1:8081/histar.php?id=astro-aec
+#EXTINF:-1 tvg-id="" tvg-name="Astro 華麗台" tvg-logo="" group-title="histar",Astro 華麗台
+http://127.0.0.1:8081/histar.php?id=astro-wahlaitoi
+#EXTINF:-1 tvg-id="" tvg-name="Astro 歡喜台" tvg-logo="" group-title="histar",Astro 歡喜台
+http://127.0.0.1:8081/histar.php?id=astro-huaheedai
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD HD" tvg-logo="" group-title="histar",Astro AOD HD
+http://127.0.0.1:8081/histar.php?id=astro-aod-hd
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD" tvg-logo="" group-title="histar",Astro AOD
+http://127.0.0.1:8081/histar.php?id=astro-aod
+#EXTINF:-1 tvg-id="" tvg-name="Channel U" tvg-logo="" group-title="histar",Channel U
+http://127.0.0.1:8081/histar.php?id=channel-u
+#EXTINF:-1 tvg-id="" tvg-name="Channel 5" tvg-logo="" group-title="histar",Channel 5
+http://127.0.0.1:8081/histar.php?id=channel-5
+#EXTINF:-1 tvg-id="" tvg-name="Channel 8" tvg-logo="" group-title="histar",Channel 8
+http://127.0.0.1:8081/histar.php?id=channel8
+#EXTINF:-1 tvg-id="" tvg-name="Astro 愛奇藝" tvg-logo="" group-title="histar",Astro 愛奇藝
+http://127.0.0.1:8081/histar.php?id=astro-iqiyi
+#EXTINF:-1 tvg-id="" tvg-name="Astro 全佳台 HD" tvg-logo="" group-title="histar",Astro 全佳台 HD
+http://127.0.0.1:8081/histar.php?id=astro-quanjia
+#EXTINF:-1 tvg-id="" tvg-name="Astro 雙星台" tvg-logo="" group-title="histar",Astro 雙星台
+http://127.0.0.1:8081/histar.php?id=astro-shuangxing
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena HD" tvg-logo="" group-title="histar",Astro Arena HD
+http://127.0.0.1:8081/histar.php?id=astro-arena-hd
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena 2" tvg-logo="" group-title="histar",Astro Arena 2
+http://127.0.0.1:8081/histar.php?id=astro-arena2
+#EXTINF:-1 tvg-id="" tvg-name="Astro ONE" tvg-logo="" group-title="histar",Astro ONE
+http://127.0.0.1:8081/histar.php?id=astro-one
+#EXTINF:-1 tvg-id="" tvg-name="Astro Awani" tvg-logo="" group-title="histar",Astro Awani
+http://127.0.0.1:8081/histar.php?id=astro-awani
+#EXTINF:-1 tvg-id="" tvg-name="OKEY" tvg-logo="" group-title="histar",OKEY
+http://127.0.0.1:8081/histar.php?id=okey
+#EXTINF:-1 tvg-id="" tvg-name="TV9" tvg-logo="" group-title="histar",TV9
+http://127.0.0.1:8081/histar.php?id=tv9
+#EXTINF:-1 tvg-id="" tvg-name="Astro Ceria" tvg-logo="" group-title="histar",Astro Ceria
+http://127.0.0.1:8081/histar.php?id=astro-ceria
+#EXTINF:-1 tvg-id="" tvg-name="Astro Prima" tvg-logo="" group-title="histar",Astro Prima
+http://127.0.0.1:8081/histar.php?id=astro-prima
+#EXTINF:-1 tvg-id="" tvg-name="Astro Warna" tvg-logo="" group-title="histar",Astro Warna
+http://127.0.0.1:8081/histar.php?id=astro-warna
+#EXTINF:-1 tvg-id="" tvg-name="Astro Aura" tvg-logo="" group-title="histar",Astro Aura
+http://127.0.0.1:8081/histar.php?id=astro-aura
+#EXTINF:-1 tvg-id="" tvg-name="Astro Oasis" tvg-logo="" group-title="histar",Astro Oasis
+http://127.0.0.1:8081/histar.php?id=astro-oasis
+#EXTINF:-1 tvg-id="" tvg-name="Astro Rania" tvg-logo="" group-title="histar",Astro Rania
+http://127.0.0.1:8081/histar.php?id=astro-rania
+#EXTINF:-1 tvg-id="" tvg-name="Astro Citra" tvg-logo="" group-title="histar",Astro Citra
+http://127.0.0.1:8081/histar.php?id=astro-citra
+#EXTINF:-1 tvg-id="" tvg-name="廣東珠江" tvg-logo="" group-title="histar",廣東珠江
+http://127.0.0.1:8081/histar.php?id=gdzj
+#EXTINF:-1 tvg-id="" tvg-name="廣東體育" tvg-logo="" group-title="histar",廣東體育
+http://127.0.0.1:8081/histar.php?id=gdty
+#EXTINF:-1 tvg-id="" tvg-name="上海都市" tvg-logo="" group-title="histar",上海都市
+http://127.0.0.1:8081/histar.php?id=shds
+#EXTINF:-1 tvg-id="" tvg-name="五星體育" tvg-logo="" group-title="histar",五星體育
+http://127.0.0.1:8081/histar.php?id=wxty
+#EXTINF:-1 tvg-id="" tvg-name="第一財經" tvg-logo="" group-title="histar",第一財經
+http://127.0.0.1:8081/histar.php?id=yicai
+#EXTINF:-1 tvg-id="" tvg-name="上海新聞" tvg-logo="" group-title="histar",上海新聞
+http://127.0.0.1:8081/histar.php?id=shxw
+#EXTINF:-1 tvg-id="" tvg-name="北京體育休閒" tvg-logo="" group-title="histar",北京體育休閒
+http://127.0.0.1:8081/histar.php?id=bjtyxx
+#EXTINF:-1 tvg-id="" tvg-name="湖南經視" tvg-logo="" group-title="histar",湖南經視
+http://127.0.0.1:8081/histar.php?id=hnjs
+#EXTINF:-1 tvg-id="" tvg-name="北京財經" tvg-logo="" group-title="histar",北京財經
+http://127.0.0.1:8081/histar.php?id=bjcj
+#EXTINF:-1 tvg-id="" tvg-name="天津體育" tvg-logo="" group-title="histar",天津體育
+http://127.0.0.1:8081/histar.php?id=tjty
+#EXTINF:-1 tvg-id="" tvg-name="河南梨園" tvg-logo="" group-title="histar",河南梨園
+http://127.0.0.1:8081/histar.php?id=hnly
+#EXTINF:-1 tvg-id="" tvg-name="遼寧體育" tvg-logo="" group-title="histar",遼寧體育
+http://127.0.0.1:8081/histar.php?id=lnty
+#EXTINF:-1 tvg-id="" tvg-name="愛爾達體育1台" tvg-logo="" group-title="histar",愛爾達體育1台
+http://127.0.0.1:8081/histar.php?id=elta-sport1
+#EXTINF:-1 tvg-id="" tvg-name="愛爾達體育2台" tvg-logo="" group-title="histar",愛爾達體育2台
+http://127.0.0.1:8081/histar.php?id=elta-sport2
+#EXTINF:-1 tvg-id="" tvg-name="愛爾達體育3台" tvg-logo="" group-title="histar",愛爾達體育3台
+http://127.0.0.1:8081/histar.php?id=elta-sport3
+#EXTINF:-1 tvg-id="" tvg-name="NBA" tvg-logo="" group-title="histar",NBA
+http://127.0.0.1:8081/histar.php?id=nba
+#EXTINF:-1 tvg-id="" tvg-name="緯來體育台" tvg-logo="" group-title="histar",緯來體育台
+http://127.0.0.1:8081/histar.php?id=videoland-sport
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="" group-title="histar",ELEVEN SPORTS 1
+http://127.0.0.1:8081/histar.php?id=eleven-sport1
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2" tvg-logo="" group-title="histar",ELEVEN SPORTS 2
+http://127.0.0.1:8081/histar.php?id=eleven-sport2
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="" group-title="histar",beIN Sports 1
+http://127.0.0.1:8081/histar.php?id=bein-sports1
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2" tvg-logo="" group-title="histar",beIN Sports 2
+http://127.0.0.1:8081/histar.php?id=bein-sports2
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="" group-title="histar",beIN Sports 3
+http://127.0.0.1:8081/histar.php?id=bein-sports3
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport HD" tvg-logo="" group-title="histar",Eurosport HD
+http://127.0.0.1:8081/histar.php?id=eurosport-hd
+#EXTINF:-1 tvg-id="" tvg-name="Eurosports-1" tvg-logo="" group-title="histar",Eurosports-1
+http://127.0.0.1:8081/histar.php?id=eurosports-1
+#EXTINF:-1 tvg-id="" tvg-name="Eurosports-2" tvg-logo="" group-title="histar",Eurosports-2
+http://127.0.0.1:8081/histar.php?id=super-sports5
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport" tvg-logo="" group-title="histar",Astro SuperSport
+http://127.0.0.1:8081/histar.php?id=super-sports1
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 2" tvg-logo="" group-title="histar",Astro SuperSport 2
+http://127.0.0.1:8081/histar.php?id=super-sports2
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 3" tvg-logo="" group-title="histar",Astro SuperSport 3
+http://127.0.0.1:8081/histar.php?id=super-sports3
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="" group-title="histar",Astro SuperSport 4
+http://127.0.0.1:8081/histar.php?id=super-sports4
+#EXTINF:-1 tvg-id="" tvg-name="博斯無限台" tvg-logo="" group-title="histar",博斯無限台
+http://127.0.0.1:8081/histar.php?id=sportcast-wx
+#EXTINF:-1 tvg-id="" tvg-name="博斯網球台" tvg-logo="" group-title="histar",博斯網球台
+http://127.0.0.1:8081/histar.php?id=sportcast-tennis
+#EXTINF:-1 tvg-id="" tvg-name="博斯運動一台" tvg-logo="" group-title="histar",博斯運動一台
+http://127.0.0.1:8081/histar.php?id=sportcast1
+#EXTINF:-1 tvg-id="" tvg-name="博斯運動二台" tvg-logo="" group-title="histar",博斯運動二台
+http://127.0.0.1:8081/histar.php?id=sportcast2
+#EXTINF:-1 tvg-id="" tvg-name="博斯高球一台" tvg-logo="" group-title="histar",博斯高球一台
+http://127.0.0.1:8081/histar.php?id=sportcast-golf1
+#EXTINF:-1 tvg-id="" tvg-name="博斯高球二台" tvg-logo="" group-title="histar",博斯高球二台
+http://127.0.0.1:8081/histar.php?id=sportcast-golf2
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV" tvg-logo="" group-title="histar",超级体育
+http://127.0.0.1:8081/histar.php?id=spotv
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV-2" tvg-logo="" group-title="histar",超级体育2
+http://127.0.0.1:8081/histar.php?id=spotv2
+#EXTINF:-1 tvg-id="" tvg-name="迪士尼頻道" tvg-logo="" group-title="histar",迪士尼頻道
+http://127.0.0.1:8081/histar.php?id=disney
+#EXTINF:-1 tvg-id="" tvg-name="東森幼幼台" tvg-logo="" group-title="histar",東森幼幼台
+http://127.0.0.1:8081/histar.php?id=ebc-yoyo
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="histar",Cartoon Network
+http://127.0.0.1:8081/histar.php?id=cn-cartoon
+#EXTINF:-1 tvg-id="" tvg-name="MOMO親子台" tvg-logo="" group-title="histar",MOMO親子台
+http://127.0.0.1:8081/histar.php?id=momo-kids
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="histar",Cartoon Network
+http://127.0.0.1:8081/histar.php?id=momotv
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Asia(尼克兒童頻道)" tvg-logo="" group-title="histar",尼克兒童頻道
+http://127.0.0.1:8081/histar.php?id=nickelodeon
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="" group-title="histar",小尼克頻道
+http://127.0.0.1:8081/histar.php?id=nick-jr
+#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="" group-title="histar",Animax卡通
+http://127.0.0.1:8081/histar.php?id=animax-cartoon
+#EXTINF:-1 tvg-id="" tvg-name="Astro 小太陽" tvg-logo="" group-title="histar",Astro 小太陽
+http://127.0.0.1:8081/histar.php?id=astro-xty
+#EXTINF:-1 tvg-id="" tvg-name="boomerang" tvg-logo="" group-title="histar",Boomerang HD
+http://127.0.0.1:8081/histar.php?id=boomerang-hd
+#EXTINF:-1 tvg-id="" tvg-name="靖天卡通台" tvg-logo="" group-title="histar",靖天卡通台
+http://127.0.0.1:8081/histar.php?id=jtkt
+#EXTINF:-1 tvg-id="" tvg-name="國家地理頻道" tvg-logo="" group-title="histar",國家地理
+http://127.0.0.1:8081/histar.php?id=natgeo
+#EXTINF:-1 tvg-id="" tvg-name="國家地理高畫質野生頻道" tvg-logo="" group-title="histar",國家地理 野生頻道
+http://127.0.0.1:8081/histar.php?id=natgeo-wild
+#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="" group-title="histar",探索頻道
+http://127.0.0.1:8081/histar.php?id=discovery
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" group-title="histar",DMAX
+http://127.0.0.1:8081/histar.php?id=dmax
+#EXTINF:-1 tvg-id="" tvg-name="Discovery科學頻道" tvg-logo="" group-title="histar",探索科學頻道
+http://127.0.0.1:8081/histar.php?id=discovery-sci
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="" group-title="histar",探索亞洲頻道
+http://127.0.0.1:8081/histar.php?id=discovery-asia
+#EXTINF:-1 tvg-id="" tvg-name="歷史頻道" tvg-logo="" group-title="histar",History 頻道
+http://127.0.0.1:8081/histar.php?id=history
+#EXTINF:-1 tvg-id="" tvg-name="History-2 頻道" tvg-logo="" group-title="histar",History-2 頻道
+http://127.0.0.1:8081/histar.php?id=history-2
+#EXTINF:-1 tvg-id="" tvg-name="美食星球頻道" tvg-logo="" group-title="histar",美食星球頻道
+http://127.0.0.1:8081/histar.php?id=food-planet
+#EXTINF:-1 tvg-id="" tvg-name="亞洲旅遊台" tvg-logo="" group-title="histar",亞洲旅遊台
+http://127.0.0.1:8081/histar.php?id=asia-travel
+#EXTINF:-1 tvg-id="" tvg-name="Discovery 旅遊生活頻道" tvg-logo="" group-title="histar",Discovery 旅遊生活頻道
+http://127.0.0.1:8081/histar.php?id=tlc
+#EXTINF:-1 tvg-id="" tvg-name="EYE TV旅遊台" tvg-logo="" group-title="histar",EYE TV旅遊台
+http://127.0.0.1:8081/histar.php?id=eye-travel
+#EXTINF:-1 tvg-id="" tvg-name="動物星球頻道" tvg-logo="" group-title="histar",動物星球頻道
+http://127.0.0.1:8081/histar.php?id=animal-planet
+#EXTINF:-1 tvg-id="" tvg-name="CI 罪案偵查頻道" tvg-logo="" group-title="histar",CI 罪案偵查頻道
+http://127.0.0.1:8081/histar.php?id=ci
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="histar",HBO HD
+http://127.0.0.1:8081/histar.php?id=hbo-hd
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits 強檔鉅獻" tvg-logo="" group-title="histar",HBO Hits 強檔鉅獻
+http://127.0.0.1:8081/histar.php?id=hbo-hits-hd
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="histar",CNN
+http://127.0.0.1:8081/histar.php?id=cnn
+#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="" group-title="histar",CNN International
+http://127.0.0.1:8081/histar.php?id=cnn-international
+#EXTINF:-1 tvg-id="" tvg-name="HLN" tvg-logo="" group-title="histar",HLN
+http://127.0.0.1:8081/histar.php?id=cnn-hln
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News" tvg-logo="" group-title="histar",BBC World News
+http://127.0.0.1:8081/histar.php?id=bbc-world-news
+#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="" group-title="histar",CNBC
+http://127.0.0.1:8081/histar.php?id=cnbc
+#EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="" group-title="histar",Fox News
+http://127.0.0.1:8081/histar.php?id=fox-news
+#EXTINF:-1 tvg-id="" tvg-name="CBS News" tvg-logo="" group-title="histar",CBS News
+http://127.0.0.1:8081/histar.php?id=cbsn
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="" group-title="histar",Euronews
+http://127.0.0.1:8081/histar.php?id=euronews
+#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="" group-title="histar",ABC News
+http://127.0.0.1:8081/histar.php?id=abc-news
+#EXTINF:-1 tvg-id="100334" tvg-name="Bloomberg Television" tvg-logo="" group-title="histar",Bloomberg Television
+http://127.0.0.1:8081/histar.php?id=bloomberg
 
 
-#EXTINF:-1 tvg-id="800037" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN纪录高清
-http://127.0.0.1:8081/ysp.php?id=cgtnjl
-#EXTINF:-1 tvg-id="800033" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN法语高清
-http://127.0.0.1:8081/ysp.php?id=cgtnf
-#EXTINF:-1 tvg-id="800034" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN俄语高清
-http://127.0.0.1:8081/ysp.php?id=cgtnr
-#EXTINF:-1 tvg-id="800035" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN阿拉伯语高清
-http://127.0.0.1:8081/ysp.php?id=cgtna
-#EXTINF:-1 tvg-id="800036" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN西班牙语高清
-http://127.0.0.1:8081/ysp.php?id=cgtne
-#EXTINF:-1 tvg-id="800021" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视频",CCTV-怀旧剧场
-http://127.0.0.1:8081/ysp.php?id=hjjc
-#EXTINF:-1 tvg-id="800026" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="央视频",CCTV-高尔夫网球
-http://127.0.0.1:8081/ysp.php?id=gefwq
-#EXTINF:-1 tvg-id="800022" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视频",CCTV-世界地理
-http://127.0.0.1:8081/ysp.php?id=sjdl
-#EXTINF:-1 tvg-id="800024" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视频",CCTV-兵器科技
-http://127.0.0.1:8081/ysp.php?id=bqkj
-#EXTINF:-1 tvg-id="800031" tvg-name="" tvg-logo="" group-title="央视频",CCTV-卫生健康
-http://127.0.0.1:8081/ysp.php?id=wsjk
-#EXTINF:-1 tvg-id="800020" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="央视频",CCTV-风云剧场
-http://127.0.0.1:8081/ysp.php?id=fyjc
-#EXTINF:-1 tvg-id="800029" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视频",CCTV-央视台球
-http://127.0.0.1:8081/ysp.php?id=ystq
-#EXTINF:-1 tvg-id="800028" tvg-name="" tvg-logo="" group-title="央视频",CCTV-央视文化精品
-http://127.0.0.1:8081/ysp.php?id=whjp
-#EXTINF:-1 tvg-id="800027" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视频",CCTV-女性时尚
-http://127.0.0.1:8081/ysp.php?id=nxss
-#EXTINF:-1 tvg-id="800030" tvg-name="电视指南" tvg-logo="" group-title="央视频",CCTV-电视指南
-http://127.0.0.1:8081/ysp.php?id=dszn
-#EXTINF:-1 tvg-id="800023" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视频",CCTV-风云音乐
-http://127.0.0.1:8081/ysp.php?id=fyyy
-#EXTINF:-1 tvg-id="800025" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视频",CCTV-风云足球
-http://127.0.0.1:8081/ysp.php?id=2fzq
-#EXTINF:-1 tvg-id="800019" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视频",CCTV-第一剧场
-http://127.0.0.1:8081/ysp.php?id=dyjc
-#EXTINF:-1 tvg-id="800039" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="央视频",江苏卫视
-http://127.0.0.1:8081/ysp.php?id=jsws
-#EXTINF:-1 tvg-id="800041" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="央视频",浙江卫视
-http://127.0.0.1:8081/ysp.php?id=zjws
-#EXTINF:-1 tvg-id="800042" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视频",湖南卫视
-http://127.0.0.1:8081/ysp.php?id=hunws
-#EXTINF:-1 tvg-id="800038" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="央视频",北京卫视
-http://127.0.0.1:8081/ysp.php?id=bjws
-#EXTINF:-1 tvg-id="800040" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="央视频",东方卫视
-http://127.0.0.1:8081/ysp.php?id=dfws
-#EXTINF:-1 tvg-id="800058" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="央视频",山东卫视
-http://127.0.0.1:8081/ysp.php?id=sdws
-#EXTINF:-1 tvg-id="800050" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="央视频",四川卫视
-http://127.0.0.1:8081/ysp.php?id=scws
-#EXTINF:-1 tvg-id="800056" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="央视频",安徽卫视
-http://127.0.0.1:8081/ysp.php?id=ahws
-#EXTINF:-1 tvg-id="800054" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="央视频",江西卫视
-http://127.0.0.1:8081/ysp.php?id=jxws
-#EXTINF:-1 tvg-id="800052" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="央视频",东南卫视
-http://127.0.0.1:8081/ysp.php?id=dnws
-#EXTINF:-1 tvg-id="800057" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="央视频",河北卫视
-http://127.0.0.1:8081/ysp.php?id=hbws
-#EXTINF:-1 tvg-id="800051" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="央视频",河南卫视
-http://127.0.0.1:8081/ysp.php?id=hnws
-#EXTINF:-1 tvg-id="800048" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="央视频",重庆卫视
-http://127.0.0.1:8081/ysp.php?id=cqws
-#EXTINF:-1 tvg-id="800047" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="央视频",海南卫视
-http://127.0.0.1:8081/ysp.php?id=hinws
-#EXTINF:-1 tvg-id="800049" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="央视频",深圳卫视
-http://127.0.0.1:8081/ysp.php?id=szws
-#EXTINF:-1 tvg-id="800043" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="央视频",湖北卫视
-http://127.0.0.1:8081/ysp.php?id=hubws
-#EXTINF:-1 tvg-id="800053" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="央视频",贵州卫视
-http://127.0.0.1:8081/ysp.php?id=gzws
-#EXTINF:-1 tvg-id="800045" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="央视频",广西卫视
-http://127.0.0.1:8081/ysp.php?id=gxws
-#EXTINF:-1 tvg-id="800044" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="央视频",广东卫视
-http://127.0.0.1:8081/ysp.php?id=gdws
-#EXTINF:-1 tvg-id="800055" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="央视频",辽宁卫视
-http://127.0.0.1:8081/ysp.php?id=lnws
-#EXTINF:-1 tvg-id="800046" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="央视频",黑龙江卫视
-http://127.0.0.1:8081/ysp.php?id=hljws
+#EXTINF:-1 tvg-id="100587" tvg-name="cinemax" tvg-logo="" group-title="histar",cinemax
+http://127.0.0.1:8081/histarapp.php?id=587
 
-#EXTINF:-1 tvg-id="800059" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="央视频",天津卫视
-http://127.0.0.1:8081/ysp.php?id=tjws
-#EXTINF:-1 tvg-id="800060" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="央视频",新疆卫视
-http://127.0.0.1:8081/ysp.php?id=xjws
-#EXTINF:-1 tvg-id="800000" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频",CCTV1综合
-http://127.0.0.1:8081/ysp1.php?id=cctv1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" tvg-id="100354" tvg-name="HBOHD"  group-title="histar",hbo hd
+http://127.0.0.1:8081/histarapp.php?id=538
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" tvg-id="100355" tvg-name="HBO Signature 原創鉅獻"  group-title="histar",HBO Signature 原創鉅獻
+http://127.0.0.1:8081/histarapp.php?id=539
 
-#EXTINF:-1 tvg-id="800001" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频",CCTV2财经
-http://127.0.0.1:8081/ysp1.php?id=cctv2
-#EXTINF:-1 tvg-id="800002" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视频",CCTV3综艺
-http://127.0.0.1:8081/ysp1.php?id=cctv3
-#EXTINF:-1 tvg-id="800003" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频",CCTV4中文国际
-http://127.0.0.1:8081/ysp1.php?id=cctv4
-#EXTINF:-1 tvg-id="800004" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频",CCTV5体育
-http://127.0.0.1:8081/ysp1.php?id=cctv5
-#EXTINF:-1 tvg-id="800005" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频",CCTV5+体育赛事
-http://127.0.0.1:8081/ysp1.php?id=cctv5p
-#EXTINF:-1 tvg-id="800006" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频",CCTV6电影
-http://127.0.0.1:8081/ysp1.php?id=cctv6
-
-#EXTINF:-1 tvg-id="800007" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视频",CCTV7国防军事
-http://127.0.0.1:8081/ysp1.php?id=cctv7
-#EXTINF:-1 tvg-id="800008" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视频",CCTV8电视剧
-http://127.0.0.1:8081/ysp1.php?id=cctv8
-#EXTINF:-1 tvg-id="800009" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视频",CCTV9纪录
-http://127.0.0.1:8081/ysp1.php?id=cctv9
-#EXTINF:-1 tvg-id="800010" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视频",CCTV10科教
-http://127.0.0.1:8081/ysp1.php?id=cctv10
-#EXTINF:-1 tvg-id="800011" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视频",CCTV11戏曲
-http://127.0.0.1:8081/ysp1.php?id=cctv11
-#EXTINF:-1 tvg-id="800012" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视频",CCTV12社会与法
-http://127.0.0.1:8081/ysp1.php?id=cctv12
-#EXTINF:-1 tvg-id="800013" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频",CCTV13新闻
-http://127.0.0.1:8081/ysp1.php?id=cctv13
-#EXTINF:-1 tvg-id="800014" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视频",CCTV14少儿
-http://127.0.0.1:8081/ysp1.php?id=cctv14
-#EXTINF:-1 tvg-id="800015" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视频",CCTV15音乐
-http://127.0.0.1:8081/ysp1.php?id=cctv15
-#EXTINF:-1 tvg-id="800016" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视频",CCTV-16高清
-http://127.0.0.1:8081/ysp1.php?id=cctv16
-#EXTINF:-1 tvg-id="800016" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视频",CCTV-16高清
-http://127.0.0.1:8081/ysp1.php?id=cctv16-4k
-#EXTINF:-1 tvg-id="800017" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频",CCTV17农村农业
-http://127.0.0.1:8081/ysp1.php?id=cctv17
-#EXTINF:-1 tvg-id="800018" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频",cctv4k
-http://127.0.0.1:8081/ysp1.php?id=cctv4k
-#EXTINF:-1 tvg-id="800032" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN
-http://127.0.0.1:8081/ysp1.php?id=cgtn
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" tvg-id="100357" tvg-name="HBO Family" group-title="histar",HBO Family
+http://127.0.0.1:8081/histarapp.php?id=540
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" tvg-id="100356" tvg-name="HBO Hits 強檔鉅獻"  group-title="histar",HBO Hits 強檔鉅獻
+http://127.0.0.1:8081/histarapp.php?id=541
 
 
-#EXTINF:-1 tvg-id="800037" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN纪录高清
-http://127.0.0.1:8081/ysp1.php?id=cgtnjl
-#EXTINF:-1 tvg-id="800033" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN法语高清
-http://127.0.0.1:8081/ysp1.php?id=cgtnf
-#EXTINF:-1 tvg-id="800034" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN俄语高清
-http://127.0.0.1:8081/ysp1.php?id=cgtnr
-#EXTINF:-1 tvg-id="800035" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN阿拉伯语高清
-http://127.0.0.1:8081/ysp1.php?id=cgtna
-#EXTINF:-1 tvg-id="800036" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN西班牙语高清
-http://127.0.0.1:8081/ysp1.php?id=cgtne
-#EXTINF:-1 tvg-id="800021" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视频",CCTV-怀旧剧场
-http://127.0.0.1:8081/ysp1.php?id=hjjc
-#EXTINF:-1 tvg-id="800026" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="央视频",CCTV-高尔夫网球
-http://127.0.0.1:8081/ysp1.php?id=gefwq
-#EXTINF:-1 tvg-id="800022" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视频",CCTV-世界地理
-http://127.0.0.1:8081/ysp1.php?id=sjdl
-#EXTINF:-1 tvg-id="800024" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视频",CCTV-兵器科技
-http://127.0.0.1:8081/ysp1.php?id=bqkj
-#EXTINF:-1 tvg-id="800031" tvg-name="" tvg-logo="" group-title="央视频",CCTV-卫生健康
-http://127.0.0.1:8081/ysp1.php?id=wsjk
-#EXTINF:-1 tvg-id="800020" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="央视频",CCTV-风云剧场
-http://127.0.0.1:8081/ysp1.php?id=fyjc
-#EXTINF:-1 tvg-id="800029" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视频",CCTV-央视台球
-http://127.0.0.1:8081/ysp1.php?id=ystq
-#EXTINF:-1 tvg-id="800028" tvg-name="" tvg-logo="" group-title="央视频",CCTV-央视文化精品
-http://127.0.0.1:8081/ysp1.php?id=whjp
-#EXTINF:-1 tvg-id="800027" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视频",CCTV-女性时尚
-http://127.0.0.1:8081/ysp1.php?id=nxss
-#EXTINF:-1 tvg-id="800030" tvg-name="电视指南" tvg-logo="" group-title="央视频",CCTV-电视指南
-http://127.0.0.1:8081/ysp1.php?id=dszn
-#EXTINF:-1 tvg-id="800023" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视频",CCTV-风云音乐
-http://127.0.0.1:8081/ysp1.php?id=fyyy
-#EXTINF:-1 tvg-id="800025" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视频",CCTV-风云足球
-http://127.0.0.1:8081/ysp1.php?id=2fzq
-#EXTINF:-1 tvg-id="800019" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视频",CCTV-第一剧场
-http://127.0.0.1:8081/ysp1.php?id=dyjc
-#EXTINF:-1 tvg-id="800039" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="央视频",江苏卫视
-http://127.0.0.1:8081/ysp1.php?id=jsws
-#EXTINF:-1 tvg-id="800041" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="央视频",浙江卫视
-http://127.0.0.1:8081/ysp1.php?id=zjws
-#EXTINF:-1 tvg-id="800042" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视频",湖南卫视
-http://127.0.0.1:8081/ysp1.php?id=hunws
-#EXTINF:-1 tvg-id="800038" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="央视频",北京卫视
-http://127.0.0.1:8081/ysp1.php?id=bjws
-#EXTINF:-1 tvg-id="800040" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="央视频",东方卫视
-http://127.0.0.1:8081/ysp1.php?id=dfws
-#EXTINF:-1 tvg-id="800058" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="央视频",山东卫视
-http://127.0.0.1:8081/ysp1.php?id=sdws
-#EXTINF:-1 tvg-id="800050" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="央视频",四川卫视
-http://127.0.0.1:8081/ysp1.php?id=scws
-#EXTINF:-1 tvg-id="800056" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="央视频",安徽卫视
-http://127.0.0.1:8081/ysp1.php?id=ahws
-#EXTINF:-1 tvg-id="800054" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="央视频",江西卫视
-http://127.0.0.1:8081/ysp1.php?id=jxws
-#EXTINF:-1 tvg-id="800052" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="央视频",东南卫视
-http://127.0.0.1:8081/ysp1.php?id=dnws
-#EXTINF:-1 tvg-id="800057" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="央视频",河北卫视
-http://127.0.0.1:8081/ysp1.php?id=hbws
-#EXTINF:-1 tvg-id="800051" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="央视频",河南卫视
-http://127.0.0.1:8081/ysp1.php?id=hnws
-#EXTINF:-1 tvg-id="800048" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="央视频",重庆卫视
-http://127.0.0.1:8081/ysp1.php?id=cqws
-#EXTINF:-1 tvg-id="800047" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="央视频",海南卫视
-http://127.0.0.1:8081/ysp1.php?id=hinws
-#EXTINF:-1 tvg-id="800049" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="央视频",深圳卫视
-http://127.0.0.1:8081/ysp1.php?id=szws
-#EXTINF:-1 tvg-id="800043" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="央视频",湖北卫视
-http://127.0.0.1:8081/ysp1.php?id=hubws
-#EXTINF:-1 tvg-id="800053" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="央视频",贵州卫视
-http://127.0.0.1:8081/ysp1.php?id=gzws
-#EXTINF:-1 tvg-id="800045" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="央视频",广西卫视
-http://127.0.0.1:8081/ysp1.php?id=gxws
-#EXTINF:-1 tvg-id="800044" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="央视频",广东卫视
-http://127.0.0.1:8081/ysp1.php?id=gdws
-#EXTINF:-1 tvg-id="800055" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="央视频",辽宁卫视
-http://127.0.0.1:8081/ysp1.php?id=lnws
-#EXTINF:-1 tvg-id="800046" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="央视频",黑龙江卫视
-http://127.0.0.1:8081/ysp1.php?id=hljws
-
-#EXTINF:-1 tvg-id="800059" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="央视频",天津卫视
-http://127.0.0.1:8081/ysp1.php?id=tjws
-#EXTINF:-1 tvg-id="800060" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="央视频",新疆卫视
-http://127.0.0.1:8081/ysp1.php?id=xjws
 
 #EXTINF:-1 tvg-id="800000" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频",CCTV1综合
 http://127.0.0.1:8081/ysp2.php?id=cctv1
@@ -297,19 +541,25 @@ http://127.0.0.1:8081/ysp2.php?id=cctv16-4k
 http://127.0.0.1:8081/ysp2.php?id=cctv17
 #EXTINF:-1 tvg-id="800018" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频",cctv4k
 http://127.0.0.1:8081/ysp2.php?id=cctv4k
-#EXTINF:-1 tvg-id="800032" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN
+#EXTINF#EXTINF:-1 tvg-id="800061" tvg-name="CCTV8K" tvg-logo="https://github.com/zzq12345/CatVodSpider/blob/main/json/cctv-8k.png?raw=true" group-title="央视频",cctv8k1080
+http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230960/1.m3u8
+#EXTINF#EXTINF:-1 tvg-id="800061" tvg-name="CCTV8K" tvg-logo="https://github.com/zzq12345/CatVodSpider/blob/main/json/cctv-8k.png?raw=true" group-title="央视频",cctv8k1080
+http://127.0.0.1:8081/ysp2.php?id=cctv8k
+#EXTINF#EXTINF:-1 tvg-id="800061" tvg-name="CCTV8K" tvg-logo="https://github.com/zzq12345/CatVodSpider/blob/main/json/cctv-8k.png?raw=true" group-title="央视频",cctv8k1080
+http://127.0.0.1:8081/ysp2.php?id=cctv8k1
+#EXTINF:-1 tvg-id="800032" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn
 http://127.0.0.1:8081/ysp2.php?id=cgtn
 
 
-#EXTINF:-1 tvg-id="800037" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN纪录高清
+#EXTINF:-1 tvg-id="800037" tvg-name="cgtn英文记录片" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn纪录
 http://127.0.0.1:8081/ysp2.php?id=cgtnjl
-#EXTINF:-1 tvg-id="800033" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN法语高清
+#EXTINF:-1 tvg-id="800033" tvg-name="cgtn法语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn法语
 http://127.0.0.1:8081/ysp2.php?id=cgtnf
-#EXTINF:-1 tvg-id="800034" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN俄语高清
+#EXTINF:-1 tvg-id="800034" tvg-name="cgtn俄语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn俄语
 http://127.0.0.1:8081/ysp2.php?id=cgtnr
-#EXTINF:-1 tvg-id="800035" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN阿拉伯语高清
+#EXTINF:-1 tvg-id="800035" tvg-name="cgtn阿拉伯语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn阿拉伯语
 http://127.0.0.1:8081/ysp2.php?id=cgtna
-#EXTINF:-1 tvg-id="800036" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",CGTN西班牙语高清
+#EXTINF:-1 tvg-id="800036" tvg-name="cgtn西班牙语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn西班牙语
 http://127.0.0.1:8081/ysp2.php?id=cgtne
 #EXTINF:-1 tvg-id="800021" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视频",CCTV-怀旧剧场
 http://127.0.0.1:8081/ysp2.php?id=hjjc
@@ -386,114 +636,253 @@ http://127.0.0.1:8081/ysp2.php?id=tjws
 http://127.0.0.1:8081/ysp2.php?id=xjws
 
 
+#EXTINF:-1 tvg-id="800000" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频",CCTV1综合
+http://127.0.0.1:8081/ysp1.php?id=cctv1
+
+#EXTINF:-1 tvg-id="800001" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频",CCTV2财经
+http://127.0.0.1:8081/ysp1.php?id=cctv2
+#EXTINF:-1 tvg-id="800002" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视频",CCTV3综艺
+http://127.0.0.1:8081/ysp1.php?id=cctv3
+#EXTINF:-1 tvg-id="800003" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频",CCTV4中文国际
+http://127.0.0.1:8081/ysp1.php?id=cctv4
+#EXTINF:-1 tvg-id="800004" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频",CCTV5体育
+http://127.0.0.1:8081/ysp1.php?id=cctv5
+#EXTINF:-1 tvg-id="800005" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频",CCTV5+体育赛事
+http://127.0.0.1:8081/ysp1.php?id=cctv5p
+#EXTINF:-1 tvg-id="800006" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频",CCTV6电影
+http://127.0.0.1:8081/ysp1.php?id=cctv6
+
+#EXTINF:-1 tvg-id="800007" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视频",CCTV7国防军事
+http://127.0.0.1:8081/ysp1.php?id=cctv7
+#EXTINF:-1 tvg-id="800008" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视频",CCTV8电视剧
+http://127.0.0.1:8081/ysp1.php?id=cctv8
+#EXTINF:-1 tvg-id="800009" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视频",CCTV9纪录
+http://127.0.0.1:8081/ysp1.php?id=cctv9
+#EXTINF:-1 tvg-id="800010" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视频",CCTV10科教
+http://127.0.0.1:8081/ysp1.php?id=cctv10
+#EXTINF:-1 tvg-id="800011" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视频",CCTV11戏曲
+http://127.0.0.1:8081/ysp1.php?id=cctv11
+#EXTINF:-1 tvg-id="800012" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视频",CCTV12社会与法
+http://127.0.0.1:8081/ysp1.php?id=cctv12
+#EXTINF:-1 tvg-id="800013" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频",CCTV13新闻
+http://127.0.0.1:8081/ysp1.php?id=cctv13
+#EXTINF:-1 tvg-id="800014" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视频",CCTV14少儿
+http://127.0.0.1:8081/ysp1.php?id=cctv14
+#EXTINF:-1 tvg-id="800015" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视频",CCTV15音乐
+http://127.0.0.1:8081/ysp1.php?id=cctv15
+#EXTINF:-1 tvg-id="800016" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视频",CCTV-16高清
+http://127.0.0.1:8081/ysp1.php?id=cctv16
+#EXTINF:-1 tvg-id="800016" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视频",CCTV-16高清
+http://127.0.0.1:8081/ysp1.php?id=cctv16-4k
+#EXTINF:-1 tvg-id="800017" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频",CCTV17农村农业
+http://127.0.0.1:8081/ysp1.php?id=cctv17
+#EXTINF:-1 tvg-id="800018" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频",cctv4k
+http://127.0.0.1:8081/ysp1.php?id=cctv4k
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆卫视高清
+#EXTINF#EXTINF:-1 tvg-id="800061" tvg-name="CCTV8K" tvg-logo="https://github.com/zzq12345/CatVodSpider/blob/main/json/cctv-8k.png?raw=true" group-title="央视频",cctv8k1080
+http://127.0.0.1:8081/ysp1.php?id=cctv8k
+#EXTINF#EXTINF:-1 tvg-id="800061" tvg-name="CCTV8K" tvg-logo="https://github.com/zzq12345/CatVodSpider/blob/main/json/cctv-8k.png?raw=true" group-title="央视频",cctv8k1080
+http://127.0.0.1:8081/ysp1.php?id=cctv8k1
+
+#EXTINF:-1 tvg-id="800032" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn
+http://127.0.0.1:8081/ysp1.php?id=cgtn
+
+
+#EXTINF:-1 tvg-id="800037" tvg-name="cgtn英文记录片" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn纪录
+http://127.0.0.1:8081/ysp1.php?id=cgtnjl
+#EXTINF:-1 tvg-id="800033" tvg-name="cgtn法语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn法语
+http://127.0.0.1:8081/ysp1.php?id=cgtnf
+#EXTINF:-1 tvg-id="800034" tvg-name="cgtn俄语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn俄语
+http://127.0.0.1:8081/ysp1.php?id=cgtnr
+#EXTINF:-1 tvg-id="800035" tvg-name="cgtn阿拉伯语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn阿拉伯语
+http://127.0.0.1:8081/ysp1.php?id=cgtna
+#EXTINF:-1 tvg-id="800036" tvg-name="cgtn西班牙语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn西班牙语
+http://127.0.0.1:8081/ysp1.php?id=cgtne
+#EXTINF:-1 tvg-id="800021" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视频",CCTV-怀旧剧场
+http://127.0.0.1:8081/ysp1.php?id=hjjc
+
+#EXTINF:-1 tvg-id="800039" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="央视频",江苏卫视
+http://127.0.0.1:8081/ysp1.php?id=jsws
+#EXTINF:-1 tvg-id="800041" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="央视频",浙江卫视
+http://127.0.0.1:8081/ysp1.php?id=zjws
+#EXTINF:-1 tvg-id="800042" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视频",湖南卫视
+http://127.0.0.1:8081/ysp1.php?id=hunws
+#EXTINF:-1 tvg-id="800038" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="央视频",北京卫视
+http://127.0.0.1:8081/ysp1.php?id=bjws
+#EXTINF:-1 tvg-id="800040" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="央视频",东方卫视
+http://127.0.0.1:8081/ysp1.php?id=dfws
+#EXTINF:-1 tvg-id="800058" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="央视频",山东卫视
+http://127.0.0.1:8081/ysp1.php?id=sdws
+#EXTINF:-1 tvg-id="800050" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="央视频",四川卫视
+http://127.0.0.1:8081/ysp1.php?id=scws
+#EXTINF:-1 tvg-id="800056" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="央视频",安徽卫视
+http://127.0.0.1:8081/ysp1.php?id=ahws
+#EXTINF:-1 tvg-id="800054" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="央视频",江西卫视
+http://127.0.0.1:8081/ysp1.php?id=jxws
+#EXTINF:-1 tvg-id="800052" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="央视频",东南卫视
+http://127.0.0.1:8081/ysp1.php?id=dnws
+#EXTINF:-1 tvg-id="800057" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="央视频",河北卫视
+http://127.0.0.1:8081/ysp1.php?id=hbws
+#EXTINF:-1 tvg-id="800051" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="央视频",河南卫视
+http://127.0.0.1:8081/ysp1.php?id=hnws
+#EXTINF:-1 tvg-id="800048" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="央视频",重庆卫视
+http://127.0.0.1:8081/ysp1.php?id=cqws
+#EXTINF:-1 tvg-id="800047" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="央视频",海南卫视
+http://127.0.0.1:8081/ysp1.php?id=hinws
+#EXTINF:-1 tvg-id="800049" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="央视频",深圳卫视
+http://127.0.0.1:8081/ysp1.php?id=szws
+#EXTINF:-1 tvg-id="800043" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="央视频",湖北卫视
+http://127.0.0.1:8081/ysp1.php?id=hubws
+#EXTINF:-1 tvg-id="800053" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="央视频",贵州卫视
+http://127.0.0.1:8081/ysp1.php?id=gzws
+#EXTINF:-1 tvg-id="800045" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="央视频",广西卫视
+http://127.0.0.1:8081/ysp1.php?id=gxws
+#EXTINF:-1 tvg-id="800044" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="央视频",广东卫视
+http://127.0.0.1:8081/ysp1.php?id=gdws
+#EXTINF:-1 tvg-id="800055" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="央视频",辽宁卫视
+http://127.0.0.1:8081/ysp1.php?id=lnws
+#EXTINF:-1 tvg-id="800046" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="央视频",黑龙江卫视
+http://127.0.0.1:8081/ysp1.php?id=hljws
+
+#EXTINF:-1 tvg-id="800059" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="央视频",天津卫视
+http://127.0.0.1:8081/ysp1.php?id=tjws
+#EXTINF:-1 tvg-id="800060" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="央视频",新疆卫视
+http://127.0.0.1:8081/ysp1.php?id=xjws
+#EXTINF:-1 tvg-id="800021" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视频",CCTV-怀旧剧场
+http://127.0.0.1:8081/ysp1.php?id=hjjc
+#EXTINF:-1 tvg-id="800026" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="央视频",CCTV-高尔夫网球
+http://127.0.0.1:8081/ysp1.php?id=gefwq
+#EXTINF:-1 tvg-id="800022" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视频",CCTV-世界地理
+http://127.0.0.1:8081/ysp1.php?id=sjdl
+#EXTINF:-1 tvg-id="800024" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视频",CCTV-兵器科技
+http://127.0.0.1:8081/ysp1.php?id=bqkj
+#EXTINF:-1 tvg-id="800031" tvg-name="" tvg-logo="" group-title="央视频",CCTV-卫生健康
+http://127.0.0.1:8081/ysp1.php?id=wsjk
+#EXTINF:-1 tvg-id="800020" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="央视频",CCTV-风云剧场
+http://127.0.0.1:8081/ysp1.php?id=fyjc
+#EXTINF:-1 tvg-id="800029" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视频",CCTV-央视台球
+http://127.0.0.1:8081/ysp1.php?id=ystq
+#EXTINF:-1 tvg-id="800028" tvg-name="" tvg-logo="" group-title="央视频",CCTV-央视文化精品
+http://127.0.0.1:8081/ysp1.php?id=whjp
+#EXTINF:-1 tvg-id="800027" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视频",CCTV-女性时尚
+http://127.0.0.1:8081/ysp1.php?id=nxss
+#EXTINF:-1 tvg-id="800030" tvg-name="电视指南" tvg-logo="" group-title="央视频",CCTV-电视指南
+http://127.0.0.1:8081/ysp1.php?id=dszn
+#EXTINF:-1 tvg-id="800023" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视频",CCTV-风云音乐
+http://127.0.0.1:8081/ysp1.php?id=fyyy
+#EXTINF:-1 tvg-id="800025" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视频",CCTV-风云足球
+http://127.0.0.1:8081/ysp1.php?id=2fzq
+#EXTINF:-1 tvg-id="800019" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视频",CCTV-第一剧场
+http://127.0.0.1:8081/ysp1.php?id=dyjc
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆卫视
 http://127.0.0.1:8081/cqyx.php?id=chongqingHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆新闻高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆新闻
 http://127.0.0.1:8081/cqyx.php?id=CQTVNewsHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆影视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆影视
 http://127.0.0.1:8081/cqyx.php?id=cqyingshiHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆社会与法高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆社会与法
 http://127.0.0.1:8081/cqyx.php?id=CQTVTrendyHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆时尚生活高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆时尚生活
 http://127.0.0.1:8081/cqyx.php?id=cqssgwHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆文体娱乐高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆文体娱乐
 http://127.0.0.1:8081/cqyx.php?id=cqwtylHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆新农村高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆新农村
 http://127.0.0.1:8081/cqyx.php?id=cqggncHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆少儿高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆少儿
 http://127.0.0.1:8081/cqyx.php?id=cqseHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆科教高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆科教
 http://127.0.0.1:8081/cqyx.php?id=CQTVkejiaoHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",爱看导视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",爱看导视
 http://127.0.0.1:8081/cqyx.php?id=aikanHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆汽摩高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆汽摩
 http://127.0.0.1:8081/cqyx.php?id=cqcarSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆移动高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重庆移动
 http://127.0.0.1:8081/cqyx.php?id=mryyHD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",重广融媒
 http://127.0.0.1:8081/cqyx.php?id=cqrongmei
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV1综合高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv1
 http://127.0.0.1:8081/cqyx.php?id=cctv1HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV2财*高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv2
 http://127.0.0.1:8081/cqyx.php?id=cctv2HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV3综艺高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv3
 http://127.0.0.1:8081/cqyx.php?id=cctv3HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV4中文国际高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv4
 http://127.0.0.1:8081/cqyx.php?id=cctv4HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV5体育高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv5
 http://127.0.0.1:8081/cqyx.php?id=cctv5HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV6电影高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv6
 http://127.0.0.1:8081/cqyx.php?id=cctv6HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV7国防军事高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv7
 http://127.0.0.1:8081/cqyx.php?id=cctv7HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV8电视剧高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv8
 http://127.0.0.1:8081/cqyx.php?id=cctv8HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV9纪录高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv9
 http://127.0.0.1:8081/cqyx.php?id=cctv9HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV10科教高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv10
 http://127.0.0.1:8081/cqyx.php?id=cctv10HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV11戏曲高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv11
 http://127.0.0.1:8081/cqyx.php?id=cctv11HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV12社会与法高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv12
 http://127.0.0.1:8081/cqyx.php?id=cctv12HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV13新闻高清
-http://127.0.0.1:8081/cqyx.php?id=CCTVNewsHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV14少儿高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv13
+http://127.0.0.1:8081/cqyx.php?id=cctvNewsHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv14
 http://127.0.0.1:8081/cqyx.php?id=cctvseHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV15音乐高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv15
 http://127.0.0.1:8081/cqyx.php?id=cctv15HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV16奥林匹克高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv16
 http://127.0.0.1:8081/cqyx.php?id=cctv16HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",湖南卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",湖南卫视
 http://127.0.0.1:8081/cqyx.php?id=hunanHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",江苏卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",江苏卫视
 http://127.0.0.1:8081/cqyx.php?id=jiangsuHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",北京卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",北京卫视
 http://127.0.0.1:8081/cqyx.php?id=beijingHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",浙江卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",浙江卫视
 http://127.0.0.1:8081/cqyx.php?id=zhejiangHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",东方卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",东方卫视
 http://127.0.0.1:8081/cqyx.php?id=shanghaiHD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",生活时尚
 http://127.0.0.1:8081/cqyx.php?id=shenghuo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",百姓健康
 http://127.0.0.1:8081/cqyx.php?id=jiankangSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",快乐垂钓高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",快乐垂钓
 http://127.0.0.1:8081/cqyx.php?id=klcdHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",第一剧场高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",第一剧场
 http://127.0.0.1:8081/cqyx.php?id=diyijuchangHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",都市剧场高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",都市剧场
 http://127.0.0.1:8081/cqyx.php?id=dsjcHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",动漫秀场高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",动漫秀场
 http://127.0.0.1:8081/cqyx.php?id=dmxcHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",魅力足球高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",魅力足球
 http://127.0.0.1:8081/cqyx.php?id=mlzqHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",风云剧场高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",风云剧场
 http://127.0.0.1:8081/cqyx.php?id=fyjcHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",求索纪录高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",求索纪录
 http://127.0.0.1:8081/cqyx.php?id=qsjlHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",兵器科技高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",兵器科技
 http://127.0.0.1:8081/cqyx.php?id=bqkjHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",游戏风云高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",游戏风云
 http://127.0.0.1:8081/cqyx.php?id=yxfyHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",怀旧剧场高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",怀旧剧场
 http://127.0.0.1:8081/cqyx.php?id=hjjcHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",风云音乐高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",风云音乐
 http://127.0.0.1:8081/cqyx.php?id=fyyyHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",央视台球高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",央视台球
 http://127.0.0.1:8081/cqyx.php?id=ystqHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",风云足球高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",风云足球
 http://127.0.0.1:8081/cqyx.php?id=fyzqHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",央视文化精品高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",央视文化精品
 http://127.0.0.1:8081/cqyx.php?id=yswhHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",高尔夫网球高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",高尔夫网球
 http://127.0.0.1:8081/cqyx.php?id=golfHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",早期教育高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",早期教育
 http://127.0.0.1:8081/cqyx.php?id=zaojiaoHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",东方财*高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",东方财经
 http://127.0.0.1:8081/cqyx.php?id=dfcj
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",证券服务
 http://127.0.0.1:8081/cqyx.php?id=jiazheng
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",书画
@@ -540,47 +929,47 @@ http://127.0.0.1:8081/cqyx.php?id=gushi
 http://127.0.0.1:8081/cqyx.php?id=sheying
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",靓妆
 http://127.0.0.1:8081/cqyx.php?id=liang
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV4K超高清
-http://127.0.0.1:8081/cqyx.php?id=CCTV4K
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",欢笑剧场4K超高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv4K超
+http://127.0.0.1:8081/cqyx.php?id=cctv4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",欢笑剧场4K超
 http://127.0.0.1:8081/cqyx.php?id=hxjc_4K
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CCTV16奥林匹克4K超高清
-http://127.0.0.1:8081/cqyx.php?id=CCTV16_4K
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",深圳卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cctv16奥林匹克4K超
+http://127.0.0.1:8081/cqyx.php?id=cctv16_4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",深圳卫视
 http://127.0.0.1:8081/cqyx.php?id=shenzhenHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",辽宁卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",辽宁卫视
 http://127.0.0.1:8081/cqyx.php?id=liaoningHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",天津卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",天津卫视
 http://127.0.0.1:8081/cqyx.php?id=tianjinHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",贵州卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",贵州卫视
 http://127.0.0.1:8081/cqyx.php?id=guizhouHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",四川卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",四川卫视
 http://127.0.0.1:8081/cqyx.php?id=sichuanHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",云南卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",云南卫视
 http://127.0.0.1:8081/cqyx.php?id=yunnanSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",东南卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",东南卫视
 http://127.0.0.1:8081/cqyx.php?id=dongnanHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",黑龙江卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",黑龙江卫视
 http://127.0.0.1:8081/cqyx.php?id=heilongjiangHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",安徽卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",安徽卫视
 http://127.0.0.1:8081/cqyx.php?id=anhuiSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",河北卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",河北卫视
 http://127.0.0.1:8081/cqyx.php?id=hebeiSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",江西卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",江西卫视
 http://127.0.0.1:8081/cqyx.php?id=jiangxiHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",湖北卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",湖北卫视
 http://127.0.0.1:8081/cqyx.php?id=hubeiSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",海南卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",海南卫视
 http://127.0.0.1:8081/cqyx.php?id=hainanSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",吉林卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",吉林卫视
 http://127.0.0.1:8081/cqyx.php?id=jilinHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",广西卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",广西卫视
 http://127.0.0.1:8081/cqyx.php?id=guangxiHD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",内蒙古卫视
 http://127.0.0.1:8081/cqyx.php?id=neimengkuSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",广东卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",广东卫视
 http://127.0.0.1:8081/cqyx.php?id=guangdongHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",河南卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",河南卫视
 http://127.0.0.1:8081/cqyx.php?id=henanHD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",山西卫视
 http://127.0.0.1:8081/cqyx.php?id=shanxiSD
@@ -588,9 +977,9 @@ http://127.0.0.1:8081/cqyx.php?id=shanxiSD
 http://127.0.0.1:8081/cqyx.php?id=bingtuanSD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",宁夏卫视
 http://127.0.0.1:8081/cqyx.php?id=ningxia
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",北京卡酷少儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",卡酷少儿
 http://127.0.0.1:8081/cqyx.php?id=bjkakuSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",金鹰卡通高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",金鹰卡通
 http://127.0.0.1:8081/cqyx.php?id=jinyingSD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",三沙卫视
 http://127.0.0.1:8081/cqyx.php?id=sanshaSD
@@ -598,7 +987,7 @@ http://127.0.0.1:8081/cqyx.php?id=sanshaSD
 http://127.0.0.1:8081/cqyx.php?id=qinghaiSD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",中国天气
 http://127.0.0.1:8081/cqyx.php?id=tianqiSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",北京纪实科教高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",北京纪实科教
 http://127.0.0.1:8081/cqyx.php?id=bjayjsSD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",山东教育卫视
 http://127.0.0.1:8081/cqyx.php?id=sdjiaoyuSD
@@ -606,7 +995,7 @@ http://127.0.0.1:8081/cqyx.php?id=sdjiaoyuSD
 http://127.0.0.1:8081/cqyx.php?id=xinjiangSD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",西藏卫视
 http://127.0.0.1:8081/cqyx.php?id=xizangSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CGTN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",cgtn
 http://127.0.0.1:8081/cqyx.php?id=cgtnSD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CETV-1
 http://127.0.0.1:8081/cqyx.php?id=cetv-1SD
@@ -1064,764 +1453,7 @@ http://127.0.0.1:8081/douyin.php?id=461529902442
 
 
 
-#EXTINF:-1 group-title="哔哩哔哩",經典警匪台
-http://127.0.0.1:8081/bilibili1080.php?id=23285297
 
-
-#EXTINF:-1 group-title="哔哩哔哩",經典功夫台
-http://127.0.0.1:8081/bilibili1080.php?id=21715386
-#EXTINF:-1 group-title="哔哩哔哩",卫视卡式台
-http://127.0.0.1:8081/bilibili1080.php?id=23125843
-
-
-#EXTINF:-1 group-title="哔哩哔哩",星城综合
-http://127.0.0.1:8081/bilibili1080.php?id=24470631
-
-#EXTINF:-1 group-title="哔哩哔哩",星城影视
-http://127.0.0.1:8081/bilibili1080.php?id=21613293
-#EXTINF:-1 group-title="哔哩哔哩",橙子1台
-http://127.0.0.1:8081/bilibili1080.php?id=23318788
-#EXTINF:-1 group-title="哔哩哔哩",橙子2台
-http://127.0.0.1:8081/bilibili1080.php?id=21571201
-#EXTINF:-1 group-title="哔哩哔哩",橙子3台
-http://127.0.0.1:8081/bilibili1080.php?id=23318768
-#EXTINF:-1 group-title="哔哩哔哩",橙子4台
-http://127.0.0.1:8081/bilibili1080.php?id=23320714
-
-
-
-
-
-#EXTINF:-1 group-title="哔哩哔哩",4K耀祖1
-http://127.0.0.1:8081//bilibili1080.php?id=23398113
-
-
-#EXTINF:-1 group-title="哔哩哔哩",4K耀祖2
-http://127.0.0.1:8081//bilibili1080.php?id=23150921
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",蜡笔小新5-9季 高清哦！
-http://127.0.0.1:8081/bilibili1080.php?id=94730
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【蜡笔小新】国语高清，24小时直播哦！
-http://127.0.0.1:8081/bilibili1080.php?id=10375360
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",于谦聊天2【24小时无唱直播间】
-http://127.0.0.1:8081/bilibili1080.php?id=25974975
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",蜡笔小新24H
-http://127.0.0.1:8081/bilibili1080.php?id=26329057
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",经典国语 刑侦
-http://127.0.0.1:8081/bilibili1080.php?id=11627802
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【蜡笔小新】绝版画质
-http://127.0.0.1:8081/bilibili1080.php?id=21570935
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【相声】介里不可以淌浪水~
-http://127.0.0.1:8081/bilibili1080.php?id=25636403
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",[炊事班的故事]超清下饭剧
-http://127.0.0.1:8081/bilibili1080.php?id=21354981
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",蜡笔小新24h睡觉背景音
-http://127.0.0.1:8081/bilibili1080.php?id=11579951
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",高画质/恶作剧之吻1、2部 24h无限播
-http://127.0.0.1:8081/bilibili1080.php?id=21298611
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",炊事班的故事
-http://127.0.0.1:8081/bilibili1080.php?id=21684683
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【海绵宝宝】文明观看 素质弹幕
-http://127.0.0.1:8081/bilibili1080.php?id=61834
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【DYS】郭德纲于谦 传统相声影音馆
-http://127.0.0.1:8081/bilibili1080.php?id=308438
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",樱桃小丸子国语24小时轮播
-http://127.0.0.1:8081/bilibili1080.php?id=23242774
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【蜡笔小新】你回来了ヾ(❀╹◡╹)ﾉﾞ
-http://127.0.0.1:8081/bilibili1080.php?id=22804740
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【林正英】僵尸 经典 女鬼 24H
-http://127.0.0.1:8081/bilibili1080.php?id=70155
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",狄胖神都圣杯战争
-http://127.0.0.1:8081/bilibili1080.php?id=493067
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【周星驰】喜剧 动作 僵尸 24H
-http://127.0.0.1:8081/bilibili1080.php?id=47917
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",憋想白嫖
-http://127.0.0.1:8081/bilibili1080.php?id=27844
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",镖局看主播的投稿【神雕侠侣】   养号中
-http://127.0.0.1:8081/bilibili1080.php?id=81789
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",海绵宝宝又开播啦
-http://127.0.0.1:8081/bilibili1080.php?id=7861440
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",炊事班的故事123
-http://127.0.0.1:8081/bilibili1080.php?id=25455895
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【东北一家人】下饭神剧7*24h全天轮播
-http://127.0.0.1:8081/bilibili1080.php?id=22786199
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",纯音馆
-http://127.0.0.1:8081/bilibili1080.php?id=157901
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",蜡笔小新国语（经典季）
-http://127.0.0.1:8081/bilibili1080.php?id=901251
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【海绵宝宝】1-13季24H循环
-http://127.0.0.1:8081/bilibili1080.php?id=14495324
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",马大帅范德彪的日常生活
-http://127.0.0.1:8081/bilibili1080.php?id=23726955
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",尚敬宇宙之——炊事班
-http://127.0.0.1:8081/bilibili1080.php?id=2089493
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",周星驰刘德华周润发李连杰林正英僵尸经典
-http://127.0.0.1:8081/bilibili1080.php?id=26275395
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",新水浒传
-http://127.0.0.1:8081/bilibili1080.php?id=21747822
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",bilibili主播的直播间
-http://127.0.0.1:8081/bilibili1080.php?id=23173017
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【蜡笔小新】 24小时无限大放送
-http://127.0.0.1:8081/bilibili1080.php?id=21333965
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",蜡笔小新 高清 最新国语 24H陪伴
-http://127.0.0.1:8081/bilibili1080.php?id=21507503
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",中华小当家/中华一番 原画60帧畅爽体验
-http://127.0.0.1:8081/bilibili1080.php?id=655291
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",飞哥与小佛
-http://127.0.0.1:8081/bilibili1080.php?id=5759023
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",宋慈|大宋提刑官循环播放100天
-http://127.0.0.1:8081/bilibili1080.php?id=5920618
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",原声中文字幕：猫和老鼠
-http://127.0.0.1:8081/bilibili1080.php?id=1024814
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",海派情景喜剧《老娘舅》全天陪伴
-http://127.0.0.1:8081/bilibili1080.php?id=21306205
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",全集哆啦A梦大山版 24小时轮播
-http://127.0.0.1:8081/bilibili1080.php?id=346400
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",回归好剧-【②号超清宫斗武侠爱情无厘头】
-http://127.0.0.1:8081/bilibili1080.php?id=24622261
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",七十二家房客
-http://127.0.0.1:8081/bilibili1080.php?id=23674204
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",bgm
-http://127.0.0.1:8081/bilibili1080.php?id=10112
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",看刘墉和珅斗法 张王李飙演技
-http://127.0.0.1:8081/bilibili1080.php?id=25860180
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【蜡笔小新】野原一家哦~
-http://127.0.0.1:8081/bilibili1080.php?id=23192180
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",黄余奇趣电影赏
-http://127.0.0.1:8081/bilibili1080.php?id=10513567
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",高清经典：狄仁杰
-http://127.0.0.1:8081/bilibili1080.php?id=23125843
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",终极一家三国
-http://127.0.0.1:8081/bilibili1080.php?id=23017862
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",粤语残片
-http://127.0.0.1:8081/bilibili1080.php?id=3568283
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",童年回忆
-http://127.0.0.1:8081/bilibili1080.php?id=25197347
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",林正英
-http://127.0.0.1:8081/bilibili1080.php?id=24313758
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",高画质/命中注定我爱你+恶作剧之吻
-http://127.0.0.1:8081/bilibili1080.php?id=15083950
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",于谦聊天2【24小时无唱直播间】
-http://127.0.0.1:8081/bilibili1080.php?id=25974975
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【蜡笔小新】经典 五 六
-http://127.0.0.1:8081/bilibili1080.php?id=8522904
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",狄仁杰之元芳  你怎么看！
-http://127.0.0.1:8081/bilibili1080.php?id=22225189
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",ㅤ
-http://127.0.0.1:8081/bilibili1080.php?id=21666108
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",24小时连播 蓝胖子
-http://127.0.0.1:8081/bilibili1080.php?id=482946
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",情满四合院(置顶加群催开播)
-http://127.0.0.1:8081/bilibili1080.php?id=14747871
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",原版配音蜡笔小新
-http://127.0.0.1:8081/bilibili1080.php?id=25344904
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",林正英 僵尸 女鬼 经典 高能 电影
-http://127.0.0.1:8081/bilibili1080.php?id=5226265
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",周星驰成龙林正英王晶刘德华洪金宝电影
-http://127.0.0.1:8081/bilibili1080.php?id=21448296
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",郭德纲 于谦无唱相声【24小时直播间】
-http://127.0.0.1:8081/bilibili1080.php?id=26221998
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【林正英】 经典 24H
-http://127.0.0.1:8081/bilibili1080.php?id=82997
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",樱桃小丸子
-http://127.0.0.1:8081/bilibili1080.php?id=6554860
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",海绵宝宝 央配
-http://127.0.0.1:8081/bilibili1080.php?id=4355330
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【铁齿铜牙纪晓岚】海爷2厅
-http://127.0.0.1:8081/bilibili1080.php?id=1929865
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",西游的记，清晰过官方【蓝光】
-http://127.0.0.1:8081/bilibili1080.php?id=2803563
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",七十二家房客
-http://127.0.0.1:8081/bilibili1080.php?id=23436741
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",周星驰 林正英 李连杰 搞笑 经典 武侠
-http://127.0.0.1:8081/bilibili1080.php?id=25834813
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",24h 我爱我家 纯音频 高清经典下饭剧
-http://127.0.0.1:8081/bilibili1080.php?id=955856
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",蜡笔小新国语轮播
-http://127.0.0.1:8081/bilibili1080.php?id=22765729
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",新白娘子传奇。24小时经典轮播
-http://127.0.0.1:8081/bilibili1080.php?id=5960549
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",开局被雷劈，然后我成了提刑大人
-http://127.0.0.1:8081/bilibili1080.php?id=24989570
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【西游-记】海爷7厅
-http://127.0.0.1:8081/bilibili1080.php?id=8409992
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",童年回忆丨守护甜心丨全三季轮播
-http://127.0.0.1:8081/bilibili1080.php?id=14434
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【24/7】哆啦A梦 大山版 全集
-http://127.0.0.1:8081/bilibili1080.php?id=22724987
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",国语动画片
-http://127.0.0.1:8081/bilibili1080.php?id=11765640
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【医馆笑传.全集】经典搞笑全天24小时播
-http://127.0.0.1:8081/bilibili1080.php?id=21070400
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",tbb电影动画综艺or吃吃吃吃粤语
-http://127.0.0.1:8081/bilibili1080.php?id=136843
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【海绵宝宝】海爷6厅
-http://127.0.0.1:8081/bilibili1080.php?id=5353745
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",巴啦啦小魔仙高清重置版
-http://127.0.0.1:8081/bilibili1080.php?id=22138494
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",一起追忆青春呀
-http://127.0.0.1:8081/bilibili1080.php?id=23229305
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",请关灯后食用！
-http://127.0.0.1:8081/bilibili1080.php?id=20768
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",且看且珍惜
-http://127.0.0.1:8081/bilibili1080.php?id=8566972
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",做人呢，最重要是开心
-http://127.0.0.1:8081/bilibili1080.php?id=142721
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",老郭单口评书坑王挖坑驾到轮播
-http://127.0.0.1:8081/bilibili1080.php?id=8450399
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",快进来看猫片！
-http://127.0.0.1:8081/bilibili1080.php?id=1717236
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【日配中字】蜡笔小新24H直播间
-http://127.0.0.1:8081/bilibili1080.php?id=24609114
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",澡堂营业啦，过年了，二哥又闹离婚
-http://127.0.0.1:8081/bilibili1080.php?id=15088183
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【樱桃小丸子】国语
-http://127.0.0.1:8081/bilibili1080.php?id=12436393
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",神秘兔灵组织U｡･.･｡U
-http://127.0.0.1:8081/bilibili1080.php?id=22560755
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",咸鱼养成
-http://127.0.0.1:8081/bilibili1080.php?id=21438956
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",铁齿铜牙纪晓岚无片头片尾(7x24)
-http://127.0.0.1:8081/bilibili1080.php?id=22239140
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",铁齿铜牙纪晓岚4【24h】
-http://127.0.0.1:8081/bilibili1080.php?id=24970500
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",乘龙怪婿+小新22年剧场版
-http://127.0.0.1:8081/bilibili1080.php?id=448384
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",蜡笔小新剧场版2022柯南
-http://127.0.0.1:8081/bilibili1080.php?id=22591335
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",解压陪伴直播
-http://127.0.0.1:8081/bilibili1080.php?id=65842
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【阿梅】大片经典  24小时 每天更新
-http://127.0.0.1:8081/bilibili1080.php?id=127343
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",+24h直播
-http://127.0.0.1:8081/bilibili1080.php?id=23881926
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",外来媳妇本地郎（很懒，所以找个最长的）
-http://127.0.0.1:8081/bilibili1080.php?id=12365202
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【林正英】【僵尸】
-http://127.0.0.1:8081/bilibili1080.php?id=23586385
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",摸鱼
-http://127.0.0.1:8081/bilibili1080.php?id=21725995
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",大宋提刑官
-http://127.0.0.1:8081/bilibili1080.php?id=1219958
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",87版红楼梦+完整版剧情
-http://127.0.0.1:8081/bilibili1080.php?id=8412120
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",挂面打人事件
-http://127.0.0.1:8081/bilibili1080.php?id=7555740
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",[蜡笔小新]高清国语24小时轮播
-http://127.0.0.1:8081/bilibili1080.php?id=22683218
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",动画点播
-http://127.0.0.1:8081/bilibili1080.php?id=25925203
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",咱们裸熊！24小时循环直播！
-http://127.0.0.1:8081/bilibili1080.php?id=11168667
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",传播粤语文化！禁止提及播放视频相关话题！
-http://127.0.0.1:8081/bilibili1080.php?id=24134164
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",雨声直播
-http://127.0.0.1:8081/bilibili1080.php?id=21790955
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【影视巷】开心看剧
-http://127.0.0.1:8081/bilibili1080.php?id=2565578
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",进来听听段子~
-http://127.0.0.1:8081/bilibili1080.php?id=8719948
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",林正英  僵尸  经典  24H
-http://127.0.0.1:8081/bilibili1080.php?id=21360358
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",HD1992新白娘子传奇
-http://127.0.0.1:8081/bilibili1080.php?id=22336128
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",暗H:Darker
-http://127.0.0.1:8081/bilibili1080.php?id=4927075
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",经典动漫（推理、童年、灵异）
-http://127.0.0.1:8081/bilibili1080.php?id=4089143
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【全职猎人重制版】我爱奇犽和酷拉皮卡
-http://127.0.0.1:8081/bilibili1080.php?id=1480402
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",这都是你逼我的......
-http://127.0.0.1:8081/bilibili1080.php?id=72412
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",蜡笔小新1992版高清修复
-http://127.0.0.1:8081/bilibili1080.php?id=26151862
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",I GOT SMOKE无限循环
-http://127.0.0.1:8081/bilibili1080.php?id=2264796
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【林正英】经典  僵尸  女鬼
-http://127.0.0.1:8081/bilibili1080.php?id=3091485
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",康熙大帝-陈道明版！！晚8点
-http://127.0.0.1:8081/bilibili1080.php?id=23738447
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",放羊的星星，24H不间断
-http://127.0.0.1:8081/bilibili1080.php?id=10650614
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",BGM_Office，沙发音乐享受 放松
-http://127.0.0.1:8081/bilibili1080.php?id=23344839
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【松鼠精选】动作片专场丨全明星阵容
-http://127.0.0.1:8081/bilibili1080.php?id=6827037
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",怀旧向~古早偶像剧无限播
-http://127.0.0.1:8081/bilibili1080.php?id=23554349
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",炊事班第一部
-http://127.0.0.1:8081/bilibili1080.php?id=14457148
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",龙门票号
-http://127.0.0.1:8081/bilibili1080.php?id=25866926
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",东北一家人
-http://127.0.0.1:8081/bilibili1080.php?id=25955763
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",海绵宝宝 央配
-http://127.0.0.1:8081/bilibili1080.php?id=9819411
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",新白娘子传奇，跳过片头片尾
-http://127.0.0.1:8081/bilibili1080.php?id=24585444
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",有声小说
-http://127.0.0.1:8081/bilibili1080.php?id=10119169
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",铁齿铜牙纪晓岚 跳集播放 就是这么任性
-http://127.0.0.1:8081/bilibili1080.php?id=22059286
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",经典
-http://127.0.0.1:8081/bilibili1080.php?id=23546876
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【周星驰】【林正英】【李连杰】
-http://127.0.0.1:8081/bilibili1080.php?id=23218021
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",哆啦A梦新番剧场版含宇宙小战争
-http://127.0.0.1:8081/bilibili1080.php?id=7204293
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",三国演义
-http://127.0.0.1:8081/bilibili1080.php?id=13948338
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",猫和老鼠 兔八哥 达菲鸭
-http://127.0.0.1:8081/bilibili1080.php?id=5977175
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",粤语经典
-http://127.0.0.1:8081/bilibili1080.php?id=23205943
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",既然青春留不住(怀旧剧高清重制)
-http://127.0.0.1:8081/bilibili1080.php?id=22912887
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",周星驰成龙林正英等高分
-http://127.0.0.1:8081/bilibili1080.php?id=26133530
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",晚安 好梦呀
-http://127.0.0.1:8081/bilibili1080.php?id=37799
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",穷都不怕你怕鬼？
-http://127.0.0.1:8081/bilibili1080.php?id=6013087
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【蜡笔小新】超清画质-24小时轮播
-http://127.0.0.1:8081/bilibili1080.php?id=21668523
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",爱若有缘,终会再见~~
-http://127.0.0.1:8081/bilibili1080.php?id=24364870
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",dc动画
-http://127.0.0.1:8081/bilibili1080.php?id=906369
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【粤 | 花师奶】陪伴直播
-http://127.0.0.1:8081/bilibili1080.php?id=4970894
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",新白娘子传奇
-http://127.0.0.1:8081/bilibili1080.php?id=7105519
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",哪吒
-http://127.0.0.1:8081/bilibili1080.php?id=14262592
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",该说的还是说了！！
-http://127.0.0.1:8081/bilibili1080.php?id=21882327
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",电视剧24H轮播/放羊的星星等
-http://127.0.0.1:8081/bilibili1080.php?id=9742831
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",四驱兄弟/爆走兄弟 WGP MAX
-http://127.0.0.1:8081/bilibili1080.php?id=10544270
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【4K修复】就算这样，也要笑着去努力啊
-http://127.0.0.1:8081/bilibili1080.php?id=23172056
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",超清OVERLORD IV  第四季轮播
-http://127.0.0.1:8081/bilibili1080.php?id=14632074
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",嘉靖与海瑞
-http://127.0.0.1:8081/bilibili1080.php?id=25741406
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",田野中的野鸭子
-http://127.0.0.1:8081/bilibili1080.php?id=1951253
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",张小乙和四大天王的故事
-http://127.0.0.1:8081/bilibili1080.php?id=5276989
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【冷门好剧】见封进吧
-http://127.0.0.1:8081/bilibili1080.php?id=22875536
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",炊事班的故事
-http://127.0.0.1:8081/bilibili1080.php?id=24458911
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",童年回忆 超兽武装全天轮播（换原画线路）
-http://127.0.0.1:8081/bilibili1080.php?id=24955031
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",樱桃小丸子新番24小时轮播
-http://127.0.0.1:8081/bilibili1080.php?id=23451101
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",经典番剧/动漫/剧场版24时轮播
-http://127.0.0.1:8081/bilibili1080.php?id=21751462
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",A.Family.in.the.NE
-http://127.0.0.1:8081/bilibili1080.php?id=75688
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",GEAR战士电童
-http://127.0.0.1:8081/bilibili1080.php?id=939703
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",经典红楼梦、西游-记、三国演义、水浒传
-http://127.0.0.1:8081/bilibili1080.php?id=1402698
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",蜡笔小新 各年剧场版轮播 哦！
-http://127.0.0.1:8081/bilibili1080.php?id=26286836
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",怀旧老电影、电视剧
-http://127.0.0.1:8081/bilibili1080.php?id=25265996
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",我在B站看广告
-http://127.0.0.1:8081/bilibili1080.php?id=1353112
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【独家画质】终极三国
-http://127.0.0.1:8081/bilibili1080.php?id=14055482
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",蜡笔小新曾允凡老师配音版本
-http://127.0.0.1:8081/bilibili1080.php?id=22683759
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",倩女幽魂 极致画质
-http://127.0.0.1:8081/bilibili1080.php?id=6304822
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",卫斯理/鉴证/古灵/隔世/十二粤语
-http://127.0.0.1:8081/bilibili1080.php?id=23000383
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【松鼠】动作 悬疑 战争 高能 国产
-http://127.0.0.1:8081/bilibili1080.php?id=6837959
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",直到世界尽头 国语重置版
-http://127.0.0.1:8081/bilibili1080.php?id=24301601
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",蜡笔小新新番-原话中文字幕
-http://127.0.0.1:8081/bilibili1080.php?id=22447013
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",等橙宝来摸鱼~~
-http://127.0.0.1:8081/bilibili1080.php?id=302105
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",恶作剧之吻命中注定我爱你放羊的星星
-http://127.0.0.1:8081/bilibili1080.php?id=3042179
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",林正英、成龙、刘德华系列
-http://127.0.0.1:8081/bilibili1080.php?id=26160790
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",全站画质第一
-http://127.0.0.1:8081/bilibili1080.php?id=21950604
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【高清】蜡笔小新陪你一起欢度国庆！
-http://127.0.0.1:8081/bilibili1080.php?id=24882087
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",易州卫星音像
-http://127.0.0.1:8081/bilibili1080.php?id=765452
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",慢慢画，慢慢听，解压锵锵！
-http://127.0.0.1:8081/bilibili1080.php?id=23900339
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",超高清 蜡笔小新剧场版 合集
-http://127.0.0.1:8081/bilibili1080.php?id=22859864
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",经典怀旧
-http://127.0.0.1:8081/bilibili1080.php?id=11745204
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",ANIRADI_LIVE_MAIN
-http://127.0.0.1:8081/bilibili1080.php?id=31613
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【60fps】小马点播厅24H直播
-http://127.0.0.1:8081/bilibili1080.php?id=1020011
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",聊斋系列 高清 经典
-http://127.0.0.1:8081/bilibili1080.php?id=23572642
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",邵氏动作武侠都市爱情喜剧片切换线路3
-http://127.0.0.1:8081/bilibili1080.php?id=1968287
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",24x7 Lofi HipHop放松电台
-http://127.0.0.1:8081/bilibili1080.php?id=4480901
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",龙珠
-http://127.0.0.1:8081/bilibili1080.php?id=4992745
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【怀旧影视】国语专场
-http://127.0.0.1:8081/bilibili1080.php?id=8199817
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",看萌学园4童年记忆
-http://127.0.0.1:8081/bilibili1080.php?id=21482912
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",哈利波特
-http://127.0.0.1:8081/bilibili1080.php?id=5412156
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",高品质超高清经典 粤语电视剧
-http://127.0.0.1:8081/bilibili1080.php?id=25414400
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",坑王报道 助睡眠助科研
-http://127.0.0.1:8081/bilibili1080.php?id=24936209
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",篮球火，24H不间断
-http://127.0.0.1:8081/bilibili1080.php?id=26056370
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",咱们裸熊！双语字幕（3季全）
-http://127.0.0.1:8081/bilibili1080.php?id=1864949
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",林正英等经典影片直播
-http://127.0.0.1:8081/bilibili1080.php?id=1267124
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",狄仁杰 1 2
-http://127.0.0.1:8081/bilibili1080.php?id=23198102
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",每一天都快乐
-http://127.0.0.1:8081/bilibili1080.php?id=24861037
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",经典破案，快来啊
-http://127.0.0.1:8081/bilibili1080.php?id=26336155
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",猫和老鼠四川话24h直播
-http://127.0.0.1:8081/bilibili1080.php?id=23197090
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",开踢视频回放时光机
-http://127.0.0.1:8081/bilibili1080.php?id=905405
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",萌梦的自助点歌台⭐BV视频点播⭐哇咔咔⭐
-http://127.0.0.1:8081/bilibili1080.php?id=1903820
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【回忆】灌篮高手/推理/动漫/童年
-http://127.0.0.1:8081/bilibili1080.php?id=22367472
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",包青天93版
-http://127.0.0.1:8081/bilibili1080.php?id=24510977
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",最近不开心 看个海绵宝宝吧
-http://127.0.0.1:8081/bilibili1080.php?id=22915088
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",四驱兄弟（小子）
-http://127.0.0.1:8081/bilibili1080.php?id=188938
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",ニッポン放送 日本广播 日语学习
-http://127.0.0.1:8081/bilibili1080.php?id=10652022
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",看恐会怖-英叔-惊惊怕怕
-http://127.0.0.1:8081/bilibili1080.php?id=2575775
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",怀旧影视
-http://127.0.0.1:8081/bilibili1080.php?id=24772397
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",高清动画
-http://127.0.0.1:8081/bilibili1080.php?id=4361390
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【蜡笔小新】国语高清，24小时直播哦！
-http://127.0.0.1:8081/bilibili1080.php?id=23684726
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",在武家坡十八线挖野菜的王老师
-http://127.0.0.1:8081/bilibili1080.php?id=24722776
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",百变小樱w
-http://127.0.0.1:8081/bilibili1080.php?id=58833
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",老D录像厅-80后经典动画轮播
-http://127.0.0.1:8081/bilibili1080.php?id=22987700
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",红橙黄绿青蓝紫
-http://127.0.0.1:8081/bilibili1080.php?id=927029
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【快乐星球第1.2部】24小时轮播
-http://127.0.0.1:8081/bilibili1080.php?id=24378925
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",稀有台版配音[樱桃小丸子]！
-http://127.0.0.1:8081/bilibili1080.php?id=26318354
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",海绵宝宝
-http://127.0.0.1:8081/bilibili1080.php?id=21935649
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",这一夜有你们真好，愿你们这一夜过得愉快！
-http://127.0.0.1:8081/bilibili1080.php?id=641743
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",粤语【忍者】
-http://127.0.0.1:8081/bilibili1080.php?id=11032023
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",猫头鹰魔法社
-http://127.0.0.1:8081/bilibili1080.php?id=25914051
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",FanChannel粤语剧集节目轮播
-http://127.0.0.1:8081/bilibili1080.php?id=11789382
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",安静纯音乐
-http://127.0.0.1:8081/bilibili1080.php?id=4854434
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",回顾经典，中国影视剧！
-http://127.0.0.1:8081/bilibili1080.php?id=23490613
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",一休哥休息好了，经典继续，欢迎大家围观！
-http://127.0.0.1:8081/bilibili1080.php?id=24702722
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",黑夜雨林的声音_放松的雨，雨天的睡眠环境
-http://127.0.0.1:8081/bilibili1080.php?id=25754764
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",郭德纲 于谦 无唱相声
-http://127.0.0.1:8081/bilibili1080.php?id=25274438
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【蜡笔小新】 24小时直播 高清台配
-http://127.0.0.1:8081/bilibili1080.php?id=22903248
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",好了
-http://127.0.0.1:8081/bilibili1080.php?id=3630129
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",加菲猫的幸福生活 - 全集
-http://127.0.0.1:8081/bilibili1080.php?id=26383958
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",笑傲江湖 - 令狐冲大师兄 武侠
-http://127.0.0.1:8081/bilibili1080.php?id=23220264
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",24H锻炼听力
-http://127.0.0.1:8081/bilibili1080.php?id=275129
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",PS1 机战F完结篇
-http://127.0.0.1:8081/bilibili1080.php?id=6110488
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",狄仁杰周星驰金庸
-http://127.0.0.1:8081/bilibili1080.php?id=26378408
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",蜡笔小新幽灵忍者珍风传
-http://127.0.0.1:8081/bilibili1080.php?id=25520949
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",扣1查询主播精神状态{不稳定听歌
-http://127.0.0.1:8081/bilibili1080.php?id=25579191
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",犬夜叉
-http://127.0.0.1:8081/bilibili1080.php?id=4519788
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",音质炸裂专业听歌，你要的好声音
-http://127.0.0.1:8081/bilibili1080.php?id=21751885
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",各类影视顺序播放，总有你的菜！
-http://127.0.0.1:8081/bilibili1080.php?id=26320971
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",哆啦A梦剧场版-24h随机轮播
-http://127.0.0.1:8081/bilibili1080.php?id=1745864
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",裂垃圾
-http://127.0.0.1:8081/bilibili1080.php?id=6579116
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",盗墓笔记
-http://127.0.0.1:8081/bilibili1080.php?id=23766372
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",麻绳
-http://127.0.0.1:8081/bilibili1080.php?id=3411029
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",换剧啦（试播
-http://127.0.0.1:8081/bilibili1080.php?id=7452442
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",24h 我爱我家 纯音频 经典国产下饭剧
-http://127.0.0.1:8081/bilibili1080.php?id=5486270
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",少年大钦差
-http://127.0.0.1:8081/bilibili1080.php?id=26023628
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",柯南龙珠我的团长我的团湖人周星驰蜡笔小新
-http://127.0.0.1:8081/bilibili1080.php?id=26363110
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",顺风 顺风 耶！！
-http://127.0.0.1:8081/bilibili1080.php?id=1365853
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",Neiru Aonuma!
-http://127.0.0.1:8081/bilibili1080.php?id=11442398
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",像素 丨 音乐 丨 自习小酒馆
-http://127.0.0.1:8081/bilibili1080.php?id=12038423
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",阿婆主不在，请不要提剧名和人名
-http://127.0.0.1:8081/bilibili1080.php?id=25804387
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",看剧中
-http://127.0.0.1:8081/bilibili1080.php?id=23135259
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",橙子3台
-http://127.0.0.1:8081/bilibili1080.php?id=23318768
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",水浒传忠实读者之家
-http://127.0.0.1:8081/bilibili1080.php?id=25274637
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",胆大进来，胆小走开
-http://127.0.0.1:8081/bilibili1080.php?id=82444
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",蜡笔小新国语版，童年回忆，哦！
-http://127.0.0.1:8081/bilibili1080.php?id=26388859
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",针锋对决
-http://127.0.0.1:8081/bilibili1080.php?id=23610803
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",电费战士24H轮播经典动漫
-http://127.0.0.1:8081/bilibili1080.php?id=600763
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",宫崎骏吉卜力45g大小连播
-http://127.0.0.1:8081/bilibili1080.php?id=24747353
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",周杰伦2004、2007演唱会
-http://127.0.0.1:8081/bilibili1080.php?id=7243362
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",蛋总
-http://127.0.0.1:8081/bilibili1080.php?id=5438349
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",边玩边听 有声小说
-http://127.0.0.1:8081/bilibili1080.php?id=24502296
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",无片头片尾《我们这一家国语》（24h）
-http://127.0.0.1:8081/bilibili1080.php?id=10559824
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",偶像剧轮播，爱情睡醒了，喜欢的点个关注！
-http://127.0.0.1:8081/bilibili1080.php?id=25866157
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",先播会派派 后播超兽武装
-http://127.0.0.1:8081/bilibili1080.php?id=26060512
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",老高與小茉 265全集轮播
-http://127.0.0.1:8081/bilibili1080.php?id=9970789
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",干点活
-http://127.0.0.1:8081/bilibili1080.php?id=22393911
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",特摄轮播【画质修复版】
-http://127.0.0.1:8081/bilibili1080.php?id=25233689
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",有声书《盗墓笔记》周建龙演播
-http://127.0.0.1:8081/bilibili1080.php?id=23047393
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",蜡笔小新，24小时，新番+剧场版！！
-http://127.0.0.1:8081/bilibili1080.php?id=24339165
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",见证萌新的旅行之路
-http://127.0.0.1:8081/bilibili1080.php?id=23627703
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",饕餮盛宴
-http://127.0.0.1:8081/bilibili1080.php?id=11709851
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【猫和老鼠】鼠鼠我啊，开心得很
-http://127.0.0.1:8081/bilibili1080.php?id=24190981
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",三体有声小说
-http://127.0.0.1:8081/bilibili1080.php?id=25982570
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",不会有人的标题一直不变吧
-http://127.0.0.1:8081/bilibili1080.php?id=25830716
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",旧版喜羊羊
-http://127.0.0.1:8081/bilibili1080.php?id=21901154
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",永远的樱桃小丸子……
-http://127.0.0.1:8081/bilibili1080.php?id=26154150
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",樱桃小丸子 第一季国语版 1-52集连播
-http://127.0.0.1:8081/bilibili1080.php?id=26404785
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",　
-http://127.0.0.1:8081/bilibili1080.php?id=1578846
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",集合集合
-http://127.0.0.1:8081/bilibili1080.php?id=25653670
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",bilibili主播的直播间
-http://127.0.0.1:8081/bilibili1080.php?id=26266010
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",周星驰 李连杰 林正英 喜剧 动作 香港
-http://127.0.0.1:8081/bilibili1080.php?id=23495882
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",英语【英美影剧】高频口语+词汇
-http://127.0.0.1:8081/bilibili1080.php?id=24394775
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",经典谍战剧 五号特工组
-http://127.0.0.1:8081/bilibili1080.php?id=23423738
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",经典放映厅-动漫-小品-电影
-http://127.0.0.1:8081/bilibili1080.php?id=9520627
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",远远不是完全体.
-http://127.0.0.1:8081/bilibili1080.php?id=11432810
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",喵喵点歌台（24小时点歌）
-http://127.0.0.1:8081/bilibili1080.php?id=324298
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",经典功夫台
-http://127.0.0.1:8081/bilibili1080.php?id=21715386
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",磕三国魏蜀吴CP的爱恨情仇走起 | C位
-http://127.0.0.1:8081/bilibili1080.php?id=4316378
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",我恨你的十件事 10 Things
-http://127.0.0.1:8081/bilibili1080.php?id=24256150
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【音悦台】东方Project作业音/点歌
-http://127.0.0.1:8081/bilibili1080.php?id=6472211
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",你们的周杰伦演唱会
-http://127.0.0.1:8081/bilibili1080.php?id=12164280
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【慢直播】来晚了，我再罚一碗炸酱面
-http://127.0.0.1:8081/bilibili1080.php?id=430200
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",魔卡少女樱 东方零食分部
-http://127.0.0.1:8081/bilibili1080.php?id=1067855
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",战姬绝唱
-http://127.0.0.1:8081/bilibili1080.php?id=11588506
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",粤语 睇我心情播d乜
-http://127.0.0.1:8081/bilibili1080.php?id=8013704
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",达摩祖师
-http://127.0.0.1:8081/bilibili1080.php?id=22898717
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",怀旧影像馆-经典
-http://127.0.0.1:8081/bilibili1080.php?id=23207563
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",大明の腹黑皇帝
-http://127.0.0.1:8081/bilibili1080.php?id=25282239
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",11月快乐
-http://127.0.0.1:8081/bilibili1080.php?id=2010774
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",和闵大人谈恋爱
-http://127.0.0.1:8081/bilibili1080.php?id=22389593
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",地堡电波：给你不一样的观察角度
-http://127.0.0.1:8081/bilibili1080.php?id=24077528
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",跟朋友看韩综聊天
-http://127.0.0.1:8081/bilibili1080.php?id=24172443
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",小将军令111的直播间
-http://127.0.0.1:8081/bilibili1080.php?id=11574658
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",欢迎来听歌【UP外出ing】
-http://127.0.0.1:8081/bilibili1080.php?id=1142098
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",光能使者/魔动王 调试中
-http://127.0.0.1:8081/bilibili1080.php?id=8947467
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",只听好歌不听话
-http://127.0.0.1:8081/bilibili1080.php?id=10075695
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",经典影视回顾
-http://127.0.0.1:8081/bilibili1080.php?id=22096919
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",阿尔比恩萌新挑战100次T8绿洞收益
-http://127.0.0.1:8081/bilibili1080.php?id=7625665
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",开饭啦，塔塔开
-http://127.0.0.1:8081/bilibili1080.php?id=6248239
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",初来报道，关注一下吧~
-http://127.0.0.1:8081/bilibili1080.php?id=11429146
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",人生兜兜转转如音乐旋律
-http://127.0.0.1:8081/bilibili1080.php?id=4138082
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",国产动漫纳米核心24小时
-http://127.0.0.1:8081/bilibili1080.php?id=2845541
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",24H无人值守音乐点播台
-http://127.0.0.1:8081/bilibili1080.php?id=3702914
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",宝宝宝宝宝宝！！
-http://127.0.0.1:8081/bilibili1080.php?id=24043761
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",平平无奇音乐台
-http://127.0.0.1:8081/bilibili1080.php?id=436469
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",开心的就来，我播的杂，喜欢侠岚的都来
-http://127.0.0.1:8081/bilibili1080.php?id=24017442
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",解锁成就：破旧的音悦台（点歌姬已开放）
-http://127.0.0.1:8081/bilibili1080.php?id=215057
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",林正英僵尸
-http://127.0.0.1:8081/bilibili1080.php?id=24414919
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",童年回忆
-http://127.0.0.1:8081/bilibili1080.php?id=23719886
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",lofi radio 放松 学习
-http://127.0.0.1:8081/bilibili1080.php?id=2439579
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",哆啦a梦旧版全集
-http://127.0.0.1:8081/bilibili1080.php?id=26237268
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",经典名段赏析 老郭
-http://127.0.0.1:8081/bilibili1080.php?id=13335972
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",Cryo Chamber的黑暗氛围音乐
-http://127.0.0.1:8081/bilibili1080.php?id=336856
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",三国演义
-http://127.0.0.1:8081/bilibili1080.php?id=21568799
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",OAO
-http://127.0.0.1:8081/bilibili1080.php?id=2465444
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",僵尸道长林正英
-http://127.0.0.1:8081/bilibili1080.php?id=4726649
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",听歌
-http://127.0.0.1:8081/bilibili1080.php?id=21708547
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",单口全是坑
-http://127.0.0.1:8081/bilibili1080.php?id=399627
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【海绵宝宝】重温经典，情怀依旧 24时
-http://127.0.0.1:8081/bilibili1080.php?id=25362340
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",新白娘子传奇（24H轮播）
-http://127.0.0.1:8081/bilibili1080.php?id=23152385
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",度假岛极速版
-http://127.0.0.1:8081/bilibili1080.php?id=22899675
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",怪化猫
-http://127.0.0.1:8081/bilibili1080.php?id=12130513
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",娱乐全节目台(动漫剧集电影综艺音乐)
-http://127.0.0.1:8081/bilibili1080.php?id=1215668
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",城市的清道夫
-http://127.0.0.1:8081/bilibili1080.php?id=26381404
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",Relaxing Fish
-http://127.0.0.1:8081/bilibili1080.php?id=37702
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",爷爷的爷
-http://127.0.0.1:8081/bilibili1080.php?id=24190636
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",365天  相声轮播
-http://127.0.0.1:8081/bilibili1080.php?id=23950940
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",日期和时间（UTC+8）
-http://127.0.0.1:8081/bilibili1080.php?id=25488164
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",张娜英老婆视频
-http://127.0.0.1:8081/bilibili1080.php?id=24904658
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",没段位，娱乐局
-http://127.0.0.1:8081/bilibili1080.php?id=26137357
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",深度睡眠雨声相伴
-http://127.0.0.1:8081/bilibili1080.php?id=25122152
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",哆啦a梦
-http://127.0.0.1:8081/bilibili1080.php?id=12760327
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",晴空是猪
-http://127.0.0.1:8081/bilibili1080.php?id=23265601
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",橙子1台
-http://127.0.0.1:8081/bilibili1080.php?id=23318788
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",经典动画葫芦娃舒克贝塔
-http://127.0.0.1:8081/bilibili1080.php?id=23970009
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",电音之旅 DJKingdom
-http://127.0.0.1:8081/bilibili1080.php?id=3981922
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",别贪心 不加糖不举铁日常 治愈系轻松喜剧
-http://127.0.0.1:8081/bilibili1080.php?id=3813320
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",Lofi HipHop 睡眠/放松/氛围
-http://127.0.0.1:8081/bilibili1080.php?id=26121174
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",CityPop-JP 霓虹夏日
-http://127.0.0.1:8081/bilibili1080.php?id=25464924
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",猪鼻
-http://127.0.0.1:8081/bilibili1080.php?id=7161541
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",测试
-http://127.0.0.1:8081/bilibili1080.php?id=5491707
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",分享沙雕图（答应我不看图的请划走
-http://127.0.0.1:8081/bilibili1080.php?id=21995737
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",蜡笔小新全集24小时播放
-http://127.0.0.1:8081/bilibili1080.php?id=26343761
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",经典电影番剧回顾
-http://127.0.0.1:8081/bilibili1080.php?id=1105073
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",【一起看】海绵宝宝
-http://127.0.0.1:8081/bilibili1080.php?id=24141009
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",曲目超万首！DemoFM示范曲电台
-http://127.0.0.1:8081/bilibili1080.php?id=4237604
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",神探夏洛克
-http://127.0.0.1:8081/bilibili1080.php?id=13908220
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",燕赵无名的直播间
-http://127.0.0.1:8081/bilibili1080.php?id=14804993
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="哔哩哔哩",看风景，听音乐，解压。
-http://127.0.0.1:8081/bilibili1080.php?id=4357001
 
 #EXTINF:-1 group-title="虎牙",周星星的直播蓝光4M
 http://127.0.0.1:8081/huya.php?id=11342412
@@ -3384,8 +3016,7 @@ http://127.0.0.1:8081/huya.php?id=18055625
 http://127.0.0.1:8081/huya.php?id=880242
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1064/d4/14d682e455e66d7ebfa0c440feedde_180_135.jpg?1640588965" group-title="虎牙", NCT127-在玹
 http://127.0.0.1:8081/huya.php?id=637218
-#EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube",WWE竞技
-http://127.0.0.1:8081/wwe.php
+
 #EXTINF:-1 tvg-id="100597" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="youtube",鳳凰資訊頻道
 http://127.0.0.1:8081/fenghuangyoutube.php?id=1
 
@@ -3401,7 +3032,7 @@ http://127.0.0.1:8081/cgtnrussia.php
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube",金砖英文
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="youtube",CCTV NEWS欧洲
+#EXTINF:-1 tvg-id="20" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="youtube",CCTV NEWS欧洲
 http://127.0.0.1:8081/cctvfrench.php
 
 
@@ -3411,7 +3042,8 @@ https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="youtube",CCTV-6
 http://127.0.0.1:8081/douyin.php?id=208823316033
-
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="youtube",CCTV-6
+http://mobilelive-pull.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="youtube",cctv-4亚洲
 http://127.0.0.1:8081/cctv4.php
@@ -3429,19 +3061,19 @@ https://www.yicai.com/api/dycj/liveIndex.m3u8
 https://www.yicai.com/api/dfcj/liveIndex.m3u8
 
 
-#EXTINF:-1 tvg-id="100645" tvg-name="" tvg-logo="" group-title="youtube",看看新闻直播
+#EXTINF:-1 tvg-id="100448" tvg-name="" tvg-logo="" group-title="youtube",看看新闻直播
 http://127.0.0.1:8081/kankanlive.php?id=1
-#EXTINF:-1 tvg-id="100645" tvg-name="" tvg-logo="" group-title="youtube",看看新闻直播
+#EXTINF:-1 tvg-id="100448" tvg-name="" tvg-logo="" group-title="youtube",看看新闻直播
 http://127.0.0.1:8081/kankanlive.php?id=2
 
-#EXTINF:-1 tvg-id="100646" tvg-name="" tvg-logo="" group-title="youtube",第一财经直播
+#EXTINF:-1 tvg-id="100447" tvg-name="" tvg-logo="" group-title="youtube",第一财经直播
 http://127.0.0.1:8081/diyicaijinglive.php?id=1
-#EXTINF:-1 tvg-id="100646" tvg-name="" tvg-logo="" group-title="youtube",第一财经直播
+#EXTINF:-1 tvg-id="100447" tvg-name="" tvg-logo="" group-title="youtube",第一财经直播
 http://127.0.0.1:8081/diyicaijinglive.php?id=2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",NBA動態
 https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event038/hls-ae-tv/index.m3u8
-#EXTINF:-1 tvg-id="100282" tvg-name="" tvg-logo="" group-title="youtube",中台灣生活新聞
+#EXTINF:-1 tvg-id="100282" tvg-name="中台灣生活網頻道" tvg-logo="" group-title="youtube",中台灣生活網頻道
 http://127.0.0.1:8081/linetv.php?id=taiwanshenghuonews
 #EXTINF:-1 tvg-id="100282" tvg-name="" tvg-logo="" group-title="youtube",MOD点播
 https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event024/hls-ae-tv/index.m3u8
@@ -3564,6 +3196,12 @@ http://127.0.0.1:8081/youtube.php?v=4HysYHJ6GkY
 
 #EXTINF:-1 tvg-id="4gtv-4gtv085" tvg-name="" tvg-logo="" group-title="youtube",国会2
 http://127.0.0.1:8081/youtube.php?v=RAP4h3q6_Sg
+
+#EXTINF:-1 tvg-id="4gtv-4gtv085" tvg-name="" tvg-logo="" group-title="youtube",百萬大歌星
+http://127.0.0.1:8081/taishizongyi.php?id=1
+#EXTINF:-1 tvg-id="4gtv-4gtv085" tvg-name="" tvg-logo="" group-title="youtube",龍兄虎弟
+http://127.0.0.1:8081/taishizongyi.php?id=2
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",MIT台灣誌
 http://127.0.0.1:8081/mit.php
@@ -3962,11 +3600,11 @@ https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737d
 
 #EXTINF:-1 tvg-id="100156" group-title="youtube" tvg-logo="",CBSN New York
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
-#EXTINF:-1 tvg-id="100156" group-title="youtube" tvg-logo="",CGTN[
+#EXTINF:-1 tvg-id="100156" group-title="youtube" tvg-logo="",cgtn[
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="100156" group-title="youtube" tvg-logo="",CGTN Channel 1
+#EXTINF:-1 tvg-id="100156" group-title="youtube" tvg-logo="",cgtn Channel 1
 http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
-#EXTINF:-1 tvg-id="100156" group-title="youtube" tvg-logo="",CGTN Channel 2
+#EXTINF:-1 tvg-id="100156" group-title="youtube" tvg-logo="",cgtn Channel 2
 http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
 
 
@@ -4266,20 +3904,19 @@ http://127.0.0.1:8081/rtarabic.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",EKOTÜRK TV 
 http://127.0.0.1:8081/youtube.php?v=5mD5UR-loQo
 
+#EXTINF:-1 tvg-id="100598" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰卫视中文台
+http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+#EXTINF:-1 tvg-id="100598" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰卫视中文台
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+#EXTINF:-1 tvg-id="100597" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+#EXTINF:-1 tvg-id="100597" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 
 
-#EXTINF:-1 tvg-id="100630" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰卫视中文台
-http://127.0.0.1:8081/fenghuangshou.php?id=fhzw
-#EXTINF:-1 tvg-id="100597" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
-http://127.0.0.1:8081/fenghuangshou.php?id=fhzx
-#EXTINF:-1 tvg-id="100598" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",凤凰卫视香港台
-http://127.0.0.1:8081/fenghuangshou.php?id=fhhk
-#EXTINF:-1 tvg-id="100630" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰卫视中文台
-http://127.0.0.1:8081/ifeng.php?id=2
-#EXTINF:-1 tvg-id="100597" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
-http://127.0.0.1:8081/ifeng.php?id=1
-#EXTINF:-1 tvg-id="100598" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",凤凰卫视香港台
-http://127.0.0.1:8081/ifeng.php?id=3
+
+
+
 
 
 
@@ -4301,11 +3938,11 @@ http://127.0.0.1:8081/tvb1.php?id=FINA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",耀才财经台2
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 
-#EXTINF:-1 tvg-id="100642" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="香港",香港電台31
+#EXTINF:-1 tvg-id="100643" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="香港",香港電台31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_5400_av-b.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 tvg-id="100643" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="香港",香港電台32
+#EXTINF:-1 tvg-id="100644" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="香港",香港電台32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 
 
@@ -4395,79 +4032,12 @@ http://127.0.0.1:8081/minshi.php?id=litv-ftv09
 
 
 
-#EXTINF:-1  tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv13_mobile.png" group-title="中华电信直播",民視新聞台
-http://127.0.0.1:8081/zhonghuadianxin.php?id=litv-ftv13
-#EXTINF:-1  tvg-id="4gtv-4gtv052" tvg-name="華視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv052_mobile.png" group-title="中华电信直播",華視新聞資訊台
-http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv052
 
-#EXTINF:-1 group-title="中华电信直播",民視旅遊台
-http://127.0.0.1:8081/zhonghuadianxin.php?id=litv-ftv07
-#EXTINF:-1 group-title="中华电信直播",i-Fun動漫台
-http://127.0.0.1:8081/zhonghuadianxin.php?id=litv-ftv15
-#EXTINF:-1 group-title="中华电信直播",幸福空間居家台
-http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-live206
-#EXTINF:-1 group-title="中华电信直播",愛爾達娛樂台
-http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv070
-#EXTINF:-1 tvg-id="4gtv-live025" tvg-name="MTV Live HD 音樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live025_mobile.png"  group-title="中华电信直播",MTV
-http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-live025
-#EXTINF:-1 group-title="中华电信直播",中視新聞台
-http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv074
-#EXTINF:-1 group-title="中华电信直播",,影迷數位電影台
-http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv011
-
-#EXTINF:-1 tvg-id="4gtv-4gtv046" tvg-name="靖天綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv046_mobile.png"  group-title="中华电信直播",靖天日本台
-http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv047
-#EXTINF:-1 group-title="中华电信直播",龍華日韓台
-http://127.0.0.1:8081/zhonghuadianxin.php?id=litv-longturn11
-#EXTINF:-1 group-title="中华电信直播",公視戲劇
-http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv042
-#EXTINF:-1 tvg-id="4gtv-4gtv002" tvg-name="民視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png" group-title="中华电信直播",民視
-http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv002
-#EXTINF:-1 tvg-id="4gtv-live027" tvg-name="CI 罪案偵查頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live027_mobile.png" group-title="中华电信直播",CI 罪案偵查頻道
-http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-live027
-#EXTINF:-1 tvg-id="4gtv-4gtv013" tvg-name="視納華仁紀實頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv013_mobile.png" group-title="中华电信直播",CNEX紀實頻道
-http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv013
-#EXTINF:-1 tvg-id="litv-longturn03" tvg-name="龍華電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn03_mobile.png" group-title="中华电信直播",龍華電影台
-http://127.0.0.1:8081/zhonghuadianxin.php?id=litv-longturn03
-#EXTINF:-1 group-title="中华电信直播",民視綜藝台
-http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv004
-#EXTINF:-1 tvg-id="litv-longturn20" tvg-name="ELTV生活英語台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn20_mobile.png" group-title="中华电信直播"ELTV生活英語台
-http://127.0.0.1:8081/zhonghuadianxin.php?id=litv-longturn20
-#EXTINF:-1 tvg-id="4gtv-4gtv040" tvg-name="中視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="中华电信直播",中視
-http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv040
-#EXTINF:-1 group-title="中华电信直播",民視第一台
-http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv003
-
-
-
-
-
-#EXTINF:-1 group-title="中华电信直播",大愛電視台
-http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-live007
-#EXTINF:-1 tvg-id="4gtv-live130" tvg-name="CNBC Asia 財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live130_mobile.png"  group-title="中华电信直播",CNBC
-http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-live130
-#EXTINF:-1 tvg-id="litv-ftv10" tvg-name="半島國際新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv10_mobile.png"  group-title="中华电信直播",半島電視台
-http://127.0.0.1:8081/zhonghuadianxin.php?id=litv-ftv10
-#EXTINF:-1 tvg-id="litv-ftv03" tvg-name="VOA美國之音" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv03_mobile.png"  group-title="中华电信直播",美国之音
-http://127.0.0.1:8081/zhonghuadianxin.php?id=litv-ftv03
-
-#EXTINF:-1 tvg-id="4gtv-live208" tvg-name="Love Nature" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live208_mobile.png"  group-title="中华电信直播",爱自然
-http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-live208
-#EXTINF:-1 tvg-id="4gtv-live026" tvg-name="History 歷史頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live026_mobile.png"  group-title="中华电信直播",历史频道
-http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-live026
-#EXTINF:-1 group-title="中华电信直播",寰宇新聞台
-http://127.0.0.1:8081/zhonghuadianxin.php?id=litv-longturn14
-
-#EXTINF:-1 tvg-id="4gtv-4gtv001" tvg-name="民視台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="中华电信直播",民視台灣台
-http://127.0.0.1:8081/zhonghuadianxin.php?id=4gtv-4gtv001
 
 #EXTINF:-1 tvg-id="litv-ftv16" tvg-name="GoodTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoodTV.png" group-title="台湾",好消息电视1
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #EXTINF:-1 tvg-id="litv-ftv17" tvg-name="GoodTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoodTV.png" group-title="台湾",好消息电视2
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-id="4gtv-4gtv003" tvg-name="民視第一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="4gtv",民視第一台
@@ -4518,207 +4088,207 @@ http://127.0.0.1:8081/4gtv720.php?id=22
 #EXTINF:-1 tvg-id="4gtv-live032" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live032_mobile.png" group-title="4gtv",Nick Jr. 兒童頻道
 http://127.0.0.1:8081/4gtv1080.php?id=23
 #EXTINF:-1 tvg-id="4gtv-live105" tvg-name="尼克兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live105_mobile.png" group-title="4gtv",尼克兒童頻道
-http://127.0.0.1:8081/4gtv720.php?id=24
+http://127.0.0.1:8081/4gtv10801.php?id=24
+#EXTINF:-1 tvg-id="4gtv-live017" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live017_mobile.png" group-title="4gtv",DreamWorks 夢工廠動畫
+http://127.0.0.1:8081/4gtv10801.php?id=25
+
 #EXTINF:-1 tvg-id="4gtv-4gtv044" tvg-name="靖天卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv044_mobile.png" group-title="4gtv",靖天卡通台
-http://127.0.0.1:8081/4gtv720.php?id=25
-#EXTINF:-1 tvg-id="4gtv-4gtv057" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv057_mobile.png" group-title="4gtv",靖洋卡通Nice Bingo
 http://127.0.0.1:8081/4gtv720.php?id=26
-#EXTINF:-1 tvg-id="litv-ftv15" tvg-name="i-Fun動漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv15_mobile.png" group-title="4gtv",i-Fun動漫台
+#EXTINF:-1 tvg-id="4gtv-4gtv057" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv057_mobile.png" group-title="4gtv",靖洋卡通Nice Bingo
 http://127.0.0.1:8081/4gtv720.php?id=27
-#EXTINF:-1 tvg-id="4gtv-live107" tvg-name="MOMO親子台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live107_mobile.png" group-title="4gtv",MOMO親子台
+#EXTINF:-1 tvg-id="litv-ftv15" tvg-name="i-Fun動漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv15_mobile.png" group-title="4gtv",i-Fun動漫台
 http://127.0.0.1:8081/4gtv720.php?id=28
+#EXTINF:-1 tvg-id="4gtv-live107" tvg-name="MOMO親子台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live107_mobile.png" group-title="4gtv",MOMO親子台
+http://127.0.0.1:8081/4gtv10801.php?id=29
 #EXTINF:-1 tvg-id="4gtv-live047" tvg-name="東森購物一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="4gtv",東森購物一台
-http://127.0.0.1:8081/4gtv720.php?id=29
+http://127.0.0.1:8081/4gtv10801.php?id=30
 #EXTINF:-1 tvg-id="4gtv-4gtv075" tvg-name="鏡電視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv075_mobile.png" group-title="4gtv",鏡電視新聞台
-http://127.0.0.1:8081/4gtv720.php?id=30
+http://127.0.0.1:8081/4gtv720.php?id=31
 #EXTINF:-1 tvg-id="4gtv-live114" tvg-name="東森新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live114_mobile.png" group-title="4gtv",東森新聞台
-http://127.0.0.1:8081/4gtv1080.php?id=31
+http://127.0.0.1:8081/4gtv1080.php?id=32
 #EXTINF:-1 tvg-id="4gtv-4gtv052" tvg-name="華視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv052_mobile.png" group-title="4gtv",華視新聞
-http://127.0.0.1:8081/4gtv720.php?id=32
-#EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv13_mobile.png" group-title="4gtv",民視新聞台
 http://127.0.0.1:8081/4gtv720.php?id=33
+#EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv13_mobile.png" group-title="4gtv",民視新聞台
+http://127.0.0.1:8081/4gtv720.php?id=34
 #EXTINF:-1 tvg-id="4gtv-live089" tvg-name="三立新聞iNEWS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live089_mobile.png" group-title="4gtv",三立新聞iNEWS
-http://127.0.0.1:8081/4gtv1080.php?id=34
-#EXTINF:-1 tvg-id="4gtv-live072" tvg-name="TVBS新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live072_mobile.png" group-title="4gtv",TVBS新聞
 http://127.0.0.1:8081/4gtv1080.php?id=35
-#EXTINF:-1 tvg-id="4gtv-live019" tvg-name="東森財經新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live019_mobile.png" group-title="4gtv",東森財經新聞台
+#EXTINF:-1 tvg-id="4gtv-live072" tvg-name="TVBS新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live072_mobile.png" group-title="4gtv",TVBS新聞
 http://127.0.0.1:8081/4gtv1080.php?id=36
+#EXTINF:-1 tvg-id="4gtv-live019" tvg-name="東森財經新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live019_mobile.png" group-title="4gtv",東森財經新聞台
+http://127.0.0.1:8081/4gtv1080.php?id=37
 #EXTINF:-1 tvg-id="4gtv-4gtv074" tvg-name="中視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv074_mobile.png" group-title="4gtv",中視新聞
-http://127.0.0.1:8081/4gtv720.php?id=37
-#EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-name="中天新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv009_mobile.png" group-title="4gtv",中天新聞台
 http://127.0.0.1:8081/4gtv720.php?id=38
-#EXTINF:-1 tvg-id="litv-longturn14" tvg-name="寰宇新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="4gtv",寰宇新聞台
+#EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-name="中天新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv009_mobile.png" group-title="4gtv",中天新聞台
 http://127.0.0.1:8081/4gtv720.php?id=39
-#EXTINF:-1 tvg-id="litv-longturn15" tvg-name="寰宇新聞台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn15_mobile.png" group-title="4gtv",寰宇新聞台灣台
+#EXTINF:-1 tvg-id="litv-longturn14" tvg-name="寰宇新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="4gtv",寰宇新聞台
 http://127.0.0.1:8081/4gtv720.php?id=40
+#EXTINF:-1 tvg-id="litv-longturn15" tvg-name="寰宇新聞台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn15_mobile.png" group-title="4gtv",寰宇新聞台灣台
+http://127.0.0.1:8081/4gtv720.php?id=41
 #EXTINF:-1 tvg-id="4gtv-live060" tvg-name="SBN全球財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live060_mobile.png" group-title="4gtv",SBN全球財經台
-http://127.0.0.1:8081/4gtv1080.php?id=41
+http://127.0.0.1:8081/4gtv1080.php?id=42
 #EXTINF:-1 tvg-id="litv-longturn23" tvg-name="寰宇財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn23_mobile.png" group-title="4gtv",寰宇財經台
-http://127.0.0.1:8081/4gtv720.php?id=42
-#EXTINF:-1 tvg-id="4gtv-4gtv073" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv073_mobile.png" group-title="4gtv",TVBS
 http://127.0.0.1:8081/4gtv720.php?id=43
+#EXTINF:-1 tvg-id="4gtv-4gtv073" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv073_mobile.png" group-title="4gtv",TVBS
+http://127.0.0.1:8081/4gtv720.php?id=44
 #EXTINF:-1 tvg-id="4gtv-live046" tvg-name="東森購物二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live046_mobile.png" group-title="4gtv",東森購物二台
-http://127.0.0.1:8081/4gtv1080.php?id=44
+http://127.0.0.1:8081/4gtv1080.php?id=45
 #EXTINF:-1 tvg-id="4gtv-4gtv004" tvg-name="民視綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv004_mobile.png" group-title="4gtv",民視綜藝台
-http://127.0.0.1:8081/4gtv720.php?id=45
-#EXTINF:-1 tvg-id="4gtv-4gtv006" tvg-name="豬哥亮歌廳秀" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv006_mobile.png" group-title="4gtv",豬哥亮歌廳秀
 http://127.0.0.1:8081/4gtv720.php?id=46
-#EXTINF:-1 tvg-id="4gtv-4gtv062" tvg-name="靖天育樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv062_mobile.png" group-title="4gtv",靖天育樂台
+#EXTINF:-1 tvg-id="4gtv-4gtv006" tvg-name="豬哥亮歌廳秀" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv006_mobile.png" group-title="4gtv",豬哥亮歌廳秀
 http://127.0.0.1:8081/4gtv720.php?id=47
-#EXTINF:-1 tvg-id="4gtv-4gtv063" tvg-name="KLT-靖天國際台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv063_mobile.png" group-title="4gtv",KLT-靖天國際台
+#EXTINF:-1 tvg-id="4gtv-4gtv062" tvg-name="靖天育樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv062_mobile.png" group-title="4gtv",靖天育樂台
 http://127.0.0.1:8081/4gtv720.php?id=48
-#EXTINF:-1 tvg-id="4gtv-4gtv054" tvg-name="Nice TV 靖天歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv054_mobile.png" group-title="4gtv",Nice TV 靖天歡樂台
+#EXTINF:-1 tvg-id="4gtv-4gtv063" tvg-name="KLT-靖天國際台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv063_mobile.png" group-title="4gtv",KLT-靖天國際台
 http://127.0.0.1:8081/4gtv720.php?id=49
-#EXTINF:-1 tvg-id="4gtv-4gtv065" tvg-name="靖天資訊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv065_mobile.png" group-title="4gtv",靖天資訊台
+#EXTINF:-1 tvg-id="4gtv-4gtv054" tvg-name="Nice TV 靖天歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv054_mobile.png" group-title="4gtv",Nice TV 靖天歡樂台
 http://127.0.0.1:8081/4gtv720.php?id=50
+#EXTINF:-1 tvg-id="4gtv-4gtv065" tvg-name="靖天資訊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv065_mobile.png" group-title="4gtv",靖天資訊台
+http://127.0.0.1:8081/4gtv720.php?id=51
 
 #EXTINF:-1 tvg-id="4gtv-4gtv068" tvg-name="TVBS歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv068_mobile.png" group-title="4gtv",TVBS歡樂台
-http://127.0.0.1:8081/4gtv720.php?id=51
-#EXTINF:-1 tvg-id="4gtv-4gtv016" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv016_mobile.png" group-title="4gtv",韓國娛樂台 KMTV
 http://127.0.0.1:8081/4gtv720.php?id=52
+#EXTINF:-1 tvg-id="4gtv-4gtv016" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv016_mobile.png" group-title="4gtv",韓國娛樂台 KMTV
+http://127.0.0.1:8081/4gtv720.php?id=53
 #EXTINF:-1 tvg-id="4gtv-live080" tvg-name="ROCK Entertainment" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live080_mobile.png" group-title="4gtv",ROCK Entertainment
-http://127.0.0.1:8081/4gtv1080.php?id=53
+http://127.0.0.1:8081/4gtv1080.php?id=54
 #EXTINF:-1 tvg-id="4gtv-live029" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="4gtv",Lifetime 娛樂頻道
-http://127.0.0.1:8081/4gtv720.php?id=54
+http://127.0.0.1:8081/4gtv10801.php?id=55
 #EXTINF:-1 tvg-id="4gtv-live031" tvg-name="電影原聲台CMusic" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live031_mobile.png" group-title="4gtv",電影原聲台CMusic
-http://127.0.0.1:8081/4gtv1080.php?id=55
+http://127.0.0.1:8081/4gtv1080.php?id=56
 #EXTINF:-1 tvg-id="4gtv-4gtv082" tvg-name="TRACE Urban" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv082_mobile.png" group-title="4gtv",TRACE Urban
-http://127.0.0.1:8081/4gtv720.php?id=56
+http://127.0.0.1:8081/4gtv720.php?id=57
 #EXTINF:-1 tvg-id="4gtv-live025" tvg-name="MTV Live HD 音樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live025_mobile.png" group-title="4gtv",MTV Live HD 音樂頻道
-http://127.0.0.1:8081/4gtv1080.php?id=57
+http://127.0.0.1:8081/4gtv1080.php?id=58
 #EXTINF:-1 tvg-id="4gtv-4gtv083" tvg-name="Mezzo Live HD" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv083_mobile.png" group-title="4gtv",Mezzo Live HD
-http://127.0.0.1:8081/4gtv720.php?id=58
-#EXTINF:-1 tvg-id="4gtv-4gtv059" tvg-name="CLASSICA 古典樂" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv059_mobile.png" group-title="4gtv",CLASSICA 古典樂
 http://127.0.0.1:8081/4gtv720.php?id=59
-#EXTINF:-1 tvg-id="litv-longturn05" tvg-name="博斯高球台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn05_mobile.png" group-title="4gtv",博斯高球台
+#EXTINF:-1 tvg-id="4gtv-4gtv059" tvg-name="CLASSICA 古典樂" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv059_mobile.png" group-title="4gtv",CLASSICA 古典樂
 http://127.0.0.1:8081/4gtv720.php?id=60
-#EXTINF:-1 tvg-id="litv-longturn07" tvg-name="博斯運動一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn07_mobile.png" group-title="4gtv",博斯運動一台
+#EXTINF:-1 tvg-id="litv-longturn05" tvg-name="博斯高球台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn05_mobile.png" group-title="4gtv",博斯高球台
 http://127.0.0.1:8081/4gtv720.php?id=61
-#EXTINF:-1 tvg-id="litv-longturn10" tvg-name="博斯無限台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn10_mobile.png" group-title="4gtv",博斯無限台
+#EXTINF:-1 tvg-id="litv-longturn07" tvg-name="博斯運動一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn07_mobile.png" group-title="4gtv",博斯運動一台
 http://127.0.0.1:8081/4gtv720.php?id=62
-#EXTINF:-1 tvg-id="litv-longturn09" tvg-name="博斯網球台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn09_mobile.png" group-title="4gtv",博斯網球台
+#EXTINF:-1 tvg-id="litv-longturn10" tvg-name="博斯無限台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn10_mobile.png" group-title="4gtv",博斯無限台
 http://127.0.0.1:8081/4gtv720.php?id=63
-#EXTINF:-1 tvg-id="4gtv-4gtv077" tvg-name="TRACE Sport Stars" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv077_mobile.png" group-title="4gtv",TRACE Sport Stars
+#EXTINF:-1 tvg-id="litv-longturn09" tvg-name="博斯網球台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn09_mobile.png" group-title="4gtv",博斯網球台
 http://127.0.0.1:8081/4gtv720.php?id=64
-#EXTINF:-1 tvg-id="4gtv-4gtv101" tvg-name="智林體育台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv101_mobile.png" group-title="4gtv",智林體育台
+#EXTINF:-1 tvg-id="4gtv-4gtv077" tvg-name="TRACE Sport Stars" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv077_mobile.png" group-title="4gtv",TRACE Sport Stars
 http://127.0.0.1:8081/4gtv720.php?id=65
-#EXTINF:-1 tvg-id="4gtv-4gtv014" tvg-name="時尚運動X" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv014_mobile.png" group-title="4gtv",時尚運動X
+#EXTINF:-1 tvg-id="4gtv-4gtv101" tvg-name="智林體育台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv101_mobile.png" group-title="4gtv",智林體育台
 http://127.0.0.1:8081/4gtv720.php?id=66
+#EXTINF:-1 tvg-id="4gtv-4gtv014" tvg-name="時尚運動X" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv014_mobile.png" group-title="4gtv",時尚運動X
+http://127.0.0.1:8081/4gtv720.php?id=67
 #EXTINF:-1 tvg-id="4gtv-live201" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png" group-title="4gtv",車迷TV
-http://127.0.0.1:8081/4gtv1080.php?id=67
+http://127.0.0.1:8081/4gtv1080.php?id=68
 #EXTINF:-1 tvg-id="4gtv-4gtv053" tvg-name="GINX Esports TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv053_mobile.png" group-title="4gtv",GINX Esports TV
-http://127.0.0.1:8081/4gtv720.php?id=68
+http://127.0.0.1:8081/4gtv720.php?id=69
 #EXTINF:-1 tvg-id="4gtv-live109" tvg-name="TechStorm" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live109_mobile.png" group-title="4gtv",TechStorm
-http://127.0.0.1:8081/4gtv1080.php?id=69
-#EXTINF:-1 tvg-id="4gtv-live110" tvg-name="Pet Club TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live110_mobile.png" group-title="4gtv",Pet Club TV
 http://127.0.0.1:8081/4gtv1080.php?id=70
+#EXTINF:-1 tvg-id="4gtv-live110" tvg-name="Pet Club TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live110_mobile.png" group-title="4gtv",Pet Club TV
+http://127.0.0.1:8081/4gtv1080.php?id=71
 #EXTINF:-1 tvg-id="litv-ftv07" tvg-name="民視旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv07_mobile.png" group-title="4gtv",民視旅遊台
-http://127.0.0.1:8081/4gtv720.php?id=71
+http://127.0.0.1:8081/4gtv720.php?id=72
 #EXTINF:-1 tvg-id="4gtv-live012" tvg-name="滾動力rollor" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png" group-title="4gtv",滾動力rollor
-http://127.0.0.1:8081/4gtv1080.php?id=72
+http://127.0.0.1:8081/4gtv1080.php?id=73
 #EXTINF:-1 tvg-id="litv-longturn17" tvg-name="亞洲旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn17_mobile.png" group-title="4gtv",亞洲旅遊台
-http://127.0.0.1:8081/4gtv720.php?id=73
+http://127.0.0.1:8081/4gtv720.php?id=74
 #EXTINF:-1 tvg-id="4gtv-live011" tvg-name="fun探索娛樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live011_mobile.png" group-title="4gtv",fun探索娛樂台
-http://127.0.0.1:8081/4gtv1080.php?id=74
-#EXTINF:-1 tvg-id="4gtv-live206" tvg-name="幸福空間居家台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live206_mobile.png" group-title="4gtv",幸福空間居家台
 http://127.0.0.1:8081/4gtv1080.php?id=75
-#EXTINF:-1 tvg-id="4gtv-live208" tvg-name="Love Nature" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live208_mobile.png" group-title="4gtv",Love Nature
+#EXTINF:-1 tvg-id="4gtv-live206" tvg-name="幸福空間居家台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live206_mobile.png" group-title="4gtv",幸福空間居家台
 http://127.0.0.1:8081/4gtv1080.php?id=76
-#EXTINF:-1 tvg-id="4gtv-live026" tvg-name="History 歷史頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live026_mobile.png" group-title="4gtv",History 歷史頻道
+#EXTINF:-1 tvg-id="4gtv-live208" tvg-name="Love Nature" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live208_mobile.png" group-title="4gtv",Love Nature
 http://127.0.0.1:8081/4gtv1080.php?id=77
-#EXTINF:-1 tvg-id="4gtv-live120" tvg-name="愛爾達生活旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live120_mobile.png" group-title="4gtv",愛爾達生活旅遊台
+#EXTINF:-1 tvg-id="4gtv-live026" tvg-name="History 歷史頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live026_mobile.png" group-title="4gtv",History 歷史頻道
 http://127.0.0.1:8081/4gtv1080.php?id=78
-#EXTINF:-1 tvg-id="4gtv-live121" tvg-name="LUXE TV Channel" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live121_mobile.png" group-title="4gtv",LUXE TV Channel
+#EXTINF:-1 tvg-id="4gtv-live120" tvg-name="愛爾達生活旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live120_mobile.png" group-title="4gtv",愛爾達生活旅遊台
 http://127.0.0.1:8081/4gtv1080.php?id=79
-#EXTINF:-1 tvg-id="4gtv-live122" tvg-name="TV5MONDE STYLE HD 生活時尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live122_mobile.png" group-title="4gtv",TV5MONDE STYLE HD 生活時尚
+#EXTINF:-1 tvg-id="4gtv-live121" tvg-name="LUXE TV Channel" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live121_mobile.png" group-title="4gtv",LUXE TV Channel
 http://127.0.0.1:8081/4gtv1080.php?id=80
+#EXTINF:-1 tvg-id="4gtv-live122" tvg-name="TV5MONDE STYLE HD 生活時尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live122_mobile.png" group-title="4gtv",TV5MONDE STYLE HD 生活時尚
+http://127.0.0.1:8081/4gtv1080.php?id=81
 
 #EXTINF:-1 tvg-id="4gtv-4gtv042" tvg-name="公視戲劇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv042_mobile.png" group-title="4gtv",公視戲劇
-http://127.0.0.1:8081/4gtv720.php?id=81
-#EXTINF:-1 tvg-id="litv-ftv09" tvg-name="民視影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv09_mobile.png" group-title="4gtv",民視影劇台
 http://127.0.0.1:8081/4gtv720.php?id=82
-#EXTINF:-1 tvg-id="litv-longturn18" tvg-name="龍華戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn18_mobile.png" group-title="4gtv",龍華戲劇台
+#EXTINF:-1 tvg-id="litv-ftv09" tvg-name="民視影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv09_mobile.png" group-title="4gtv",民視影劇台
 http://127.0.0.1:8081/4gtv720.php?id=83
+#EXTINF:-1 tvg-id="litv-longturn18" tvg-name="龍華戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn18_mobile.png" group-title="4gtv",龍華戲劇台
+http://127.0.0.1:8081/4gtv720.php?id=84
 #EXTINF:-1 tvg-id="4gtv-live620" tvg-name="HITS頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live620_mobile.png" group-title="4gtv",HITS頻道
-http://127.0.0.1:8081/4gtv1080.php?id=84
+http://127.0.0.1:8081/4gtv1080.php?id=85
 #EXTINF:-1 tvg-id="litv-longturn11" tvg-name="龍華日韓台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn11_mobile.png" group-title="4gtv",龍華日韓台
-http://127.0.0.1:8081/4gtv720.php?id=85
-#EXTINF:-1 tvg-id="4gtv-4gtv034" tvg-name="八大精彩台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv034_mobile_0211.png" group-title="4gtv",八大精彩台
 http://127.0.0.1:8081/4gtv720.php?id=86
-#EXTINF:-1 tvg-id="4gtv-4gtv058" tvg-name="靖天戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv058_mobile.png" group-title="4gtv",靖天戲劇台
+#EXTINF:-1 tvg-id="4gtv-4gtv034" tvg-name="八大精彩台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv034_mobile_0211.png" group-title="4gtv",八大精彩台
 http://127.0.0.1:8081/4gtv720.php?id=87
-#EXTINF:-1 tvg-id="4gtv-4gtv045" tvg-name="靖洋戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv045_mobile.png" group-title="4gtv",靖洋戲劇台
+#EXTINF:-1 tvg-id="4gtv-4gtv058" tvg-name="靖天戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv058_mobile.png" group-title="4gtv",靖天戲劇台
 http://127.0.0.1:8081/4gtv720.php?id=88
+#EXTINF:-1 tvg-id="4gtv-4gtv045" tvg-name="靖洋戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv045_mobile.png" group-title="4gtv",靖洋戲劇台
+http://127.0.0.1:8081/4gtv720.php?id=89
 #EXTINF:-1 tvg-id="4gtv-live027" tvg-name="CI 罪案偵查頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live027_mobile.png" group-title="4gtv",CI 罪案偵查頻道
-http://127.0.0.1:8081/4gtv1080.php?id=89
+http://127.0.0.1:8081/4gtv1080.php?id=90
 #EXTINF:-1 tvg-id="4gtv-4gtv013" tvg-name="視納華仁紀實頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv013_mobile.png" group-title="4gtv",視納華仁紀實頻道
-http://127.0.0.1:8081/4gtv720.php?id=90
+http://127.0.0.1:8081/4gtv720.php?id=91
 #EXTINF:-1 tvg-id="4gtv-live023" tvg-name="影迷數位紀實台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live023_mobile.png" group-title="4gtv",影迷數位紀實台
-http://127.0.0.1:8081/4gtv1080.php?id=91
-#EXTINF:-1 tvg-id="4gtv-live144" tvg-name="金光布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live144_mobile.png" group-title="4gtv",金光布袋戲
 http://127.0.0.1:8081/4gtv1080.php?id=92
-#EXTINF:-1 tvg-id="4gtv-live138" tvg-name="ROCK Action" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png" group-title="4gtv",ROCK Action
+#EXTINF:-1 tvg-id="4gtv-live144" tvg-name="金光布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live144_mobile.png" group-title="4gtv",金光布袋戲
 http://127.0.0.1:8081/4gtv1080.php?id=93
+#EXTINF:-1 tvg-id="4gtv-live138" tvg-name="ROCK Action" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png" group-title="4gtv",ROCK Action
+http://127.0.0.1:8081/4gtv1080.php?id=94
 #EXTINF:-1 tvg-id="4gtv-4gtv049" tvg-name="采昌影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv049_mobile.png" group-title="4gtv",采昌影劇台
-http://127.0.0.1:8081/4gtv720.php?id=94
-#EXTINF:-1 tvg-id="4gtv-4gtv055" tvg-name="靖天映畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv055_mobile.png" group-title="4gtv",靖天映畫
 http://127.0.0.1:8081/4gtv720.php?id=95
-#EXTINF:-1 tvg-id="4gtv-4gtv061" tvg-name="靖天電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv061_mobile.png" group-title="4gtv",靖天電影台
+#EXTINF:-1 tvg-id="4gtv-4gtv055" tvg-name="靖天映畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv055_mobile.png" group-title="4gtv",靖天映畫
 http://127.0.0.1:8081/4gtv720.php?id=96
-#EXTINF:-1 tvg-id="litv-longturn03" tvg-name="龍華電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn03_mobile.png" group-title="4gtv",龍華電影台
+#EXTINF:-1 tvg-id="4gtv-4gtv061" tvg-name="靖天電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv061_mobile.png" group-title="4gtv",靖天電影台
 http://127.0.0.1:8081/4gtv720.php?id=97
-#EXTINF:-1 tvg-id="4gtv-4gtv011" tvg-name="影迷數位電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv011_mobile.png" group-title="4gtv",影迷數位電影台
+#EXTINF:-1 tvg-id="litv-longturn03" tvg-name="龍華電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn03_mobile.png" group-title="4gtv",龍華電影台
 http://127.0.0.1:8081/4gtv720.php?id=98
-#EXTINF:-1 tvg-id="4gtv-4gtv017" tvg-name="amc最愛電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017_mobile.png" group-title="4gtv",amc最愛電影
+#EXTINF:-1 tvg-id="4gtv-4gtv011" tvg-name="影迷數位電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv011_mobile.png" group-title="4gtv",影迷數位電影台
 http://127.0.0.1:8081/4gtv720.php?id=99
+#EXTINF:-1 tvg-id="4gtv-4gtv017" tvg-name="amc最愛電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017_mobile.png" group-title="4gtv",amc最愛電影
+http://127.0.0.1:8081/4gtv720.php?id=100
 #EXTINF:-1 tvg-id="4gtv-live069" tvg-name="CinemaWorld" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live069_mobile.png" group-title="4gtv",CinemaWorld
-http://127.0.0.1:8081/4gtv1080.php?id=100
-#EXTINF:-1 tvg-id="4gtv-live155" tvg-name="CATCHPLAY Beyond" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live155_mobile.png" group-title="4gtv",CATCHPLAY Beyond
 http://127.0.0.1:8081/4gtv1080.php?id=101
-#EXTINF:-1 tvg-id="4gtv-4gtv076" tvg-name="CATCHPLAY電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv076_1_mobile.png" group-title="4gtv",CATCHPLAY電影台
-http://127.0.0.1:8081/4gtv720.php?id=102
+
 #EXTINF:-1 tvg-id="4gtv-live157" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live157_mobile.png" group-title="4gtv",My Cinema Europe HD 我的歐洲電影
-http://127.0.0.1:8081/4gtv1080.php?id=103
+http://127.0.0.1:8081/4gtv1080.php?id=102
 #EXTINF:-1 tvg-id="litv-ftv17" tvg-name="好消息2台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv17_mobile.png" group-title="4gtv",好消息2台
-http://127.0.0.1:8081/4gtv720.php?id=104
+http://127.0.0.1:8081/4gtv720.php?id=103
 #EXTINF:-1 tvg-id="litv-ftv16" tvg-name="好消息" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv16_mobile.png" group-title="4gtv",好消息
-http://127.0.0.1:8081/4gtv720.php?id=105
+http://127.0.0.1:8081/4gtv720.php?id=104
 #EXTINF:-1 tvg-id="4gtv-live106" tvg-name="大愛二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live106_mobile.png" group-title="4gtv",大愛二台
-http://127.0.0.1:8081/4gtv1080.php?id=106
+http://127.0.0.1:8081/4gtv1080.php?id=105
 #EXTINF:-1 tvg-id="4gtv-live008" tvg-name="人間衛視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live008_mobile.png" group-title="4gtv",人間衛視
-http://127.0.0.1:8081/4gtv1080.php?id=107
+http://127.0.0.1:8081/4gtv1080.php?id=106
 #EXTINF:-1 tvg-id="litv-ftv10" tvg-name="半島國際新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv10_mobile.png" group-title="4gtv",半島國際新聞台
-http://127.0.0.1:8081/4gtv720.php?id=108
+http://127.0.0.1:8081/4gtv720.php?id=107
 #EXTINF:-1 tvg-id="litv-ftv03" tvg-name="VOA美國之音" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv03_mobile.png" group-title="4gtv",VOA美國之音
-http://127.0.0.1:8081/4gtv720.php?id=109
+http://127.0.0.1:8081/4gtv720.php?id=108
 #EXTINF:-1 tvg-id="4gtv-live130" tvg-name="CNBC Asia 財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live130_mobile.png" group-title="4gtv",CNBC Asia 財經台
-http://127.0.0.1:8081/4gtv1080.php?id=110
+http://127.0.0.1:8081/4gtv1080.php?id=109
 #EXTINF:-1 tvg-id="4gtv-live071" tvg-name="DW德國之聲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live071_mobile.png" group-title="4gtv",DW德國之聲
-http://127.0.0.1:8081/4gtv1080.php?id=111
+http://127.0.0.1:8081/4gtv1080.php?id=110
 #EXTINF:-1 tvg-id="4gtv-4gtv084" tvg-name="國會頻道1" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv084_mobile_0204.png" group-title="4gtv",國會頻道1
-http://127.0.0.1:8081/4gtv720.php?id=112
+http://127.0.0.1:8081/4gtv720.php?id=111
 #EXTINF:-1 tvg-id="4gtv-4gtv085" tvg-name="國會頻道2" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv085_mobile_0204.png" group-title="4gtv",國會頻道2
-http://127.0.0.1:8081/4gtv720.php?id=113
+http://127.0.0.1:8081/4gtv720.php?id=112
 #EXTINF:-1 tvg-id="4gtv-live021" tvg-name="經典電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live021_mobile.png" group-title="4gtv",經典電影台
-http://127.0.0.1:8081/4gtv1080.php?id=114
+http://127.0.0.1:8081/4gtv1080.php?id=113
 #EXTINF:-1 tvg-id="4gtv-live022" tvg-name="經典卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live022_mobile.png" group-title="4gtv",經典卡通台
-http://127.0.0.1:8081/4gtv1080.php?id=115
+http://127.0.0.1:8081/4gtv1080.php?id=114
 #EXTINF:-1 tvg-id="4gtv-live009" tvg-name="兒童卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live009_mobile.png" group-title="4gtv",兒童卡通台
-http://127.0.0.1:8081/4gtv1080.php?id=116
+http://127.0.0.1:8081/4gtv1080.php?id=115
 #EXTINF:-1 tvg-id="4gtv-live024" tvg-name="精選動漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live024_mobile.png" group-title="4gtv",精選動漫台
-http://127.0.0.1:8081/4gtv1080.php?id=117
-#EXTINF:-1 tvg-id="4gtv-live005" tvg-name="華語戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live005_mobile.png" group-title="4gtv",華語戲劇台
-http://127.0.0.1:8081/4gtv1080.php?id=118
-#EXTINF:-1 tvg-id="4gtv-live006" tvg-name="華語綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live006_mobile.png" group-title="4gtv",華語綜藝台
-http://127.0.0.1:8081/4gtv1080.php?id=119
+http://127.0.0.1:8081/4gtv1080.php?id=116
+
 #EXTINF:-1 tvg-id="4gtv-live010" tvg-name="戲劇免費看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live010_mobile.png" group-title="4gtv",戲劇免費看
-http://127.0.0.1:8081/4gtv1080.php?id=120
+http://127.0.0.1:8081/4gtv1080.php?id=117
 #EXTINF:-1 tvg-id="4gtv-live013" tvg-name="電影免費看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live013_mobile.png" group-title="4gtv",電影免費看
-http://127.0.0.1:8081/4gtv1080.php?id=121
+http://127.0.0.1:8081/4gtv1080.php?id=118
 #EXTINF:-1 tvg-id="4gtv-live015" tvg-name="超人力霸王整套看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live015_mobile.png" group-title="4gtv",超人力霸王整套看
-http://127.0.0.1:8081/4gtv1080.php?id=122
+http://127.0.0.1:8081/4gtv1080.php?id=119
 #EXTINF:-1 tvg-id="4gtv-live016" tvg-name="花系列 經典劇場" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live016_mobile.png" group-title="4gtv",花系列 經典劇場
-http://127.0.0.1:8081/4gtv1080.php?id=123
+http://127.0.0.1:8081/4gtv1080.php?id=120
+
+
+
 
 #EXTINF:-1 tvg-id="100012" tvg-name="台視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_pc.png" group-title="litv",台視MOD
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv066
@@ -4734,8 +4304,6 @@ http://127.0.0.1:8081/ofiii.php?id=litv-ftv16
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn20
 #EXTINF:-1 tvg-id="litv-longturn01" tvg-name="龍華卡通台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn01_pc.png" group-title="litv",龍華卡通台
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn01
-#EXTINF:-1 group-title="litv",多啦A梦
-http:/127.0.0.1:8081/ofiii1.php?id=ofiii22
 #EXTINF:-1 tvg-id="litv-longturn17" tvg-name="亞洲旅遊台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_pc.png" group-title="litv",亞洲旅遊台
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn17
 #EXTINF:-1 tvg-id="litv-longturn19" tvg-name="Smart知識台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn19_pc.png" group-title="litv",Smart知識台
@@ -4748,7 +4316,7 @@ http://127.0.0.1:8081/ofiii.php?id=litv-longturn18
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn22
 #EXTINF:-1 group-title="litv",风采戏剧
 http:/127.0.0.1:8081/ofiii1.php?id=ofiii42
-#EXTINF:-1 tvg-id="litv-longturn12" tvg-name="龍華偶像台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_pc.png" group-title="litv",龍華偶像台
+#EXTINF:-1 tvg-id="100120" tvg-name="龍華偶像" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_pc.png" group-title="litv",龍華偶像
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn12
 #EXTINF:-1 tvg-id="litv-longturn11" tvg-name="龍華日韓台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_pc.png" group-title="litv",龍華日韓台
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn11
@@ -4772,16 +4340,10 @@ http://127.0.0.1:8081/ofiii.php?id=litv-longturn15
 http:/127.0.0.1:8081/ofiii1.php?id=ofiii64
 #EXTINF:-1 group-title="litv",第一商业
 http:/127.0.0.1:8081/ofiii1.php?id=4gtv-4gtv104
-#EXTINF:-1 tvg-id="litv-longturn21" tvg-name="龍華經典台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_pc.png" group-title="litv",龍華經典台
+#EXTINF:-1 tvg-id="100180" tvg-name="龍華經典" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_pc.png" group-title="litv",龍華經典
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn21
 #EXTINF:-1 tvg-id="litv-longturn03" tvg-name="龍華電影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_pc.png" group-title="litv",龍華電影台
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn03
-#EXTINF:-1 group-title="litv",欧神电影
-http:/127.0.0.1:8081/ofiii1.php?id=ofiii74
-#EXTINF:-1 group-title="litv",focus探索台
-http:/127.0.0.1:8081/ofiii1.php?id=ofiii82
-#EXTINF:-1 group-title="litv",銀髮聚樂部
-http://127.0.0.1:8081/ofiii.php?id=ofiii99
 
 
 #EXTINF:-1 tvg-id="4gtv-4gtv003" tvg-name="民視第一台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv003_pc.png" group-title="litv",民視第一台
@@ -4793,7 +4355,6 @@ http://127.0.0.1:8081/litvtest.php?id=4gtv-4gtv155
 
 #EXTINF:-1 tvg-id="4gtv-4gtv066" tvg-name="台視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_pc.png" group-title="litv",台視
 http://127.0.0.1:8081/litvtest.php?id=4gtv-4gtv066
-
 #EXTINF:-1 tvg-id="4gtv-4gtv040" tvg-name="中視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_pc.png" group-title="litv",中視
 http://127.0.0.1:8081/litvtest.php?id=4gtv-4gtv040
 
@@ -4805,8 +4366,11 @@ http://127.0.0.1:8081/litvtest.php?id=4gtv-4gtv042
 #EXTINF:-1 tvg-id="litv-ftv16" tvg-name="好消息" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv16_pc.png" group-title="litv",好消息
 http://127.0.0.1:8081/litvtest.php?id=litv-ftv16
 
+
 #EXTINF:-1 tvg-id="4gtv-4gtv004" tvg-name="民視綜藝台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv004_pc.png" group-title="litv",民視綜藝台
 http://127.0.0.1:8081/litvtest.php?id=4gtv-4gtv004
+#EXTINF:-1 tvg-id="litv-vchannel28" tvg-name="星辰大海" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel28_pc_20220930.png" group-title="litv",星辰大海
+
 
 #EXTINF:-1 tvg-id="litv-longturn17" tvg-name="亞洲旅遊台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_pc.png" group-title="litv",亞洲旅遊台
 http://127.0.0.1:8081/litvtest.php?id=litv-longturn17
@@ -4819,13 +4383,16 @@ http://127.0.0.1:8081/litvtest.php?id=litv-longturn18
 #EXTINF:-1 tvg-id="4gtv-4gtv067" tvg-name="TVBS精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv067_pc-1.png" group-title="litv",TVBS精采台
 http://127.0.0.1:8081/litvtest.php?id=4gtv-4gtv067
 
+
+
+
 #EXTINF:-1 tvg-id="4gtv-4gtv068" tvg-name="TVBS歡樂台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv068_pc.png" group-title="litv",TVBS歡樂台
 http://127.0.0.1:8081/litvtest.php?id=4gtv-4gtv068
 #EXTINF:-1 tvg-id="4gtv-4gtv102" tvg-name="東森購物1台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv102_pc.png" group-title="litv",東森購物1台
 http://127.0.0.1:8081/litvtest.php?id=4gtv-4gtv102
 #EXTINF:-1 tvg-id="litv-ftv09" tvg-name="民視影劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv09_pc.png" group-title="litv",民視影劇台
 http://127.0.0.1:8081/litvtest.php?id=litv-ftv09
-#EXTINF:-1 tvg-id="litv-longturn12" tvg-name="龍華偶像台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_pc.png" group-title="litv",龍華偶像台
+#EXTINF:-1 tvg-id="litv-longturn12" tvg-name="龍華偶像" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_pc.png" group-title="litv",龍華偶像
 http://127.0.0.1:8081/litvtest.php?id=litv-longturn12
 #EXTINF:-1 tvg-id="litv-longturn11" tvg-name="龍華日韓台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_pc.png" group-title="litv",龍華日韓台
 http://127.0.0.1:8081/litvtest.php?id=litv-longturn11
@@ -4859,11 +4426,12 @@ http://127.0.0.1:8081/litvtest.php?id=4gtv-4gtv009
 http://127.0.0.1:8081/litvtest.php?id=litv-longturn15
 #EXTINF:-1 tvg-id="litv-longturn14" tvg-name="寰宇新聞台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_pc.png" group-title="litv",寰宇新聞台
 http://127.0.0.1:8081/litvtest.php?id=litv-longturn14
-#EXTINF:-1 tvg-id="litv-longturn21" tvg-name="龍華經典台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_pc.png" group-title="litv",龍華經典台
+#EXTINF:-1 tvg-id="litv-longturn21" tvg-name="龍華經典" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_pc.png" group-title="litv",龍華經典
 http://127.0.0.1:8081/litvtest.php?id=litv-longturn21
+
 #EXTINF:-1 tvg-id="4gtv-4gtv011" tvg-name="影迷數位電影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv011_pc.png" group-title="litv",影迷數位電影台
 http://127.0.0.1:8081/litvtest.php?id=4gtv-4gtv011
-#EXTINF:-1 tvg-id="4gtv-4gtv076" tvg-name="CATCHPLAY電影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv076_pc.png" group-title="litv",CATCHPLAY電影台
+#EXTINF:-1 tvg-id="4gtv-4gtv076" tvg-name="CATCHPLAY電影" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv076_pc.png" group-title="litv",CATCHPLAY電影
 http://127.0.0.1:8081/litvtest.php?id=4gtv-4gtv076
 
 #EXTINF:-1 tvg-id="litv-longturn03" tvg-name="龍華電影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_pc.png" group-title="litv",龍華電影台
@@ -4885,11 +4453,10 @@ http://127.0.0.1:8081/litvtest.php?id=litv-longturn10
 http://127.0.0.1:8081/litvtest.php?id=litv-longturn09
 #EXTINF:-1 tvg-id="litv-longturn08" tvg-name="博斯運動二台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn08_pc.png" group-title="litv",博斯運動二台
 http://127.0.0.1:8081/litvtest.php?id=litv-longturn08
-#EXTINF:-1 tvg-id="litv-longturn04" tvg-name="博斯魅力台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn04_pc.png" group-title="litv",博斯魅力台
+#EXTINF:-1 tvg-id="litv-longturn04" tvg-name="博斯魅力" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn04_pc.png" group-title="litv",博斯魅力
 http://127.0.0.1:8081/litvtest.php?id=litv-longturn04
 #EXTINF:-1 tvg-id="litv-longturn13" tvg-name="博斯無限二台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn13_pc.png" group-title="litv",博斯無限二台
 http://127.0.0.1:8081/litvtest.php?id=litv-longturn13
-
 
 #EXTINF:-1 tvg-id="4gtv-4gtv048" tvg-name="非凡商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv048_pc.png" group-title="litv",非凡商業台
 http://127.0.0.1:8081/litvtest.php?id=4gtv-4gtv048
@@ -4898,6 +4465,9 @@ http://127.0.0.1:8081/litvtest.php?id=4gtv-4gtv056
 #EXTINF:-1 tvg-id="litv-longturn23" tvg-name="寰宇財經台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_pc.png" group-title="litv",寰宇財經台
 http://127.0.0.1:8081/litvtest.php?id=litv-longturn23
 
+
+#EXTINF:-1 tvg-id="4gtv-4gtv006" tvg-name="豬哥亮歌廳秀" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv006_pc.png" group-title="litv",豬哥亮歌廳秀
+http://127.0.0.1:8081/litvtest.php?id=4gtv-4gtv006
 
 #EXTINF:-1 tvg-id="litv-longturn22" tvg-name="台灣戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_pc.png" group-title="litv",台灣戲劇台
 http://127.0.0.1:8081/litvtest.php?id=litv-longturn22
@@ -4977,18 +4547,11 @@ http://127.0.0.1:8081/litvtest.php?id=litv-longturn20
 http://127.0.0.1:8081/litvtest.php?id=4gtv-4gtv057
 #EXTINF:-1 tvg-id="4gtv-4gtv044" tvg-name="靖天卡通台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv044_pc.png" group-title="litv",靖天卡通台
 http://127.0.0.1:8081/litvtest.php?id=4gtv-4gtv044
-#EXTINF:-1 tvg-id="litv-longturn01" tvg-name="龍華卡通台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn01_pc.png" group-title="litv",龍華卡通台
+#EXTINF:-1 tvg-id="litv-longturn01" tvg-name="龍華卡通" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn01_pc.png" group-title="litv",龍華卡通
 http://127.0.0.1:8081/litvtest.php?id=litv-longturn01
-#EXTINF:-1 tvg-id="litv-ftv17" tvg-name="好消息二台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv17_pc.png" group-title="litv",好消息二台
+
+#EXTINF:-1 tvg-id="litv-ftv17" tvg-name="好消息2台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv17_pc.png" group-title="litv",好消息2台
 http://127.0.0.1:8081/litvtest.php?id=litv-ftv17
-
-
-
-
-
-
-
-
 
 
 
@@ -5123,65 +4686,7 @@ http://127.0.0.1:8081/huanlekan.php?id=kj
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",CNC World English
-http://127.0.0.1:8081/yatai.php?id=0&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",cctv-4
-http://127.0.0.1:8081/yatai.php?id=1&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",cctv-娱乐
-http://127.0.0.1:8081/yatai.php?id=2&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",cgtn
-http://127.0.0.1:8081/yatai.php?id=3&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",电影频道
-http://127.0.0.1:8081/yatai.php?id=4&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",湖南国际
-http://127.0.0.1:8081/yatai.php?id=5&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",浙江国际
-http://127.0.0.1:8081/yatai.php?id=6&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",海峡卫视
-http://127.0.0.1:8081/yatai.php?id=7&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",北京国际
-http://127.0.0.1:8081/yatai.php?id=8&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",东方国际
-http://127.0.0.1:8081/yatai.php?id=9&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",深圳国际
-http://127.0.0.1:8081/yatai.php?id=10&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",亚太第一卫视
-http://127.0.0.1:8081/yatai.php?id=11&m=cn
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",OneTV Discovery
-http://127.0.0.1:8081/yatai.php?id=12&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",香港丝路国际卫视
-http://127.0.0.1:8081/yatai.php?id=13&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",tvN MOVIES PROMOTION
-http://127.0.0.1:8081/yatai.php?id=14&m=cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",tvN PROMOTION
-http://127.0.0.1:8081/yatai.php?id=15&m=cn
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",CNC World English
-http://127.0.0.1:8081/yatai.php?id=0&m=en
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",telefilm
-http://127.0.0.1:8081/yatai.php?id=1&m=en
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",fashion
-http://127.0.0.1:8081/yatai.php?id=2&m=en
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",cgtn docu
-http://127.0.0.1:8081/yatai.php?id=3&m=en
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",CGTN
-http://127.0.0.1:8081/yatai.php?id=4&m=en
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",Din News HD
-http://127.0.0.1:8081/yatai.php?id=5&m=en
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",HKitv
-http://127.0.0.1:8081/yatai.php?id=6&m=en
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",tvN MOVIES PROMOTION
-http://127.0.0.1:8081/yatai.php?id=7&m=en
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",tvN PROMOTION
-http://127.0.0.1:8081/yatai.php?id=8&m=en
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",bolnews
-http://127.0.0.1:8081/yatai.php?id=9&m=en
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚太app",bol娱乐
-http://127.0.0.1:8081/yatai.php?id=10&m=en
 
 #EXTINF:-1 tvg-id="600021" tvg-name="" tvg-logo="" group-title="韩国",KBS-1
 http://127.0.0.1:8081/kbs.php?id=11
@@ -5464,24 +4969,12 @@ http://127.0.0.1:8081/shanghaijiaoyu.php?id=setv
 
 
 
-#EXTINF:-1 tvg-id="800100" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="地方",东方卫视
-http://127.0.0.1:8081/baishitong.php?id=1
-#EXTINF:-1 tvg-id="800101" tvg-name="上视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png"  group-title="地方",上海新闻综合
-http://127.0.0.1:8081/baishitong.php?id=2
-#EXTINF:-1 tvg-id="800122" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="地方",上海外语频道高清
-http://127.0.0.1:8081/baishitong.php?id=3
+
 #EXTINF:-1 tvg-id="800104" tvg-name="上海都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="地方",上海都市
-http://127.0.0.1:8081/baishitong.php?id=4
-#EXTINF:-1 tvg-id="800124" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="地方",上海哈哈炫动
-http://127.0.0.1:8081/baishitong.php?id=5
+http://127.0.0.1:8081/baishitong.php?id=1
+
 #EXTINF:-1 tvg-id="800128" tvg-name="" tvg-logo="" group-title="地方",七彩戏剧
-http://127.0.0.1:8081/baishitong.php?id=6
-#EXTINF:-1 tvg-id="800106" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="地方",上海纪实人文
-http://127.0.0.1:8081/baishitong.php?id=7
-#EXTINF:-1 tvg-id="800102" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="地方",第一财经
-http://127.0.0.1:8081/baishitong.php?id=8
-#EXTINF:-1 tvg-id="800127" tvg-name="" tvg-logo="" group-title="地方",上海东方财经
-http://127.0.0.1:8081/baishitong.php?id=9
+http://127.0.0.1:8081/baishitong.php?id=2
 
 
 
@@ -5634,41 +5127,50 @@ http://127.0.0.1:8081/fjqz.php?id=mny
 
 
 #EXTINF:-1 tvg-id="101010" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="地方",广东卫视
-http://127.0.0.1:8081/chudiannew.php?id=gdws 
+https://php.17186.eu.org/gdtv/web/gdws.m3u8
 #EXTINF:-1 tvg-id="101011" tvg-name="珠江" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="地方",广东珠江
-http://127.0.0.1:8081/chudiannew.php?id=gdzj 
+https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 #EXTINF:-1 tvg-id="101014" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="地方",广东大湾区卫视
-http://127.0.0.1:8081/chudiannew.php?id=nfws 
+https://php.17186.eu.org/gdtv/web/nfws.m3u8
 #EXTINF:-1 tvg-id="101013" tvg-name="广东公共" tvg-logo="" group-title="地方",广东公共
-http://127.0.0.1:8081/chudiannew.php?id=gdgg
+https://php.17186.eu.org/gdtv/web/gdgg.m3u8
 #EXTINF:-1 tvg-id="101012" tvg-name="广东新闻" tvg-logo="" group-title="地方",广东新闻
-http://127.0.0.1:8081/chudiannew.php?id=gdxw
+https://php.17186.eu.org/gdtv/web/xwpd.m3u8
 #EXTINF:-1 tvg-id="101016" tvg-name="广东经济科教" tvg-logo="" group-title="地方",广东经济科教
-http://127.0.0.1:8081/chudiannew.php?id=gdjjkj 
+https://php.17186.eu.org/gdtv/web/jjkj.m3u8
 #EXTINF:-1 tvg-id="101015" tvg-name="广东体育" tvg-logo="" group-title="地方",广东体育
-http://127.0.0.1:8081/chudiannew.php?id=gdty 
+https://php.17186.eu.org/gdtv/web/gdty.m3u8
 #EXTINF:-1 tvg-id="101020" tvg-name="广东少儿" tvg-logo="" group-title="地方",广东少儿
-http://127.0.0.1:8081/chudiannew.php?id=gdse 
+https://php.17186.eu.org/gdtv/web/gdse.m3u8
 #EXTINF:-1 tvg-id="101017" tvg-name="广东影视" tvg-logo="" group-title="地方",广东影视
-http://127.0.0.1:8081/chudiannew.php?id=gdys 
+https://php.17186.eu.org/gdtv/web/gdys.m3u8
 #EXTINF:-1 tvg-id="101021" tvg-name="广东嘉佳卡通" tvg-logo="" group-title="地方",广东嘉佳卡通
-http://127.0.0.1:8081/chudiannew.php?id=jjkt 
+https://php.17186.eu.org/gdtv/web/jjkt.m3u8
 #EXTINF:-1 tvg-id="101016" tvg-name="广东房产" tvg-logo="" group-title="地方",广东房产
-http://127.0.0.1:8081/chudiannew.php?id=gdfc 
+https://php.17186.eu.org/gdtv/web/gdfc.m3u8
 #EXTINF:-1 tvg-id="101020" tvg-name="广东国际" tvg-logo="" group-title="地方",广东国际
-http://127.0.0.1:8081/chudiannew.php?id=gdgj 
+https://php.17186.eu.org/gdtv/web/gdgj.m3u8
 #EXTINF:-1 tvg-id="101020" tvg-name="广东南方购物" tvg-logo="" group-title="地方",广东南方购物
-http://127.0.0.1:8081/chudiannew.php?id=nfgw 
+https://php.17186.eu.org/gdtv/web/nfgw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东移动
-http://127.0.0.1:8081/chudiannew.php?id=gdyd 
+https://php.17186.eu.org/gdtv/web/ydpd.m3u8
 #EXTINF:-1 tvg-id="101018" tvg-name="广东综艺" tvg-logo="" group-title="地方",广东综艺
-http://127.0.0.1:8081/chudiannew.php?id=gdzy 
+https://php.17186.eu.org/gdtv/web/gdzy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",现代教育
-,http://127.0.0.1:8081/chudiannew.php?id=xdjy 
+https://php.17186.eu.org/gdtv/web/xdjy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",岭南戏曲
-http://127.0.0.1:8081/chudiannew.php?id=lnxq 
+https://php.17186.eu.org/gdtv/web/lnxq.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东文化
-http://127.0.0.1:8081/chudiannew.php?id=gdwh 
+https://php.17186.eu.org/gdtv/web/health.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",GRTN生活频道
+https://php.17186.eu.org/gdtv/web/life.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",纪录片
+https://php.17186.eu.org/gdtv/web/jilupian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",荔枝台
+https://php.17186.eu.org/gdtv/web/lizhi.m3u8
+
+
+
 #EXTINF:-1 tvg-id="101011" tvg-name="珠江" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="地方",广东珠江
 http://127.0.0.1:8081/touchtv.php?id=1
 #EXTINF:-1 tvg-id="101014" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="地方",广东大湾区卫视
