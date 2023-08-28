@@ -4969,24 +4969,13 @@ http://192.168.10.250/shanghaijiaoyu.php?id=setv
 
 
 
-#EXTINF:-1 tvg-id="800100" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="地方",东方卫视
-http://192.168.10.250/baishitong.php?id=1
-#EXTINF:-1 tvg-id="800101" tvg-name="上视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png"  group-title="地方",上海新闻综合
-http://192.168.10.250/baishitong.php?id=2
-#EXTINF:-1 tvg-id="800122" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="地方",上海外语频道高清
-http://192.168.10.250/baishitong.php?id=3
+
 #EXTINF:-1 tvg-id="800104" tvg-name="上海都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="地方",上海都市
-http://192.168.10.250/baishitong.php?id=4
-#EXTINF:-1 tvg-id="800124" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="地方",上海哈哈炫动
-http://192.168.10.250/baishitong.php?id=5
+http://192.168.10.250/baishitong.php?id=1
+
 #EXTINF:-1 tvg-id="800128" tvg-name="" tvg-logo="" group-title="地方",七彩戏剧
-http://192.168.10.250/baishitong.php?id=6
-#EXTINF:-1 tvg-id="800106" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="地方",上海纪实人文
-http://192.168.10.250/baishitong.php?id=7
-#EXTINF:-1 tvg-id="800102" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="地方",第一财经
-http://192.168.10.250/baishitong.php?id=8
-#EXTINF:-1 tvg-id="800127" tvg-name="" tvg-logo="" group-title="地方",上海东方财经
-http://192.168.10.250/baishitong.php?id=9
+http://192.168.10.250/baishitong.php?id=2
+
 
 
 
