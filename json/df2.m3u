@@ -132,13 +132,13 @@ http://192.168.10.250/histar.php?id=phtv
 http://192.168.10.250/histar.php?id=phtv-info
 #EXTINF:-1 tvg-id="70058"" tvg-name="鳳凰衛視中文台" tvg-logo="" group-title="histar",鳳凰衛視中文台
 http://192.168.10.250/histar.php?id=phtv-cn
-#EXTINF:-1 tvg-id="70060" tvg-name="鳳凰衛視香港台" tvg-logo="" group-title="histar",鳳凰衛視香港台
+#EXTINF:-1 tvg-id="100638" tvg-name="鳳凰衛視香港台" tvg-logo="" group-title="histar",鳳凰衛視香港台
 http://192.168.10.250/histar.php?id=phtv-hk
 #EXTINF:-1 tvg-id="100594" tvg-name="now財經" tvg-logo="" group-title="histar",now財經
 http://192.168.10.250/histar.php?id=now-finance
-#EXTINF:-1 tvg-id="" tvg-name="Now華劇台" tvg-logo="" group-title="histar",Now 華劇台
+#EXTINF:-1 tvg-id="100582" tvg-name="Now華劇台" tvg-logo="" group-title="histar",Now 華劇台
 http://192.168.10.250/histar.php?id=nowhjt
-#EXTINF:-1 tvg-id="" tvg-name="Now 星影台" tvg-logo="" group-title="histar",Now 星影台
+#EXTINF:-1 tvg-id="100631" tvg-name="Now 星影台" tvg-logo="" group-title="histar",Now 星影台
 http://192.168.10.250/histar.php?id=now-baogu-superstars
 #EXTINF:-1 tvg-id="100588" tvg-name="Now 爆穀台" tvg-logo="" group-title="histar",Now 爆穀台
 http://192.168.10.250/histar.php?id=baogu-movies
@@ -296,11 +296,11 @@ http://192.168.10.250/histar.php?id=astro-huaheedai
 http://192.168.10.250/histar.php?id=astro-aod-hd
 #EXTINF:-1 tvg-id="" tvg-name="Astro AOD" tvg-logo="" group-title="histar",Astro AOD
 http://192.168.10.250/histar.php?id=astro-aod
-#EXTINF:-1 tvg-id="" tvg-name="Channel U" tvg-logo="" group-title="histar",Channel U
+#EXTINF:-1 group-title="histar" tvg-id="600006" tvg-chno="Channel U" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%272261554%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=150&Height=150&ImageUrl=%272261554.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U
 http://192.168.10.250/histar.php?id=channel-u
-#EXTINF:-1 tvg-id="" tvg-name="Channel 5" tvg-logo="" group-title="histar",Channel 5
+#EXTINF:-1 group-title="histar" tvg-id="600001" tvg-chno=""Channel 5 tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956277%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=150&Height=150&ImageUrl=%27956277.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5 
 http://192.168.10.250/histar.php?id=channel-5
-#EXTINF:-1 tvg-id="" tvg-name="Channel 8" tvg-logo="" group-title="histar",Channel 8
+#EXTINF:-1 group-title="histar" tvg-id="600002" tvg-chno="Channel 8" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956273%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=150&Height=150&ImageUrl=%27956273.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8
 http://192.168.10.250/histar.php?id=channel8
 #EXTINF:-1 tvg-id="" tvg-name="Astro 愛奇藝" tvg-logo="" group-title="histar",Astro 愛奇藝
 http://192.168.10.250/histar.php?id=astro-iqiyi
@@ -404,9 +404,9 @@ http://192.168.10.250/histar.php?id=sportcast2
 http://192.168.10.250/histar.php?id=sportcast-golf1
 #EXTINF:-1 tvg-id="" tvg-name="博斯高球二台" tvg-logo="" group-title="histar",博斯高球二台
 http://192.168.10.250/histar.php?id=sportcast-golf2
-#EXTINF:-1 tvg-id="" tvg-name="SPOTV" tvg-logo="" group-title="histar",超级体育
+#EXTINF:-1 tvg-id="100633" tvg-name="SPOTV" tvg-logo="" group-title="histar",SPOTV
 http://192.168.10.250/histar.php?id=spotv
-#EXTINF:-1 tvg-id="" tvg-name="SPOTV-2" tvg-logo="" group-title="histar",超级体育2
+#EXTINF:-1 tvg-id="100634" tvg-name="SPOTV2" tvg-logo="" group-title="histar",SPOTV2
 http://192.168.10.250/histar.php?id=spotv2
 #EXTINF:-1 tvg-id="" tvg-name="迪士尼頻道" tvg-logo="" group-title="histar",迪士尼頻道
 http://192.168.10.250/histar.php?id=disney
@@ -3037,13 +3037,13 @@ http://192.168.10.250/cctvfrench.php
 
 
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="youtube",CCTV-13HD
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 
 
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="youtube",CCTV-6
 http://192.168.10.250/douyin.php?id=208823316033
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="youtube",CCTV-6
-http://mobilelive-pull.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
+http://mobilelive-pull.ysp.cctv.cn/ysp/2013693901.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="youtube",cctv-4亚洲
 http://192.168.10.250/cctv4.php
@@ -4975,7 +4975,6 @@ http://192.168.10.250/baishitong.php?id=1
 
 #EXTINF:-1 tvg-id="800128" tvg-name="" tvg-logo="" group-title="地方",七彩戏剧
 http://192.168.10.250/baishitong.php?id=2
-
 
 
 
