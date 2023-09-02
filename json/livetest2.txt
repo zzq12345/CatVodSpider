@@ -5662,6 +5662,7 @@ HTV4,https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 RTHK31,http://c-leung.homeip.net:8013/bysid/31
 RTHK32,http://c-leung.homeip.net:8013/bysid/32
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+香港电台33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 VIUTV,http://tv.beimua.com/tvs.php?id=15
 VIUTV,http://r.jdshipin.com/vSJvl
 VIU TV,http://c-leung.homeip.net:8011/bysid/99
