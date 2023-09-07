@@ -1,123 +1,124 @@
 国内频道备用ip6,#genre#
 
-CCTV-1 综合,https://cntv.sbs/tv?auth=230813&id=cctv1
-CCTV-2 财经,https://cntv.sbs/tv?auth=230813&id=cctv2
-CCTV-3 综艺,https://cntv.sbs/tv?auth=230813&id=cctv3
-CCTV-4 中文国际,https://cntv.sbs/tv?auth=230813&id=cctv4
-CCTV-5 体育,https://cntv.sbs/tv?auth=230813&id=cctv5
-CCTV-5+ 体育赛事,https://cntv.sbs/tv?auth=230813&id=cctv5p
-CCTV-6 电影,https://cntv.sbs/tv?auth=230813&id=cctv6
-CCTV-7 国防军事,https://cntv.sbs/tv?auth=230813&id=cctv7
-CCTV-8 电视剧,https://cntv.sbs/tv?auth=230813&id=cctv8
-CCTV-9 纪录,https://cntv.sbs/tv?auth=230813&id=cctv9
-CCTV-10 科教,https://cntv.sbs/tv?auth=230813&id=cctv10
-CCTV-11 戏曲,https://cntv.sbs/tv?auth=230813&id=cctv11
-CCTV-12 社会与法,https://cntv.sbs/tv?auth=230813&id=cctv12
-CCTV-13 新闻,https://cntv.sbs/tv?auth=230813&id=cctv13
-CCTV-14 少儿,https://cntv.sbs/tv?auth=230813&id=cctv14
-CCTV-15 音乐,https://cntv.sbs/tv?auth=230813&id=cctv15
-CCTV-16 奥林匹克,https://cntv.sbs/tv?auth=230813&id=cctv16
-CCTV-16 4K,https://cntv.sbs/tv?auth=230813&id=cctv164k
-CCTV-17 农业农村,https://cntv.sbs/tv?auth=230813&id=cctv17
-CCTV-4K 超高清,https://cntv.sbs/tv?auth=230813&id=cctv4k
-CGTN,https://cntv.sbs/tv?auth=230813&id=cgtn
-北京卫视,https://cntv.sbs/tv?auth=230813&id=bjws
-东方卫视,https://cntv.sbs/tv?auth=230813&id=dfws
-江苏卫视,https://cntv.sbs/tv?auth=230813&id=jsws
-浙江卫视,https://cntv.sbs/tv?auth=230813&id=zjws
-湖南卫视,https://cntv.sbs/tv?auth=230813&id=hunws
+CCTV-1 综合,https://cntv.sbs/tv?auth=230830&id=cctv1
+CCTV-2 财经,https://cntv.sbs/tv?auth=230830&id=cctv2
+CCTV-3 综艺,https://cntv.sbs/tv?auth=230830&id=cctv3
+CCTV-4 中文国际,https://cntv.sbs/tv?auth=230830&id=cctv4
+CCTV-5 体育,https://cntv.sbs/tv?auth=230830&id=cctv5
+CCTV-5+ 体育赛事,https://cntv.sbs/tv?auth=230830&id=cctv5p
+CCTV-6 电影,https://cntv.sbs/tv?auth=230830&id=cctv6
+CCTV-7 国防军事,https://cntv.sbs/tv?auth=230830&id=cctv7
+CCTV-8 电视剧,https://cntv.sbs/tv?auth=230830&id=cctv8
+CCTV-9 纪录,https://cntv.sbs/tv?auth=230830&id=cctv9
+CCTV-10 科教,https://cntv.sbs/tv?auth=230830&id=cctv10
+CCTV-11 戏曲,https://cntv.sbs/tv?auth=230830&id=cctv11
+CCTV-12 社会与法,https://cntv.sbs/tv?auth=230830&id=cctv12
+CCTV-13 新闻,https://cntv.sbs/tv?auth=230830&id=cctv13
+CCTV-14 少儿,https://cntv.sbs/tv?auth=230830&id=cctv14
+CCTV-15 音乐,https://cntv.sbs/tv?auth=230830&id=cctv15
+CCTV-16 奥林匹克,https://cntv.sbs/tv?auth=230830&id=cctv16
+CCTV-16 4K,https://cntv.sbs/tv?auth=230830&id=cctv164k
+CCTV-17 农业农村,https://cntv.sbs/tv?auth=230830&id=cctv17
+CCTV-4K 超高清,https://cntv.sbs/tv?auth=230830&id=cctv4k
+CGTN,https://cntv.sbs/tv?auth=230830&id=cgtn
+北京卫视,https://cntv.sbs/tv?auth=230830&id=bjws
+东方卫视,https://cntv.sbs/tv?auth=230830&id=dfws
+江苏卫视,https://cntv.sbs/tv?auth=230830&id=jsws
+浙江卫视,https://cntv.sbs/tv?auth=230830&id=zjws
+湖南卫视,https://cntv.sbs/tv?auth=230830&id=hunws
 CHC动作电影,http://pi.0472.org/tv/cbn.php?id=chcdzdyHD
 CHC家庭影院,http://pi.0472.org/tv/cbn.php?id=chcjtyyHD
 CHC高清电影,http://pi.0472.org/tv/cbn.php?id=chcgqdyHD
-海峡卫视,https://cntv.sbs/tv?auth=230813&id=hxws
-北京纪实科教,https://cntv.sbs/tv?auth=230813&id=bjjskj
-五星体育,https://cntv.sbs/tv?auth=230813&id=wxty
-东方财经,https://cntv.sbs/tv?auth=230813&id=dfcj
-第一财经,https://cntv.sbs/tv?auth=230813&id=dycj
-哈哈炫动,https://cntv.sbs/tv?auth=230813&id=hhxd
-法治天地,https://cntv.sbs/tv?auth=230813&id=fztd
-欢笑剧场,https://cntv.sbs/tv?auth=230813&id=hxjc
-都市剧场,https://cntv.sbs/tv?auth=230813&id=dsjc
-上海新闻综合,https://cntv.sbs/tv?auth=230813&id=shxwzh
-上海都市,https://cntv.sbs/tv?auth=230813&id=shds
-上海ICS外语,https://cntv.sbs/tv?auth=230813&id=shics
-纪实人文,https://cntv.sbs/tv?auth=230813&id=shjsrw
-七彩戏剧,https://cntv.sbs/tv?auth=230813&id=qcxj
-动漫秀场,https://cntv.sbs/tv?auth=230813&id=dmxc
-劲爆体育,https://cntv.sbs/tv?auth=230813&id=jbty
-新视觉,https://cntv.sbs/tv?auth=230813&id=xsj
-游戏风云,https://cntv.sbs/tv?auth=230813&id=yxfy
-生活时尚,https://cntv.sbs/tv?auth=230813&id=shss
-金色学堂,https://cntv.sbs/tv?auth=230813&id=jspd
-乐游,https://cntv.sbs/tv?auth=230813&id=qjs
-魅力足球,https://cntv.sbs/tv?auth=230813&id=mlzq
-上海教育,https://cntv.sbs/tv?auth=230813&id=shjy
-茶频道,https://cntv.sbs/tv?auth=230813&id=cpd
-快乐垂钓,https://cntv.sbs/tv?auth=230813&id=klcd
-金鹰纪实,https://cntv.sbs/tv?auth=230813&id=jyjs
-金鹰卡通,https://cntv.sbs/tv?auth=230813&id=jykt
-嘉佳卡通,https://cntv.sbs/tv?auth=230813&id=jjkt
-福建综合,https://cntv.sbs/tv?auth=230813&id=fjzh
-福建新闻,https://cntv.sbs/tv?auth=230813&id=fjxw
-福建电视剧,https://cntv.sbs/tv?auth=230813&id=fjdsj
-福建文体,https://cntv.sbs/tv?auth=230813&id=fjwt
-福建少儿,https://cntv.sbs/tv?auth=230813&id=fjse
-福建旅游,https://cntv.sbs/tv?auth=230813&id=fjly
-福建经济,https://cntv.sbs/tv?auth=230813&id=fjjj
-福建公共,https://cntv.sbs/tv?auth=230813&id=fjgg
-福建教育,https://cntv.sbs/tv?auth=230813&id=fjjy
-天津卫视,https://cntv.sbs/tv?auth=230813&id=tjws
-重庆卫视,https://cntv.sbs/tv?auth=230813&id=cqws
-黑龙江卫视,https://cntv.sbs/tv?auth=230813&id=hljws
-吉林卫视,https://cntv.sbs/tv?auth=230813&id=jlws
-辽宁卫视,https://cntv.sbs/tv?auth=230813&id=lnws
-内蒙古卫视,https://cntv.sbs/tv?auth=230813&id=nmws
-宁夏卫视,https://cntv.sbs/tv?auth=230813&id=nxws
-甘肃卫视,https://cntv.sbs/tv?auth=230813&id=gsws
-青海卫视,https://cntv.sbs/tv?auth=230813&id=qhws
-陕西卫视,https://cntv.sbs/tv?auth=230813&id=sxws
-河北卫视,https://cntv.sbs/tv?auth=230813&id=hbws
-山西卫视,https://cntv.sbs/tv?auth=230813&id=sxiws
-山东卫视,https://cntv.sbs/tv?auth=230813&id=sdws
-安徽卫视,https://cntv.sbs/tv?auth=230813&id=ahws
-河南卫视,https://cntv.sbs/tv?auth=230813&id=hnws
-湖北卫视,https://cntv.sbs/tv?auth=230813&id=hubws
-江西卫视,https://cntv.sbs/tv?auth=230813&id=jxws
-东南卫视,https://cntv.sbs/tv?auth=230813&id=dnws
-厦门卫视,https://cntv.sbs/tv?auth=230813&id=xmws
-广东卫视,https://cntv.sbs/tv?auth=230813&id=gdws
-深圳卫视,https://cntv.sbs/tv?auth=230813&id=szws
-广西卫视,https://cntv.sbs/tv?auth=230813&id=gxws
-云南卫视,https://cntv.sbs/tv?auth=230813&id=ynws
-贵州卫视,https://cntv.sbs/tv?auth=230813&id=gzws
-四川卫视,https://cntv.sbs/tv?auth=230813&id=scws
-康巴卫视,https://cntv.sbs/tv?auth=230813&id=kbws
-新疆卫视,https://cntv.sbs/tv?auth=230813&id=xjws
-兵团卫视,https://cntv.sbs/tv?auth=230813&id=btws
-西藏卫视,https://cntv.sbs/tv?auth=230813&id=xzws
-海南卫视,https://cntv.sbs/tv?auth=230813&id=hinws
-三沙卫视,https://cntv.sbs/tv?auth=230813&id=ssws
-财富天下,https://cntv.sbs/tv?auth=230813&id=cftx
-CETV1,https://cntv.sbs/tv?auth=230813&id=cetv1
-CETV2,https://cntv.sbs/tv?auth=230813&id=cetv2
-CETV3,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
-CETV4,https://cntv.sbs/tv?auth=230813&id=cetv4
-梨园频道,https://pi.0472.org/tv/hn.php?id=154
-中国天气,https://cntv.sbs/tv?auth=230813&id=zgtq
-看天下精选,https://cntv.sbs/tv?auth=230813&id=ktxjx
-华语影院,https://cntv.sbs/tv?auth=230813&id=hyyy
-电竞天堂,https://cntv.sbs/tv?auth=230813&id=djtt
-青春动漫,https://cntv.sbs/tv?auth=230813&id=qcdm
-星光影院,https://cntv.sbs/tv?auth=230813&id=xgyy
-谍战剧场,https://cntv.sbs/tv?auth=230813&id=dzjc
-全球大片,https://cntv.sbs/tv?auth=230813&id=qqdp
-热门剧场,https://cntv.sbs/tv?auth=230813&id=rmjc
-热门综艺,https://cntv.sbs/tv?auth=230813&id=rmzy
-戏曲精选,https://cntv.sbs/tv?auth=230813&id=xqjx
-健康养生,https://cntv.sbs/tv?auth=230813&id=jkys
-百变课堂,https://cntv.sbs/tv?auth=230813&id=bbkt
-宝宝动画,https://cntv.sbs/tv?auth=230813&id=bbdh
+海峡卫视,https://cntv.sbs/tv?auth=230830&id=hxws
+北京纪实科教,https://cntv.sbs/tv?auth=230830&id=bjjskj
+五星体育,https://cntv.sbs/tv?auth=230830&id=wxty
+东方财经,https://cntv.sbs/tv?auth=230830&id=dfcj
+第一财经,https://cntv.sbs/tv?auth=230830&id=dycj
+哈哈炫动,https://cntv.sbs/tv?auth=230830&id=hhxd
+法治天地,https://cntv.sbs/tv?auth=230830&id=fztd
+欢笑剧场,https://cntv.sbs/tv?auth=230830&id=hxjc
+都市剧场,https://cntv.sbs/tv?auth=230830&id=dsjc
+上海新闻综合,https://cntv.sbs/tv?auth=230830&id=shxwzh
+上海都市,https://cntv.sbs/tv?auth=230830&id=shds
+上海ICS外语,https://cntv.sbs/tv?auth=230830&id=shics
+纪实人文,https://cntv.sbs/tv?auth=230830&id=shjsrw
+七彩戏剧,https://cntv.sbs/tv?auth=230830&id=qcxj
+动漫秀场,https://cntv.sbs/tv?auth=230830&id=dmxc
+劲爆体育,https://cntv.sbs/tv?auth=230830&id=jbty
+新视觉,https://cntv.sbs/tv?auth=230830&id=xsj
+游戏风云,https://cntv.sbs/tv?auth=230830&id=yxfy
+生活时尚,https://cntv.sbs/tv?auth=230830&id=shss
+金色学堂,https://cntv.sbs/tv?auth=230830&id=jspd
+乐游,https://cntv.sbs/tv?auth=230830&id=qjs
+魅力足球,https://cntv.sbs/tv?auth=230830&id=mlzq
+上海教育,https://cntv.sbs/tv?auth=230830&id=shjy
+茶频道,https://cntv.sbs/tv?auth=230830&id=cpd
+快乐垂钓,https://cntv.sbs/tv?auth=230830&id=klcd
+金鹰纪实,https://cntv.sbs/tv?auth=230830&id=jyjs
+金鹰卡通,https://cntv.sbs/tv?auth=230830&id=jykt
 
+
+嘉佳卡通,https://cntv.sbs/tv?auth=230830&id=jjkt
+福建综合,https://cntv.sbs/tv?auth=230830&id=fjzh
+福建新闻,https://cntv.sbs/tv?auth=230830&id=fjxw
+福建电视剧,https://cntv.sbs/tv?auth=230830&id=fjdsj
+福建文体,https://cntv.sbs/tv?auth=230830&id=fjwt
+福建少儿,https://cntv.sbs/tv?auth=230830&id=fjse
+福建旅游,https://cntv.sbs/tv?auth=230830&id=fjly
+福建经济,https://cntv.sbs/tv?auth=230830&id=fjjj
+福建公共,https://cntv.sbs/tv?auth=230830&id=fjgg
+福建教育,https://cntv.sbs/tv?auth=230830&id=fjjy
+天津卫视,https://cntv.sbs/tv?auth=230830&id=tjws
+重庆卫视,https://cntv.sbs/tv?auth=230830&id=cqws
+黑龙江卫视,https://cntv.sbs/tv?auth=230830&id=hljws
+吉林卫视,https://cntv.sbs/tv?auth=230830&id=jlws
+辽宁卫视,https://cntv.sbs/tv?auth=230830&id=lnws
+内蒙古卫视,https://cntv.sbs/tv?auth=230830&id=nmws
+宁夏卫视,https://cntv.sbs/tv?auth=230830&id=nxws
+甘肃卫视,https://cntv.sbs/tv?auth=230830&id=gsws
+青海卫视,https://cntv.sbs/tv?auth=230830&id=qhws
+陕西卫视,https://cntv.sbs/tv?auth=230830&id=sxws
+河北卫视,https://cntv.sbs/tv?auth=230830&id=hbws
+山西卫视,https://cntv.sbs/tv?auth=230830&id=sxiws
+山东卫视,https://cntv.sbs/tv?auth=230830&id=sdws
+安徽卫视,https://cntv.sbs/tv?auth=230830&id=ahws
+河南卫视,https://cntv.sbs/tv?auth=230830&id=hnws
+湖北卫视,https://cntv.sbs/tv?auth=230830&id=hubws
+江西卫视,https://cntv.sbs/tv?auth=230830&id=jxws
+东南卫视,https://cntv.sbs/tv?auth=230830&id=dnws
+厦门卫视,https://cntv.sbs/tv?auth=230830&id=xmws
+广东卫视,https://cntv.sbs/tv?auth=230830&id=gdws
+深圳卫视,https://cntv.sbs/tv?auth=230830&id=szws
+广西卫视,https://cntv.sbs/tv?auth=230830&id=gxws
+云南卫视,https://cntv.sbs/tv?auth=230830&id=ynws
+贵州卫视,https://cntv.sbs/tv?auth=230830&id=gzws
+四川卫视,https://cntv.sbs/tv?auth=230830&id=scws
+康巴卫视,https://cntv.sbs/tv?auth=230830&id=kbws
+新疆卫视,https://cntv.sbs/tv?auth=230830&id=xjws
+兵团卫视,https://cntv.sbs/tv?auth=230830&id=btws
+西藏卫视,https://cntv.sbs/tv?auth=230830&id=xzws
+海南卫视,https://cntv.sbs/tv?auth=230830&id=hinws
+三沙卫视,https://cntv.sbs/tv?auth=230830&id=ssws
+财富天下,https://cntv.sbs/tv?auth=230830&id=cftx
+CETV1,https://cntv.sbs/tv?auth=230830&id=cetv1
+CETV2,https://cntv.sbs/tv?auth=230830&id=cetv2
+CETV3,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
+CETV4,https://cntv.sbs/tv?auth=230830&id=cetv4
+梨园频道,https://pi.0472.org/tv/hn.php?id=154
+中国天气,https://cntv.sbs/tv?auth=230830&id=zgtq
+看天下精选,https://cntv.sbs/tv?auth=230830&id=ktxjx
+华语影院,https://cntv.sbs/tv?auth=230830&id=hyyy
+电竞天堂,https://cntv.sbs/tv?auth=230830&id=djtt
+青春动漫,https://cntv.sbs/tv?auth=230830&id=qcdm
+星光影院,https://cntv.sbs/tv?auth=230830&id=xgyy
+谍战剧场,https://cntv.sbs/tv?auth=230830&id=dzjc
+全球大片,https://cntv.sbs/tv?auth=230830&id=qqdp
+热门剧场,https://cntv.sbs/tv?auth=230830&id=rmjc
+热门综艺,https://cntv.sbs/tv?auth=230830&id=rmzy
+戏曲精选,https://cntv.sbs/tv?auth=230830&id=xqjx
+健康养生,https://cntv.sbs/tv?auth=230830&id=jkys
+百变课堂,https://cntv.sbs/tv?auth=230830&id=bbkt
+宝宝动画,https://cntv.sbs/tv?auth=230830&id=bbdh
 北京教育网ip6,#genre#
 CCTV1综合,http://tv6.blcu.edu.cn/liverespath/ddd8a0727fb304df5adb6926e09d6000ecd0e322/beb3c3ed66-0-0-68436cd797cda937e58f65ab47c9fb08/index.m3u8
 CCTV-1高清,http://tv6.blcu.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/5f7227d965-0-0-b3f66f58f70b63d188ac604e946e4b74/index.m3u8
@@ -480,56 +481,8 @@ hbo sig,,http://127.0.0.1:8081/histarapp.php?id=539
 hbo fam,http://127.0.0.1:8081/histarapp.php?id=540
 hbo hits,http://127.0.0.1:8081/histarapp.php?id=541
 央视频,#genre#
-cctv8k1080,http://hlsout-test.ysp.cctv.cn/ysp/2020603421.m3u8
-cctv4k,http://hlsout-test.ysp.cctv.cn/ysp/2000266303.m3u8
-CCTV-16,http://hlsout-test.ysp.cctv.cn/ysp/2012375003.m3u8
-CCTV1综合,http://hlsout-test.ysp.cctv.cn/ysp/2000210103.m3u8
-CCTV2财经,http://hlsout-test.ysp.cctv.cn/ysp/2000203603.m3u8
-CCTV3综艺,http://hlsout-test.ysp.cctv.cn/ysp/2000203803.m3u8
-CCTV4中文国际,http://hlsout-test.ysp.cctv.cn/ysp/2000204803.m3u8
-CCTV5体育,http://hlsout-test.ysp.cctv.cn/ysp/2000205103.m3u8
-CCTV5+体育赛事,http://hlsout-test.ysp.cctv.cn/ysp/2000204503.m3u8
-CCTV6电影,http://hlsout-test.ysp.cctv.cn/ysp/2000203303.m3u8
-CCTV7国防军事,http://hlsout-test.ysp.cctv.cn/ysp/2000510003.m3u8
-CCTV8电视剧,http://hlsout-test.ysp.cctv.cn/ysp/2000203903.m3u8
-CCTV9纪录,http://hlsout-test.ysp.cctv.cn/ysp/2000499403.m3u8
-CCTV10科教,http://hlsout-test.ysp.cctv.cn/ysp/2000203503.m3u8
-CCTV11戏曲,http://hlsout-test.ysp.cctv.cn/ysp/2000204103.m3u8
-CCTV12社会与法,http://hlsout-test.ysp.cctv.cn/ysp/2000202603.m3u8
-CCTV13新闻,http://hlsout-test.ysp.cctv.cn/ysp/2000204603.m3u8
-CCTV14少儿,http://hlsout-test.ysp.cctv.cn/ysp/2000204403.m3u8
-CCTV15音乐,http://hlsout-test.ysp.cctv.cn/ysp/2000205003.m3u8
-CCTV17农村农业,http://hlsout-test.ysp.cctv.cn/ysp/2000204203.m3u8
-江苏央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000295603.m3u8
-浙江央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000295503.m3u8
-湖南央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000296203.m3u8
-北京央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000272103.m3u8
-东方央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000292403.m3u8
-山东央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000294803.m3u8
-四川央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000295003.m3u8
-安徽央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000298003.m3u8
-江西央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000294103.m3u8
-东南央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000292503.m3u8
-河北央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000293403.m3u8
-河南央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000296103.m3u8
-重庆央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000297803.m3u8
-海南央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000291503.m3u8
-深圳央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000292203.m3u8
-湖北央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000294503.m3u8
-湖北央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000294503.m3u8
-贵州央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000293303.m3u8
-广西央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000294203.m3u8
-广东央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000292703.m3u8
-辽宁央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000281303.m3u8
-黑龙江央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000293903.m3u8
-宁夏央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000285103.m3u8
-甘肃央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000294603.m3u8
-吉林央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000284703.m3u8
-天津央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000295103.m3u8
-陕西央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000294403.m3u8
-青海央视频,http://hlsout-test.ysp.cctv.cn/ysp/2000294703.m3u8
 
-cctv8k,http://hlsout-test.ysp.cctv.cn/ysp/2020603421.m3u8
+
 CCTV1综合,http://127.0.0.1:8081/ysp1.php?id=cctv1
 CCTV2财经,http://127.0.0.1:8081/ysp1.php?id=cctv2
 CCTV3综艺,http://127.0.0.1:8081/ysp1.php?id=cctv3
