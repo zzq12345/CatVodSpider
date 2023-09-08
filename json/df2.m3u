@@ -4094,9 +4094,9 @@ https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",香港電台34
+#EXTINF:-1 tvg-id="800032" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="香港",香港電台34
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",香港電台35
+#EXTINF:-1 tvg-id="800037" tvg-name="cgtn英文记录片" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="香港",香港電台35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 
 
