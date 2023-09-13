@@ -111,7 +111,7 @@ http://192.168.10.250/histar.php?id=qinghai
 http://192.168.10.250/histar.php?id=feicui
 #EXTINF:-1 tvg-id="70004" tvg-name="TVB 無線新聞台" tvg-logo="" group-title="histar",無線新聞台
 http://192.168.10.250/histar.php?id=tvb-news
-#EXTINF:-1 tvg-id="100644" tvg-name="TVB星河" tvg-logo="" group-title="histar",TVB星河
+#EXTINF:-1 tvg-id="700107" tvg-name="TVB星河" tvg-logo="" group-title="histar",TVB星河
 http://192.168.10.250/histar.php?id=tvb-xinghe
 #EXTINF:-1 tvg-id="70010" tvg-name="娛樂新聞台" tvg-logo="" group-title="histar",娛樂新聞台
 http://192.168.10.250/histar.php?id=TVB%20ylxw
