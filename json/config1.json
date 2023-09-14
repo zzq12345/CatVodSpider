@@ -130,25 +130,7 @@
       "searchable": 1,
       "changeable": 1
     },
- {
-      "key": "愛看",
-      "name": "愛看",
-      "type": 3,
-      "api": "https://qu.ax/FJzF.js",
-      "searchable": 1,
-      "changeable": 1
-    },
-    
-     {
-        "key": "ikanbot_open",
-        "name": "🐱猫爱看",
-        "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-        "type": 3,
-        "style":{ "type":"rect", "ratio":1.33 },
-        "api": "https://qu.ax/FJzF.js"
-      },
+ {"key":"drpy_js_爱看机器人","name":"爱看 | 机器[js]","style":{ "type":"rect", "ratio":1.33 },"type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"},
       
     {
       "key": "快看",
