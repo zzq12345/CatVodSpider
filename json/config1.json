@@ -131,10 +131,10 @@
       "changeable": 1
     },
     
-  {"key":"drpy_js_爱看机器人",
+  {
+    "key":"drpy_js_爱看机器人",
     "name":"爱看 | 机器[js]",
-    "style":{ "type":"rect", 
-      "ratio":1.33 },
+    "style":{ "type":"rect", "ratio":1.33 },
     "type":3,
     "api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
     "ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
