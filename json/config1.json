@@ -138,8 +138,7 @@
     "type":3,
     "api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
     "ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js",
-  "searchable": 1,
-      "changeable": 1
+  
   },
      {
       "key": "愛看",
