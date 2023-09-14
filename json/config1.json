@@ -130,6 +130,15 @@
       "searchable": 1,
       "changeable": 1
     },
+ {
+      "key": "愛看",
+      "name": "愛看",
+      "type": 3,
+      "api": "https://qu.ax/FJzF.js",
+      "searchable": 1,
+      "changeable": 1
+    },
+    
      {
         "key": "ikanbot_open",
         "name": "🐱猫爱看",
