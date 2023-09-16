@@ -100,6 +100,28 @@
       "searchable": 1,
       "changeable": 1
     },
+    {  "key": "腐宅",
+            "name": "腐宅",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "style":{ "type":"rect", "ratio":1.33 },
+            "changeable": 0,
+            "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
+},
+    {"key":"drpy_js_豆瓣","name":"豆瓣 | 热播[js]","type":3,"style":{ "type":"rect", "ratio":1.33 },"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
+   {
+      "key": "aikanbot",
+      "name": "❤影视爱看机器人",
+      "type": 3,
+      "api": "https://qu.ax/RO.js",
+      "searchable": 1,
+      "filterable": 1,
+      "style":{ "type":"rect", "ratio":1.33 },
+      "quickSearch": 1
+    },
     {
       "key": "星星",
       "name": "星星",
@@ -193,23 +215,31 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "哔哩",
-      "name": "哔哩",
+    {"key":"drpy_js_哔哩直播","name":"直播 | 哔哩[js]","type":3,"style":{ "type":"rect", "ratio":1.33 },"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩直播.js"},
+{"key":"drpy_js_虎牙直播","name":"直播 | 虎牙[js]","type":3,"style":{ "type":"rect", "ratio":1.33 },"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js"},
+{
+      "key": "csp_XYQHiker_虎牙直播",
+      "name": "❤🐯虎牙直播(XYQH)",
       "type": 3,
-      "api": "csp_Bili",
+      "style":{ "type":"rect", "ratio":1.33 },
+      "api": "csp_XYQHiker",
       "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/bili.json",
-        "type": "帕梅拉#太极拳#广场舞#演唱会",
-        "cookie": ""
-      }
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://qu.ax/uNjv.json"
+    }, 
+    {
+      "key":"csp_XYQBiu_斗鱼",
+      "name":"❤🐟┃斗鱼┃直播",
+      "type":3,
+      "style":{ "type":"rect", "ratio":1.33 },
+      "api":"csp_XYQBiu",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":0,
+      "ext":"https://qu.ax/SQqd.json"
     },
+      
     {
       "key": "bili_open",
       "name": "哔哩貓",
