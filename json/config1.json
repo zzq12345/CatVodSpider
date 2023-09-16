@@ -262,14 +262,7 @@
       "style":{ "type":"rect", "ratio":1.33 },
       "jar": "https://qu.ax/tkXa.js;md5;945ad30d5255359385ba59b8fb061bb7"
     },
-    {"key": "大米星球3",
-"name": "♻️业余|大米星球3",
-"type": 3,
-"api": "csp_XBPQ",
-"ext": {
-"分类url": "http://web.hosts-dami.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;akd0",
-"分类": "电影$20#电视剧$21#动漫$22#综艺$23#福利$35"
-}
+   
 },
     {
       "key": "AList",
