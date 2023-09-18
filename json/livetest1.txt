@@ -6779,6 +6779,17 @@ cctv14,http://192.168.10.250/huawen.php?id=cctv14
 北京生活,http://192.168.10.250/bjtime.php?id=bjsh
 北京新闻,http://192.168.10.250/bjtime.php?id=bjxw
 北京卡酷少儿,http://192.168.10.250/bjtime.php?id=bjkk
+浙江卫视,http://192.168.10.250/zhejiang.php?id=zjws
+浙江经济,http://192.168.10.250/zhejiang.php?id=zjjjsh
+浙江钱江都市,http://192.168.10.250/zhejiang.php?id=zjqj
+浙江科教,http://192.168.10.250/zhejiang.php?id=zjjkys
+浙江6,http://192.168.10.250/zhejiang.php?id=zjmsxx
+浙江新闻,http://192.168.10.250/zhejiang.php?id=zjxw
+浙江少儿,http://192.168.10.250/zhejiang.php?id=zjse
+浙江国际,http://192.168.10.250/zhejiang.php?id=zjgj
+浙江之江记录,http://192.168.10.250/zhejiang.php?id=zjzjjl
+
+
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江经济,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
