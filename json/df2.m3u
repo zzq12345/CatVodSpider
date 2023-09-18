@@ -5255,6 +5255,28 @@ http://192.168.10.250/bjtime.php?id=bjxw
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="地方",北京卡酷少儿
 http://192.168.10.250/bjtime.php?id=bjkk
 
+#EXTINF:-1 tvg-id="101000" tvg-name="浙江卫视" tvg-logo="" group-title="地方",浙江卫视
+http://192.168.10.250/zhejiang.php?id=zjws
+#EXTINF:-1 tvg-id="101002" tvg-name="浙江经济" tvg-logo="" group-title="地方",浙江经济
+http://192.168.10.250/zhejiang.php?id=zjjjsh
+#EXTINF:-1 tvg-id="101001" tvg-name="浙江钱江都市" tvg-logo="" group-title="地方",浙江钱江都市
+http://192.168.10.250/zhejiang.php?id=zjqj
+#EXTINF:-1 tvg-id="101003" tvg-name="浙江科教" tvg-logo="" group-title="地方",浙江科教
+http://192.168.10.250/zhejiang.php?id=zjjkys
+
+#EXTINF:-1 tvg-id="101004" tvg-name="浙江6" tvg-logo="" group-title="地方",浙江6
+http://192.168.10.250/zhejiang.php?id=zjmsxx
+#EXTINF:-1 tvg-id="101005" tvg-name="浙江新闻" tvg-logo="" group-title="地方",浙江新闻
+http://192.168.10.250/zhejiang.php?id=zjxw
+#EXTINF:-1 tvg-id="101006" tvg-name="浙江少儿" tvg-logo="" group-title="地方",浙江少儿
+http://192.168.10.250/zhejiang.php?id=zjse
+
+#EXTINF:-1 tvg-id="101007" tvg-name="浙江国际" tvg-logo="" group-title="地方",浙江国际
+http://192.168.10.250/zhejiang.php?id=zjgj
+#EXTINF:-1 tvg-id="101009"" tvg-name="浙江数码时代" tvg-logo="" group-title="地方",浙江之江记录
+http://192.168.10.250/zhejiang.php?id=zjzjjl
+
+
 
 #EXTINF:-1 tvg-id="101000" tvg-name="浙江卫视" tvg-logo="" group-title="地方",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
