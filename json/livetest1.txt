@@ -631,7 +631,7 @@ CCTV15,http://58.215.98.178/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205003.m3u8
 CCTV16,http://58.215.98.178/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012375003.m3u8
 CCTV16,http://58.215.98.178/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012375003.m3u8
 CCTV17,http://58.215.98.178/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204203.m3u8
-CGTN-Cf,http://58.215.98.178/tlivecloud-ipv6.ysp.cctv.cn/ysp/2001656803.m3u8
+CGTN-news,http://58.215.98.178/tlivecloud-ipv6.ysp.cctv.cn/ysp/2001656803.m3u8
 CGTN纪录,http://58.215.98.178/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010155403.m3u8
 CGTN西语,http://58.215.98.178/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010152503.m3u8
 CGTN法语,http://58.215.98.178/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010153503.m3u8
@@ -694,12 +694,11 @@ CCTV13新闻,https://cfyy.cc/ds/ysp/qp.php?id=cctv13
 CCTV14少儿,https://cfyy.cc/ds/ysp/qp.php?id=cctv14
 CCTV15音乐,https://cfyy.cc/ds/ysp/qp.php?id=cctv15
 CCTV-16高清,https://cfyy.cc/ds/ysp/qp.php?id=cctv16
-CCTV-16高清,https://cfyy.cc/ds/ysp/qp.php?id=cctv16-4k
+CCTV-16高清,https://cfyy.cc/ds/ysp/qp.php?id=cctv164k
 CCTV17农村农业,https://cfyy.cc/ds/ysp/qp.php?id=cctv17
 cctv4k,https://cfyy.cc/ds/ysp/qp.php?id=cctv4k
 cctv8k1080,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230960/1.m3u8
 cctv8k1080,https://cfyy.cc/ds/ysp/qp.php?id=cctv8k
-cctv8k1080,https://cfyy.cc/ds/ysp/qp.php?id=cctv8k1
 cgtn,https://cfyy.cc/ds/ysp/qp.php?id=cgtn
 cgtn纪录,https://cfyy.cc/ds/ysp/qp.php?id=cgtnjl
 cgtn法语,https://cfyy.cc/ds/ysp/qp.php?id=cgtnf
@@ -717,7 +716,7 @@ CCTV-央视文化精品,https://cfyy.cc/ds/ysp/qp.php?id=whjp
 CCTV-女性时尚,https://cfyy.cc/ds/ysp/qp.php?id=nxss
 CCTV-电视指南,https://cfyy.cc/ds/ysp/qp.php?id=dszn
 CCTV-风云音乐,https://cfyy.cc/ds/ysp/qp.php?id=fyyy
-CCTV-风云足球,https://cfyy.cc/ds/ysp/qp.php?id=2fzq
+CCTV-风云足球,https://cfyy.cc/ds/ysp/qp.php?id=fyzq
 CCTV-第一剧场,https://cfyy.cc/ds/ysp/qp.php?id=dyjc
 江苏卫视,https://cfyy.cc/ds/ysp/qp.php?id=jsws
 浙江卫视,https://cfyy.cc/ds/ysp/qp.php?id=zjws
