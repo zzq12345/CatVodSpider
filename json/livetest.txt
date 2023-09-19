@@ -631,7 +631,7 @@ CCTV15,http://58.215.98.178/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205003.m3u8
 CCTV16,http://58.215.98.178/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012375003.m3u8
 CCTV16,http://58.215.98.178/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012375003.m3u8
 CCTV17,http://58.215.98.178/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204203.m3u8
-CGTN-Cf,http://58.215.98.178/tlivecloud-ipv6.ysp.cctv.cn/ysp/2001656803.m3u8
+CGTN-news,http://58.215.98.178/tlivecloud-ipv6.ysp.cctv.cn/ysp/2001656803.m3u8
 CGTN纪录,http://58.215.98.178/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010155403.m3u8
 CGTN西语,http://58.215.98.178/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010152503.m3u8
 CGTN法语,http://58.215.98.178/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010153503.m3u8
