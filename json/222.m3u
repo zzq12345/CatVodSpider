@@ -187,7 +187,7 @@ http://zzqwe.giize.com:12229/yangshipin.php?id=cctv15
 #EXTINF:-1 tvg-id="800016" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视频",CCTV-16高清
 http://zzqwe.giize.com:12229/yangshipin.php?id=cctv16
 #EXTINF:-1 tvg-id="800016" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视频",CCTV-16高清
-http://zzqwe.giize.com:12229/yangshipin.php?id=cctv16-4k
+http://zzqwe.giize.com:12229/yangshipin.php?id=cctv164k
 #EXTINF:-1 tvg-id="800017" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频",CCTV17农村农业
 http://zzqwe.giize.com:12229/yangshipin.php?id=cctv17
 #EXTINF:-1 tvg-id="800018" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频",cctv4k
@@ -196,8 +196,7 @@ http://zzqwe.giize.com:12229/yangshipin.php?id=cctv4k
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230960/1.m3u8
 #EXTINF#EXTINF:-1 tvg-id="800061" tvg-name="CCTV8K" tvg-logo="https://github.com/zzq12345/CatVodSpider/blob/main/json/cctv-8k.png?raw=true" group-title="央视频",cctv8k1080
 http://zzqwe.giize.com:12229/yangshipin.php?id=cctv8k
-#EXTINF#EXTINF:-1 tvg-id="800061" tvg-name="CCTV8K" tvg-logo="https://github.com/zzq12345/CatVodSpider/blob/main/json/cctv-8k.png?raw=true" group-title="央视频",cctv8k1080
-http://zzqwe.giize.com:12229/yangshipin.php?id=cctv8k1
+
 #EXTINF:-1 tvg-id="800032" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频",cgtn
 http://zzqwe.giize.com:12229/yangshipin.php?id=cgtn
 
@@ -235,7 +234,7 @@ http://zzqwe.giize.com:12229/yangshipin.php?id=dszn
 #EXTINF:-1 tvg-id="800023" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视频",CCTV-风云音乐
 http://zzqwe.giize.com:12229/yangshipin.php?id=fyyy
 #EXTINF:-1 tvg-id="800025" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视频",CCTV-风云足球
-http://zzqwe.giize.com:12229/yangshipin.php?id=2fzq
+http://zzqwe.giize.com:12229/yangshipin.php?id=fyzq
 #EXTINF:-1 tvg-id="800019" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视频",CCTV-第一剧场
 http://zzqwe.giize.com:12229/yangshipin.php?id=dyjc
 #EXTINF:-1 tvg-id="800039" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="央视频",江苏卫视
