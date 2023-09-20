@@ -185,6 +185,22 @@
       "changeable": 1
     },
     {
+      "key": "索尼",
+      "name": "索尼 ",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "快帆",
+      "name": "快帆",
+      "type": 1,
+      "api": "https://api.kuaifan.tv/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "量子",
       "name": "量子",
       "type": 0,
@@ -240,7 +256,23 @@
       "filterable":0,
       "ext":"https://qu.ax/SQqd.json"
     },
-      
+   {
+      "key": "哔哩",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/bili.json",
+        "type": "帕梅拉#太极拳#广场舞#演唱会",
+        "cookie": ""
+      }
+    }, 
     {
       "key": "bili_open",
       "name": "哔哩貓",
@@ -392,10 +424,11 @@
       "hosts": [
         "haiwaikan"
       ],
-      "regex": [
+       "regex": [
         "8.1748",
         "10.0099",
-        "10.3333"
+        "10.3333",
+        "16.0599"
       ]
     },
     {
