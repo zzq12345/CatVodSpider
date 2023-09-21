@@ -60,7 +60,7 @@
      
        "ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
      },
-{
+     {
       "key": "百度",
       "name": "百度",
        "type": 1,
@@ -84,7 +84,7 @@
         "战争片"
       ]
     },
-      {
+    {
       "key": "星星",
       "name": "星星",
       "type": 3,
@@ -118,8 +118,8 @@
             "style":{ "type":"rect", "ratio":1.33 },
             "changeable": 0,
             "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
-},
-    {"key":"drpy_js_豆瓣","name":"豆瓣 | 热播[js]","type":3,"style":{ "type":"rect", "ratio":1.33 },"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
+   },
+  {"key":"drpy_js_豆瓣","name":"豆瓣 | 热播[js]","type":3,"style":{ "type":"rect", "ratio":1.33 },"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
    {
       "key": "aikanbot",
       "name": "❤影视爱看机器人",
@@ -130,7 +130,7 @@
       "style":{ "type":"rect", "ratio":1.33 },
       "quickSearch": 1
     },
-  
+   
     {
       "key": "玩偶",
       "name": "玩偶",
@@ -217,8 +217,8 @@
       "changeable": 1
     },
     {"key":"drpy_js_哔哩直播","name":"直播 | 哔哩[js]","type":3,"style":{ "type":"rect", "ratio":1.33 },"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩直播.js"},
-{"key":"drpy_js_虎牙直播","name":"直播 | 虎牙[js]","type":3,"style":{ "type":"rect", "ratio":1.33 },"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js"},
-{
+    {"key":"drpy_js_虎牙直播","name":"直播 | 虎牙[js]","type":3,"style":{ "type":"rect", "ratio":1.33 },"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js"},
+    {
       "key": "csp_XYQHiker_虎牙直播",
       "name": "❤🐯虎牙直播(XYQH)",
       "type": 3,
@@ -264,7 +264,7 @@
       "jar": "https://qu.ax/tkXa.js;md5;945ad30d5255359385ba59b8fb061bb7"
     },
    
-},
+
     {
       "key": "AList",
       "name": "AList",
