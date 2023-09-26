@@ -60,6 +60,15 @@
      
        "ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
      },
+
+    {
+      "key": "星星",
+      "name": "星星",
+      "type": 3,
+      "api": "csp_Star",
+      "searchable": 1,
+      "changeable": 1
+    },
      {
       "key": "百度",
       "name": "百度",
@@ -84,15 +93,16 @@
         "战争片"
       ]
     },
+    
     {
-      "key": "星星",
-      "name": "星星",
-      "type": 3,
-      "api": "csp_Star",
+      "key": "haiwaikan",
+      "name": "海外看",
+      "type": 1,
+      "api": "https://haiwaikan.com/api.php/provide/vod",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "proxy": true
     },
-   
     {
       "key": "泥巴",
       "name": "泥巴",
@@ -412,7 +422,8 @@
     }
   ],
   "rules": [
-     {
+    
+    {
       "name": "海外看",
       "hosts": [
         "haiwaikan"
