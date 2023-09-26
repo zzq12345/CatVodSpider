@@ -92,7 +92,16 @@
       "searchable": 1,
       "changeable": 1
     },
-  {
+     {
+      "key": "獨播",
+      "name": "獨播",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json"
+    },
+    {
       "key": "星星",
       "name": "星星",
       "type": 3,
@@ -143,15 +152,7 @@
         "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"
       }
     },
-    {
-      "key": "獨播",
-      "name": "獨播",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json"
-    },
+   
     {
       "key": "廠長",
       "name": "廠長",
