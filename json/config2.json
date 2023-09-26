@@ -92,7 +92,14 @@
       "searchable": 1,
       "changeable": 1
     },
-   
+   {
+      "key": "星星",
+      "name": "星星",
+      "type": 3,
+      "api": "csp_Star",
+      "searchable": 1,
+      "changeable": 1
+    },
     {
       "key": "泥巴",
       "name": "泥巴",
