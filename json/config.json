@@ -60,7 +60,14 @@
      
        "ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
      },
-
+ {
+      "key": "布雷",
+      "name": "布雷",
+      "type": 3,
+      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/bulei_open.js",
+      "searchable": 1,
+      "changeable": 1
+    },
     {
       "key": "星星",
       "name": "星星",
@@ -462,6 +469,7 @@
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
       ]
     },
+    
     {
       "name": "星星",
       "hosts": [
