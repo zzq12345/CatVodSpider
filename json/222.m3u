@@ -1,8 +1,10 @@
 #EXTM3U url-tvg="http://zzqwe.giize.com:12228/epg4gtv2.xml,http://epg.51zmt.top:8000/e.xml,http://zzqwe.giize.com:12228/epgmysuper.xml,http://zzqwe.giize.com:12228/epganywhere.xml,https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz,https://weareblahs.github.io/epg/astro.xml,https://weareblahs.github.io/epg/astro.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1 tvg-id="800061" tvg-name="CCTV8K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8k.png" group-title="央视频",cctv8k1080
+http://111.31.123.245/tlivecloud-ipv6.ysp.cctv.cn/ysp/2020603421.m3u8
+
 #EXTINF:-1 tvg-id="800061" tvg-name="CCTV8K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8k.png" group-title="央视频",cctv8k1080
 http://58.215.98.178/tlivecloud-ipv6.ysp.cctv.cn/ysp/2020603421.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="800018" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频",cctv4k
@@ -2333,6 +2335,7 @@ https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 https://tdameritrade-distro.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="三星",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/F8P8GY3.png",8TV (1080p)
 http://89.254.128.5:22280/8tv_hd/index.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/CMANZWk.png",23 ABC Bakersfield CA (KERO) (720p)
@@ -2453,22 +2456,10 @@ http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/gHBxpyc.png",BeritaSatu World (720p) [Not 24/7]
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/dThvIsV.png",Better Health TV (480p)
-https://uni5rtmp.tulix.tv/betterhealth/betterhealth/playlist.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/gmrVKEC.jpg",Better Life Nature Channel (480p)
-https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/gmrVKEC.jpg",Better Life TV (720p)
-https://uni10rtmp.tulix.tv/betterlife/betterlife.stream/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/oX5oR4d.png",Black News Channel (720p)
 https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV Asia (576p)
 http://210.210.155.37/dr9445/h/h03/index.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/tUgEAUJ.png",Bolton Community Voice Channel (CVC) Education (Bolton CT) (480p)
-https://s3-us-west-2.amazonaws.com/bolton.castus-vod/live/ch2/video.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/qLJhNhq.png",Bolton Community Voice Channel (CVC) Government (Bolton CT) (480p)
-https://s3-us-west-2.amazonaws.com/bolton.castus-vod/live/ch3/video.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/KiTtkBQ.png",Bolton Community Voice Channel (CVC) Public (Bolton CT) (480p)
-https://s3-us-west-2.amazonaws.com/bolton.castus-vod/live/ch1/video.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Box_Hits_2016.png",Box Hits (576p)
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/Kkcp9Bk.png",Brat TV (1080p)
@@ -2483,10 +2474,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/zr6KoiS.jpg",Canada One (720p) [Not 24/7]
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/57iXCDh.png",Canada Star TV (720p)
-https://main.clickstreamcdn.com/agm/star-canada/playlist.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/QYGrq71.png",Canal 24 Horas (720p) [Geo-blocked]
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/BHm0wem.png",Canal Motor (720p)
 https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/Y8FK1Kk.png",Cape Town TV (720p)
@@ -2627,8 +2614,6 @@ https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/vlKPZHR.png",Fight Network (1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/nV55veq.png",FIGHT SPORTS (1080p)
-https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/ZoOCSij.png",FilmRise Sci-Fi Finland
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d658fce8-d72e-4407-ba5b-14b823553af5/5.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/2TKL6BX.png",Firstlight (576p)
@@ -2681,18 +2666,12 @@ https://amg01077-gustoworldwidem-gustotv-cineverse-h7u1r.amagi.tv/playlist/amg01
 https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/TXzEtF8.png",Hadi TV English and Urdu (720p)
 https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/GSlfL8u.png",HappyKids Junior (720p)
-https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/nt9B6jx.png",Hard Knocks (1080p) [Not 24/7]
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png",Heartland
 https://d76toswjmqqzm.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/WgN4T18.png",Hell's Kitchen
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00654-itvstudios-hellskitchennl-samsungnl/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/IM8Gy1l.png",HITS (576p) [Geo-blocked]
 http://210.210.155.37/dr9445/h/h37/index.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/p24tAjs.jpg",Hope4Life TV (720p)
-http://144.217.14.88/hls/hope4life.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/d1P9ekm.png",Hope Channel Ghana (480p)
 https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/wPzPUrK.png",Hope Channel India (1080p)
@@ -2735,8 +2714,6 @@ https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ec
 https://insighttv-eng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/48atMgj.png",InWild (720p)
 https://inwild-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.ibb.co/BjpLqbN/ISHUSHO-TV-LOGO-orange.png",Ishusho TV (720p) [Not 24/7]
-https://tv.livebcm.com:3425/stream/play.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/pHJm3I0.png",JBS (404p) [Not 24/7]
 http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/O7SdkBh.png",Jewelery Maker (1080p)
@@ -2751,10 +2728,6 @@ http://210.210.155.37/uq2663/h/h08/index.m3u8
 https://10380e91fda5e303.mediapackage.us-west-2.amazonaws.com/out/v1/e8a622ce6ed34d07b468dd6ea2f94ee8/index.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/1luzP3T.png",Kartoon Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/YFVrphZ.png",KBEV Spectrum Channel 6 [Beverly Hills] (1080p)
-https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/QleHNMl.png",KBP Sports (720p) [Not 24/7]
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/7DqgELX.png",KBS World (720p)
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/2ztabQj.png",KC2 (720p) [Not 24/7]
@@ -2779,16 +2752,12 @@ https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/3PnD83G.png",LA CityView 35 (1080p)
 https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/e1shzv9.png",Lakewood CityTV (720p)
-https://s3-us-west-2.amazonaws.com/lakewood.castus-vod/live/ch1/video.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/vFWUTyj.png",Lawndale City TV (720p)
 http://67.53.122.248/live-4/live/live.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/FioxUa3.png",Life! Christian Broadcasting Network (360p)
 https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/P0vZXU0.png",LIFE! End Times TV (360p)
 https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/pF6Wowj.jpg",LifevisionTV (406p) [Not 24/7]
-https://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/XyhgeKL.png",Little Saigon TV (720p)
 https://media.streambrothers.com:1936/8228/8228/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/KFzEoed.png",LIVExLIVE (1080p)
@@ -2863,20 +2832,12 @@ https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/CF6X9wB.png",MTA8 America (1080p)
 https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00s (576p)
-http://195.24.89.82/VH1_SD/index.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",MTV Global (576p)
-http://195.24.89.82/MTV_SD/index.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/zzVq7BQ.png",Museum TV Fast (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.ibb.co/LgS5pZF/Captura.png",MuzzOne (1080p)
 https://muzzone-stream.daitsuna.net/muzzondvr/muzzone/playlist_dvr.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/BTmcTQO.png",My Cinema (1080p)
-http://210.210.155.37/uq2663/h/h192/index.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/jz0d8tH.png",My Cinema Europe (576p)
 http://210.210.155.37/uq2663/h/h18/index.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/IaCmCt9.png",My Family Channel (1080p) [Geo-blocked]
-http://210.210.155.37/uq2663/h/h194/index.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/512px-MyNetworkTV_2D_Logo.svg.png",My Madison TV (WISC-DT2) (720p)
 https://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwLCJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/2LSdcga.png",Mystery Science Theater 3000 (MST3K)
@@ -2905,8 +2866,6 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG",Newfoundland Television (480p)
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/sOk4JYr.png",Newington Community Television Channel 14 (Newington CT) (720p)
-https://s3-us-west-2.amazonaws.com/newington.castus-vod/live/ch1/video.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png",NewsNet (720p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",NHK World Japan (1080p)
@@ -2917,10 +2876,6 @@ https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3
 http://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",Nicktoons Scandinavia
 http://89.254.128.5:22280/nicktoons/video.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/DlKgIuQ.png",Noor TV (480p) [Not 24/7]
-http://45.76.186.114:8080/hls/noortv.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/0Zpwy1Y.png",Northeast Live (720p)
-https://5b48d7e1b4bce.streamlock.net/myapp/mbrstream/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/jmYvx2s.jpg",Nos Païs (720p) [Not 24/7]
 http://highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/QSH4Z4p.png",Nothing Scripted (720p)
@@ -2933,8 +2888,6 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/yo8lEu1.png",Now 90's
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/rkBw0pW.png",Now TV (720p) [Not 24/7]
-https://delivery.upictv.co.bw/NOW-TV-DNL/index.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/2PL1Au7.png",NRB TV (480p)
 https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/Ao48HRT.png",NTD TV West (New Tang Dynasty Television)
@@ -2959,8 +2912,6 @@ https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls.m3u8
 https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/K7502YG.png",Omid Javedan (720p) [Not 24/7]
 http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/index.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/QiqXWfd.png",One 31 (1080p)
-http://183.89.246.119:8010/play/a00e/index.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/7JhaEW5.png",One Golf (720p)
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/ojTinM2.png",Opción TV (540p)
@@ -2977,8 +2928,6 @@ https://us1.ottstream.live:17071/C279/index.m3u8?token=123TREWQ456
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/H10qamt.png",Paryawaran TV (1080p)
 https://webtv-stream.nettv.com.np/broadcaster/Paryawaran.stream/playlist.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/A4gqEmG.png",Payvand TV (720p) [Not 24/7]
-http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/gUxH97E.png",PBR RidePass [Geo-blocked]
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?already_redirected=true&appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=62f4
 #EXTINF:-1 group-title="美国" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/PBS_America_logo.png",PBS America (720p)
@@ -3293,8 +3242,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21ea080
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc2f98777f2e0009934ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/cdCD2A2.png",Pluto TV Spike Outdoors (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c393cad2de254456f7ef8c2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=291&terminate=false&userId=
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/LW77x7g.png",Pluto TV Sports (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9bb941b95267e225e59c2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=b22749b0-ca0e-4663-8bb3-d83febbbb89f&terminate=false&userId=
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/UmuJkVB.png",Pluto TV Spotlight (684p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=51&terminate=false&userId=
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/JzwO8IO.png",Pluto TV Staff Picks (720p)
@@ -3351,8 +3298,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b7158
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db0ae5af8797b00095c0794&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=991&terminate=false&userId=
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/rZQWV08.png",Pluto TV TYT Network (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5331d5fb753499095a00045a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/s1p79cp.png",Pluto TV Unbeaten Esports (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2a961bac1f70009ca7524/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/XHg2YsW.png",Pluto TV Undercover Boss Global (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0dc00b15eef10007726ef7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/De3khrX.png",Pluto TV Unsolved Mysteries (720p)
@@ -3405,8 +3350,6 @@ https://dai.google.com/linear/hls/event/6ANW1HGeSTKzJlnAa9u1AQ/master.m3u8
 https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/Q55HX1O.png",Racing.com (720p)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/1nN4rEP.png",Rai Italia America (360p)
-http://210.210.155.69/s/s63/S4/mnf.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png",RAI Italia Asia (576p)
 http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/vTpfxUG.png",Rararadio (720p)
@@ -3471,8 +3414,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-smithsonian
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png",Sony Movies (Sony Movie Channel)
 http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/KsxWZIw.png",Sorozat+ (576p)
-http://194.76.186.33:8000/play/a05e/index.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/0zCt8e4.png",SpektraTV (720p)
 https://cloudvideo.servers10.com:8081/8136/index.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/EyCDhgN.png",Sports TV Plus (1080p)
@@ -3711,12 +3652,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective
 https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/EtQolw6.png",The Islamic Network (480p) [Not 24/7]
 http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/Wp6d0F8.png",The Now Network (480p) [Not 24/7]
-https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/512px-Create_TV_network_logo.svg.png",The Ohio Channel (720p)
 https://5ebe6889de541.streamlock.net/live/stream_10/playlist.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/t3i1HtE.jpg",The Retro Channel (1080p) [Not 24/7]
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/9uzmRTP.png",The Tim Conway Show (720p)
 https://dai.google.com/linear/hls/event/v51OvZmXQOizl-KOgpXw1Q/master.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/4xSEoNK.png",The Wall Street Journal Live (720p)
@@ -3739,8 +3676,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-
 https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/kSCozXg.png",Times Now Navbharat [Geo-blocked]
 https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/wjcGFCD.png",TNN16 (576p)
-http://183.89.246.119:8010/play/a00b/index.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/Ol0BBiV.png",Tokushoutsu
 https://amg00163-shoutfactory-tokushoutsu-dmr-c1irg.amagi.tv/playlist/amg00163-shoutfactory-tokushoutsu-dmr/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/aSjhZK7.png",Toonami Aftermath East (480p)
@@ -3765,8 +3700,6 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/iuoXchN.png",TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/zee6sWn.png",TV Panou (720p) [Not 24/7]
-http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/ReV8R5S.png",TVC (1080p)
 https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/lB4MgRI.png",TVP
@@ -3813,8 +3746,6 @@ https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
 https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",WCBI (News)
 https://dai.google.com/linear/hls/event/qLrnhs3RQUa2zMw9UBkroQ/master.m3u8
-#EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/XJGY8iv.png",WCCA 194 Worcester MA (WCCA-TV) (480p)
-https://worcester.vod.castus.tv/live/ch1.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/WDEF_logo_2015.png",WDEF-TV News Chattanooga TN (720p)
 http://dai.google.com/linear/hls/event/iVH_b5kWTteyRCy-YCoHOw/master.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WFMZ.png",WFMZ-TV Channel 69
@@ -3859,4 +3790,3 @@ https://securestream6.champds.com/hlssstc/YumaCoAZLIVE/master.m3u8
 https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://i.imgur.com/ciTJrnl.png",Zoo Moo (1080p)
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-
