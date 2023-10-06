@@ -3298,6 +3298,9 @@ http://127.0.0.1:8081/newtangren.php
 http://127.0.0.1:8081/gongshi13.php
 #EXTINF:-1 tvg-id="100017" tvg-name="公视2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV2.png" group-title="youtube",公视台语
 http://127.0.0.1:8081/gongshi14.php
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",公视新聞
+http://127.0.0.1:8081/gongshinews.php
 #EXTINF:-1 tvg-id="800300" tvg-name="" tvg-logo="" group-title="youtube",taiwanplus
 http://127.0.0.1:8081/taiwanplus.php
 
@@ -4158,8 +4161,7 @@ https://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="澳门",亚旅卫视
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" tvg-id="100133" tvg-name="tvN"  group-title="台湾",TVN
-http://127.0.0.1:8081/myvideoapp.php?id=12
+
 #EXTINF:-1 tvg-id="100274" tvg-name="MOMO亲子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="台湾",momo综合 
 http://127.0.0.1:8081/myvideoapp.php?id=04
 #EXTINF:-1 tvg-id="100205" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="台湾",民视
