@@ -3493,6 +3493,7 @@ TVBS+,http://127.0.0.1:8081/tvbs561.php
 鏡新聞,http://127.0.0.1:8081/jingnews.php
 新唐人亞太台,http://127.0.0.1:8081/newtangren.php
 公视,http://127.0.0.1:8081/gongshi13.php
+公视台语,http://127.0.0.1:8081/gongshi14.php
 公视新聞,http://127.0.0.1:8081/gongshinews.php
 taiwanplus,http://127.0.0.1:8081/taiwanplus.php
 大爱1台湾,http://127.0.0.1:8081/youtube.php?v=oV_i3Hsl_zg&t=0s
