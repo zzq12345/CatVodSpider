@@ -3298,6 +3298,9 @@ http://192.168.10.250/newtangren.php
 http://192.168.10.250/gongshi13.php
 #EXTINF:-1 tvg-id="100017" tvg-name="公视2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV2.png" group-title="youtube",公视台语
 http://192.168.10.250/gongshi14.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",公视新聞
+http://192.168.10.250/gongshinews.php
+
 #EXTINF:-1 tvg-id="800300" tvg-name="" tvg-logo="" group-title="youtube",taiwanplus
 http://192.168.10.250/taiwanplus.php
 
