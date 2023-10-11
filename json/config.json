@@ -505,13 +505,22 @@
         "item_id="
       ]
     },
-    {
+   {
       "name": "抖音嗅探",
       "hosts": [
         "douyin.com"
       ],
       "regex": [
         "is_play_url="
+      ]
+    },
+    {
+      "name": "農民嗅探",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
       ]
     }
   ]
