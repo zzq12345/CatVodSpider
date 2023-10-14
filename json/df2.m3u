@@ -3298,9 +3298,9 @@ http://192.168.10.250/newtangren.php
 http://192.168.10.250/gongshi13.php
 #EXTINF:-1 tvg-id="100017" tvg-name="公视2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV2.png" group-title="youtube",公视台语
 http://192.168.10.250/gongshi14.php
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",公视新聞
 http://192.168.10.250/gongshinews.php
-
 #EXTINF:-1 tvg-id="800300" tvg-name="" tvg-logo="" group-title="youtube",taiwanplus
 http://192.168.10.250/taiwanplus.php
 
@@ -3423,34 +3423,6 @@ http://192.168.10.250/chengxin.php
 http://192.168.10.250/xinji.php
 #EXTINF:-1 tvg-id="100303" tvg-name="" tvg-logo="" group-title="youtube",信大电视台
 http://192.168.10.250/xinda.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",Meet Pinkfong Super Rescue Team
-http://192.168.10.250/youtube.php?v=FVn8Poh6X6I
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",NEW SPIDEY SHORTS
-http://192.168.10.250/youtube.php?v=-7UhkbevsDg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",the Queens of Cartoon Network
-http://192.168.10.250/youtube.php?v=4BJuPxiqZSQ
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",The Series Season 1
-http://192.168.10.250/youtube.php?v=pgq0noyL3xw
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube", DuckTales WOO-OO
-http://192.168.10.250/youtube.php?v=3Jd1FAxp400
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",Best of the Crossover Episodes
-http://192.168.10.250/youtube.php?v=hj0YykikOkM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",All Minnie's Bow-Toons
-http://192.168.10.250/youtube.php?v=d8X_G4NyMbk
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",Mickey Mouse Clubhouse 
-http://192.168.10.250/youtube.php?v=Dkkp4KfdGPY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",All Me & Mickey Shorts 
-http://192.168.10.250/youtube.php?v=LMj-ClGOg-E
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",NEW SPIDEY SHORTS 
-http://192.168.10.250/youtube.php?v=-7UhkbevsDg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube", SPIDEY SHORTS 
-http://192.168.10.250/youtube.php?v=-7UhkbevsDg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",AriseNewsChannel
 http://192.168.10.250/AriseNewsChannel.php
@@ -3470,7 +3442,8 @@ http://192.168.10.250/60minutes.php
 http://192.168.10.250/USATODAY.php
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",schwab
+http://192.168.10.250/schwab.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",TDAmeritrade
 http://192.168.10.250/TDAmeritrade.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",zeebusiness
@@ -4161,8 +4134,7 @@ https://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="澳门",亚旅卫视
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" tvg-id="100133" tvg-name="tvN"  group-title="台湾",TVN
-http://192.168.10.250/myvideoapp.php?id=12
+
 #EXTINF:-1 tvg-id="100274" tvg-name="MOMO亲子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="台湾",momo综合 
 http://192.168.10.250/myvideoapp.php?id=04
 #EXTINF:-1 tvg-id="100205" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="台湾",民视
@@ -5890,6 +5862,22 @@ http://192.168.10.250/wuhanapp.php?id=16
 
 
 
+#EXTINF:-1 tvg-id="101053" tvg-name="陕西新闻" tvg-logo="" group-title="地方",陕西新闻
+http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225500/index.m3u8
+#EXTINF:-1 tvg-id="101054" tvg-name="陕西都市" tvg-logo="" group-title="地方",陕西都市
+http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225830/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="陕西影视" tvg-logo="" group-title="地方",陕西西部电影
+http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226332/index.m3u8
+#EXTINF:-1 tvg-id="101055" tvg-name="陕西生活" tvg-logo="" group-title="地方",陕西生活
+http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226331/index.m3u8
+#EXTINF:-1 tvg-id="101055" tvg-name="陕西生活" tvg-logo="" group-title="地方",陕西影视
+http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226329/index.m3u8
+#EXTINF:-1 tvg-id="101057" tvg-name="陕西公共" tvg-logo="" group-title="地方",陕西公共
+http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226334/index.m3u8
+#EXTINF:-1 tvg-id="101059" tvg-name="陕西体育" tvg-logo="" group-title="地方",陕西体育
+http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226093/index.m3u8
+#EXTINF:-1 tvg-id="101055" tvg-name="陕西生活" tvg-logo="" group-title="地方",西安新闻综合
+http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225668/index.m3u8
 
 
 
