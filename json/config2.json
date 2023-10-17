@@ -178,7 +178,6 @@
       "type": 1,
       "api": "https://haiwaikan.com/api.php/provide/vod",
       "searchable": 1,
-      "changeable": 1
       "changeable": 1,
       "categories": [
         "日本动漫",
