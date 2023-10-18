@@ -4315,10 +4315,9 @@ http://127.0.0.1:8081/4gtv1080.php?id=37
 http://127.0.0.1:8081/4gtv720.php?id=38
 #EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-name="中天新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv009_mobile.png" group-title="4gtv",中天新聞台
 http://127.0.0.1:8081/4gtv720.php?id=39
-#EXTINF:-1 tvg-id="4gtv-live059" tvg-name="Bloomberg TV(全新上架，11/1前限時免費收看)" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live0_mobile.png" group-title="4gtv",Bloomberg TV(全新上架，11/1前限時免費收看)
+#EXTINF:-1 tvg-id="4gtv-live059" tvg-name="Bloomberg TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live0_mobile.png" group-title="4gtv",Bloomberg TV
 http://127.0.0.1:8081/4gtv1080.php?id=40
-#EXTINF:-1 tvg-id="4gtv-live059" tvg-name="Bloomberg TV(全新上架，11/1前限時免費收看)" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live0_mobile.png" group-title="4gtv",Bloomberg TV(全新上架，11/1前限時免費收看)
-http://127.0.0.1:8081/4gtv720.php?id=40
+
 #EXTINF:-1 tvg-id="litv-longturn14" tvg-name="寰宇新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="4gtv",寰宇新聞台
 http://127.0.0.1:8081/4gtv720.php?id=41
 #EXTINF:-1 tvg-id="litv-longturn15" tvg-name="寰宇新聞台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn15_mobile.png" group-title="4gtv",寰宇新聞台灣台
