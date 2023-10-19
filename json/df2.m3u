@@ -500,12 +500,13 @@ http://192.168.10.250/histarapp.php?id=587
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" tvg-id="100354" tvg-name="HBOHD"  group-title="histar",hbo hd
 http://192.168.10.250/histarapp.php?id=538
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" tvg-id="100355" tvg-name="HBO Signature 原創鉅獻"  group-title="histar",HBO Signature 原創鉅獻
-http://192.168.10.250/histarapp.php?id=539
+
+https://m2.ballnaja.com:8443/HBOSIG/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" tvg-id="100357" tvg-name="HBO Family" group-title="histar",HBO Family
-http://192.168.10.250/histarapp.php?id=540
+https://m2.ballnaja.com:8443/HBOFAMILY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" tvg-id="100356" tvg-name="HBO Hits 強檔鉅獻"  group-title="histar",HBO Hits 強檔鉅獻
-http://192.168.10.250/histarapp.php?id=541
+https://m2.ballnaja.com:8443/HBOHITS/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="800000" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频",CCTV1综合
