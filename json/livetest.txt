@@ -2162,9 +2162,9 @@ ABC News,http://127.0.0.1:8081/histar.php?id=abc-news
 Bloomberg Television,http://127.0.0.1:8081/histar.php?id=bloomberg
 cinemax,http://127.0.0.1:8081/histarapp.php?id=587
 hbo hd,http://127.0.0.1:8081/histarapp.php?id=538
-HBO Signature 原創鉅獻,http://127.0.0.1:8081/histarapp.php?id=539
-HBO Family,http://127.0.0.1:8081/histarapp.php?id=540
-HBO Hits 強檔鉅獻,http://127.0.0.1:8081/histarapp.php?id=541
+HBOFAMILY,https://m2.ballnaja.com:8443/HBOFAMILY/tracks-v1a1/mono.m3u8
+HBOHITS,https://m2.ballnaja.com:8443/HBOHITS/tracks-v1a1/mono.m3u8
+HBOSIG,https://m2.ballnaja.com:8443/HBOSIG/playlist.m3u8
 央视频,#genre#
 CCTV1综合,http://127.0.0.1:8081/ysp2.php?id=cctv1
 CCTV2财经,http://127.0.0.1:8081/ysp2.php?id=cctv2
