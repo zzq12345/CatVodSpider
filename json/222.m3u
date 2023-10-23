@@ -131,8 +131,7 @@ https://live.goodiptv.club/api/ghyx.php?id=ZhiYePinDaoHD_2000
 https://live.goodiptv.club/api/ghyx.php?id=ZhongHuaMeiShiHD_2000
 #EXTINF:-1,tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://epg.112114.xyz/logo/环球旅游.png" group-title="歌华有线",环球旅游 标清
 https://live.goodiptv.club/api/ghyx.php?id=HuanQiuLvYouHD_2000
-#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="祖国同胞台",中视购物 标清
-https://live.goodiptv.club/api/ghyx.php?id=ZhongShiGouWuHD_2000
+
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/央广购物.png" group-title="歌华有线",央广购物 标清
 https://live.goodiptv.club/api/ghyx.php?id=YangShiGouWuHD_2000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/聚鲨环球精选.png" group-title="歌华有线",聚鲨环球精选
