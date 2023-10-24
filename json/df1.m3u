@@ -4259,7 +4259,7 @@ http://127.0.0.1:8081/4gtv720.php?id=10
 #EXTINF:-1 tvg-id="4gtv-4gtv064" tvg-name="中視菁采台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv064_mobile.png" group-title="4gtv",中視菁采台
 http://127.0.0.1:8081/4gtv720.php?id=11
 #EXTINF:-1 tvg-id="4gtv-live086" tvg-name="TVBS精采台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live086_mobile.png" group-title="4gtv",TVBS精采台
-http://127.0.0.1:8081/4gtv1080.php?id=12
+http://127.0.0.1:8081/4gtv720.php?id=12
 #EXTINF:-1 tvg-id="4gtv-4gtv070" tvg-name="愛爾達娛樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv070_mobile.png" group-title="4gtv",愛爾達娛樂台
 http://127.0.0.1:8081/4gtv720.php?id=13
 #EXTINF:-1 tvg-id="4gtv-4gtv046" tvg-name="靖天綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv046_mobile.png" group-title="4gtv",靖天綜合台
