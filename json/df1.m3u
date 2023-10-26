@@ -1352,10 +1352,17 @@ http://127.0.0.1:8081/douyin.php?id=19604405333
 http://127.0.0.1:8081/douyin.php?id=895896149396
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",cctv4
 http://127.0.0.1:8081/douyin.php?id=166806983360
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",灯个哩个灯
+http://127.0.0.1:8081/douyin.php?id=839596953256
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",燃乐团
+http://127.0.0.1:8081/douyin.php?id=165301126872
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",聆韵社（评弹昆曲
+http://127.0.0.1:8081/douyin.php?id=895896149396
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",万象星云乐团
+http://127.0.0.1:8081/douyin.php?id=507361726834
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",♍️遇茉
+http://127.0.0.1:8081/douyin.php?id=418414211739
 
 #EXTINF:-1 group-title="虎牙",周星星的直播蓝光4M
 http://127.0.0.1:8081/huya.php?id=11342412
