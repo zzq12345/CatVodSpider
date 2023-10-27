@@ -3627,6 +3627,7 @@ CBS fusion-et-live,http://192.168.10.250/cbsnewslive.php?id=15
 cbn family,http://192.168.10.250/cbn.php?id=5721815535001
 cbn news,http://192.168.10.250/cbn.php?id=5721888200001
 cbn spain,http://192.168.10.250/cbn.php?id=5721890224001
+美国abc news now,http://192.168.10.250/abcnewsnow.php
 美国ABC 7 NEWS,http://192.168.10.250/abc7news.php
 美国abc9,http://192.168.10.250/abc9.php
 美国abc10,http://192.168.10.250/abc10.php
