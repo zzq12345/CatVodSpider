@@ -2087,10 +2087,10 @@ http://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CGTN俄语.png" group-title="陕西移动",CGTN俄语
 http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 
-#EXTINF:-1,tvg-id="CNC中文" tvg-name="CNC中文" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CNC中文.png" group-title="新华社",CNC中文
+#EXTINF:-1,tvg-id="CNC中文" tvg-name="CNC中文" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CNC中文.png" group-title="陕西移动",CNC中文
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京卫视.png" group-title="北京",北京卫视
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京卫视.png" group-title="陕西移动",北京卫视
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226222/1.m3u8
 
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/东方卫视.png" group-title="陕西移动",东方卫视
