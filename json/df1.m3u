@@ -4047,7 +4047,7 @@ http://127.0.0.1:8081/4gtv720.php?id=22
 #EXTINF:-1 tvg-id="4gtv-live032" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live032_mobile.png" group-title="4gtv",Nick Jr. 兒童頻道
 http://127.0.0.1:8081/4gtv1080.php?id=23
 #EXTINF:-1 tvg-id="4gtv-live105" tvg-name="尼克兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live105_mobile.png" group-title="4gtv",尼克兒童頻道
-http://127.0.0.1:8081/4gtv10801.php?id=24
+http://127.0.0.1:8081/4gtv1080.php?id=24
 #EXTINF:-1 tvg-id="4gtv-live017" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live017_mobile.png" group-title="4gtv",DreamWorks 夢工廠動畫
 http://127.0.0.1:8081/4gtv10801.php?id=25
 
