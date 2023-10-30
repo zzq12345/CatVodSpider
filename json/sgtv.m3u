@@ -1,52 +1,68 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,http://zzqwe.giize.com:12228/epgmysuper.xml,http://zzqwe.giize.com:12228/epg4gtv2.xml,http://zzqwe.giize.com:12228/epganywhere.xml,https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel5
-#EXTINF:-1 group-title="新加坡" tvg-id="600001" tvg-chno=""Channel 5 tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956277%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=150&Height=150&ImageUrl=%27956277.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5 
-https://aqfadtv.xyz/live/mewatch/channel5/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=14a5992ac11cb08303ec82c34e775025:e97307a38fe832c62d3f486077745c80
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcTKHJ52MPdRpvcXG16AX7jIXt4lT1IasDcPBA\u0026usqp\u003dCAU" group-title="新加坡",Rock Entertainment (V*)
+https://etslive-2-vidio-com.akamaized.net/drm/dash/8120_stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel8
-#EXTINF:-1 group-title="新加坡" tvg-id="600002" tvg-chno="Channel 8" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956273%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=150&Height=150&ImageUrl=%27956273.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8
-https://aqfadtv.xyz/live/mewatch/channel8/index.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channelu
-#EXTINF:-1 group-title="新加坡" tvg-id="600006" tvg-chno="Channel U" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%272261554%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=150&Height=150&ImageUrl=%272261554.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U
-https://aqfadtv.xyz/live/mewatch/channelu/index.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/cna
-#EXTINF:-1 group-title="新加坡" tvg-id="600005" tvg-chno="CNA" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956283%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=150&Height=150&ImageUrl=%27956283.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
-https://aqfadtv.xyz/live/mewatch/cna/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=a6d8da647fc02d64463e38e222f268b0:f4d533e9d51a2aa66af7aaf27f54f92a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcRFvAb-7fJXkKi3O8gXwn3Q6fo2uYNd6ViCvw\u0026usqp\u003dCAU" group-title="新加坡",Rock Action (V*)
+https://etslive-2-vidio-com.akamaized.net/drm/dash/8121_stream.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/rockaction
-#EXTINF:-1 group-title="新加坡" tvg-id="70032" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202212/20221211/20221211230555493f2h.png",ROCK Action
-https://aqfadtv.xyz/live/mewatch/rockaction/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/rockentertainment
-#EXTINF:-1 group-title="新加坡"  tvg-id="70033"  tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png",ROCK Entertainment
-https://aqfadtv.xyz/live/mewatch/rockentertainment/index.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/globaltrekker
-#EXTINF:-1 group-title="新加坡"  tvg-id="70031"   tvg-logo="",Global Trekker
-https://aqfadtv.xyz/live/mewatch/globaltrekker/index.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/animax
-#EXTINF:-1 group-title="新加坡"  tvg-id="70036"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax
-https://aqfadtv.xyz/live/mewatch/animax/index.mpd
 
 
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/gem
-#EXTINF:-1 group-title="新加坡"  tvg-id="70035"   tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&ImageId=%273714540%27",GEM
-https://aqfadtv.xyz/live/mewatch/gem/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
+#EXTINF:-1 group-title="新加坡" tvg-id="600001" tvg-chno="997" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956277%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=150&Height=150&ImageUrl=%27956277.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5 
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2448fc561b0c4220a81f1008971d3088&key=f48eb6753f3d1774da682970c93cf260
+#EXTINF:-1 group-title="新加坡" tvg-id="600002" tvg-chno="600002" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956273%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=150&Height=150&ImageUrl=%27956273.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8
+https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0328a153c2994b279ab03ab25102fc59&key=2cc69eaaa858fed24c5623654daf8d3d
+#EXTINF:-1 group-title="新加坡" tvg-id="600006" tvg-chno="600006" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%272261554%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=150&Height=150&ImageUrl=%272261554.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U
+https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7a9ea6df52044841b0c562766e602610&key=b9380188b4896b25e8d419dfce938c6e
+#EXTINF:-1 group-title="新加坡" tvg-id="600003" tvg-chno="600003" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956267%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=150&Height=150&ImageUrl=%27956267.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel Suria
+https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9970038ef6c548e39768f3a1ff6f5081&key=3e19d54b7bcd8bb336776fe136d48f57
+#EXTINF:-1 group-title="新加坡" tvg-id="600004" tvg-chno="600004" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956271%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=150&Height=150&ImageUrl=%27956271.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel Vasantham
+https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7cb90b341f444e4ca3fb60de2ed3d6e5&key=5640220b78729773fbeaabc19a502b50
+#EXTINF:-1 group-title="新加坡" tvg-id="600005" tvg-chno="600005" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956283%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=150&Height=150&ImageUrl=%27956283.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
+https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=612eb711dfb444f7a194c5e20d7f7048&key=b6226449b9ed5066542e6d6ad5ecb346
+#EXTINF:-1 group-title="新加坡" tvg-id="1003" tvg-chno="1003" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='2362416'&EntityType='Item'&EntityId='187161'&Width=336&Height=189&ImageUrl='2362416.png'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",oktolidays
+https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=60dc08aae52f4c0b806a8e43f24a12c8&key=30d5b579966d822b215ec51a91d8a271
+#EXTINF:-1 group-title="新加坡" tvg-id="1004" tvg-chno="1004" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%273748542%27&EntityType=%27Item%27&EntityId=%27245216%27&Width=336&Height=189&ImageUrl=%273748542.jpg%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27_en,all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Global Citizen
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=60dc08aae52f4c0b806a8e43f24a12c8&key=30d5b579966d822b215ec51a91d8a271
+#EXTINF:-1 group-title="新加坡" tvg-id="1006" tvg-chno="1006" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3350445'&EntityType='Item'&EntityId='229211'&Width=237&Height=237&ImageUrl='3350445.jpg'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",meWATCH LIVE 1
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=60dc08aae52f4c0b806a8e43f24a12c8&key=30d5b579966d822b215ec51a91d8a271
+#EXTINF:-1 group-title="新加坡" tvg-id="1007" tvg-chno="1007" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3350553'&EntityType='Item'&EntityId='229212'&Width=237&Height=237&ImageUrl='3350553.jpg'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",meWATCH LIVE 2
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 
 
@@ -182,24 +198,9 @@ https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14a5992ac11cb08303ec82c34e775025:e97307a38fe832c62d3f486077745c80
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcTKHJ52MPdRpvcXG16AX7jIXt4lT1IasDcPBA\u0026usqp\u003dCAU" group-title="印尼",Rock Entertainment (V*)
-https://etslive-2-vidio-com.akamaized.net/drm/dash/8120_stream.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6d8da647fc02d64463e38e222f268b0:f4d533e9d51a2aa66af7aaf27f54f92a
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcRFvAb-7fJXkKi3O8gXwn3Q6fo2uYNd6ViCvw\u0026usqp\u003dCAU" group-title="印尼",Rock Action (V*)
-https://etslive-2-vidio-com.akamaized.net/drm/dash/8121_stream.mpd
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png" group-title="印尼",ROCK Entertainment (Unifi)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/rockentertainment
-https://aqfadtv.xyz/live/mewatch/rockentertainment/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8453753ad98627104b70c6c75d922d6:c7577969241b3d500fd569e9a38672ae
@@ -310,68 +311,13 @@ https://etslive-2-vidio-com.akamaized.net/drm/dash/6717_stream.mpd
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/suria
-#EXTINF:-1 group-title="新加坡" tvg-id="600003" tvg-chno="Channel Suria" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956267%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=150&Height=150&ImageUrl=%27956267.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel Suria
-https://aqfadtv.xyz/live/mewatch/suria/index.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/vasantham
-#EXTINF:-1 group-title="新加坡" tvg-id="600004" tvg-chno="Channel Vasantham" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956271%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=150&Height=150&ImageUrl=%27956271.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel Vasantham
-https://aqfadtv.xyz/live/mewatch/vasantham/index.mpd
 
 
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
-#EXTINF:-1 group-title="新加坡" tvg-id="600001" tvg-chno="997" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956277%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=150&Height=150&ImageUrl=%27956277.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5 
-https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2448fc561b0c4220a81f1008971d3088&key=f48eb6753f3d1774da682970c93cf260
-#EXTINF:-1 group-title="新加坡" tvg-id="600002" tvg-chno="600002" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956273%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=150&Height=150&ImageUrl=%27956273.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8
-https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0328a153c2994b279ab03ab25102fc59&key=2cc69eaaa858fed24c5623654daf8d3d
-#EXTINF:-1 group-title="新加坡" tvg-id="600006" tvg-chno="600006" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%272261554%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=150&Height=150&ImageUrl=%272261554.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U
-https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7a9ea6df52044841b0c562766e602610&key=b9380188b4896b25e8d419dfce938c6e
-#EXTINF:-1 group-title="新加坡" tvg-id="600003" tvg-chno="600003" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956267%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=150&Height=150&ImageUrl=%27956267.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel Suria
-https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9970038ef6c548e39768f3a1ff6f5081&key=3e19d54b7bcd8bb336776fe136d48f57
-#EXTINF:-1 group-title="新加坡" tvg-id="600004" tvg-chno="600004" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956271%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=150&Height=150&ImageUrl=%27956271.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel Vasantham
-https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7cb90b341f444e4ca3fb60de2ed3d6e5&key=5640220b78729773fbeaabc19a502b50
-#EXTINF:-1 group-title="新加坡" tvg-id="600005" tvg-chno="600005" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956283%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=150&Height=150&ImageUrl=%27956283.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
-https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=612eb711dfb444f7a194c5e20d7f7048&key=b6226449b9ed5066542e6d6ad5ecb346
-#EXTINF:-1 group-title="新加坡" tvg-id="1003" tvg-chno="1003" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='2362416'&EntityType='Item'&EntityId='187161'&Width=336&Height=189&ImageUrl='2362416.png'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",oktolidays
-https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=60dc08aae52f4c0b806a8e43f24a12c8&key=30d5b579966d822b215ec51a91d8a271
-#EXTINF:-1 group-title="新加坡" tvg-id="1004" tvg-chno="1004" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%273748542%27&EntityType=%27Item%27&EntityId=%27245216%27&Width=336&Height=189&ImageUrl=%273748542.jpg%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27_en,all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Global Citizen
-https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=60dc08aae52f4c0b806a8e43f24a12c8&key=30d5b579966d822b215ec51a91d8a271
-#EXTINF:-1 group-title="新加坡" tvg-id="1006" tvg-chno="1006" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3350445'&EntityType='Item'&EntityId='229211'&Width=237&Height=237&ImageUrl='3350445.jpg'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",meWATCH LIVE 1
-https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=60dc08aae52f4c0b806a8e43f24a12c8&key=30d5b579966d822b215ec51a91d8a271
-#EXTINF:-1 group-title="新加坡" tvg-id="1007" tvg-chno="1007" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3350553'&EntityType='Item'&EntityId='229212'&Width=237&Height=237&ImageUrl='3350553.jpg'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",meWATCH LIVE 2
-https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 
 
@@ -4592,4 +4538,58 @@ https://1.yurend.xyz/dash-wv/linear/603/default_primary.mpd
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="印尼",Cinemax (My)
 https://cors-anywhere.azm.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel5
+#EXTINF:-1 group-title="新加坡" tvg-id="600001" tvg-chno=""Channel 5 tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956277%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=150&Height=150&ImageUrl=%27956277.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5 
+https://aqfadtv.xyz/live/mewatch/channel5/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel8
+#EXTINF:-1 group-title="新加坡" tvg-id="600002" tvg-chno="Channel 8" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956273%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=150&Height=150&ImageUrl=%27956273.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8
+https://aqfadtv.xyz/live/mewatch/channel8/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channelu
+#EXTINF:-1 group-title="新加坡" tvg-id="600006" tvg-chno="Channel U" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%272261554%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=150&Height=150&ImageUrl=%272261554.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U
+https://aqfadtv.xyz/live/mewatch/channelu/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/cna
+#EXTINF:-1 group-title="新加坡" tvg-id="600005" tvg-chno="CNA" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956283%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=150&Height=150&ImageUrl=%27956283.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
+https://aqfadtv.xyz/live/mewatch/cna/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/rockaction
+#EXTINF:-1 group-title="新加坡" tvg-id="70032" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202212/20221211/20221211230555493f2h.png",ROCK Action
+https://aqfadtv.xyz/live/mewatch/rockaction/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/rockentertainment
+#EXTINF:-1 group-title="新加坡"  tvg-id="70033"  tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png",ROCK Entertainment
+https://aqfadtv.xyz/live/mewatch/rockentertainment/index.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/globaltrekker
+#EXTINF:-1 group-title="新加坡"  tvg-id="70031"   tvg-logo="",Global Trekker
+https://aqfadtv.xyz/live/mewatch/globaltrekker/index.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/animax
+#EXTINF:-1 group-title="新加坡"  tvg-id="70036"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax
+https://aqfadtv.xyz/live/mewatch/animax/index.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/gem
+#EXTINF:-1 group-title="新加坡"  tvg-id="70035"   tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&ImageId=%273714540%27",GEM
+https://aqfadtv.xyz/live/mewatch/gem/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/suria
+#EXTINF:-1 group-title="新加坡" tvg-id="600003" tvg-chno="Channel Suria" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956267%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=150&Height=150&ImageUrl=%27956267.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel Suria
+https://aqfadtv.xyz/live/mewatch/suria/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/vasantham
+#EXTINF:-1 group-title="新加坡" tvg-id="600004" tvg-chno="Channel Vasantham" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956271%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=150&Height=150&ImageUrl=%27956271.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel Vasantham
+https://aqfadtv.xyz/live/mewatch/vasantham/index.mpd
