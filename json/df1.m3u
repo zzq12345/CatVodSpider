@@ -5051,8 +5051,8 @@ http://127.0.0.1:8081/baishitong.php?id=2
 http://127.0.0.1:8081/shanghai.php?id=dfws
 #EXTINF:-1 tvg-id="800101" tvg-name="上视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png"  group-title="地方",上海新闻综合
 http://127.0.0.1:8081/shanghai.php?id=xwzh
-#EXTINF:-1 tvg-id="800122" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="地方",上海外语频道高清
-http://127.0.0.1:8081/shanghai.php?id=wypd
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" tvg-id="62" tvg-name="哈哈炫动"  group-title="地方",上海哈哈炫动
+http://127.0.0.1:8081/shanghai.php?id=hhxd
 #EXTINF:-1 tvg-id="800104" tvg-name="上海都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="地方",上海都市
 http://127.0.0.1:8081/shanghai.php?id=dspd
 #EXTINF:-1 tvg-id="800102" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="地方",第一财经
