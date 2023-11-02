@@ -728,6 +728,8 @@ CCTV17 8M,http://cfyy.cc/ds/bst/bst.php?cdn=1110d9e5b05f7850f5ca7a8882dd3ca1.smt
 上海都市 8M,http://cfyy.cc/ds/bst/bst.php?cdn=1110d9e5b05f7850f5ca7a8882dd3ca1.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/key&hf=2&vid=dshd8m/8000000&Bst.m3u8
 上海纪实 8M,http://cfyy.cc/ds/bst/bst.php?cdn=1110d9e5b05f7850f5ca7a8882dd3ca1.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/key&hf=2&vid=jspdhd/4000000
 东方影视 8M,http://cfyy.cc/ds/bst/bst.php?cdn=1110d9e5b05f7850f5ca7a8882dd3ca1.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/key&hf=2&vid=dfyshd8m/8000000&Bst.m3u8
+劲爆体育 8M,http://cfyy.cc/ds/bst/bst.php?cdn=1110d9e5b05f7850f5ca7a8882dd3ca1.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/key&hf=2&vid=jbyhd8m/8000000&Bst.m3u8
+
 五星体育 8M,http://cfyy.cc/ds/bst/bst.php?cdn=1110d9e5b05f7850f5ca7a8882dd3ca1.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/key&hf=2&vid=wxtyhd8m/8000000&Bst.m3u8
 上视外语 8M,http://cfyy.cc/ds/bst/bst.php?cdn=1110d9e5b05f7850f5ca7a8882dd3ca1.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/key&hf=2&vid=icshd8m/8000000&Bst.m3u8
 七彩戏剧 8M,http://cfyy.cc/ds/bst/bst.php?cdn=1110d9e5b05f7850f5ca7a8882dd3ca1.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/key&hf=2&vid=qcxjhd8m/8000000&Bst.m3u8
