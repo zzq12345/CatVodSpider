@@ -1,10 +1,74 @@
 老挝直播,#genre#
+CCTV1,https://ctrl.laotv.la/live/CCTV1/index.m3u8
+CCTV 2,https://ctrl.laotv.la/live/CCTV2/index.m3u8
+CCTV 3,https://ctrl.laotv.la/live/CCTV3/index.m3u8
+CCTV4A,https://ctrl.laotv.la/live/CCTV4A/index.m3u8
+CCTV5+,https://ctrl.laotv.la/live/CCTV5+/index.m3u8
+CCTV7,https://ctrl.laotv.la/live/CCTV7/index.m3u8
+CCTV8,https://ctrl.laotv.la/live/CCTV8/index.m3u8
+CCTV14,https://ctrl.laotv.la/live/CCTV14/index.m3u8
+中国电影,https://ctrl.laotv.la/live/ChinaMovie/index.m3u8
+Hunan湖南卫视,https://ctrl.laotv.la/live/Hunan/index.m3u8
+
+东森洋片e,https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
+莲花卫视,https://ctrl.laotv.la/live/AomenLotus/index.m3u8
+CCTV高尔夫,https://ctrl.laotv.la/live/CCTVGolf/index.m3u8
+博斯高尔夫,https://ctrl.laotv.la/live/BosiGolf/index.m3u8
+凤凰资讯s,https://ctrl.laotv.la/live/PhoenixNews/index.m3u8
+凤凰中文,https://ctrl.laotv.la/live/PhxChinese/index.m3u8
+东森电影,https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
+龙翔电影,https://ctrl.laotv.la/live/Longxiang/index.m3u8
+
+Animal Show,https://ctrl.laotv.la/live/AnimalShow/index.m3u8
+ABCA,https://ctrl.laotv.la/live/ABCA/index.m3u8
 True4U,https://ctrl.laotv.la/live/True4U/index.m3u8
-LaoESTV,https://ctrl.laotv.la/live/LaoESTV/index.m3u8
-MVLao,https://ctrl.laotv.la/live/MVLao/index.m3u8
-PSTV,https://ctrl.laotv.la/live/PSTV/manifest.mpd
-LATV,https://ctrl.laotv.la/live/LATV/manifest.mpd
-LaoStar,https://ctrl.laotv.la/live/LaoStar/manifest.mpd
+
+
+Top News,https://ctrl.laotv.la/live/TopNews/index.m3u8
+TSport1,https://ctrl.laotv.la/live/TSport1/index.m3u8
+TSport2,https://ctrl.laotv.la/live/TSport2/manifest.mpd
+TrueSport2,https://ctrl.laotv.la/live/TrueSport2/index.m3u8
+TrueSport3,https://ctrl.laotv.la/live/TrueSport3/index.m3u8
+TrueSport6,https://ctrl.laotv.la/live/TrueSport6/index.m3u8
+T Sports 7,https://ctrl.laotv.la/live/TSports7/index.m3u8
+
+BeinSport1,https://ctrl.laotv.la/live/Bsport1/index.m3u8
+Beinsport2,https://ctrl.laotv.la/live/Bsport2/index.m3u8
+
+StarMovie,https://ctrl.laotv.la/live/StarMovie/index.m3u8
+HBO,https://ctrl.laotv.la/live/HBO/index.m3u8
+WWE,https://ctrl.laotv.la/live/WWE/index.m3u8
+CNN,https://ctrl.laotv.la/live/CNN/index.m3u8
+PNN,https://ctrl.laotv.la/live/PNN/index.m3u8
+Arirang,https://ctrl.laotv.la/live/Arirang/index.m3u8
+NHKWorld,https://ctrl.laotv.la/live/NHK/index.m3u8
+WishChannel,https://ctrl.laotv.la/live/WishChannel/index.m3u8
+ALJazeera,https://ctrl.laotv.la/live/ALJazeera/index.m3u8
+News1,https://ctrl.laotv.la/live/News1/index.m3u8
+Nation TV,https://ctrl.laotv.la/live/NationTV/index.m3u8
+Hit,https://ctrl.laotv.la/live/Hit/index.m3u8
+TopLin,https://ctrl.laotv.la/live/TopLine/index.m3u8
+TrueFilm,https://ctrl.laotv.la/live/TureFilm/index.m3u8
+AnimalPlanet,https://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
+Discovery,https://ctrl.laotv.la/live/Discovery/index.m3u8
+
+THD7,https://ctrl.laotv.la/live/THD7/index.m3u8
+Boomerang,https://ctrl.laotv.la/live/Boomerang/index.m3u8
+Cartoon Club,https://ctrl.laotv.la/live/CartoonClub/index.m3u8
+CartoonNetwork,https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
+Toon Channel,https://ctrl.laotv.la/live/Toon/index.m3u8
+SkyWorld,https://ctrl.laotv.la/live/SkyWorld/index.m3u8
+Cinemax,https://ctrl.laotv.la/live/Cinemax/index.m3u8
+TSHD,https://ctrl.laotv.la/live/TSHD/index.m3u8
+MVTV,https://ctrl.laotv.la/live/MVTV/index.m3u8
+KBS,https://ctrl.laotv.la/live/KBS/index.m3u8
+DW,https://ctrl.laotv.la/live/DW/index.m3u8
+CHCA,https://ctrl.laotv.la/live/CHCA/index.m3u8
+
+SunTV,https://ctrl.laotv.la/live/SunTV/index.m3u8
+CNBC,https://ctrl.laotv.la/live/CNBC/index.m3u8
+TVK Cambodia HD,https://ctrl.laotv.la/live/TVKCambodia/index.m3u8
+Samrujlok,https://ctrl.laotv.la/live/Samrujlok/index.m3u8
 VTE 9,https://ctrl.laotv.la/live/VTE9/manifest.mpd
 LNTV 1,https://ctrl.laotv.la/live/LNTV1/manifest.mpd
 OneHD,https://ctrl.laotv.la/live/OneHD/manifest.mpd
@@ -25,70 +89,16 @@ PPTV HD,https://ctrl.laotv.la/live/PPTVHD/index.m3u8
 NBT Channel,https://ctrl.laotv.la/live/NBT/index.m3u8
 Mcot,https://ctrl.laotv.la/live/Mcot/index.m3u8
 ThaiPBS,https://ctrl.laotv.la/live/ThaiPBS/index.m3u8
-Top News,https://ctrl.laotv.la/live/TopNews/index.m3u8
-TSport1,https://ctrl.laotv.la/live/TSport1/index.m3u8
-TSport2,https://ctrl.laotv.la/live/TSport2/manifest.mpd
-BeinSport1,https://ctrl.laotv.la/live/Bsport1/index.m3u8
-Beinsport2,https://ctrl.laotv.la/live/Bsport2/index.m3u8
-CCTV1,https://ctrl.laotv.la/live/CCTV1/index.m3u8
-CCTV 2,https://ctrl.laotv.la/live/CCTV2/index.m3u8
-CCTV 3,https://ctrl.laotv.la/live/CCTV3/index.m3u8
+LaoESTV,https://ctrl.laotv.la/live/LaoESTV/index.m3u8
+MVLao,https://ctrl.laotv.la/live/MVLao/index.m3u8
+PSTV,https://ctrl.laotv.la/live/PSTV/manifest.mpd
+LATV,https://ctrl.laotv.la/live/LATV/manifest.mpd
+LaoStar,https://ctrl.laotv.la/live/LaoStar/manifest.mpd
+
 TNN2 Channel,https://ctrl.laotv.la/live/TNN2/index.m3u8
 TNN24 Channel,https://ctrl.laotv.la/live/TNN24/index.m3u8
-TrueSport2,https://ctrl.laotv.la/live/TrueSport2/index.m3u8
-TrueSport3,https://ctrl.laotv.la/live/TrueSport3/index.m3u8
-TrueSport6,https://ctrl.laotv.la/live/TrueSport6/index.m3u8
-T Sports 7,https://ctrl.laotv.la/live/TSports7/index.m3u8
+
 M Channel,https://ctrl.laotv.la/live/MChannel/index.m3u8
-StarMovie,https://ctrl.laotv.la/live/StarMovie/index.m3u8
-HBO,https://ctrl.laotv.la/live/HBO/index.m3u8
-WWE,https://ctrl.laotv.la/live/WWE/index.m3u8
-CNN,https://ctrl.laotv.la/live/CNN/index.m3u8
-PNN,https://ctrl.laotv.la/live/PNN/index.m3u8
-Arirang,https://ctrl.laotv.la/live/Arirang/index.m3u8
-NHKWorld,https://ctrl.laotv.la/live/NHK/index.m3u8
-WishChannel,https://ctrl.laotv.la/live/WishChannel/index.m3u8
-ALJazeera,https://ctrl.laotv.la/live/ALJazeera/index.m3u8
-News1,https://ctrl.laotv.la/live/News1/index.m3u8
-Nation TV,https://ctrl.laotv.la/live/NationTV/index.m3u8
-Hit,https://ctrl.laotv.la/live/Hit/index.m3u8
-TopLin,https://ctrl.laotv.la/live/TopLine/index.m3u8
-TrueFilm,https://ctrl.laotv.la/live/TureFilm/index.m3u8
-AnimalPlanet,https://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
-Discovery,https://ctrl.laotv.la/live/Discovery/index.m3u8
-Samrujlok,https://ctrl.laotv.la/live/Samrujlok/index.m3u8
-Boomerang,https://ctrl.laotv.la/live/Boomerang/index.m3u8
-Cartoon Club,https://ctrl.laotv.la/live/CartoonClub/index.m3u8
-CartoonNetwork,https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
-Toon Channel,https://ctrl.laotv.la/live/Toon/index.m3u8
-SkyWorld,https://ctrl.laotv.la/live/SkyWorld/index.m3u8
-THD7,https://ctrl.laotv.la/live/THD7/index.m3u8
-ChinaMovie,https://ctrl.laotv.la/live/ChinaMovie/index.m3u8
-Cinemax,https://ctrl.laotv.la/live/Cinemax/index.m3u8
-TSHD,https://ctrl.laotv.la/live/TSHD/index.m3u8
-MVTV,https://ctrl.laotv.la/live/MVTV/index.m3u8
-KBS,https://ctrl.laotv.la/live/KBS/index.m3u8
-DW,https://ctrl.laotv.la/live/DW/index.m3u8
-CHCA,https://ctrl.laotv.la/live/CHCA/index.m3u8
-CCTV4A,https://ctrl.laotv.la/live/CCTV4A/index.m3u8
-CCTV5+,https://ctrl.laotv.la/live/CCTV5+/index.m3u8
-CCTV7,https://ctrl.laotv.la/live/CCTV7/index.m3u8
-CCTV8,https://ctrl.laotv.la/live/CCTV8/index.m3u8
-CCTV14,https://ctrl.laotv.la/live/CCTV14/index.m3u8
-SunTV,https://ctrl.laotv.la/live/SunTV/index.m3u8
-CNBC,https://ctrl.laotv.la/live/CNBC/index.m3u8
-TVK Cambodia HD,https://ctrl.laotv.la/live/TVKCambodia/index.m3u8
-Hunan湖南卫视,https://ctrl.laotv.la/live/Hunan/index.m3u8
-Animal Show,https://ctrl.laotv.la/live/AnimalShow/index.m3u8
-ABCA,https://ctrl.laotv.la/live/ABCA/index.m3u8
-DongsenForeignMovie,https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
-AomenLotus,https://ctrl.laotv.la/live/AomenLotus/index.m3u8
-CCTVGolf,https://ctrl.laotv.la/live/CCTVGolf/index.m3u8
-BosiGolf,https://ctrl.laotv.la/live/BosiGolf/index.m3u8
-PhoenixNews,https://ctrl.laotv.la/live/PhoenixNews/index.m3u8
-PhxChinese,https://ctrl.laotv.la/live/PhxChinese/index.m3u8
-DongsenMovie,https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
-Longxiang,https://ctrl.laotv.la/live/Longxiang/index.m3u8
 
 
 
