@@ -1559,8 +1559,21 @@ https://ctrl.laotv.la/live/CCTV14/index.m3u8
 https://ctrl.laotv.la/live/ChinaMovie/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="老挝直播",Hunan湖南卫视
 https://ctrl.laotv.la/live/Hunan/index.m3u8
-#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="老挝直播",东森洋片
+#EXTINF:-1 tvg-id="100261" tvg-name="東森電影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="老挝直播",東森電影台
+https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
+#EXTINF:-1 tvg-id="100265" tvg-name="東森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="老挝直播",東森洋片台
 https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
+#EXTINF:-1 tvg-id="100263" tvg-name="LS TIME電影台" tvg-logo="" group-title="老挝直播",LS TIME電影台
+https://ctrl.laotv.la/live/Longxiang/index.m3u8
+#EXTINF:-1 tvg-id="100264" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="老挝直播",HBO
+https://ctrl.laotv.la/live/HBO/index.m3u8
+#EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="老挝直播",Cinemax
+https://ctrl.laotv.la/live/Cinemax/index.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",莲花卫视
 https://ctrl.laotv.la/live/AomenLotus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",CCTV高尔夫
@@ -1571,14 +1584,13 @@ https://ctrl.laotv.la/live/BosiGolf/index.m3u8
 https://ctrl.laotv.la/live/PhoenixNews/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="老挝直播",凤凰中文
 https://ctrl.laotv.la/live/PhxChinese/index.m3u8
-#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="老挝直播",东森电影
-https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",龙翔电影
-https://ctrl.laotv.la/live/Longxiang/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",Animal Show
-https://ctrl.laotv.la/live/AnimalShow/index.m3u8
-#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="老挝直播",ABCA
-https://ctrl.laotv.la/live/ABCA/index.m3u8
+#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="老挝直播",StarMovie
+https://ctrl.laotv.la/live/StarMovie/index.m3u8
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="老挝直播",AnimalPlanet
+https://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="老挝直播",Discovery
+https://ctrl.laotv.la/live/Discovery/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",True4U
 https://ctrl.laotv.la/live/True4U/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",Top News
@@ -1599,66 +1611,49 @@ https://ctrl.laotv.la/live/TSports7/index.m3u8
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",Beinsport2
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
-#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="老挝直播",StarMovie
-https://ctrl.laotv.la/live/StarMovie/index.m3u8
-#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="老挝直播",HBO
-https://ctrl.laotv.la/live/HBO/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",WWE
-https://ctrl.laotv.la/live/WWE/index.m3u8
-#EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="老挝直播",CNN
-https://ctrl.laotv.la/live/CNN/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",PNN
-https://ctrl.laotv.la/live/PNN/index.m3u8
-#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="老挝直播",Arirang
-https://ctrl.laotv.la/live/Arirang/index.m3u8
-#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="老挝直播",NHKWorld
-https://ctrl.laotv.la/live/NHK/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",WishChannel
-https://ctrl.laotv.la/live/WishChannel/index.m3u8
-#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="老挝直播",ALJazeera
-https://ctrl.laotv.la/live/ALJazeera/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",News1
-https://ctrl.laotv.la/live/News1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",Nation TV
-https://ctrl.laotv.la/live/NationTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",Hit
-https://ctrl.laotv.la/live/Hit/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",TopLin
-https://ctrl.laotv.la/live/TopLine/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",TrueFilm
-https://ctrl.laotv.la/live/TureFilm/index.m3u8
-#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="老挝直播",AnimalPlanet
-https://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
-#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="老挝直播",Discovery
-https://ctrl.laotv.la/live/Discovery/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",THD7
-https://ctrl.laotv.la/live/THD7/index.m3u8
-#EXTINF:-1 tvg-id="6188" tvg-name="Boomerang" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png" group-title="老挝直播",Boomerang
-https://ctrl.laotv.la/live/Boomerang/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",Cartoon Club
 https://ctrl.laotv.la/live/CartoonClub/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",CartoonNetwork
 https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",WWE
+https://ctrl.laotv.la/live/WWE/index.m3u8
+#EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="老挝直播",CNN
+https://ctrl.laotv.la/live/CNN/index.m3u8
+
+#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="老挝直播",Arirang
+https://ctrl.laotv.la/live/Arirang/index.m3u8
+#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="老挝直播",NHKWorld
+https://ctrl.laotv.la/live/NHK/index.m3u8
+
+#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="老挝直播",ALJazeera
+https://ctrl.laotv.la/live/ALJazeera/index.m3u8
+
+#EXTINF:-1 tvg-id="6188" tvg-name="Boomerang" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png" group-title="老挝直播",Boomerang
+https://ctrl.laotv.la/live/Boomerang/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",Toon Channel
 https://ctrl.laotv.la/live/Toon/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",SkyWorld
 https://ctrl.laotv.la/live/SkyWorld/index.m3u8
-#EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="老挝直播",Cinemax
-https://ctrl.laotv.la/live/Cinemax/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",KBS
+https://ctrl.laotv.la/live/KBS/index.m3u8
+#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="老挝直播",CNBC
+https://ctrl.laotv.la/live/CNBC/index.m3u8
+
+#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="老挝直播",DW
+https://ctrl.laotv.la/live/DW/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",TSHD
 https://ctrl.laotv.la/live/TSHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",MVTV
 https://ctrl.laotv.la/live/MVTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",KBS
-https://ctrl.laotv.la/live/KBS/index.m3u8
-#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="老挝直播",DW
-https://ctrl.laotv.la/live/DW/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",PNN
+https://ctrl.laotv.la/live/PNN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",CHCA
 https://ctrl.laotv.la/live/CHCA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",SunTV
 https://ctrl.laotv.la/live/SunTV/index.m3u8
-#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="老挝直播",CNBC
-https://ctrl.laotv.la/live/CNBC/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",TVK Cambodia HD
 https://ctrl.laotv.la/live/TVKCambodia/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",Samrujlok
@@ -1719,15 +1714,31 @@ https://ctrl.laotv.la/live/TNN2/index.m3u8
 https://ctrl.laotv.la/live/TNN24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",M Channel
 https://ctrl.laotv.la/live/MChannel/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",Animal Show
+https://ctrl.laotv.la/live/AnimalShow/index.m3u8
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="老挝直播",ABCA
+https://ctrl.laotv.la/live/ABCA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",News1
+https://ctrl.laotv.la/live/News1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",Nation TV
+https://ctrl.laotv.la/live/NationTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",Hit
+https://ctrl.laotv.la/live/Hit/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",TopLin
+https://ctrl.laotv.la/live/TopLine/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",TrueFilm
+https://ctrl.laotv.la/live/TureFilm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",WishChannel
+https://ctrl.laotv.la/live/WishChannel/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",THD7
+https://ctrl.laotv.la/live/THD7/index.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="4K", Love Nature 4K*
+#EXTINF:-1 tvg-id="4gtv-live208" tvg-name="Love Nature"  group-title="4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 group-title="4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU",Love Nature 4K
+#EXTINF:-1 tvg-id="4gtv-live208" tvg-name="Love Nature"  group-title="4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 
