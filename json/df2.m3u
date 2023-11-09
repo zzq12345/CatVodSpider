@@ -2,11 +2,6 @@
 #EXTINF:-1 tvg-id="800000" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频",CCTV1综合
 http://192.168.10.250/yspzhuanfa.php?id=cctv1
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="800001" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频",CCTV2财经
 http://192.168.10.250/yspzhuanfa.php?id=cctv2
 #EXTINF:-1 tvg-id="800002" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视频",CCTV3综艺
@@ -1482,11 +1477,16 @@ http://192.168.10.250/douyin.php?id=80017709309
 http://192.168.10.250/douyin.php?id=46474190447
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",武汉热干面乐队
 http://192.168.10.250/douyin.php?id=500864881720
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",晴天姐妹
-http://192.168.10.250/douyin.php?id=326116465431
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",雅婷
+http://192.168.10.250/douyin.php?id=205153154538
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",林淼
+http://192.168.10.250/douyin.php?id=576487946261
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",晴天姐妹
 http://192.168.10.250/douyin.php?id=326116465431
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",锦鲤乐团
+http://192.168.10.250/douyin.php?id=879394547394
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",台湾省歌手詹曼铃
 http://192.168.10.250/douyin.php?id=19604405333
 

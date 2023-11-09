@@ -1477,6 +1477,11 @@ http://127.0.0.1:8081/douyin.php?id=80017709309
 http://127.0.0.1:8081/douyin.php?id=46474190447
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",武汉热干面乐队
 http://127.0.0.1:8081/douyin.php?id=500864881720
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",雅婷
+http://127.0.0.1:8081/douyin.php?id=205153154538
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",林淼
+http://127.0.0.1:8081/douyin.php?id=576487946261
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",晴天姐妹
 http://127.0.0.1:8081/douyin.php?id=326116465431
 
