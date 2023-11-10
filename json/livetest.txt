@@ -1325,9 +1325,9 @@ Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 clarify 4k,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 NASA,http://endpnt.com:8000/nasa-uhd-30p.ts
 NASA,http://endpnt.com:8000/nasa-uhd.ts
-Bloomberg TV+ UHD (2160p),https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+Bloomberg TV+ UHD (2160p),https://bloomberg-bloombergtv-1-fr.samsung.wurl.tv/manifest/playlist.m3u8
 Bloomberg Quicktake (1080p),https://bloomberg-quicktake-1.samsung.wurl.com/manifest/playlist.m3u8
-Bloomberg TV+ UHD (2160p),https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
+Bloomberg TV+ UHD (2160p),https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 Fashion4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 越南VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 法国LOUPE 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
