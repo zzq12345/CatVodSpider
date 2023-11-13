@@ -1475,6 +1475,9 @@ http://127.0.0.1:8081/douyu.php?id=1504768
 http://127.0.0.1:8081/douyin.php?id=80017709309
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",苏州知弦社评弹
 http://127.0.0.1:8081/douyin.php?id=46474190447
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",KK（昆曲
+http://127.0.0.1:8081/douyin.php?id=186025238884
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",武汉热干面乐队
 http://127.0.0.1:8081/douyin.php?id=500864881720
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",雅婷
@@ -1483,19 +1486,22 @@ http://127.0.0.1:8081/douyin.php?id=205153154538
 http://127.0.0.1:8081/douyin.php?id=576487946261
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",蓝光乐队
 http://127.0.0.1:8081/douyin.php?id=309755415931
-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",张荟
+http://127.0.0.1:8081/douyin.php?id=836085933703
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",角羽女子乐团
 http://127.0.0.1:8081/douyin.php?id=658902162739
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",晴天姐妹
 http://127.0.0.1:8081/douyin.php?id=326116465431
-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",醉乡民谣
+http://127.0.0.1:8081/douyin.php?id=736198212020
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",锦鲤乐团
 http://127.0.0.1:8081/douyin.php?id=879394547394
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",台湾省歌手詹曼铃
 http://127.0.0.1:8081/douyin.php?id=19604405333
-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",中国台北美琪Maggie
+http://127.0.0.1:8081/douyin.php?id=993144414037
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",聆韵社（评弹昆
 http://127.0.0.1:8081/douyin.php?id=895896149396
 
@@ -1516,9 +1522,16 @@ http://127.0.0.1:8081/douyin.php?id=895896149396
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",万象星云乐团
 http://127.0.0.1:8081/douyin.php?id=507361726834
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",♍️遇茉
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",遇茉
 http://127.0.0.1:8081/douyin.php?id=418414211739
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",庄周醒醒
+http://127.0.0.1:8081/douyin.php?id=54995251856
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",唐艺
+http://127.0.0.1:8081/douyin.php?id=405518163654
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",云之乐馆
+http://127.0.0.1:8081/douyin.php?id=531441862925
 
 
 
