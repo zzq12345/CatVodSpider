@@ -3195,8 +3195,7 @@ http://127.0.0.1:8081/diyicaijinglive.php?id=1
 #EXTINF:-1 tvg-id="100447" tvg-name="" tvg-logo="" group-title="youtube",第一财经直播
 http://127.0.0.1:8081/diyicaijinglive.php?id=2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",NBA動態
-https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event038/hls-ae-tv/index.m3u8
+
 #EXTINF:-1 tvg-id="100280" tvg-name="中台灣生活網頻道" tvg-logo="" group-title="youtube",中台灣生活網頻道
 http://127.0.0.1:8081/linetv.php?id=taiwanshenghuonews
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",MOD点播
@@ -3221,7 +3220,8 @@ http://127.0.0.1:8081/linetv.php?id=tvbsnews
 
 #EXTINF:-1 tvg-id="4gtv-4gtv073" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png"  tvg-name="TVBS" group-title="youtube",TVBS+
 http://127.0.0.1:8081/tvbs561.php
-
+#EXTINF:-1 tvg-id="4gtv-4gtv068" tvg-name="TVBS歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv068_mobile.png"  group-title="youtube",TVBS歡樂台
+https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event038/hls-ae-tv/index.m3u8
 #EXTINF:-1 tvg-id="100145" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="youtube",台视新闻
 http://127.0.0.1:8081/youtube.php?v=xL0ch83RAK8
 #EXTINF:-1 tvg-id="100145" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="youtube",台视新闻
