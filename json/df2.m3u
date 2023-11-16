@@ -3195,7 +3195,7 @@ http://192.168.10.250/diyicaijinglive.php?id=1
 #EXTINF:-1 tvg-id="100447" tvg-name="" tvg-logo="" group-title="youtube",第一财经直播
 http://192.168.10.250/diyicaijinglive.php?id=2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",NBA動態
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",tvbs欢乐台
 https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event038/hls-ae-tv/index.m3u8
 #EXTINF:-1 tvg-id="100280" tvg-name="中台灣生活網頻道" tvg-logo="" group-title="youtube",中台灣生活網頻道
 http://192.168.10.250/linetv.php?id=taiwanshenghuonews
