@@ -1473,11 +1473,43 @@ http://192.168.10.250/douyu.php?id=1504768
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",东方甄选
 http://192.168.10.250/douyin.php?id=80017709309
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",祯祯悦读生活
+http://192.168.10.250/douyin.php?id=608487415455
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",逐日 Live
+http://192.168.10.250/douyin.php?id=638569076539
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",歌手晋瑶
+http://192.168.10.250/douyin.php?id=768896447998
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",歌者莫如如
+http://192.168.10.250/douyin.php?id=412862995793
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",竹笛莓莓
+http://192.168.10.250/douyin.php?id=758593847340
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",米粒
+http://192.168.10.250/douyin.php?id=29382259395
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",樂享国乐
+http://192.168.10.250/douyin.php?id=851183232173
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",角羽女子乐团
+http://192.168.10.250/douyin.php?id=658902162739
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",妩妙之音
+http://192.168.10.250/douyin.php?id=104150997043
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",帕尔Parat
+http://192.168.10.250/douyin.php?id=163309877195
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",妩妙国乐
+http://192.168.10.250/douyin.php?id=763111648875
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",键盘史哥🎹
+http://192.168.10.250/douyin.php?id=678331704891
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",千金府
+http://192.168.10.250/douyin.php?id=311342262624
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",歌手郭静
+http://192.168.10.250/douyin.php?id=754472855694
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",苏州知弦社评弹
 http://192.168.10.250/douyin.php?id=46474190447
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",KK（昆曲
 http://192.168.10.250/douyin.php?id=186025238884
-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",灯个哩个灯
+http://192.168.10.250/douyin.php?id=839596953256
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",武汉热干面乐队
 http://192.168.10.250/douyin.php?id=500864881720
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",雅婷
@@ -1496,7 +1528,8 @@ http://192.168.10.250/douyin.php?id=326116465431
 http://192.168.10.250/douyin.php?id=736198212020
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",锦鲤乐团
 http://192.168.10.250/douyin.php?id=879394547394
-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",曲胡小女孩
+http://192.168.10.250/douyin.php?id=666205719599
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",台湾省歌手詹曼铃
 http://192.168.10.250/douyin.php?id=19604405333
@@ -1507,8 +1540,7 @@ http://192.168.10.250/douyin.php?id=895896149396
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",cctv4
 http://192.168.10.250/douyin.php?id=166806983360
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",灯个哩个灯
-http://192.168.10.250/douyin.php?id=839596953256
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",燃乐团
 http://192.168.10.250/douyin.php?id=165301126872
@@ -1533,8 +1565,10 @@ http://192.168.10.250/douyin.php?id=405518163654
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",云之乐馆
 http://192.168.10.250/douyin.php?id=531441862925
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",浙江中月婺剧一团
+http://192.168.10.250/douyin.php?id=261219709302
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",笛侠胜男
+http://192.168.10.250/douyin.php?id=717523734410
 
 #EXTINF:-1 group-title="虎牙",周星星的直播蓝光4M
 http://192.168.10.250/huya.php?id=11342412
