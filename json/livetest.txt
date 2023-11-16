@@ -3783,6 +3783,7 @@ cctv-4亚洲,http://127.0.0.1:8081/cctv4.php
 看看新闻直播,http://127.0.0.1:8081/kankanlive.php?id=2
 第一财经直播,http://127.0.0.1:8081/diyicaijinglive.php?id=1
 第一财经直播,http://127.0.0.1:8081/diyicaijinglive.php?id=2
+比赛,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event039/hls-ae-tv/index.m3u8
 TVBS欢乐,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event038/hls-ae-tv/index.m3u8
 中台灣生活網頻道,http://127.0.0.1:8081/linetv.php?id=taiwanshenghuonews
 MOD点播,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event024/hls-ae-tv/index.m3u8
