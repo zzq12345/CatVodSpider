@@ -3441,9 +3441,6 @@ http://mobilelive-pull.ysp.cctv.cn/ysp/2013693901.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="youtube",cctv-4亚洲
 http://127.0.0.1:8081/cctv4.php
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="youtube",cctv-4亚洲
-http://127.0.0.1:8081/cctv41.php
-
 
 #EXTINF:-1 tvg-id="800102" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="youtube",第一财经电视台
 http://127.0.0.1:8081/diyicaijing.php
@@ -3520,13 +3517,13 @@ http://127.0.0.1:8081/yuanchuan.php?id=1
 http://127.0.0.1:8081/linetv.php?id=dongsennews
 
 #EXTINF:-1 tvg-id="100250" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="youtube",東森新聞世界日報
-http://127.0.0.1:8081/dongsennews1.php?id=3
+http://127.0.0.1:8081/dongsennews.php?id=3
 #EXTINF:-1 tvg-id="100250" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="youtube",东森新闻
-http://127.0.0.1:8081/dongsennews1.php?id=4
+http://127.0.0.1:8081/dongsennews.php?id=4
 #EXTINF:-1 tvg-id="100250" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="youtube",东森新闻
-http://127.0.0.1:8081/dongsennews1.php?id=1
+http://127.0.0.1:8081/dongsennews.php?id=1
 #EXTINF:-1 tvg-id="100250" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="youtube",东森新闻
-http://127.0.0.1:8081/dongsennews1.php?id=2
+http://127.0.0.1:8081/dongsennews.php?id=2
 
 
 #EXTINF:-1 tvg-id="100256" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="youtube",东森财经经新闻
@@ -3580,9 +3577,6 @@ http://127.0.0.1:8081/xingfukongjian.php
 
 #EXTINF:-1 tvg-id="100216" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HakkaTV.png" tvg-name="客家电视台"  group-title="youtube",客家
 http://127.0.0.1:8081/kejia.php
-#EXTINF:-1 tvg-id="100215" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png" tvg-name="原住民" group-title="youtube",原住民
-http://127.0.0.1:8081/yuanzhumin.php
-
 
 #EXTINF:-1 tvg-id="100290" tvg-name="运通财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EFTV.png" group-title="youtube",运通财经
 http://127.0.0.1:8081/yuntongfinance.php
@@ -3601,43 +3595,6 @@ http://127.0.0.1:8081/youtube.php?v=4HysYHJ6GkY
 #EXTINF:-1 tvg-id="4gtv-4gtv085" tvg-name="" tvg-logo="" group-title="youtube",国会2
 http://127.0.0.1:8081/youtube.php?v=RAP4h3q6_Sg
 
-#EXTINF:-1 tvg-id="4gtv-4gtv085" tvg-name="" tvg-logo="" group-title="youtube",百萬大歌星
-http://127.0.0.1:8081/taishizongyi.php?id=1
-#EXTINF:-1 tvg-id="4gtv-4gtv085" tvg-name="" tvg-logo="" group-title="youtube",龍兄虎弟
-http://127.0.0.1:8081/taishizongyi.php?id=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",戲說台灣
-http://127.0.0.1:8081/xishuotaiwan.php
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",MIT台灣誌
-http://127.0.0.1:8081/mit.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",台湾启示录
-http://127.0.0.1:8081//taiwanqishilu.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",JOJO的奇妙冒險 
-http://127.0.0.1:8081/mumianhua.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",靈異電視劇
-http://127.0.0.1:8081/huashixiju.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",天才衝衝衝
-http://127.0.0.1:8081/tiancaichongchongchong.php
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",我們這一家
-http://127.0.0.1:8081/womenzheyijia.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",小豬佩奇
-http://127.0.0.1:8081/xiaozhupeiqi.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",东森优优
-http://127.0.0.1:8081/yoyo.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",babyfirst
-http://127.0.0.1:8081/babyfirst.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",ipanda
-http://127.0.0.1:8081/ipanda.php
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",靖天電視台
-http://127.0.0.1:8081/faintvyoutube.php?id=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",亞洲旅遊台
-http://127.0.0.1:8081/faintvyoutube.php?id=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube", 龍華桌遊新樂園
-http://127.0.0.1:8081/faintvyoutube1.php?id=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube", 美食星球
-http://127.0.0.1:8081/faintvyoutube1.php?id=2
 
 
 #EXTINF:-1 tvg-id="4gtv-4gtv008" tvg-name="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="youtube",人间卫视
