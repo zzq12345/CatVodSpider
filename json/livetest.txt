@@ -3867,7 +3867,8 @@ TVBS+,http://127.0.0.1:8081/tvbs561.php
 非凡新闻,http://127.0.0.1:8081/yuanchuan.php?id=1
 壹新聞,http://60.251.59.180:8501/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 东森新闻,http://127.0.0.1:8081/linetv.php?id=dongsennews
-东森新闻,http://127.0.0.1:8081/dongsennews1.php
+东森新闻,http://127.0.0.1:8081/dongsennews.php?id=3
+东森新闻,http://127.0.0.1:8081/dongsennews.php?id=4
 东森财经经新闻,http://127.0.0.1:8081/dongsenfinince.php
 华视新闻,http://127.0.0.1:8081/huashinews.php
 民视新闻,http://127.0.0.1:8081/minshinews.php
