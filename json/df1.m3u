@@ -3516,14 +3516,7 @@ http://127.0.0.1:8081/yuanchuan.php?id=1
 #EXTINF:-1 tvg-id="100250" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="youtube",东森新闻
 http://127.0.0.1:8081/linetv.php?id=dongsennews
 
-#EXTINF:-1 tvg-id="100250" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="youtube",東森新聞世界日報
-http://127.0.0.1:8081/dongsennews.php?id=3
-#EXTINF:-1 tvg-id="100250" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="youtube",东森新闻
-http://127.0.0.1:8081/dongsennews.php?id=4
-#EXTINF:-1 tvg-id="100250" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="youtube",东森新闻
-http://127.0.0.1:8081/dongsennews.php?id=1
-#EXTINF:-1 tvg-id="100250" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="youtube",东森新闻
-http://127.0.0.1:8081/dongsennews.php?id=2
+
 
 
 #EXTINF:-1 tvg-id="100256" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="youtube",东森财经经新闻
