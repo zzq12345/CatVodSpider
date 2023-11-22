@@ -3516,8 +3516,8 @@ http://127.0.0.1:8081/yuanchuan.php?id=1
 #EXTINF:-1 tvg-id="100250" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="youtube",东森新闻
 http://127.0.0.1:8081/linetv.php?id=dongsennews
 
-
-
+#EXTINF:-1 tvg-id="100250" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="youtube",東森新聞世界日報
+http://zzqwe.giize.com:12229/dongsennews.php
 
 #EXTINF:-1 tvg-id="100256" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="youtube",东森财经经新闻
 http://127.0.0.1:8081/dongsenfinince.php
@@ -4363,7 +4363,7 @@ http://127.0.0.1:8081/4gtv720.php?id=1
 http://127.0.0.1:8081/4gtv720.php?id=2
 #EXTINF:-1 tvg-id="4gtv-4gtv002" tvg-name="民視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png" group-title="4gtv",民視
 http://127.0.0.1:8081/4gtv720.php?id=3
-#EXTINF:-1 tvg-id="4gtv-live007" tvg-name="大愛電視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live007_mobile.png" group-title="4gtv",大愛電視
+#EXTINF:-1 tvg-id="4gtv-live007" tvg-name="大愛電視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv007_mobile.png"  group-title="4gtv",大愛電視
 http://127.0.0.1:8081/4gtv1080.php?id=4
 #EXTINF:-1 tvg-id="4gtv-4gtv040" tvg-name="中視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="4gtv",中視
 http://127.0.0.1:8081/4gtv720.php?id=5
@@ -4637,7 +4637,7 @@ http://127.0.0.1:8081/4gtv72.php?id=1
 http://127.0.0.1:8081/4gtv72.php?id=2
 #EXTINF:-1 tvg-id="4gtv-4gtv002" tvg-name="民視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png" group-title="4gtv备份",民視
 http://127.0.0.1:8081/4gtv72.php?id=3
-#EXTINF:-1 tvg-id="4gtv-live007" tvg-name="大愛電視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live007_mobile.png" group-title="4gtv备份",大愛電視
+#EXTINF:-1 tvg-id="4gtv-live007" tvg-name="大愛電視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv007_mobile.png"  group-title="4gtv备份",大愛電視
 http://127.0.0.1:8081/4gtv108.php?id=4
 #EXTINF:-1 tvg-id="4gtv-4gtv040" tvg-name="中視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="4gtv备份",中視
 http://127.0.0.1:8081/4gtv72.php?id=5
@@ -4764,7 +4764,7 @@ http://127.0.0.1:8081/4gtv72.php?id=61
 http://127.0.0.1:8081/4gtv108.php?id=62
 
 #EXTINF:-1 tvg-id="4gtv-live048" tvg-name="東森購物三台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="4gtv备份",東森購物三台
-http://127.0.0.1/4gtv.php?id=63
+http://127.0.0.1/4gtv108.php?id=63
 
 #EXTINF:-1 tvg-id="litv-longturn05" tvg-name="博斯高球台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn05_mobile.png" group-title="4gtv备份",博斯高球台
 http://127.0.0.1:8081/4gtv72.php?id=64
