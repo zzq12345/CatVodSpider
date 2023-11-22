@@ -4370,7 +4370,7 @@ http://192.168.10.250/4gtv720.php?id=1
 http://192.168.10.250/4gtv720.php?id=2
 #EXTINF:-1 tvg-id="4gtv-4gtv002" tvg-name="民視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png" group-title="4gtv",民視
 http://192.168.10.250/4gtv720.php?id=3
-#EXTINF:-1 tvg-id="4gtv-live007" tvg-name="大愛電視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live007_mobile.png" group-title="4gtv",大愛電視
+#EXTINF:-1 tvg-id="4gtv-live007" tvg-name="大愛電視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv007_mobile.png"  group-title="4gtv",大愛電視
 http://192.168.10.250/4gtv1080.php?id=4
 #EXTINF:-1 tvg-id="4gtv-4gtv040" tvg-name="中視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="4gtv",中視
 http://192.168.10.250/4gtv720.php?id=5
@@ -4644,7 +4644,7 @@ http://192.168.10.250/4gtv72.php?id=1
 http://192.168.10.250/4gtv72.php?id=2
 #EXTINF:-1 tvg-id="4gtv-4gtv002" tvg-name="民視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png" group-title="4gtv备份",民視
 http://192.168.10.250/4gtv72.php?id=3
-#EXTINF:-1 tvg-id="4gtv-live007" tvg-name="大愛電視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live007_mobile.png" group-title="4gtv备份",大愛電視
+#EXTINF:-1 tvg-id="4gtv-live007" tvg-name="大愛電視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv007_mobile.png"  group-title="4gtv备份",大愛電視
 http://192.168.10.250/4gtv721.php?id=4
 #EXTINF:-1 tvg-id="4gtv-4gtv040" tvg-name="中視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="4gtv备份",中視
 http://192.168.10.250/4gtv72.php?id=5
