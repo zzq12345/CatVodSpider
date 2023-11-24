@@ -1547,8 +1547,8 @@ http://127.0.0.1:8081/cqyx.php?id=cetv-1SD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CETV-4
 http://127.0.0.1:8081/cqyx.php?id=cetv-4SD
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",斗鱼4k
+http://127.0.0.1:8081/douyu.php?id=9249162
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼直播",豆瓣电影
 http://127.0.0.1:8081/douyu.php?id=8770422
 
