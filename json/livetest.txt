@@ -2603,8 +2603,13 @@ cctv-4亚洲,http://127.0.0.1:8081/cctv4.php
 中台灣生活網頻道,http://127.0.0.1:8081/linetv.php?id=taiwanshenghuonews
 MOD点播,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event024/hls-ae-tv/index.m3u8
 中视新闻台,http://127.0.0.1:8081/zhongshinews.php
+中天新闻,http://zzqwe.giize.com:12229/youtube.php?v=oIgbl7t0S_w
+
+中天新闻2,http://zzqwe.giize.com:12229/youtube.php?v=WPfPjbOLNfE
+
+
 中天新闻,http://127.0.0.1:8081/zhongtiannews.php
-中天新闻,http://127.0.0.1:8081/zhongtiannews2.php
+中天新闻2,http://127.0.0.1:8081/zhongtiannews2.php
 中天亚洲,http://127.0.0.1:8081/zhongtianasia.php
 tvbs新闻,http://127.0.0.1:8081/linetv.php?id=tvbsnews
 TVBS+,http://127.0.0.1:8081/tvbs561.php
