@@ -3472,6 +3472,14 @@ https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event024/hls-
 
 #EXTINF:-1 tvg-id="100329" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png"  tvg-name="中视新闻" group-title="youtube",中视新闻台
 http://192.168.1.250/zhongshinews.php
+
+#EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="youtube",中天新闻
+http://192.168.1.250/youtube.php?v=oIgbl7t0S_w
+
+#EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="youtube",中天新闻2
+http://192.168.1.250/youtube.php?v=WPfPjbOLNfE
+
+
 #EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="youtube",中天新闻
 http://192.168.1.250/zhongtiannews.php
 #EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="youtube",中天新闻
