@@ -1547,8 +1547,8 @@ http://127.0.0.1:8081/cqyx.php?id=cetv-1SD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆有线",CETV-4
 http://127.0.0.1:8081/cqyx.php?id=cetv-4SD
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",斗鱼4k
-http://127.0.0.1:8081/douyu.php?id=9249162
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼直播",豆瓣电影
 http://127.0.0.1:8081/douyu.php?id=8770422
 
@@ -3545,7 +3545,8 @@ http://127.0.0.1:8081/sanliinews.php?id=1
 http://127.0.0.1:8081/jingnews.php
 #EXTINF:-1 tvg-id="4gtv-live050"  tvg-name="新唐人亞太台"  tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live050_mobile.png"  group-title="youtube",新唐人亞太台
 http://127.0.0.1:8081/youtube.php?v=WIhgU_mc05A
-
+#EXTINF:-1 tvg-id="100016" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube",公视
+http://127.0.0.1:8081/youtube.php?v=C6gYqSHLRw4
 #EXTINF:-1 tvg-id="100016" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube",公视
 http://127.0.0.1:8081/gongshi13.php
 #EXTINF:-1 tvg-id="100017" tvg-name="公视2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV2.png" group-title="youtube",公视台语
