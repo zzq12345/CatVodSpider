@@ -5039,7 +5039,7 @@ http://127.0.0.1:8081/shanghai.php?id=hhxd
 http://127.0.0.1:8081/shanghai.php?id=dspd
 #EXTINF:-1 tvg-id="800102" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="地方",第一财经
 http://127.0.0.1:8081/shanghai.php?id=dycj
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png"  group-title="地方",上海纪实人文
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png"  group-title="地方",炫动卡通
 http://127.0.0.1:8081/shanghai.php?id=xdkt
 
 
