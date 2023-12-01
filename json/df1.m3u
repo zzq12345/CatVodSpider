@@ -6227,17 +6227,17 @@ http://127.0.0.1:8081/mbc.php?id=6&chid=18
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国",mbn
 http://127.0.0.1:8081/mbn.php
-#EXTINF:-1 tvg-id="600082" tvg-name="" tvg-logo="" group-title="韩国",ebs tv1
-http://127.0.0.1:8081/ebc.php?id=tv1
-#EXTINF:-1 tvg-id="600083" tvg-name="" tvg-logo="" group-title="韩国",ebs tv2 
+#EXTINF:-1 tvg-id="600082" tvg-name="EBS1" tvg-logo="" group-title="韩国",EBS1
+http://127.0.0.1:80810/ebc.php?id=tv1
+#EXTINF:-1 tvg-id="600083" tvg-name="EBS2" tvg-logo="" group-title="韩国",EBS2
 http://127.0.0.1:8081/ebc.php?id=tv2
-#EXTINF:-1 tvg-id="600084" tvg-name="" tvg-logo="" group-title="韩国",ebs KIDS 
+#EXTINF:-1 tvg-id="600084" tvg-name="EBS CHILD" tvg-logo="" group-title="韩国",EBS CHILD
 http://127.0.0.1:8081/ebc.php?id=KIDS
-#EXTINF:-1 tvg-id="600085" tvg-name="" tvg-logo="" group-title="韩国",ebs PLUS1 
+#EXTINF:-1 tvg-id="600085" tvg-name="EBS PLUS1" tvg-logo="" group-title="韩国",EBS PLUS1
 http://127.0.0.1:8081/ebc.php?id=PLUS1
-#EXTINF:-1 tvg-id="600086" tvg-name="" tvg-logo="" group-title="韩国",ebs PLUS2 
+#EXTINF:-1 tvg-id="600086" tvg-name="EBS PLUS2" tvg-logo="" group-title="韩国",EBS PLUS2
 http://127.0.0.1:8081/ebc.php?id=PLUS2
-#EXTINF:-1 tvg-id="600087" tvg-name="" tvg-logo="" group-title="韩国",ebs EBSe 
+#EXTINF:-1 tvg-id="600087" tvg-name="EBS EDUCATION" tvg-logo="" group-title="韩国",EBS EDUCATION
 http://127.0.0.1:8081/ebc.php?id=EBSe
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国",ebs FM 
 http://127.0.0.1:8081/ebc.php?id=FM
