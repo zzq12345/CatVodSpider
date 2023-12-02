@@ -30,9 +30,9 @@ GRTN教育频道,https://m.gdtv.cn/tvChannelDetail/104
 parse=1
 player=2
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-referer=https://www.4gtv.tv/
+referer=https://m.4gtv.tv/
 
-寰宇新聞台灣台,https://www.4gtv.tv/channel/litv-longturn15?set=1&ch=280
+寰宇新聞台灣台,https://m.4gtv.tv/channel/litv-longturn15?set=1&ch=280
 国内频道,#genre#
 CCTV-1 综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV-2 财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
