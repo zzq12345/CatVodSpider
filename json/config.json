@@ -1,4 +1,4 @@
-{
+i{
   "spider": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
@@ -629,7 +629,9 @@
         "is_play_url="
       ]
     },
-    {
+
+
+{
       "name": "農民嗅探",
       "hosts": [
         "toutiaovod.com"
@@ -638,5 +640,11 @@
         "video/tos/cn"
       ]
     }
+  ],
+  "ads": [
+    "mozai.4gtv.tv"
   ]
 }
+
+    
+
