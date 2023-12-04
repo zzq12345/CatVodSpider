@@ -324,6 +324,18 @@
       "filterable":0,
       "ext":"https://qu.ax/SQqd.json"
     },
+	 {
+      "key": "短劇",
+      "name": "短劇",
+      "type": 3,
+      "api": "csp_Duanju",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    }, 
        {
       "key": "短劇網",
       "name": "短劇網",
