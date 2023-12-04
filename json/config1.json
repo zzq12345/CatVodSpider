@@ -118,7 +118,7 @@
       "changeable": 1,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
     },
-	  
+	{"key":"csp_CZSPP","name":"厂长┃直连","type":3,"jar":"./1013.jar","api":"csp_Czsapp","searchable":1,"playertype":2,"jar":"./1013.jar","quickSearch":1,"filterable":0,"ext":"https://czz9.com/"},  
     {
       "key": "88kanqiu",
       "name": "88看球",
