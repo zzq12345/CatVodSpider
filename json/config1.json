@@ -598,7 +598,7 @@
         "is_play_url="
       ]
     },
-    {
+     {
       "name": "農民嗅探",
       "hosts": [
         "toutiaovod.com"
@@ -607,5 +607,8 @@
         "video/tos/cn"
       ]
     }
+  ],
+  "ads": [
+    "mozai.4gtv.tv"
   ]
 }
