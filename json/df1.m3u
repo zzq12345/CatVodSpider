@@ -4187,12 +4187,13 @@ http://127.0.0.1:8081/tvb1.php?id=FINA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",耀才财经台2
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 
-#EXTINF:-1 tvg-id="100643" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="香港",香港電台31
+#EXTINF:-1 tvg-id="100436" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="香港",香港電台31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_5400_av-b.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 tvg-id="100644" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="香港",香港電台32
+#EXTINF:-1 tvg-id="100437" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="香港",香港電台32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+
 
 #EXTINF:-1 tvg-id="100645" tvg-name="港台電視33" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="香港",香港電台33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
