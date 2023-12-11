@@ -3189,6 +3189,8 @@ cgtn俄语,http://127.0.0.1:8081/cgtnrussia.php
 CCTV NEWS欧洲,http://127.0.0.1:8081/cctvfrench.php
 CCTV-13HD,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV-6,http://127.0.0.1:8081/douyin.php?id=208823316033
+CCTV-6,http://zzqwe.giize.com:12229/douyin.php?id=69416429589
+
 CCTV-6,http://mobilelive-pull.ysp.cctv.cn/ysp/2013693901.m3u8
 cctv-4亚洲,http://127.0.0.1:8081/cctv4.php
 第一财经电视台,http://127.0.0.1:8081/diyicaijing.php
