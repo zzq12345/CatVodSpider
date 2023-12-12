@@ -1887,6 +1887,14 @@ CCTV16HD,http://192.168.10.250/yuandian.php?id=CCTV16
 贵阳经济生活,http://192.168.10.250/guiyang.php?id=19
 贵阳法制,http://192.168.10.250/guiyang.php?id=20
 贵阳都市,http://192.168.10.250/guiyang.php?id=21
+
+江苏卫视,https://cntv.dfkj.live/jstv.php?id=jsws
+江苏影视,https://cntv.dfkj.live/jstv.php?id=jsys
+江苏城市,https://cntv.dfkj.live/jstv.php?id=jscs
+江苏综艺,https://cntv.dfkj.live/jstv.php?id=jszy
+江苏新闻,https://cntv.dfkj.live/jstv.php?id=jsty
+江苏教育,https://cntv.dfkj.live/jstv.php?id=jsjy
+江苏教育,https://cntv.dfkj.live/jstv.php?id=jsgj
 江苏卫视,http://192.168.10.250/jiangsu.php?id=jsws
 江苏城市,http://192.168.10.250/jiangsu.php?id=jscs
 江苏公共新闻,http://192.168.10.250/jiangsu.php?id=jsgg
