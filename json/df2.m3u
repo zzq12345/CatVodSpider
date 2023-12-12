@@ -6217,6 +6217,21 @@ http://192.168.10.250/guiyang.php?id=19
 http://192.168.10.250/guiyang.php?id=20
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",贵阳都市
 http://192.168.10.250/guiyang.php?id=21
+#EXTINF:-1 tvg-id="100680" tvg-name="" tvg-logo="" group-title="地方",江苏卫视
+https://cntv.dfkj.live/jstv.php?id=jsws
+#EXTINF:-1 tvg-id="100680" tvg-name="" tvg-logo="" group-title="地方",江苏影视
+https://cntv.dfkj.live/jstv.php?id=jsys
+#EXTINF:-1 tvg-id="100680" tvg-name="" tvg-logo="" group-title="地方",江苏城市
+https://cntv.dfkj.live/jstv.php?id=jscs
+#EXTINF:-1 tvg-id="100680" tvg-name="" tvg-logo="" group-title="地方",江苏综艺
+https://cntv.dfkj.live/jstv.php?id=jszy
+#EXTINF:-1 tvg-id="100680" tvg-name="" tvg-logo="" group-title="地方",江苏新闻
+https://cntv.dfkj.live/jstv.php?id=jsty
+#EXTINF:-1 tvg-id="100680" tvg-name="" tvg-logo="" group-title="地方",江苏教育
+https://cntv.dfkj.live/jstv.php?id=jsjy
+#EXTINF:-1 tvg-id="100680" tvg-name="" tvg-logo="" group-title="地方",江苏教育
+https://cntv.dfkj.live/jstv.php?id=jsgj
+
 #EXTINF:-1 tvg-id="101024" tvg-name="江苏卫视" tvg-logo="" group-title="地方",江苏卫视
 http://192.168.10.250/jiangsu.php?id=jsws
 #EXTINF:-1 tvg-id="101026" tvg-name="江苏城市" tvg-logo="" group-title="地方",江苏城市
