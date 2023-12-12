@@ -500,7 +500,7 @@
       ]
     }
   ],
-  "rules": [
+ "rules": [
     {
       "name": "proxy",
       "hosts": [
@@ -579,7 +579,8 @@
         "hd.ffzy"
       ],
       "regex": [
-        "25.0666"
+        "25.0666",
+        "25.08"
       ]
     },
     {
@@ -600,7 +601,7 @@
         "is_play_url="
       ]
     },
-     {
+    {
       "name": "農民嗅探",
       "hosts": [
         "toutiaovod.com"
