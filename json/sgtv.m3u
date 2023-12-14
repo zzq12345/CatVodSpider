@@ -350,8 +350,24 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="新加坡" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502084_tvchannels_v1.jpg", K-PLUS (D*)
 http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=K-PLUS_HD
 
+#EXTINF:-1  tvg-logo="" group-title="新加坡",K-Drama
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
+#EXTINF:-1  tvg-logo="" group-title="新加坡",K-Movies
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="新加坡",K-IDS
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
 
-
+#EXTINF:-1 group-title="新加坡" tvg-logo="",ON DEMAND CHINA
+#EXTVLCOPT:http-user-agent=aHR0cHM6Ly9xcmVhdGlma3UubXkuaWQgLSBwbGF5bGlzdCBxcmVhdGlma3V0dg==13)
+https://pizztv.qreatifku.my.id/cdnweb/ONDemandChina.m3u8
+#EXTINF:-1 group-title="新加坡" tvg-logo="",NEW K-MOVIES
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 group-title="新加坡" tvg-logo="",IFC FILM PICKS
+#EXTVLCOPT:http-user-agent=aHR0cHM6Ly9xcmVhdGlma3UubXkuaWQgLSBwbGF5bGlzdCBxcmVhdGlma3V0dg==13)
+https://pizztv.qreatifku.my.id/cdnweb/IFCFP.m3u8
+#EXTINF:-1 group-title="新加坡" tvg-logo="",AMC THRILLERS
+#EXTVLCOPT:http-user-agent=aHR0cHM6Ly9xcmVhdGlma3UubXkuaWQgLSBwbGF5bGlzdCBxcmVhdGlma3V0dg==13)
+https://pizztv.qreatifku.my.id/cdnweb/AMCThriller.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -867,6 +883,33 @@ http://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 
+#EXTINF:-1 group-title="体育直播" tvg-id=" 100643 " tvg-logo="https://pbs.twimg.com/profile_images/1363788898141372423/7God9nDz_400x400.jpg",NBA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-035/stream.mpd
+
+#EXTINF:-1 group-title="体育直播" tvg-id=" 100643 " tvg-logo="https://pbs.twimg.com/profile_images/1363788898141372423/7God9nDz_400x400.jpg",NBA TV DZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0WpTLzr/usee.jpg" group-title="体育直播", Usee Sport 1 Mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0WpTLzr/usee.jpg" group-title="体育直播", Usee Sport 1
+http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/298577
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjgGfXzD/usee-2.jpg" group-title="体育直播", Usee Sport 2 Mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 
 
 #EXTINF:-1 group-title="体育直播" tvg-id="PLAY SPORTS 3" tvg-logo="https://pbs.twimg.com/profile_images/1363788898141372423/7God9nDz_400x400.jpg",PLAY SPORTS 3 (EPL)
@@ -881,6 +924,14 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-052/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="体育直播"  tvg-logo="https://sport1.maariv.co.il/app/uploads/2020/04/logo.png",Sport 1 HD IL
 
 http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2353/index.m3u8
@@ -934,9 +985,97 @@ https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
 
 
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/640px-TNT_Sports_2021_logo.svg.png" group-title="体育直播", TNT Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webudit.hlsjs.ru/lb/premium31/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/640px-TNT_Sports_2021_logo.svg.png" group-title="体育直播", TNT Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webudit.hlsjs.ru/lb/premium32/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/640px-TNT_Sports_2021_logo.svg.png" group-title="体育直播", TNT Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webudit.hlsjs.ru/lb/premium33/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/640px-TNT_Sports_2021_logo.svg.png" group-title="体育直播", TNT Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webudit.hlsjs.ru/lb/premium34/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="体育直播", TSN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/1280px-TSN2.svg.png" group-title="体育直播", TSN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/2560px-TSN3.svg.png" group-title="体育直播", TSN 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/2560px-TSN4.svg.png" group-title="体育直播", TSN 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0a2efd11e0643c3a45d6f67d02f1a97:85bf4469003bd28f01ea4fefedd5a431
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/2560px-TSN5.svg.png" group-title="体育直播", TSN 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
 
 #EXTINF:-1  group-title="体育直播" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png", ASSP HD 
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186387&extension=ts&play_token=oNnNMlQM3k
+#EXTINF:-1 tvg-id="unifi Sports 1" tvg-name="unifi Sports 1" group-title="体育直播" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png",unifi Sports
+https://unifi-live08.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
+#EXTINF:-1 tvg-chno="205" tvg-id="ESPN2.ar" tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="体育直播", ESPN
+https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
+#EXTINF:-1 tvg-chno="206" tvg-id="ESPN.ar" tvg-logo="https://static.wixstatic.com/media/b12542_ea74dac7ead245a6a572f8caab350a58~mv2.png" group-title="体育直播", ESPN 2
+https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_Arg.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
+#EXTINF:-1 tvg-chno="207" tvg-id="ESPN3.ar" tvg-logo="https://static.wixstatic.com/media/b12542_5658d51d89ad4541a01770e4f80d953d~mv2.png" group-title="体育直播", ESPN 3
+https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
+#EXTINF:-1 tvg-chno="208" tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_06/large.1321307982_ESPNExtra.png.dab30b1a6f200ecbb305435d36e06ee9.png" group-title="体育直播", ESPN Extra
+https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
+#EXTINF:-1 tvg-chno="202" tvg-id="FoxSportsArgentina.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/1447103524_Fox_Sports_Argentina_2023-copia.png.977f2acd0eaa731580e02c585096a9d9.png" group-title="体育直播", FOX Sports
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
+#EXTINF:-1 tvg-chno="203" tvg-id="FoxSports2HDSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/1862574058_Fox_Sports_2_Argentina_2023-copia.png.f44c1ecb12612709887e97dd3e3400a8.png" group-title="体育直播", FOX Sports 2
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
+#EXTINF:-1 tvg-chno="204" tvg-id="FoxSports3Argentina.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/Fox_Sports_3_Argentina_2023.png.baa9fb8a642232d4d6733c958a64ce8a.png" group-title="体育直播", FOX Sports 3
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
 
 
 #EXTINF:-1 group-title="体育直播" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" ,ZIGGO VOETBAL
@@ -1034,10 +1173,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
 
 
-#EXTINF:-1 group-title="体育直播" tvg-id=" 100643 " tvg-logo="https://pbs.twimg.com/profile_images/1363788898141372423/7God9nDz_400x400.jpg",NBA TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-035/stream.mpd
+
 
 #EXTINF:-1 group-title="体育直播" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450", V Sports Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5735,7 +5871,99 @@ http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71149
 #EXTINF:-1 tvg-id="" tvg-name="MY019:Kix HD" tvg-logo="" group-title="马来西亚",MY019:Kix HD
 http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1716
 
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroRiaHD
+#EXTINF:-1 group-title="马来西亚" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroWarnaHD
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Citra HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroCitraHD
+#EXTINF:-1 ch-number="306" tvg-id="AstroAEC" group-title="马来西亚" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",306 AEC S
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroAEC
+#EXTINF:-1 ch-number="308" tvg-id="AstroQJ" group-title="马来西亚" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroQJ_2023.png",308 Astro QJ S
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroQJ
+EXTINF:-1 group-title="马来西亚" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png", AURA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroAuraHD
+EXTINF:-1 group-title="马来西亚" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png", RANIA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroRaniaHD
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroPrimaHD
+#EXTINF:-1 group-title="马来西亚" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", OASIS HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroOasisHD
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=TV1
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=TV2
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV3_v1.png", TV3
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=TV3
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png", iQIYI HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroiQIYIHD
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png", TVS
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=TVS
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",Awesome TV
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AwesomeTV
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Okey_v1.png",TV Okey
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=TVOkey
+EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/8TV_%28Malaysia%29_logo_in_English.svg/640px-8TV_%28Malaysia%29_logo_in_English.svg.png", 8TV
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=8TV
 
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://aqfadtv.xyz/logos/ONE.png", ONE HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=OneHD
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png", KPLUS
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=KPlusHD
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://aqfadtv.xyz/logos/tvN.png", tvN HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=tvNHD
+
+EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=Animax
+#EXTINF:-1 group-title="马来西亚" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png", CERIA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroCeriaHD
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Dreamworks_190x80_TV-Guide.png", DreamWorks
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=DreamWorksHD
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png", CARTOON NTWK HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=CartoonNetworkHD
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Nicklelodeon_v1.png", NICKELODEON HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=NickelodeonHD
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CBeebies_V1.png", CBeebies
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=CBeebiesHD
+
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png", Love Nature
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=LoveNatureHD
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/482_144.png", Global Trekker
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=GlobalTrekkerHD
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC_Earth.png",BBC Earth
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=BBCEarthHD
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://linear-poster.astro.com.my/prod/logo/History_2022_v1.png",History
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=HistoryHD
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png",Animal Planet
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AnimalPlanetHD
+
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202212/20221211/20221211230555493f2h.png", ROCK Action
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=RockAction
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png", ROCK Entertainment
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=RockEntertainment
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Logo_10000499.png", HITS MOVIES HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=HitsMovies
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg",Thrill
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=Thrill
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png", BOO
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=BOO
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png", CINEMAX HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=Cinemax
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png", HBO Hits
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=HBOHits
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AXN_v1.png", AXN HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AXNHD
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Hits_v1.png",HITS HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=HitsHD
+
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png", ARENA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroArenaHD
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png", ARENA 2 HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroArena2HD
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=SPOTV
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",SPOTV2
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=SPOTV2
 
 
 ======================anak===================================================
