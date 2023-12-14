@@ -248,8 +248,8 @@ parse=1
 player=2
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrowwwe/108.0.0.0 Safari/537.36
 referer= https://yeslivetv.com/
-愛爾達體育1台,https://yeslivetv.com/channels/elta-tv-1/
-公視戲劇,https://yeslivetv.com/channels/pts-drama/
+愛爾達體育1台,video:https://yeslivetv.com/channels/elta-tv-1/
+公視戲劇,video:https://yeslivetv.com/channels/pts-drama/
 
 广东地方电脑版,#genre#
 parse=1
