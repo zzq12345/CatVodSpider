@@ -344,6 +344,23 @@ https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTINF:-1 group-title="新加坡" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_164.png",ONE
 https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="新加坡" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502084_tvchannels_v1.jpg", K-PLUS (D*)
+http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=K-PLUS_HD
+
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="新加坡" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1692691581_tvchannels_v1.jpg", Nadoo Korean
+http://210.210.155.35/uq2663/h/h125/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=NaDooKorean
+https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8?app_type=web&userid=jjj&chname=NaDooKorean
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -967,16 +984,16 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
-#EXTINF:-1 tvg-id="体育直播" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/PM0qNz8/hdg.png" group-title="BEIN",beIN SportS 2HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/PM0qNz8/hdg.png" group-title="体育直播",beIN SportS 2HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/2140.m3u8
 
-#EXTINF:-1 tvg-id="体育直播" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/PM0qNz8/hdg.png" group-title="BEIN",beIN SportS 2HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/PM0qNz8/hdg.png" group-title="体育直播",beIN SportS 2HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/2139.m3u8
 
-#EXTINF:-1 tvg-id="体育直播" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/PM0qNz8/hdg.png" group-title="BEIN",beIN SportS 3HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/PM0qNz8/hdg.png" group-title="体育直播",beIN SportS 3HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/2138.m3u8
 
-#EXTINF:-1 tvg-id="体育直播" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/PM0qNz8/hdg.png" group-title="BEIN",beIN SportS 4HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/PM0qNz8/hdg.png" group-title="体育直播",beIN SportS 4HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/2137.m3u8
 
 
