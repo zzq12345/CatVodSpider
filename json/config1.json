@@ -5,20 +5,20 @@
           
     {
       "name": "TXT",
-      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest.txt",
+      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest1.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "IJK",
-      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest.txt",
+      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest1.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 1
     },
     {
       "name": "EXO",
-      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest.txt",
+      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest1.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 2
@@ -26,7 +26,7 @@
     {
       "name": "PRO",
       "boot": false,
-      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest.txt",
+      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest1.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
@@ -36,7 +36,7 @@
       "name": "Custom",
       "boot": false,
       "pass": true,
-      "url": "hhttps://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest.txt",
+      "url": "hhttps://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest1.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "header": {
@@ -47,7 +47,7 @@
     {
       "name": "JSON",
       "type": 1,
-      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest.txt"
+      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest1.txt"
     }
   ],
 
