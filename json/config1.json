@@ -501,7 +501,7 @@
       ]
     }
   ],
- "rules": [
+"rules": [
     {
       "name": "proxy",
       "hosts": [
@@ -610,6 +610,15 @@
       ],
       "regex": [
         "video/tos/cn"
+      ]
+    },
+    {
+      "name": "點擊",
+      "hosts": [
+        "yeslivetv.com"
+      ],
+      "script": [
+        "document.getElementsByClassName(\"vjs-big-play-button\")[0].click()"
       ]
     }
   ],
