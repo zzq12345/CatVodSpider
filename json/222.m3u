@@ -2997,7 +2997,7 @@ https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
 #EXTINF:-1 tvg-id="100263"  tvg-name="LS TIME電影台" tvg-logo="" group-title="老挝直播",LS TIME電影台
 https://ctrl.laotv.la/live/Longxiang/index.m3u8
-#EXTINF:-1  tvg-id="70020" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png" group-title="老挝直播",Celestial Movies
+#EXTINF:-1  tvg-id="70020" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png" group-title="老挝直播",天映经典
 https://ctrl.laotv.la/live/CHCA/index.m3u8
 
 
