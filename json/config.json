@@ -151,6 +151,16 @@
       "changeable": 1,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
     },
+
+
+     {
+      "key": "996影院",
+      "name": "996影院",
+      "type": 3,
+      "api": "csp_Cs1369",
+      "searchable": 1,
+      "changeable": 1
+    },
  {
       "key": "短劇網",
       "name": "短劇網",
