@@ -2,7 +2,7 @@
   "spider": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
-          
+    
     {
       "name": "TXT",
       "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest1.txt",
@@ -52,7 +52,8 @@
   ],
 
   "sites": [
-	  {"key":"Czsapp","name":"📔厂长","type":3,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy88.com/"},
+
+    {"key":"Czsapp","name":"📔厂长","type":3,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy88.com/"},
      {
        "key":"drpy_js_爱看机器人",
        "name":"爱看机器[js]",
@@ -62,6 +63,23 @@
      
        "ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
      },
+ {
+      "key": "獨播",
+      "name": "獨播",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json"
+    },
+    {
+      "key": "星星",
+      "name": "星星",
+      "type": 3,
+      "api": "csp_Star",
+      "searchable": 1,
+      "changeable": 1
+    },
      {
       "key": "百度",
       "name": "百度",
@@ -86,32 +104,45 @@
         "战争片"
       ]
     },
-     {
-      "key": "獨播",
-      "name": "獨播",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json"
-    },
+    
+    
     {
-      "key": "星星",
-      "name": "星星",
+      "key": "泥巴",
+      "name": "泥巴",
       "type": 3,
-      "api": "csp_Star",
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {  "key": "腐宅",
+            "name": "腐宅",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "style":{ "type":"rect", "ratio":1.33 },
+            "changeable": 0,
+            "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
+   },
+   {
+      "key": "布雷",
+      "name": "布雷",
+      "type": 3,
+      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/bulei_open.js",
+      "searchable": 1,
+      "changeable": 1
+    },
+ 
+    {
+      "key": "快看",
+      "name": "快看",
+      "type": 3,
+      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kkys_open.js",
       "searchable": 1,
       "changeable": 1
     },
       {
-      "key": "新6V",
-      "name": "新6V",
-      "type": 3,
-      "api": "csp_Xb6v",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
       "key": "賤賤",
       "name": "賤賤",
       "type": 3,
@@ -120,7 +151,47 @@
       "changeable": 1,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
     },
-	{"key":"csp_CZSPP","name":"厂长┃直连","type":3,"jar":"./1013.jar","api":"csp_Czsapp","searchable":1,"playertype":2,"jar":"./1013.jar","quickSearch":1,"filterable":0,"ext":"https://czz9.com/"},  
+
+
+     {
+      "key": "996影院",
+      "name": "996影院",
+      "type": 3,
+      "api": "csp_Cs1369",
+      "searchable": 1,
+      "changeable": 1
+    },
+ {
+      "key": "短劇網",
+      "name": "短劇網",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "api": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/%E7%9F%AD%E5%89%A7%E7%BD%91.js"
+    },
+    {
+      "key": "短劇",
+      "name": "短劇",
+      "type": 3,
+      "api": "csp_Duanju",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },
+ {
+      "key": "新6V",
+      "name": "新6V",
+      "type": 3,
+      "api": "csp_Xb6v",
+      "searchable": 1,
+      "changeable": 0
+    },
     {
       "key": "88kanqiu",
       "name": "88看球",
@@ -131,6 +202,57 @@
       "style": {
         "type": "list"
       }
+    },
+    
+  {"key":"drpy_js_豆瓣","name":"豆瓣 | 热播[js]","type":3,"style":{ "type":"rect", "ratio":1.33 },"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
+   {
+      "key": "aikanbot",
+      "name": "❤影视爱看机器人",
+      "type": 3,
+      "api": "https://qu.ax/RO.js",
+      "searchable": 1,
+      "filterable": 1,
+      "style":{ "type":"rect", "ratio":1.33 },
+      "quickSearch": 1
+    },
+   
+    {
+      "key": "玩偶",
+      "name": "玩偶",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "影視天下第一",
+        "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"
+      }
+    },
+    {
+      "key": "盤99",
+      "name": "盤99",
+      "type": 3,
+      "api": "csp_Pan99",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "影視天下第一"
+    },
+  {"key":"csp_CZSPP","name":"厂长┃直连","type":3,"jar":"./1013.jar","api":"csp_Czsapp","searchable":1,"playertype":2,"jar":"./1013.jar","quickSearch":1,"filterable":0,"ext":"https://czz9.com/"},
+    {
+      "key": "愛看",
+      "name": "愛看",
+      "type": 3,
+      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/ikanbot_open.js",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "快看",
+      "name": "快看",
+      "type": 3,
+      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kkys_open.js",
+      "searchable": 1,
+      "changeable": 1
     },
      {
       "key": "五五",
@@ -174,85 +296,6 @@
       ]
     },
     {
-      "key": "泥巴",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {  "key": "腐宅",
-            "name": "腐宅",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "style":{ "type":"rect", "ratio":1.33 },
-            "changeable": 0,
-            "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
-   },
-    {
-      "key": "布雷",
-      "name": "布雷",
-      "type": 3,
-      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/bulei_open.js",
-      "searchable": 1,
-      "changeable": 1
-    },
- 
-    {
-      "key": "快看",
-      "name": "快看",
-      "type": 3,
-      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kkys_open.js",
-      "searchable": 1,
-      "changeable": 1
-    },
-   
-  {"key":"drpy_js_豆瓣","name":"豆瓣 | 热播[js]","type":3,"style":{ "type":"rect", "ratio":1.33 },"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
-   {
-      "key": "aikanbot",
-      "name": "❤影视爱看机器人",
-      "type": 3,
-      "api": "https://qu.ax/RO.js",
-      "searchable": 1,
-      "filterable": 1,
-      "style":{ "type":"rect", "ratio":1.33 },
-      "quickSearch": 1
-    },
-   
-    {
-      "key": "玩偶",
-      "name": "玩偶",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "影視天下第一",
-        "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"
-      }
-    },
-   {"key":"csp_CZSPP","name":"厂长┃直连","type":3,"jar":"./1013.jar","api":"csp_Czsapp","searchable":1,"playertype":2,"jar":"./1013.jar","quickSearch":1,"filterable":0,"ext":"https://czz9.com/"},
-  
-    {
-      "key": "愛看",
-      "name": "愛看",
-      "type": 3,
-      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/ikanbot_open.js",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "快看",
-      "name": "快看",
-      "type": 3,
-      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kkys_open.js",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "暴風",
       "name": "暴風",
       "type": 1,
@@ -261,10 +304,26 @@
       "changeable": 1
     },
     {
+      "key": "索尼",
+      "name": "索尼 ",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "快帆",
+      "name": "快帆",
+      "type": 1,
+      "api": "https://api.kuaifan.tv/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "量子",
       "name": "量子",
       "type": 0,
-      "type": 1,
+       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1
@@ -301,6 +360,48 @@
       "searchable": 1,
       "changeable": 1
     },
+   {
+      "key": "haiwaikan",
+      "name": "海外看",
+      "type": 1,
+      "api": "https://haiwaikan.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "日本动漫",
+        "国产动漫",
+        "欧美动漫",
+        "国产剧",
+        "韩剧",
+        "日剧",
+        "台剧",
+        "泰剧",
+        "港剧",
+        "欧美剧",
+        "动画电影",
+        "韩国综艺",
+        "国产综艺",
+        "日本综艺",
+        "欧美综艺",
+        "冒险片",
+        "剧情片",
+        "动作片",
+        "同性片",
+        "喜剧片",
+        "奇幻片",
+        "恐怖片",
+        "悬疑片",
+        "惊悚片",
+        "战争片",
+        "歌舞片",
+        "灾难片",
+        "爱情片",
+        "犯罪片",
+        "科幻片",
+        "纪录片",
+        "经典片"
+      ]
+    },
     {"key":"drpy_js_哔哩直播","name":"直播 | 哔哩[js]","type":3,"style":{ "type":"rect", "ratio":1.33 },"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩直播.js"},
     {"key":"drpy_js_虎牙直播","name":"直播 | 虎牙[js]","type":3,"style":{ "type":"rect", "ratio":1.33 },"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js"},
     {
@@ -325,37 +426,23 @@
       "filterable":0,
       "ext":"https://qu.ax/SQqd.json"
     },
-	 {
-      "key": "短劇",
-      "name": "短劇",
+   {
+      "key": "哔哩",
+      "name": "哔哩",
       "type": 3,
-      "api": "csp_Duanju",
+      "api": "csp_Bili",
       "searchable": 1,
       "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/bili.json",
+        "type": "帕梅拉#太极拳#广场舞#演唱会",
+        "cookie": ""
       }
     }, 
-       {
-      "key": "短劇網",
-      "name": "短劇網",
-      "type": 3,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "api": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/%E7%9F%AD%E5%89%A7%E7%BD%91.js"
-    },
-	 {
-      "key": "新6V",
-      "name": "新6V",
-      "type": 3,
-      "api": "csp_Xb6v",
-      "searchable": 1,
-      "changeable": 0
-    },  
     {
       "key": "bili_open",
       "name": "哔哩貓",
@@ -368,6 +455,63 @@
         "cookie": ""
       }
     },
+     {
+      "key": "看球",
+      "name": "看球",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+     {
+      "key": "哔哩",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://fm.t4tv.hz.cz/json/bili.json",
+        "type": "帕梅拉#太极拳#广场舞#演唱会",
+        "cookie": ""
+      }
+    },
+    {
+      "key": "bili_open",
+      "name": "哔哩貓",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "categories": "短剧#沙雕动画#沙雕穿越#沙雕",
+        "cookie": ""
+      }
+    },
+    {
+      "key": "酷狗",
+      "name": "酷狗",
+      "type": 3,
+      "api": "csp_Kugou",
+      "searchable": 0,
+      "changeable": 0
+    },
+ {
+      "key": "七夜",
+      "name": "七夜",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "changeable": 0
+    },
+    
      {
       "key": "本地",
       "name": "❤本地",
@@ -501,7 +645,7 @@
       ]
     }
   ],
- "rules": [
+  "rules": [
     {
       "name": "proxy",
       "hosts": [
