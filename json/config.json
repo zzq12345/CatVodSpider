@@ -228,7 +228,15 @@
         "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"
       }
     },
-   
+    {
+      "key": "盤99",
+      "name": "盤99",
+      "type": 3,
+      "api": "csp_Pan99",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "影視天下第一"
+    },
   {"key":"csp_CZSPP","name":"厂长┃直连","type":3,"jar":"./1013.jar","api":"csp_Czsapp","searchable":1,"playertype":2,"jar":"./1013.jar","quickSearch":1,"filterable":0,"ext":"https://czz9.com/"},
     {
       "key": "愛看",
@@ -352,14 +360,47 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
+   {
       "key": "haiwaikan",
       "name": "海外看",
       "type": 1,
       "api": "https://haiwaikan.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1,
-      "proxy": true
+      "categories": [
+        "日本动漫",
+        "国产动漫",
+        "欧美动漫",
+        "国产剧",
+        "韩剧",
+        "日剧",
+        "台剧",
+        "泰剧",
+        "港剧",
+        "欧美剧",
+        "动画电影",
+        "韩国综艺",
+        "国产综艺",
+        "日本综艺",
+        "欧美综艺",
+        "冒险片",
+        "剧情片",
+        "动作片",
+        "同性片",
+        "喜剧片",
+        "奇幻片",
+        "恐怖片",
+        "悬疑片",
+        "惊悚片",
+        "战争片",
+        "歌舞片",
+        "灾难片",
+        "爱情片",
+        "犯罪片",
+        "科幻片",
+        "纪录片",
+        "经典片"
+      ]
     },
     {"key":"drpy_js_哔哩直播","name":"直播 | 哔哩[js]","type":3,"style":{ "type":"rect", "ratio":1.33 },"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩直播.js"},
     {"key":"drpy_js_虎牙直播","name":"直播 | 虎牙[js]","type":3,"style":{ "type":"rect", "ratio":1.33 },"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js"},
@@ -414,6 +455,63 @@
         "cookie": ""
       }
     },
+     {
+      "key": "看球",
+      "name": "看球",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+     {
+      "key": "哔哩",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://fm.t4tv.hz.cz/json/bili.json",
+        "type": "帕梅拉#太极拳#广场舞#演唱会",
+        "cookie": ""
+      }
+    },
+    {
+      "key": "bili_open",
+      "name": "哔哩貓",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "categories": "短剧#沙雕动画#沙雕穿越#沙雕",
+        "cookie": ""
+      }
+    },
+    {
+      "key": "酷狗",
+      "name": "酷狗",
+      "type": 3,
+      "api": "csp_Kugou",
+      "searchable": 0,
+      "changeable": 0
+    },
+ {
+      "key": "七夜",
+      "name": "七夜",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "changeable": 0
+    },
+    
      {
       "key": "本地",
       "name": "❤本地",
@@ -547,7 +645,7 @@
       ]
     }
   ],
- "rules": [
+  "rules": [
     {
       "name": "proxy",
       "hosts": [
