@@ -4216,7 +4216,7 @@ http://127.0.0.1:8081/4gtv1080.php?id=79
 #EXTINF:-1 tvg-id="4gtv-live026" tvg-name="History 歷史頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live026_mobile.png" group-title="4gtv",History 歷史頻道
 http://127.0.0.1:8081/4gtv1080.php?id=80
 #EXTINF:-1 tvg-id="4gtv-4gtv016" tvg-name="Globetrotter 環遊旅行家" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv016_mobile-1.png" group-title="4gtv",Globetrotter 環遊旅行家
-http://127.0.0.1:8081/4gt720.php?id=81
+http://127.0.0.1:8081/4gtv720.php?id=81
 
 #EXTINF:-1 tvg-id="4gtv-live120" tvg-name="愛爾達生活旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live120_mobile.png" group-title="4gtv",愛爾達生活旅遊台
 http://127.0.0.1:8081/4gtv1080.php?id=82
