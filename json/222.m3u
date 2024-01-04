@@ -1875,8 +1875,13 @@ https://ctrl.laotv.la/live/CHCA/index.m3u8
 https://ctrl.laotv.la/live/HBO/index.m3u8
 #EXTINF:-1 tvg-id="100269" tvg-name="CINEMAX有線" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="老挝直播",CINEMAX有線
 https://ctrl.laotv.la/live/Cinemax/index.m3u8
-#EXTINF:-1 tvg-id="100175" tvg-name="STAR Movies Gold" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="老挝直播",AMC电影
+#EXTINF:-1 tvg-id="4gtv-4gtv017" tvg-name="amc最愛電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017_mobile.png"  group-title="老挝直播",AMC电影
 https://ctrl.laotv.la/live/StarMovie/index.m3u8
+
+
+
+
+
 
 
 
@@ -1885,7 +1890,7 @@ https://ctrl.laotv.la/live/StarMovie/index.m3u8
 https://ctrl.laotv.la/live/AomenLotus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",CCTV高尔夫
 https://ctrl.laotv.la/live/CCTVGolf/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="老挝直播",博斯高尔夫
+#EXTINF:-1 tvg-id="litv-longturn05" tvg-name="博斯高球台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn05_mobile.png"" group-title="老挝直播",博斯高球台
 https://ctrl.laotv.la/live/BosiGolf/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="老挝直播",凤凰资讯s
 https://ctrl.laotv.la/live/PhoenixNews/index.m3u8
