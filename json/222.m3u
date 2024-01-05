@@ -1141,7 +1141,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/4/224/32212
 
 
 
-#EXTINF#EXTINF:-1 tvg-id="800061" tvg-name="CCTV8K" tvg-logo="https://github.com/zzq12345/CatVodSpider/blob/main/json/cctv-8k.png?raw=true" group-title="央视频",cctv8k1080
+#EXTINF#EXTINF:-1 tvg-id="800061" tvg-name="CCTV8K" tvg-logo="https://github.com/zzq12345/CatVodSpider/blob/main/json/cctv-8k.png?raw=true" group-title="江苏移动",cctv8k1080
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230960/1.m3u8
 
 
