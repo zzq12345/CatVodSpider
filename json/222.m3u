@@ -1132,15 +1132,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/4/224/32212
 
 
 
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="国内频道",CCTV-13HD
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 
-
-
-#EXTINF:-1 tvg-id="800102" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="国内频道",第一财经电视台
-https://www.yicai.com/api/dycj/liveIndex.m3u8
-#EXTINF:-1 tvg-id="100816" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="国内频道",第一财经.浦东电视台
-https://www.yicai.com/api/dfcj/liveIndex.m3u8
 
 
 
