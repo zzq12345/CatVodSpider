@@ -125,14 +125,7 @@
             "changeable": 0,
             "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
    },
-   {
-      "key": "布雷",
-      "name": "布雷",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bulei_open.js",
-      "searchable": 1,
-      "changeable": 1
-    },
+   
  
     {
       "key": "快看",
@@ -142,6 +135,8 @@
       "searchable": 1,
       "changeable": 1
     },
+
+    
       {
       "key": "賤賤",
       "name": "賤賤",
@@ -218,7 +213,7 @@
    
     {
       "key": "玩偶",
-      "name": "玩偶",
+      "name": "玩偶失效",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -228,6 +223,15 @@
         "filter": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
       }
     },
+{
+      "key": "布雷",
+      "name": "布雷失效",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bulei_open.js",
+      "searchable": 1,
+      "changeable": 1
+    },
+    
     {
       "key": "盤99",
       "name": "盤99",
@@ -237,7 +241,8 @@
       "changeable": 0,
       "ext": "影視天下第一"
     },
-  {"key":"csp_CZSPP","name":"厂长┃直连","type":3,"jar":"./1013.jar","api":"csp_Czsapp","searchable":1,"playertype":2,"jar":"./1013.jar","quickSearch":1,"filterable":0,"ext":"https://czz9.com/"},
+    
+
     {
       "key": "愛看",
       "name": "愛看",
@@ -311,14 +316,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "快帆",
-      "name": "快帆",
-      "type": 1,
-      "api": "https://api.kuaifan.tv/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1
-    },
+    
     {
       "key": "量子",
       "name": "量子",
