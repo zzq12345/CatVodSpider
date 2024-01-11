@@ -53,8 +53,7 @@
 
   "sites": [
 
-    {"key":"Czsapp","name":"📔厂长","type":3,"jar":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/fan.txt","api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy88.com/"},
-    
+  
      {
       "key": "Czsapp",
       "name": "📔厂长┃直连",
