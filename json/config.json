@@ -234,7 +234,7 @@
       "key": "布雷",
       "name": "布雷失效",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bulei_open.js",
+      "api": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/bulei_open.js",
       "searchable": 1,
       "changeable": 1
     },
@@ -254,7 +254,7 @@
       "key": "愛看",
       "name": "愛看",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/ikanbot_open.js",
+      "api": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/ikanbot_open.js",
       "searchable": 1,
       "changeable": 1
     },
@@ -262,7 +262,7 @@
       "key": "快看",
       "name": "快看",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/kkys_open.js",
+      "api": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/kkys_open.js",
       "searchable": 1,
       "changeable": 1
     },
@@ -407,8 +407,8 @@
         "经典片"
       ]
     },
-    {"key":"drpy_js_哔哩直播","name":"直播 | 哔哩[js]","type":3,"style":{ "type":"rect", "ratio":1.33 },"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩直播.js"},
-    {"key":"drpy_js_虎牙直播","name":"直播 | 虎牙[js]","type":3,"style":{ "type":"rect", "ratio":1.33 },"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js"},
+    {"key":"drpy_js_哔哩直播","name":"直播 | 哔哩[js]","type":3,"style":{ "type":"rect", "ratio":1.33 },"api":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩直播.js"},
+    {"key":"drpy_js_虎牙直播","name":"直播 | 虎牙[js]","type":3,"style":{ "type":"rect", "ratio":1.33 },"api":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js"},
     {
       "key": "csp_XYQHiker_虎牙直播",
       "name": "❤🐯虎牙直播(XYQH)",
@@ -443,7 +443,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
+        "json": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/bili.json",
         "type": "帕梅拉#太极拳#广场舞#演唱会",
         "cookie": ""
       }
@@ -452,7 +452,7 @@
       "key": "bili_open",
       "name": "哔哩貓",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
+      "api": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/bili_open.js",
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -492,7 +492,7 @@
       "key": "bili_open",
       "name": "哔哩貓",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
+      "api": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/bili_open.js",
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -536,7 +536,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+      "ext": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/alist.json"
     },
     {
       "key": "WebDAV",
@@ -545,7 +545,7 @@
       "api": "csp_WebDAV",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
+      "ext": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/webdav.json"
     },
    
     {
