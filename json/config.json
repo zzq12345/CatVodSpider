@@ -220,14 +220,14 @@
    
     {
       "key": "玩偶",
-      "name": "玩偶失效",
+      "name": "玩偶",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
       "changeable": 0,
       "ext": {
         "token": "影視天下第一",
-        "filter": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
+        "filter": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/wogg.json"
       }
     },
 {
