@@ -261,38 +261,8 @@
       "style":{ "type":"rect", "ratio":1.33 },
       "quickSearch": 1
     },
-   {
-      "key": "玩偶",
-      "name": "玩偶",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.309
-      }
-    },
-    {
-      "key": "玩偶测试",
-      "name": "玩偶测试",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "影視天下第一",
-        "filter": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/wogg.json"
-      }
-    },
-{
-      "key": "布雷",
-      "name": "布雷失效",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/bulei_open.js",
-      "searchable": 1,
-      "changeable": 1
-    },
+
+  
     
     {
       "key": "盤99",
