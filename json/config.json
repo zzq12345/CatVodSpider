@@ -136,7 +136,7 @@
       "key": "快看",
       "name": "快看",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/kkys_open.js",
+      "api": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/kkys_open.js",
       "searchable": 1,
       "changeable": 1
     },
@@ -149,7 +149,7 @@
       "api": "csp_Jianpian",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
+      "ext": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/jianpian.json"
     },
 
 
