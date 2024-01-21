@@ -225,17 +225,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
- {
-      "key": "小柚",
-      "name": "🍊小柚┃App",
-    "jar":"https://github.com/zzq12345/CatVodSpider/raw/main/json/fan.txt",
-      "type": 3,
-      "api": "csp_AppSK",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
-    },
+ 
     {
       "key": "萌米",
       "name": "👀萌米┃App",
