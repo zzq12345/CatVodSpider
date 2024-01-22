@@ -3135,14 +3135,14 @@ https://www.yicai.com/api/dycj/liveIndex.m3u8
 https://www.yicai.com/api/dfcj/liveIndex.m3u8
 
 
-#EXTINF:-1 tvg-id="100682" tvg-name="" tvg-logo="" group-title="youtube",看看新闻直播
+#EXTINF:-1 tvg-id="100700" tvg-name="" tvg-logo="" group-title="youtube",看看新闻直播
 http://127.0.0.1:8081/kankanlive.php?id=1
-#EXTINF:-1 tvg-id="100682" tvg-name="" tvg-logo="" group-title="youtube",看看新闻直播
+#EXTINF:-1 tvg-id="100700" tvg-name="" tvg-logo="" group-title="youtube",看看新闻直播
 http://127.0.0.1:8081/kankanlive.php?id=2
 
-#EXTINF:-1 tvg-id="100681" tvg-name="" tvg-logo="" group-title="youtube",第一财经直播
+#EXTINF:-1 tvg-id="100699" tvg-name="" tvg-logo="" group-title="youtube",第一财经直播
 http://127.0.0.1:8081/diyicaijinglive.php?id=1
-#EXTINF:-1 tvg-id="1006817" tvg-name="" tvg-logo="" group-title="youtube",第一财经直播
+#EXTINF:-1 tvg-id="1006997" tvg-name="" tvg-logo="" group-title="youtube",第一财经直播
 http://127.0.0.1:8081/diyicaijinglive.php?id=2
 
 
