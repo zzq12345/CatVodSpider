@@ -5289,7 +5289,40 @@ http://127.0.0.1:8081/dongguan.php?id=4
 #EXTINF:-1 tvg-id="400368" tvg-name="" tvg-logo="" group-title="地方",东莞公共
 http://127.0.0.1:8081/dongguan.php?id=5
 
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="地方",深圳卫视
+http://szcbn.ks-cdn.gitv.tv/gitv_escape/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳公共
+http://szcbn.ks-cdn.gitv.tv/gitv_escape/G_SHENZHENGG-HQ/G_SHENZHENGG-HQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳娱乐
+http://szcbn.ks-cdn.gitv.tv/gitv_escape/G_SHENZHENYL-HQ/G_SHENZHENYL-HQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳都市
+http://szcbn.ks-cdn.gitv.tv/gitv_escape/G_SHENZHENDS-HQ/G_SHENZHENDS-HQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳少儿
+http://szcbn.ks-cdn.gitv.tv/gitv_escape/G_SHENZHENSE-HQ/G_SHENZHENSE-HQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳电视剧
+http://szcbn.ks-cdn.gitv.tv/gitv_escape/G_SHENZHENDSJ-HQ/G_SHENZHENDSJ-HQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳体育
+http://szcbn.ks-cdn.gitv.tv/gitv_escape/G_SHENZHENTY-HQ/G_SHENZHENTY-HQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳财经生活
+http://szcbn.ks-cdn.gitv.tv/gitv_escape/G_SHENZHENCJSH-HQ/G_SHENZHENCJSH-HQ.m3u8
+#EXTINF:-1 tvg-id="101036" tvg-name="河南卫视" tvg-logo="" group-title="地方",河南卫视
+http://hacbn.ks-cdn.gitv.tv/gitv_escape/G_HENAN-HQ/G_HENAN-HQ.m3u8
+#EXTINF:-1 tvg-id="101037" tvg-name="河南都市" tvg-logo="" group-title="地方",河南都市
+http://hacbn.ks-cdn.gitv.tv/gitv_escape/G_HNTV-2-HQ/G_HNTV-2-HQ.m3u8
+#EXTINF:-1 tvg-id="101038" tvg-name="河南民生" tvg-logo="" group-title="地方",河南民生
+http://hacbn.ks-cdn.gitv.tv/gitv_escape/G_HNTV-3/G_HNTV-3.m3u8
+#EXTINF:-1 tvg-id="101039" tvg-name="河南法制" tvg-logo="" group-title="地方",河南法制
+http://hacbn.ks-cdn.gitv.tv/gitv_escape/G_HNTV-4/G_HNTV-4.m3u8
+#EXTINF:-1 tvg-id="101040" tvg-name="河南电视剧" tvg-logo="" group-title="地方",河南电视剧
+http://hacbn.ks-cdn.gitv.tv/gitv_escape/G_HNTV-5-HQ/G_HNTV-5-HQ.m3u8
+#EXTINF:-1 tvg-id="101041" tvg-name="河南新闻" tvg-logo="" group-title="地方",河南新闻
 
+http://hacbn.ks-cdn.gitv.tv/gitv_escape/G_HNTV-6/G_HNTV-6.m3u8
+#EXTINF:-1 tvg-id="101040" tvg-name="河南电视剧" tvg-logo="" group-title="地方",河南电视剧
+http://hacbn.ks-cdn.gitv.tv/gitv_escape/G_HNTV-8-HQ/G_HNTV-8-HQ.m3u8
+#EXTINF:-1 tvg-id="101044" tvg-name="河南乡村" tvg-logo="" group-title="地方",河南乡村
+
+http://hacbn.ks-cdn.gitv.tv/gitv_escape/G_HNTV-9/G_HNTV-9.m3u8
 
 
 #EXTINF:-1 tvg-id="101036" tvg-name="河南卫视" tvg-logo="" group-title="地方",河南卫视
