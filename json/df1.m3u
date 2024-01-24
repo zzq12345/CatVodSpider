@@ -3182,19 +3182,20 @@ http://127.0.0.1:8081/youtube.php?v=xL0ch83RAK8
 http://127.0.0.1:8081/taishi.php?id=2
 #EXTINF:-1 tvg-id="100012" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="youtube",台视
 http://127.0.0.1:8081/taishi.php?id=1
-
+#EXTINF:-1 tvg-id="100144" tvg-name="寰宇新闻台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube",寰宇新闻台湾
+http://127.0.0.1:8081/huanyunews.php?id=1
+#EXTINF:-1 tvg-id="100143" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube",寰宇新闻
+http://127.0.0.1:8081/huanyunews.php?id=2
 
 #EXTINF:-1 tvg-id="100143" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube",寰宇新闻
 http://127.0.0.1:8081/huanyunews.php?id=3
-#EXTINF:-1 tvg-id="100144" tvg-name="寰宇新闻台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube",寰宇新闻台湾
-http://127.0.0.1:8081/huanyunews.php?id=4
-#EXTINF:-1 tvg-id="100143" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube",寰宇新闻
-http://127.0.0.1:8081/huanyunews.php?id=5
+#EXTINF:-1 tvg-id="litv-longturn23" tvg-name="寰宇財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn23_mobile.png" group-title="youtube",寰宇財經台
+http://127.0.0.1:8081/huanyufince.php
+#EXTINF:-1 tvg-id="100250" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="youtube",東森新聞世界日報
+http://127.0.0.1:8081/dongsennews2.php?id=1
 
-#EXTINF:-1 tvg-id="100143" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube",寰宇新闻
-http://127.0.0.1:8081/huanyunews.php?id=1
-#EXTINF:-1 tvg-id="100144" tvg-name="寰宇新闻台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube",寰宇新闻台湾
-http://127.0.0.1:8081/huanyunews.php?id=2
+
+
 #EXTINF:-1 tvg-id="100257" tvg-name="非凡新聞台" tvg-logo="" group-title="youtube",非凡新闻
 http://127.0.0.1:8081/yuanchuan.php?id=1
 
@@ -3202,7 +3203,10 @@ http://127.0.0.1:8081/yuanchuan.php?id=1
 http://127.0.0.1:8081/linetv.php?id=dongsennews
 
 #EXTINF:-1 tvg-id="100250" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="youtube",東森新聞世界日報
-http://zzqwe.giize.com:12229/dongsennews.php
+http://127.0.0.1:8081/dongsennews.php
+
+
+
 
 #EXTINF:-1 tvg-id="100256" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="youtube",东森财经经新闻
 http://127.0.0.1:8081/dongsenfinince.php
