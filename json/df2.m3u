@@ -3573,15 +3573,15 @@ http://192.168.10.250/taishi.php?id=1
 
 #EXTINF:-1 tvg-id="100143" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube",寰宇新闻
 http://192.168.10.250/huanyunews.php?id=3
-#EXTINF:-1 tvg-id="100144" tvg-name="寰宇新闻台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube",寰宇新闻台湾
-http://192.168.10.250/huanyunews.php?id=4
-#EXTINF:-1 tvg-id="100143" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube",寰宇新闻
-http://192.168.10.250/huanyunews.php?id=5
+
 
 #EXTINF:-1 tvg-id="100143" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube",寰宇新闻
 http://192.168.10.250/huanyunews.php?id=1
 #EXTINF:-1 tvg-id="100144" tvg-name="寰宇新闻台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube",寰宇新闻台湾
 http://192.168.10.250/huanyunews.php?id=2
+#EXTINF:-1 tvg-id="litv-longturn23" tvg-name="寰宇財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn23_mobile.png" group-title="youtube",寰宇財經台
+http://192.168.10.250/huanyufince.php
+
 #EXTINF:-1 tvg-id="100257" tvg-name="非凡新聞台" tvg-logo="" group-title="youtube",非凡新闻
 http://192.168.10.250/yuanchuan.php?id=1
 
