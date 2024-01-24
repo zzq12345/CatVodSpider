@@ -3198,6 +3198,7 @@ TVBS歡樂台,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv
 寰宇新闻,http://127.0.0.1:8081/huanyunews.php?id=5
 寰宇新闻,http://127.0.0.1:8081/huanyunews.php?id=1
 寰宇新闻台湾,http://127.0.0.1:8081/huanyunews.php?id=2
+寰宇财经新闻,http://127.0.0.1:8081/huanyufince.php
 非凡新闻,http://127.0.0.1:8081/yuanchuan.php?id=1
 东森新闻,http://127.0.0.1:8081/linetv.php?id=dongsennews
 東森新聞世界日報,http://127.0.0.1:8081/dongsennews.php
