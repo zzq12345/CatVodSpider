@@ -4787,7 +4787,32 @@ http://127.0.0.1:8081/qinghuatv.php
 http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="地方",北京卫视
-http://127.0.0.1:8081/btimeapp.php?id=bjws
+http://127.0.0.1:8081/beijing.php?id=bjws
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",北京体育休闲
+http://127.0.0.1:8081/beijing.php?id=bjjs
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="地方",北京文艺
+http://127.0.0.1:8081/beijing.php?id=btvwy
+#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="地方",北京科教纪实
+http://127.0.0.1:8081/beijing.php?id=btvkj
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="地方",北京影视
+http://127.0.0.1:8081/beijing.php?id=btvys
+#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="地方",北京财经
+http://127.0.0.1:8081/beijing.php?id=btvcj
+#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="地方",北京生活
+http://127.0.0.1:8081/beijing.php?id=btvsh
+
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="地方",北京新闻
+http://127.0.0.1:8081/beijing.php?id=btvxw
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="地方",北京卡酷少儿
+http://127.0.0.1:8081/beijing.php?id=kaku
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="地方",北京卫视
+http://127.0.0.1:8081/beijingtimeapp.php?id=bjws
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",北京体育休闲
 http://127.0.0.1:8081/btimeapp.php?id=bjjs
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="地方",北京文艺
@@ -4848,30 +4873,7 @@ http://127.0.0.1:8081/zhejiang.php?id=zjzjjl
 
 
 
-#EXTINF:-1 tvg-id="101000" tvg-name="浙江卫视" tvg-logo="" group-title="地方",浙江卫视
-http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 tvg-id="101002" tvg-name="浙江经济" tvg-logo="" group-title="地方",浙江经济
-http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-id="101001" tvg-name="浙江钱江都市" tvg-logo="" group-title="地方",浙江钱江都市
-http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 tvg-id="101003" tvg-name="浙江科教" tvg-logo="" group-title="地方",浙江科教
-http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-id="101003" tvg-name="浙江科教" tvg-logo="" group-title="地方",浙江影视
-http://hw-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
-#EXTINF:-1 tvg-id="101004" tvg-name="浙江6" tvg-logo="" group-title="地方",浙江6
-http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-id="101005" tvg-name="浙江新闻" tvg-logo="" group-title="地方",浙江新闻
-http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 tvg-id="101006" tvg-name="浙江少儿" tvg-logo="" group-title="地方",浙江少儿
-http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-id="6575" tvg-name="留学世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE24.jpg" group-title="地方",浙江留学世界
-http://hw-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
-#EXTINF:-1 tvg-id="101007" tvg-name="浙江国际" tvg-logo="" group-title="地方",浙江国际
-http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 tvg-id="101009"" tvg-name="浙江数码时代" tvg-logo="" group-title="地方",浙江数码时代
-http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="地方",cctv-1
-http://hw-m-l.cztv.com/channels/lantian/channel013/1080p.m3u8
+
 #EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="地方",杭州综合
 http://127.0.0.1:8081/hangzhou.php?id=16
 #EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="地方",杭州明珠
@@ -4935,48 +4937,7 @@ http://127.0.0.1:8081/fjqz.php?id=mny
 
 
 
-#EXTINF:-1 tvg-id="101010" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="地方",广东卫视
-https://php.17186.eu.org/gdtv/web/gdws.m3u8
-#EXTINF:-1 tvg-id="101011" tvg-name="珠江" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="地方",广东珠江
-https://php.17186.eu.org/gdtv/web/gdzj.m3u8
-#EXTINF:-1 tvg-id="101014" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="地方",广东大湾区卫视
-https://php.17186.eu.org/gdtv/web/nfws.m3u8
-#EXTINF:-1 tvg-id="101013" tvg-name="广东公共" tvg-logo="" group-title="地方",广东公共
-https://php.17186.eu.org/gdtv/web/gdgg.m3u8
-#EXTINF:-1 tvg-id="101012" tvg-name="广东新闻" tvg-logo="" group-title="地方",广东新闻
-https://php.17186.eu.org/gdtv/web/xwpd.m3u8
-#EXTINF:-1 tvg-id="101016" tvg-name="广东经济科教" tvg-logo="" group-title="地方",广东经济科教
-https://php.17186.eu.org/gdtv/web/jjkj.m3u8
-#EXTINF:-1 tvg-id="101015" tvg-name="广东体育" tvg-logo="" group-title="地方",广东体育
-https://php.17186.eu.org/gdtv/web/gdty.m3u8
-#EXTINF:-1 tvg-id="101020" tvg-name="广东少儿" tvg-logo="" group-title="地方",广东少儿
-https://php.17186.eu.org/gdtv/web/gdse.m3u8
-#EXTINF:-1 tvg-id="101017" tvg-name="广东影视" tvg-logo="" group-title="地方",广东影视
-https://php.17186.eu.org/gdtv/web/gdys.m3u8
-#EXTINF:-1 tvg-id="101021" tvg-name="广东嘉佳卡通" tvg-logo="" group-title="地方",广东嘉佳卡通
-https://php.17186.eu.org/gdtv/web/jjkt.m3u8
-#EXTINF:-1 tvg-id="101016" tvg-name="广东房产" tvg-logo="" group-title="地方",广东房产
-https://php.17186.eu.org/gdtv/web/gdfc.m3u8
-#EXTINF:-1 tvg-id="101020" tvg-name="广东国际" tvg-logo="" group-title="地方",广东国际
-https://php.17186.eu.org/gdtv/web/gdgj.m3u8
-#EXTINF:-1 tvg-id="101020" tvg-name="广东南方购物" tvg-logo="" group-title="地方",广东南方购物
-https://php.17186.eu.org/gdtv/web/nfgw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东移动
-https://php.17186.eu.org/gdtv/web/ydpd.m3u8
-#EXTINF:-1 tvg-id="101018" tvg-name="广东综艺" tvg-logo="" group-title="地方",广东综艺
-https://php.17186.eu.org/gdtv/web/gdzy.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",现代教育
-https://php.17186.eu.org/gdtv/web/xdjy.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",岭南戏曲
-https://php.17186.eu.org/gdtv/web/lnxq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东文化
-https://php.17186.eu.org/gdtv/web/health.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",GRTN生活频道
-https://php.17186.eu.org/gdtv/web/life.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",纪录片
-https://php.17186.eu.org/gdtv/web/jilupian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",荔枝台
-https://php.17186.eu.org/gdtv/web/lizhi.m3u8
+
 
 
 
@@ -5069,41 +5030,6 @@ http://127.0.0.1:8081/dongguan.php?id=4
 #EXTINF:-1 tvg-id="400368" tvg-name="" tvg-logo="" group-title="地方",东莞公共
 http://127.0.0.1:8081/dongguan.php?id=5
 
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="地方",深圳卫视
-http://szcbn.ks-cdn.gitv.tv/gitv_escape/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳公共
-http://szcbn.ks-cdn.gitv.tv/gitv_escape/G_SHENZHENGG-HQ/G_SHENZHENGG-HQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳娱乐
-http://szcbn.ks-cdn.gitv.tv/gitv_escape/G_SHENZHENYL-HQ/G_SHENZHENYL-HQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳都市
-http://szcbn.ks-cdn.gitv.tv/gitv_escape/G_SHENZHENDS-HQ/G_SHENZHENDS-HQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳少儿
-http://szcbn.ks-cdn.gitv.tv/gitv_escape/G_SHENZHENSE-HQ/G_SHENZHENSE-HQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳电视剧
-http://szcbn.ks-cdn.gitv.tv/gitv_escape/G_SHENZHENDSJ-HQ/G_SHENZHENDSJ-HQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳体育
-http://szcbn.ks-cdn.gitv.tv/gitv_escape/G_SHENZHENTY-HQ/G_SHENZHENTY-HQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳财经生活
-http://szcbn.ks-cdn.gitv.tv/gitv_escape/G_SHENZHENCJSH-HQ/G_SHENZHENCJSH-HQ.m3u8
-#EXTINF:-1 tvg-id="101036" tvg-name="河南卫视" tvg-logo="" group-title="地方",河南卫视
-http://hacbn.ks-cdn.gitv.tv/gitv_escape/G_HENAN-HQ/G_HENAN-HQ.m3u8
-#EXTINF:-1 tvg-id="101037" tvg-name="河南都市" tvg-logo="" group-title="地方",河南都市
-http://hacbn.ks-cdn.gitv.tv/gitv_escape/G_HNTV-2-HQ/G_HNTV-2-HQ.m3u8
-#EXTINF:-1 tvg-id="101038" tvg-name="河南民生" tvg-logo="" group-title="地方",河南民生
-http://hacbn.ks-cdn.gitv.tv/gitv_escape/G_HNTV-3/G_HNTV-3.m3u8
-#EXTINF:-1 tvg-id="101039" tvg-name="河南法制" tvg-logo="" group-title="地方",河南法制
-http://hacbn.ks-cdn.gitv.tv/gitv_escape/G_HNTV-4/G_HNTV-4.m3u8
-#EXTINF:-1 tvg-id="101040" tvg-name="河南电视剧" tvg-logo="" group-title="地方",河南电视剧
-http://hacbn.ks-cdn.gitv.tv/gitv_escape/G_HNTV-5-HQ/G_HNTV-5-HQ.m3u8
-#EXTINF:-1 tvg-id="101041" tvg-name="河南新闻" tvg-logo="" group-title="地方",河南新闻
-
-http://hacbn.ks-cdn.gitv.tv/gitv_escape/G_HNTV-6/G_HNTV-6.m3u8
-#EXTINF:-1 tvg-id="101040" tvg-name="河南电视剧" tvg-logo="" group-title="地方",河南电视剧
-http://hacbn.ks-cdn.gitv.tv/gitv_escape/G_HNTV-8-HQ/G_HNTV-8-HQ.m3u8
-#EXTINF:-1 tvg-id="101044" tvg-name="河南乡村" tvg-logo="" group-title="地方",河南乡村
-
-http://hacbn.ks-cdn.gitv.tv/gitv_escape/G_HNTV-9/G_HNTV-9.m3u8
-
 
 #EXTINF:-1 tvg-id="101036" tvg-name="河南卫视" tvg-logo="" group-title="地方",河南卫视
 http://127.0.0.1:8081/henan.php?id=1
@@ -5174,35 +5100,7 @@ http://127.0.0.1:8081/hebei.php?id=6
 
 #EXTINF:-1 tvg-id="100665" tvg-name="河北公共" tvg-logo="" group-title="地方",河北公共
 http://127.0.0.1:8081/hebei.php?id=7
-#EXTINF:-1 tvg-id="100659" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="地方",河北卫视
 
-https://event.pull.hebtv.com/jishi/weishipindao.m3u8
-#EXTINF:-1 tvg-id="100663" tvg-name="河北影视剧" tvg-logo="" group-title="地方",河北影视剧
-https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8 
-#EXTINF:-1 tvg-id="100660" tvg-name="河北经济" tvg-logo="" group-title="地方",河北经济
-https://event.pull.hebtv.com/jishi/jingjishenghuo.m3u8 
-#EXTINF:-1 tvg-id="100662" tvg-name="河北都市" tvg-logo="" group-title="地方",河北都市
-https://event.pull.hebtv.com/jishi/dushipindao.m3u8 
-#EXTINF:-1 tvg-id="100665" tvg-name="河北公共" tvg-logo="" group-title="地方",河北公共
-https://event.pull.hebtv.com/jishi/gonggongpindao.m3u8 
-#EXTINF:-1 tvg-id="100661" tvg-name="河北农民" tvg-logo="" group-title="地方",河北农民
-https://event.pull.hebtv.com/jishi/nongminpindao.m3u8 
-#EXTINF:-1 tvg-id="100664" tvg-name="河北少儿科技" tvg-logo="" group-title="地方",河北少儿
-https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8 
-#EXTINF:-1 tvg-id="100659" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="地方",河北卫视
-http://120.7.85.168:808/hls/18/index.m3u8
-#EXTINF:-1 tvg-id="100660" tvg-name="河北经济" tvg-logo="" group-title="地方",河北经济
-http://120.7.85.168:808/hls/58/index.m3u8
-#EXTINF:-1 tvg-id="100662" tvg-name="河北都市" tvg-logo="" group-title="地方",河北都市
-http://120.7.85.168:808/hls/59/index.m3u8
-#EXTINF:-1 tvg-id="100663" tvg-name="河北影视剧" tvg-logo="" group-title="地方",河北影视剧
-http://120.7.85.168:808/hls/60/index.m3u8
-#EXTINF:-1 tvg-id="100664" tvg-name="河北少儿科技" tvg-logo="" group-title="地方",河北少儿
-http://120.7.85.168:808/hls/61/index.m3u8
-#EXTINF:-1 tvg-id="100665" tvg-name="河北公共" tvg-logo="" group-title="地方",河北公共
-http://120.7.85.168:808/hls/62/index.m3u8
-#EXTINF:-1 tvg-id="100661" tvg-name="河北农民" tvg-logo="" group-title="地方",河北农民
-http://120.7.85.168:808/hls/63/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",石家庄娱乐
 http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",石家庄生活
