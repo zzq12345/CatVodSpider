@@ -2887,7 +2887,7 @@ http://192.168.10.250/cctvfrench.php
 
 
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="youtube",CCTV-13HD
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
 
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="youtube",CCTV-6
 http://192.168.10.250/douyin.php?id=69416429589
