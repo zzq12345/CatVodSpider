@@ -3251,6 +3251,8 @@ CNBC Awaaz Live,http://127.0.0.1:8081/youtube.php?v=iNz2lOJwd2g
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 無線新聞,http://127.0.0.1:8081/tvb1.php?id=NEWS
 無線財經,http://127.0.0.1:8081/tvb1.php?id=FINA
+ 无线新闻台·海外版[1920x1080],http://127.0.0.1:8081/tvb2.php?id=2
+ 无线财*体育资讯台·网络版[1920x1080],http://127.0.0.1:8081/tvb2.php?id=3
 耀才财经台2,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 香港電台31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_5400_av-b.m3u8?sd=10&rebase=on
 香港電台32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
