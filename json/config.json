@@ -65,7 +65,21 @@
     "changeable":1,
     "ext":"https://www.czzy88.com/"
   },
-   
+
+
+{
+      "key": "影探",
+      "name": "影探",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": "1",
+      "ext": "http://vip55.lyyytv.cn/api.php/app/"
+    },
+
+    
     {
        "key":"drpy_js_爱看机器人",
        "name":"爱看机器[js]",
