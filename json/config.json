@@ -2,7 +2,6 @@
   "spider": "https://github.com/zzq12345/CatVodSpider/raw/main/jar/custom_spider.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
-    
     {
       "name": "TXT",
       "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest.txt",
@@ -52,7 +51,6 @@
   ],
 
   "sites": [
-
   {
     "key":"Czsapp",
     "name":"📔厂长之家",
@@ -83,7 +81,6 @@
       "changeable": 1,
       "ext": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/duboku.json"
     },
-   
      {
       "key": "百度",
       "name": "百度",
