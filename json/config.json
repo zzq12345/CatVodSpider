@@ -219,7 +219,7 @@
  
     {
       "key": "萌米",
-      "name": "👀萌米┃App",
+      "name": "👀萌米需要对儿童限制┃App",
        "jar":"https://github.com/zzq12345/CatVodSpider/raw/main/json/fan.txt",
       "type": 3,
       "api": "csp_AppMao",
@@ -264,28 +264,7 @@
       "style":{ "type":"rect", "ratio":1.33 },
       "quickSearch": 1
     },
-
-  
     
-    {
-      "key": "盤99",
-      "name": "盤99",
-      "type": 3,
-      "api": "csp_Pan99",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "影視天下第一"
-    },
-    
-
-    {
-      "key": "愛看",
-      "name": "愛看",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/ikanbot_open.js",
-      "searchable": 1,
-      "changeable": 1
-    },
     {
       "key": "快看",
       "name": "快看",
