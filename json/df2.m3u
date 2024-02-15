@@ -3933,11 +3933,6 @@ http://192.168.10.250/huawen.php?id=zhejiangweishi
 http://192.168.10.250/huawen.php?id=dongfangweishi
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",浦东电视台
-
-
-
-https://pdtvlive.pudongtv.cn/live/pdtv.m3u8?txSecret=fef7e589d63b60ec0acb750f654b9b52&txTime=6590FDD0
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.setv.sh.cn/images/logo.png" tvg-name="上海教育" group-title="地方",上海教育
@@ -3946,13 +3941,6 @@ http://192.168.10.250/shanghaijiaoyu.php?id=setv
 
 
 
-
-
-#EXTINF:-1 tvg-id="800104" tvg-name="上海都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="地方",上海都市
-http://192.168.10.250/baishitong.php?id=1
-
-#EXTINF:-1 tvg-id="800128" tvg-name="" tvg-logo="" group-title="地方",七彩戏剧
-http://192.168.10.250/baishitong.php?id=2
 
 
 
@@ -3974,72 +3962,15 @@ http://192.168.10.250/shanghai.php?id=jsrw
 http://192.168.10.250/qinghuatv.php
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",北京8k
-http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
-
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="地方",北京卫视
-http://192.168.10.250/beijing.php?id=bjws
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",北京体育休闲
-http://192.168.10.250/beijing.php?id=bjjs
-#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="地方",北京文艺
-http://192.168.10.250/beijing.php?id=btvwy
-#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="地方",北京科教纪实
-http://192.168.10.250/beijing.php?id=btvkj
-#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="地方",北京影视
-http://192.168.10.250/beijing.php?id=btvys
-#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="地方",北京财经
-http://192.168.10.250/beijing.php?id=btvcj
-#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="地方",北京生活
-http://192.168.10.250/beijing.php?id=btvsh
-
-#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="地方",北京新闻
-http://192.168.10.250/beijing.php?id=btvxw
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="地方",北京卡酷少儿
-http://192.168.10.250/beijing.php?id=kaku
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="地方",北京卫视
-http://192.168.10.250/beijingtimeapp.php?id=bjws
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",北京体育休闲
-http://192.168.10.250/btimeapp.php?id=bjjs
-#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="地方",北京文艺
-http://192.168.10.250/btimeapp.php?id=btvwy
-#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="地方",北京科教纪实
-http://192.168.10.250/btimeapp.php?id=btvkj
-#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="地方",北京影视
-http://192.168.10.250/btimeapp.php?id=btvys
-#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="地方",北京财经
-http://192.168.10.250/btimeapp.php?id=btvcj
-#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="地方",北京生活
-http://192.168.10.250/btimeapp.php?id=btvsh
 
-#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="地方",北京新闻
-http://192.168.10.250/btimeapp.php?id=btvxw
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="地方",北京卡酷少儿
-http://192.168.10.250/btimeapp.php?id=kaku
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="地方",北京卫视
-http://192.168.10.250/bjtime.php?id=bjws
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",北京体育休闲
-http://192.168.10.250/bjtime.php?id=bjjs
-#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="地方",北京文艺
-http://192.168.10.250/bjtime.php?id=bjwy
-#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="地方",北京纪实科教
-http://192.168.10.250/bjtime.php?id=btvkj
-#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="地方",北京影视
-http://192.168.10.250/bjtime.php?id=bjys
-#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="地方",北京财经
-http://192.168.10.250/bjtime.php?id=jcj
-#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="地方",北京生活
-http://192.168.10.250/bjtime.php?id=bjsh
 
-#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="地方",北京新闻
-http://192.168.10.250/bjtime.php?id=bjxw
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="地方",北京卡酷少儿
-http://192.168.10.250/bjtime.php?id=bjkk
+
 #浙江/7个频道
 #EXTINF:-1 tvg-id="101000" tvg-name="浙江卫视" tvg-logo="" group-title="地方",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -4079,20 +4010,6 @@ http://192.168.10.250/zhejiang.php?id=zjgj
 http://192.168.10.250/zhejiang.php?id=zjzjjl
 
 
-
-
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="地方",杭州综合
-http://192.168.10.250/hangzhou.php?id=16
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="地方",杭州明珠
-http://192.168.10.250/hangzhou.php?id=17
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="地方",杭州生活
-http://192.168.10.250/hangzhou.php?id=18
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="地方",杭州影视
-http://192.168.10.250/hangzhou.php?id=21
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="地方",杭州青少年
-http://192.168.10.250/hangzhou.php?id=20
-#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="地方",杭州文体
-http://192.168.10.250/hangzhou.php?id=22
 
 
 
@@ -4204,31 +4121,6 @@ http://192.168.10.250/guangzhou.php?id=shenghuo
 
 
 
-
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="地方",深圳卫视
-http://192.168.10.250/shenzhen.php?id=szws
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳体育
-http://192.168.10.250/shenzhen.php?id=sztyjk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳都市
-http://192.168.10.250/shenzhen.php?id=szds
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳电视剧
-http://192.168.10.250/shenzhen.php?id=szdsj
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳公共
-http://192.168.10.250/shenzhen.php?id=szgg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳财经生活
-http://192.168.10.250/shenzhen.php?id=szcjsh
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳娱乐
-http://192.168.10.250/shenzhen.php?id=szyl
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳少儿
-http://192.168.10.250/shenzhen.php?id=szse
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳移动电视
-http://192.168.10.250/shenzhen.php?id=szyd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳购物
-http://192.168.10.250/shenzhen.php?id=yhgw
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳国际
-http://192.168.10.250/shenzhen.php?id=szgj
 
 
 
@@ -4405,35 +4297,9 @@ http://192.168.10.250/shandong.php?id=sepd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",山东居家购物
 http://192.168.10.250/shandong.php?id=gwpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",济南新闻
-http://192.168.10.250/jinan.php?id=jnxw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",济南新闻高清
-http://192.168.10.250/jinan.php?id=jnxwhd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",济南都市
-http://192.168.10.250/jinan.php?id=jnds
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",济南文体
-http://192.168.10.250/jinan.php?id=jnyd
 
 
 
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://tv.sason.xyz/logo/scwhly.png" group-title="地方",四川卫视
-http://192.168.10.250/sichuan.php?id=1
-#EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="http://tv.sason.xyz/logo/scjj.png" group-title="地方",四川经济
-http://192.168.10.250/sichuan.php?id=2
-#EXTINF:-1 tvg-id="2054" tvg-name="SCTV2" tvg-logo="http://tv.sason.xyz/logo/scyswy.png" group-title="地方",四川文化旅游
-http://192.168.10.250/sichuan.php?id=3
-#EXTINF:-1 tvg-id="2056" tvg-name="SCTV4" tvg-logo="http://tv.sason.xyz/logo/scxw.png" group-title="地方",四川新闻频道
-http://192.168.10.250/sichuan.php?id=4
-#EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="http://tv.sason.xyz/logo/scggxc.png" group-title="地方",四川影视文艺
-http://192.168.10.250/sichuan.php?id=5
-#EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="http://tv.sason.xyz/logo/scxw.png" group-title="地方",四川妇女儿童
-http://192.168.10.250/sichuan.php?id=6
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/scxw.png" group-title="地方",四川星空购物
-http://192.168.10.250/sichuan.php?id=7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.sason.xyz/logo/scfnet.png" group-title="地方",四川四川乡村
-http://192.168.10.250/sichuan.php?id=8
-#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://tv.sason.xyz/logo/sckj.png" group-title="地方",四川康巴卫视
-http://192.168.10.250/sichuan.php?id=9
 
 #EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="地方",成都新闻综合
 http://192.168.10.250/chengdu.php?id=1
@@ -4466,14 +4332,7 @@ http://192.168.10.250/chongqing.php?id=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",重庆新闻
 http://192.168.10.250/chongqing.php?id=3
 
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",中国教育-1
-http://192.168.10.250/cect.php?id=cetv1 
-#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",中国教育-2
-http://192.168.10.250/cect.php?id=cetv2 
-#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",中国教育-3
-http://192.168.10.250/cect.php?id=cetv3
-#EXTINF:-1 tvg-id="100744" tvg-name="中国教育-4" tvg-logo="" group-title="地方",中国教育-4
-http://192.168.10.250/cect.php?id=cetv4 
+
 
 
 
@@ -4596,23 +4455,6 @@ http://192.168.10.250/wuhanapp.php?id=16
 
 
 
-#EXTINF:-1 tvg-id="101053" tvg-name="陕西新闻" tvg-logo="" group-title="地方",陕西新闻
-http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225500/index.m3u8
-#EXTINF:-1 tvg-id="101054" tvg-name="陕西都市" tvg-logo="" group-title="地方",陕西都市
-http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225830/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="陕西影视" tvg-logo="" group-title="地方",陕西西部电影
-http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226332/index.m3u8
-#EXTINF:-1 tvg-id="101055" tvg-name="陕西生活" tvg-logo="" group-title="地方",陕西生活
-http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226331/index.m3u8
-#EXTINF:-1 tvg-id="101055" tvg-name="陕西生活" tvg-logo="" group-title="地方",陕西影视
-http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226329/index.m3u8
-#EXTINF:-1 tvg-id="101057" tvg-name="陕西公共" tvg-logo="" group-title="地方",陕西公共
-http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226334/index.m3u8
-#EXTINF:-1 tvg-id="101059" tvg-name="陕西体育" tvg-logo="" group-title="地方",陕西体育
-http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226093/index.m3u8
-#EXTINF:-1 tvg-id="101055" tvg-name="陕西生活" tvg-logo="" group-title="地方",西安新闻综合
-http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225668/index.m3u8
-
 
 
 
@@ -4633,36 +4475,6 @@ http://192.168.10.250/shanxiwuxian.php?id=6
 http://192.168.10.250/shanxiwuxian.php?id=7
 
 
-#EXTINF:-1 tvg-id="101052" tvg-name="陕西卫视" tvg-logo="" group-title="地方",陕西卫视
-http://192.168.10.250/yuandian.php?id=shanxiweishihd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",CCTV16HD
-http://192.168.10.250/yuandian.php?id=CCTV16
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",圆点导视
-http://192.168.10.250/yuandian.php?id=yuandiandaoshilive
-#EXTINF:-1 tvg-id="101053" tvg-name="陕西新闻" tvg-logo="" group-title="地方",陕西新闻
-http://192.168.10.250/yuandian.php?id=shanxi1taohd
-#EXTINF:-1 tvg-id="101054" tvg-name="陕西都市" tvg-logo="" group-title="地方",陕西都市
-http://192.168.10.250/yuandian.php?id=shanxi2taohd
-#EXTINF:-1 tvg-id="101059" tvg-name="陕西体育" tvg-logo="" group-title="地方",陕西体育
-http://192.168.10.250/yuandian.php?id=shanxi7taohd
-#EXTINF:-1 tvg-id="101052" tvg-name="陕西卫视" tvg-logo="" group-title="地方",陕西卫视
-http://192.168.10.250/yuandian.php?id=yuandian5GAPPtext
-#EXTINF:-1 tvg-id="101053" tvg-name="陕西新闻" tvg-logo="" group-title="地方",陕西新闻
-http://192.168.10.250/yuandian.php?id=shanxi1
-#EXTINF:-1 tvg-id="101054" tvg-name="陕西都市" tvg-logo="" group-title="地方",陕西都市
-http://192.168.10.250/yuandian.php?id=shanxi2
-#EXTINF:-1 tvg-id="101055" tvg-name="陕西生活" tvg-logo="" group-title="地方",陕西生活
-http://192.168.10.250/yuandian.php?id=shanxi3
-#EXTINF:-1 tvg-id="" tvg-name="陕西影视" tvg-logo="" group-title="地方",陕西影视
-http://192.168.10.250/yuandian.php?id=shanxi4
-#EXTINF:-1 tvg-id="101057" tvg-name="陕西公共" tvg-logo="" group-title="地方",陕西公共
-http://192.168.10.250/yuandian.php?id=shanxi5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",陕西购物
-http://192.168.10.250/yuandian.php?id=shanxi6
-#EXTINF:-1 tvg-id="101059" tvg-name="陕西体育" tvg-logo="" group-title="地方",陕西体育
-http://192.168.10.250/yuandian.php?id=shanxi7
-#EXTINF:-1 tvg-id="" tvg-name="陕西西部电影" tvg-logo="" group-title="地方",陕西西部电影
-http://192.168.10.250/yuandian.php?id=shanxi8
 
 
 
