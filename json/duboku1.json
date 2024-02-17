@@ -26,9 +26,6 @@
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "//span[contains(@class,'pic-text')]/text()",
   "cateUrl": "https://www.duboku.tv/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
-  
-  
-  
   "cateVodNode": "//ul[contains(@class,'myui-vodlist')]/li/div/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
@@ -58,7 +55,6 @@
   "dtUrlIdR": "/vodplay/(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
-  
   "playUrl": "https://cc.dbkcc.cc/vodplay/{playUrl}.html",
   "playUa": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
   "playReferer": "https://cc.dbkcc.cc/",
