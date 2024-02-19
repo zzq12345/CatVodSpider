@@ -13,7 +13,9 @@
     "日韩剧": "krjp",
     "港台剧": "twhk",
     "英美剧": "usg",
-    
+     "动漫": "anime",
+ "综艺": "variety",
+   "电影": " movie",
   },
   "homeVodNode": "//ul[contains(@class,'myui-vodlist')]/li/div/a",
   "homeVodName": "/@title",
