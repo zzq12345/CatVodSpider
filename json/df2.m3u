@@ -2428,6 +2428,8 @@ http://192.168.10.250/yahoofinace.php
 http://192.168.10.250/60minutes.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",USATODAY
 http://192.168.10.250/USATODAY.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",scrippsnews
+http://192.168.10.250/scrippsnews.php
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",schwab
