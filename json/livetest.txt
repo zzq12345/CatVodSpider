@@ -3337,6 +3337,8 @@ NatGeoWildyoutube,http://127.0.0.1:8081/NatGeoWild.php
 yahoofinace,http://127.0.0.1:8081/yahoofinace.php
 60minutes,http://127.0.0.1:8081/60minutes.php
 USATODAY,http://127.0.0.1:8081/USATODAY.php
+scrippsnews,http://127.0.0.1:8081/scrippsnews.php
+
 schwab,http://127.0.0.1:8081/schwab.php
 zeebusiness,http://127.0.0.1:8081/zeebusiness.php
 ntd news,https://ntd02.akamaized.net/NTDA/index.m3u8
