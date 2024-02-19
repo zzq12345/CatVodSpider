@@ -2233,8 +2233,8 @@ https://ctrl.laotv.la/live/JNKHiShoping/index.m3u8
 https://ctrl.laotv.la/live/TPTV/index.m3u8
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",4K影视
+http://nas.jdshipin.com:8801/4kys.php
 #EXTINF:-1 tvg-id="4gtv-live208" tvg-name="Love Nature" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live208_mobile.png" group-title="4K",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
