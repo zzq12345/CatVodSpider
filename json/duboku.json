@@ -1,7 +1,7 @@
 {
   "author": "takagen99",
   "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
-  "homeUrl": "https://w.duboku.io/",
+  "homeUrl": "https://www.duboku.tv/",
   "dcVipFlag": "true",
   "dcPlayUrl": "true",
   "cateNode": "//ul[contains(@class,'nav-menu')]/li/a[contains(@href, 'vodtype')]",
@@ -26,9 +26,6 @@
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "//span[contains(@class,'pic-text')]/text()",
   "cateUrl": "https://www.duboku.tv/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
-  
-  
-  
   "cateVodNode": "//ul[contains(@class,'myui-vodlist')]/li/div/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
