@@ -3567,6 +3567,8 @@ NatGeoWildyoutube,http://192.168.10.250/NatGeoWild.php
 yahoofinace,http://192.168.10.250/yahoofinace.php
 60minutes,http://192.168.10.250/60minutes.php
 USATODAY,http://192.168.10.250/USATODAY.php
+scrippsnews,http://192.168.10.250/scrippsnews.php
+
 schwab,http://192.168.10.250/schwab.php
 zeebusiness,http://192.168.10.250/zeebusiness.php
 ntd news,https://ntd02.akamaized.net/NTDA/index.m3u8
