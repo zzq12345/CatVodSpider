@@ -2426,6 +2426,8 @@ http://127.0.0.1:8081/yahoofinace.php
 http://127.0.0.1:8081/60minutes.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",USATODAY
 http://127.0.0.1:8081/USATODAY.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",scrippsnews
+http://127.0.0.1:8081/scrippsnews.php
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",schwab
