@@ -1,3 +1,31 @@
+
+央视频道,#genre#
+CCTV-1高清,http://mtw.so/5UqsjP
+CCTV-2高清,http://mtw.so/69sStd
+CCTV-3高清,http://mtw.so/6gZ5xU
+CCTV-4高清,http://mtw.so/6oviAZ
+CCTV-5高清,http://mtw.so/5x7cQz
+CCTV-5+高清,http://mtw.so/6pfT4t
+CCTV-6高清,http://mtw.so/6pfG2z
+CCTV-7高清,http://mtw.so/5M9CJP
+CCTV-8高清,http://mtw.so/5UqsjZ
+CCTV-9高清,http://mtw.so/61WFoG
+CCTV-10高清,http://mtw.so/69sStn
+CCTV-11高清,http://mtw.so/6gZ5ws
+CCTV-12高清,http://mtw.so/6w1vFQ
+CCTV-13高清,http://mtw.so/5x7cQJ
+CCTV-14高清,http://mtw.so/5EDpFi
+CCTV-15高清,http://mtw.so/5MUffs
+CCTV-16高清,http://mtw.so/5Uqsk9
+CCTV-17高清,http://mtw.so/61WFoQ
+CCTV-4K超高清,http://mtw.so/5Fofqw
+CCTV-8K超高清,http://mtw.so/5xRPVl
+CGTN英语,http://mtw.so/5Fo2ZS
+CGTN法语,http://mtw.so/5G8Fvl
+CGTN俄语,http://mtw.so/5Vb5EJ
+CGTN阿拉伯语,http://mtw.so/62HiJq
+CGTN西班牙语,http://mtw.so/6adtcP
+CGTN纪录国际,http://mtw
 央视频,#genre#
 CCTV-8K 超高清,http://192.168.10.250/ysp-dec.php?id=cctv8k
 CCTV-8K 超高清,http://192.168.10.250/ysp-dec.php?id=cctv8k1
