@@ -2674,14 +2674,13 @@ http://127.0.0.1:8081/bloombergquicktake.php
 #EXTINF:-1 tvg-id="100156" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="youtube",BloombergHT Canlı Yayın ᴴᴰ
 http://127.0.0.1:8081/bloomberghtyoutube.php
 
-#EXTINF:-1 tvg-id="100156" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="youtube",美国蓬勃财经Bloomberg
-http://127.0.0.1:8081/youtube.php?v=dp8PhLsUcFE
+#EXTINF:-1 tvg-id="100156" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="youtube",Bloomberg HT Canlı Yayın ᴴᴰ
+http://127.0.0.1:8081/youtube.php?v=hHSmBJk6w0c
 
 
 
 
-#EXTINF:-1 tvg-id="100496" tvg-name="ABCAustralia" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b3af185b2db8.png" group-title="youtube",美国ABC NEWS
-http://127.0.0.1:8081/youtube.php?v=w_Ma8oQLmSM
+
 #EXTINF:-1 tvg-id="100496" tvg-name="ABCAustralia" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b3af185b2db8.png" group-title="youtube",美国ABC NEWS
 http://127.0.0.1:8081/abcnews.php
 
