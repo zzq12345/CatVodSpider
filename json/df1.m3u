@@ -2426,13 +2426,14 @@ http://127.0.0.1:8081/yahoofinace.php
 http://127.0.0.1:8081/60minutes.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",USATODAY
 http://127.0.0.1:8081/USATODAY.php
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",scrippsnews
 http://127.0.0.1:8081/scrippsnews.php
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",schwab
 http://127.0.0.1:8081/schwab.php
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",scrippsnews
+http://127.0.0.1:8081/scrippsnews.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",zeebusiness
 http://127.0.0.1:8081/zeebusiness.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",ntd news
@@ -2527,35 +2528,41 @@ http://127.0.0.1:8081/foxnews11.php?id=4
 http://127.0.0.1:8081/foxnews11.php?id=5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX 10 Phoenix
 http://127.0.0.1:8081/foxnews11.php?id=6
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX 13 Seattle
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",Watch Fox 10 Live Events
 http://127.0.0.1:8081/foxnews11.php?id=7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX 7 Austin
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX 13 Seattle
 http://127.0.0.1:8081/foxnews11.php?id=8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX 4 (Dallas-Fort Worth)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX 7 Austin
 http://127.0.0.1:8081/foxnews11.php?id=9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX 26 Houston
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX 4 (Dallas-Fort Worth)
 http://127.0.0.1:8081/foxnews11.php?id=10
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX 32 Chicago
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX 26 Houston
 http://127.0.0.1:8081/foxnews11.php?id=11
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX 5 New York
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX 32 Chicago
 http://127.0.0.1:8081/foxnews11.php?id=12
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX 5 Atlanta
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX 5 New York
 http://127.0.0.1:8081/foxnews11.php?id=13
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX 5 Washington DC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX 5 Atlanta
 http://127.0.0.1:8081/foxnews11.php?id=14
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX 29 Philadelphia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX 5 Washington DC
 http://127.0.0.1:8081/foxnews11.php?id=15
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX 2 Detroit
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX 29 Philadelphia
 http://127.0.0.1:8081/foxnews11.php?id=16
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX6 Milwaukee
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX 2 Detroit
 http://127.0.0.1:8081/foxnews11.php?id=17
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX 9 (Minneapolis-St. Paul)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX6 Milwaukee
 http://127.0.0.1:8081/foxnews11.php?id=18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",Watch Fox6 Live Events
+http://127.0.0.1:8081/foxnews11.php?id=19
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX 9 (Minneapolis-St. Paul)
+http://127.0.0.1:8081/foxnews11.php?id=20
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX 35 Orlando
-http://127.0.0.1:8081/foxnews11.php?id=20
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX 13 Tampa Bay
 http://127.0.0.1:8081/foxnews11.php?id=21
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",FOX 13 Tampa Bay
+http://127.0.0.1:8081/foxnews11.php?id=22
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",firsttv
 http://127.0.0.1:8081/firsttv.php
@@ -2948,14 +2955,20 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/32212
 
 
 
-#EXTINF:-1 group-title="香港" tvg-id="70004"  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無線新聞
+#EXTINF:-1 group-title="香港" tvg-id="70004" tvg-chno="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無線新聞
 http://127.0.0.1:8081/tvb1.php?id=NEWS
-#EXTINF:-1 group-title="香港" tvg-id="70006" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png",無線財經
+#EXTINF:-1 group-title="香港" tvg-id="70006" tvg-chno="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png",無線財經
 http://127.0.0.1:8081/tvb1.php?id=FINA 
-#EXTINF:-1 group-title="香港" tvg-id="70004"  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",无线新闻台·海外版
+
+
+ #EXTINF:-1 group-title="香港" tvg-id="70004" tvg-chno="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",无线新闻台·海外版[1920x1080]
 http://127.0.0.1:8081/tvb2.php?id=2
-#EXTINF:-1 group-title="香港" tvg-id="70006" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png", 无线财经体育资讯台·网络版
+#EXTINF:-1 group-title="香港" tvg-id="70006" tvg-chno="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png", 无线财*体育资讯台·网络版[1920x1080]
 http://127.0.0.1:8081/tvb2.php?id=3
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",耀才财经台2
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 
