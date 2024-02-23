@@ -298,7 +298,16 @@
     },
     
   {
-    "key":"drpy_js_豆瓣","name":"豆瓣 | 热播[js]","type":3,"style":{ "type":"rect", "ratio":1.33 },"api":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
+    "key":"drpy_js_豆瓣",
+    "name":"豆瓣 | 热播[js]",
+    "type":3,
+    "style":{ 
+      "type":"rect", 
+      "ratio":1.33
+    },
+    "api":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+    "ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
+  },
    {
       "key": "aikanbot",
       "name": "❤影视爱看机器人",
@@ -418,7 +427,16 @@
       "changeable": 1
     },
    
-    {"key":"drpy_js_哔哩直播","name":"直播 | 哔哩[js]","type":3,"style":{ "type":"rect", "ratio":1.33 },"api":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩直播.js"},
+    {"key":"drpy_js_哔哩直播",
+      "name":"直播 | 哔哩[js]",
+      "type":3,
+      "style":{
+        "type":"rect", 
+        "ratio":1.33 
+      },
+      "api":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩直播.js"
+    },
     {"key":"drpy_js_虎牙直播","name":"直播 | 虎牙[js]","type":3,"style":{ "type":"rect", "ratio":1.33 },"api":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js"},
     {
       "key": "csp_XYQHiker_虎牙直播",
