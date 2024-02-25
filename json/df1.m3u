@@ -2960,9 +2960,9 @@ http://127.0.0.1:8081/tvb1.php?id=NEWS
 http://127.0.0.1:8081/tvb1.php?id=FINA 
 
 
- #EXTINF:-1 group-title="香港" tvg-id="70004" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",无线新闻台·海外版
+#EXTINF:-1 group-title="香港" tvg-id="70004" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",无线新闻台·海外版
 http://127.0.0.1:8081/tvb2.php?id=2
-#EXTINF:-1 group-title="香港" tvg-id="70006"  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png", 无线财*体育资讯台·网络版
+#EXTINF:-1 group-title="香港" tvg-id="70006"  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png", 无线财经体育资讯台·网络版
 http://127.0.0.1:8081/tvb2.php?id=3
 
 
