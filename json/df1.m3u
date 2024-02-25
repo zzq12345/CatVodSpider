@@ -2954,15 +2954,15 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/32212
 
 
 
-#EXTINF:-1 group-title="香港" tvg-id="70004" tvg-chno="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無線新聞
+#EXTINF:-1 group-title="香港" tvg-id="70004" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無線新聞
 http://127.0.0.1:8081/tvb1.php?id=NEWS
-#EXTINF:-1 group-title="香港" tvg-id="70006" tvg-chno="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png",無線財經
+#EXTINF:-1 group-title="香港" tvg-id="70006" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png",無線財經
 http://127.0.0.1:8081/tvb1.php?id=FINA 
 
 
- #EXTINF:-1 group-title="香港" tvg-id="70004" tvg-chno="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",无线新闻台·海外版[1920x1080]
+ #EXTINF:-1 group-title="香港" tvg-id="70004" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",无线新闻台·海外版
 http://127.0.0.1:8081/tvb2.php?id=2
-#EXTINF:-1 group-title="香港" tvg-id="70006" tvg-chno="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png", 无线财*体育资讯台·网络版[1920x1080]
+#EXTINF:-1 group-title="香港" tvg-id="70006"  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png", 无线财*体育资讯台·网络版
 http://127.0.0.1:8081/tvb2.php?id=3
 
 
