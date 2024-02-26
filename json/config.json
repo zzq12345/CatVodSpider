@@ -87,41 +87,7 @@
       "changeable": 1,
       "ext": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/duboku.json"
     },
-{
-     "key": "獨播庫",
-      "name": "獨播庫",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/duboku1.json"
-    },
-    
-     {
-      "key": "百度",
-      "name": "百度",
-       "type": 1,
-      "api": "https://api.apibdzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "大陆剧",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片"
-      ]
-    },
-    {
+ {
       "key": "haiwaikan",
       "name": "海外看",
       "type": 1,
@@ -162,6 +128,42 @@
         "经典片"
       ]
     },
+    
+{
+     "key": "獨播庫",
+      "name": "獨播庫",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/duboku1.json"
+    },
+    
+     {
+      "key": "百度",
+      "name": "百度",
+       "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "大陆剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片"
+      ]
+    },
+   
     {
       "key": "泥巴",
       "name": "泥巴",
