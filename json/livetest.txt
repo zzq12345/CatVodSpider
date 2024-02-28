@@ -105,7 +105,24 @@ CCTV-16奥林匹克,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv16.m3u8
 CCTV-17农业农村,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv17.m3u8
 CCTV-4K超高清,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv4k.m3u8
 CCTV-1综合,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv1.m3u8
-CCTV-2财经,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv2.m3u8CCTV-3综艺,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv3.m3u8CCTV-4中文国际,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv4.m3u8CCTV-5体育,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv5.m3u8CCTV-5+体育赛事,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv5p.m3u8CCTV-6电影,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv6.m3u8CCTV-7国防军事,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv7.m3u8CCTV-8电视剧,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv8.m3u8CCTV-纪录9,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv9.m3u8CCTV-10科教,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv10.m3u8CCTV-11戏曲,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv11.m3u8CCTV-12社会与法,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv12.m3u8CCTV-13新闻,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv13.m3u8CCTV-14少儿,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv14.m3u8CCTV-15音乐,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv15.m3u8CCTV-16奥林匹克,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv16.m3u8CCTV-17农业农村,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv17.m3u8CCTV-4K超高清,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv4k.m3u8
+CCTV-2财经,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv2.m3u8
+CCTV-3综艺,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv3.m3u8
+CCTV-4中文国际,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv4.m3u8
+CCTV-5体育,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv5.m3u8
+CCTV-5+体育赛事,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv5p.m3u8
+CCTV-6电影,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv6.m3u8
+CCTV-7国防军事,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv7.m3u8
+CCTV-8电视剧,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv8.m3u8
+CCTV-纪录9,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv9.m3u8
+CCTV-10科教,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv10.m3u8
+CCTV-11戏曲,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv11.m3u8
+CCTV-12社会与法,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv12.m3u8
+CCTV-13新闻,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv13.m3u8
+CCTV-14少儿,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv14.m3u8
+CCTV-15音乐,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv15.m3u8
+CCTV-16奥林匹克,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv16.m3u8
+CCTV-17农业农村,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv17.m3u8
+CCTV-4K超高清,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv4k.m3u8
 
 CCTV1,http://61.170.80.241/liveali-tpgq.cctv.cn/live/cctv1.m3u8
 CCTV2,http://61.170.80.241/liveali-tpgq.cctv.cn/live/cctv2.m3u8
