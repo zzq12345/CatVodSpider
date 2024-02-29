@@ -4180,6 +4180,8 @@ cctv-4亚洲,http://192.168.10.250/cctv4.php
 第一财经.浦东电视台,https://www.yicai.com/api/dfcj/liveIndex.m3u8
 看看新闻直播,http://192.168.10.250/kankanlive.php?id=1
 看看新闻直播,http://192.168.10.250/kankanlive.php?id=2
+看看新闻直播回看,http://192.168.10.250/kankanriview.php?id=1
+看看新闻直播回看,http://192.168.10.250/kankanriview.php?id=2
 第一财经直播,http://192.168.10.250/diyicaijinglive.php?id=1
 第一财经直播,http://192.168.10.250/diyicaijinglive.php?id=2
 中台灣生活網頻道,http://192.168.10.250/linetv.php?id=taiwanshenghuonews
