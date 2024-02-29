@@ -329,7 +329,8 @@ http://192.168.10.250/douyu.php?id=1504768
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",东方甄选
 http://192.168.10.250/douyin.php?id=80017709309
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",粤语🎤晴天
+http://192.168.10.250/douyin.php?id=962535210669
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",cctv1
 http://192.168.10.250/douyin.php?id=456815963645
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",cctv4
@@ -3536,7 +3537,10 @@ https://www.yicai.com/api/dfcj/liveIndex.m3u8
 http://192.168.10.250/kankanlive.php?id=1
 #EXTINF:-1 tvg-id="100700" tvg-name="" tvg-logo="" group-title="youtube",看看新闻直播
 http://192.168.10.250/kankanlive.php?id=2
-
+#EXTINF:-1 tvg-id="100700" tvg-name="" tvg-logo="" group-title="youtube",看看新闻直播回看
+http://192.168.10.250/kankanriview.php?id=1
+#EXTINF:-1 tvg-id="100700" tvg-name="" tvg-logo="" group-title="youtube",看看新闻直播回看
+http://192.168.10.250/kankanriview.php?id=2
 #EXTINF:-1 tvg-id="100699" tvg-name="" tvg-logo="" group-title="youtube",第一财经直播
 http://192.168.10.250/diyicaijinglive.php?id=1
 #EXTINF:-1 tvg-id="1006997" tvg-name="" tvg-logo="" group-title="youtube",第一财经直播
@@ -4258,15 +4262,15 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/32212
 
 
 
-#EXTINF:-1 group-title="香港" tvg-id="70004" tvg-chno="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無線新聞
+#EXTINF:-1 group-title="香港" tvg-id="70004" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無線新聞
 http://192.168.10.250/tvb1.php?id=NEWS
-#EXTINF:-1 group-title="香港" tvg-id="70006" tvg-chno="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png",無線財經
+#EXTINF:-1 group-title="香港" tvg-id="70006" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png",無線財經
 http://192.168.10.250/tvb1.php?id=FINA 
 
 
- #EXTINF:-1 group-title="香港" tvg-id="70004" tvg-chno="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",无线新闻台·海外版[1920x1080]
+#EXTINF:-1 group-title="香港" tvg-id="70004" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",无线新闻台·海外版
 http://192.168.10.250/tvb2.php?id=2
-#EXTINF:-1 group-title="香港" tvg-id="70006" tvg-chno="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png", 无线财*体育资讯台·网络版[1920x1080]
+#EXTINF:-1 group-title="香港" tvg-id="70006"  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png", 无线财经体育资讯台·网络版
 http://192.168.10.250/tvb2.php?id=3
 
 
