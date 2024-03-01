@@ -5383,6 +5383,8 @@ http://127.0.0.1:8081/huawen.php?id=dongfangweishi
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.setv.sh.cn/images/logo.png" tvg-name="上海教育" group-title="地方",上海教育
 http://127.0.0.1:8081/shanghaijiaoyu.php?id=setv
 
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="地方",shanghai eye
+http://127.0.0.1:8081/shanghaieye.php
 
 
 
