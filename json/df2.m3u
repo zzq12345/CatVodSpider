@@ -328,6 +328,8 @@ http://192.168.10.250/douyu.php?id=1504768
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",东方甄选
 http://192.168.10.250/douyin.php?id=80017709309
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",上海外语频道
+http://192.168.10.250/douyin.php?id=250514675201
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",粤语🎤晴天
 http://192.168.10.250/douyin.php?id=962535210669
