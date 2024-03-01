@@ -5384,6 +5384,8 @@ http://192.168.10.250/huawen.php?id=dongfangweishi
 http://192.168.10.250/shanghaijiaoyu.php?id=setv
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="地方",shanghai eye
+http://192.168.10.250/shanghaieye.php
 
 
 
