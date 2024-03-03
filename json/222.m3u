@@ -1,4 +1,155 @@
 #EXTM3U url-tvg="http://zzqwe.giize.com:12228/epg4gtv2.xml,http://epg.51zmt.top:8000/e.xml,https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml,http://zzqwe.giize.com:12228/epgmysuper.xml,http://zzqwe.giize.com:12228/epganywhere.xml,https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz,https://weareblahs.github.io/epg/astro.xml,https://weareblahs.github.io/epg/astro.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="台湾酒店",台视HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1047
+#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="台湾酒店",中视HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1048
+#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台湾酒店",华视HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1049
+#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="台湾酒店",民视HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1050
+#EXTINF:-1 tvg-id="6031" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="台湾酒店",公视
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1201
+#EXTINF:-1 tvg-id="6029" tvg-name="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="台湾酒店",人间卫视
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1198
+#EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="台湾酒店",大爱电视
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1216
+#EXTINF:-1 tvg-id="6033" tvg-name="GoodTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoodTV.png" group-title="台湾酒店",好消息GOOD TV
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1669
+#EXTINF:-1 tvg-id="988" tvg-name="TraceSports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TRACESportStars.png" group-title="台湾酒店",Trace Sport Stars
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1003
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="台湾酒店",DISCOVERY
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾酒店",旅游生活
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1005
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="台湾酒店",动物星球
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1004
+#EXTINF:-1 tvg-id="6172" tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="台湾酒店",亚洲旅游
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1219
+#EXTINF:-1 tvg-id="6042" tvg-name="MOMO亲子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="台湾酒店",MOMO亲子台
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1007
+#EXTINF:-1 tvg-id="6043" tvg-name="东森幼幼台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" group-title="台湾酒店",东森幼幼HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1008
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾酒店",龙华卡通台
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1670
+#EXTINF:-1 tvg-id="6044" tvg-name="纬来综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png" group-title="台湾酒店",纬来综合HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1044
+#EXTINF:-1 tvg-id="6045" tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="台湾酒店",八大第一HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1043
+#EXTINF:-1 tvg-id="6046" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="台湾酒店",八大综合HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1019
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="台湾酒店",三立台湾HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1021
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="台湾酒店",三立都会HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1020
+#EXTINF:-1 tvg-id="6161" tvg-name="韩国娱乐台KMTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/KMTV.png" group-title="台湾酒店",韩国娱乐台
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1024
+#EXTINF:-1 tvg-id="6050" tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="台湾酒店",东森综合HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1041
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾酒店",超视HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1180
+#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台湾酒店",中天综合HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1022
+#EXTINF:-1 tvg-id="6057" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="台湾酒店",中天娱乐HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1023
+#EXTINF:-1 tvg-id="6055" tvg-name="东风卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/东风卫视.png" group-title="台湾酒店",东风卫视
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1195
+#EXTINF:-1 tvg-id="6056" tvg-name="年代MUCH" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代MUCH.png" group-title="台湾酒店",MUCH TV
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1189
+#EXTINF:-1 tvg-id="6058" tvg-name="东森戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="台湾酒店",东森戏剧HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1042
+#EXTINF:-1 tvg-id="6059" tvg-name="八大戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" group-title="台湾酒店",八大戏剧HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1057
+#EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="台湾酒店",TVBS欢乐HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1018
+#EXTINF:-1 tvg-id="6061" tvg-name="纬来戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png" group-title="台湾酒店",纬来戏剧
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1186
+#EXTINF:-1 tvg-id="7127" tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华戏剧.png" group-title="台湾酒店",龙华戏剧台
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1671
+#EXTINF:-1 tvg-id="7158" tvg-name="龙华日韩台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png" group-title="台湾酒店",龙华日韩剧
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1672
+#EXTINF:-1 tvg-id="7126" tvg-name="龙华偶像" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华偶像.png" group-title="台湾酒店",龙华偶像剧
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1673
+#EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="台湾酒店",纬来日本HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1026
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾酒店",Taiwan Plus
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1674
+#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="台湾酒店",年代新闻
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1192
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾酒店",东森新闻HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1014
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾酒店",中天新闻
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1675
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台湾酒店",民视新闻
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1204
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="台湾酒店",三立新闻HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1016
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="台湾酒店",TVBS新闻HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1052
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="台湾酒店",TVBS HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1668
+#EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="台湾酒店",非凡新闻HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1013
+#EXTINF:-1 tvg-id="6107" tvg-name="非凡商业台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueUSTVHDUSTVHD.png" group-title="台湾酒店",非凡商业HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1012
+#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台湾酒店",东森财经HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1017
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾酒店",寰宇新闻
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1222
+#EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="台湾酒店",壹新闻
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1676
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="台湾酒店",Bloomberg News
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1066
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾酒店",NHK世界HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾酒店",镜电视新闻台
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1031
+#EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="台湾酒店",好莱坞电影HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1025
+#EXTINF:-1 tvg-id="6081" tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="台湾酒店",纬来电影HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1183
+#EXTINF:-1 tvg-id="7128" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华电影.png" group-title="台湾酒店",龙华电影台
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1677
+#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="台湾酒店",HBO
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1029
+#EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="台湾酒店",AXN
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1054
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾酒店",CINEMAX HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1030
+#EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="台湾酒店",AMC 电影台
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1032
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾酒店",宠物频道
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1040
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾酒店",纬来育乐HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1045
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="台湾酒店",纬来体育HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1011
+#EXTINF:-1 tvg-id="6180" tvg-name="博斯运动一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" group-title="台湾酒店",博斯运动一
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1678
+#EXTINF:-1 tvg-id="6042" tvg-name="MOMO亲子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="台湾酒店",momo综合台
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1225
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾酒店",ELEVEN SPORTS 1 HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1069
+#EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="台湾酒店",ELEVEN SPORTS 2 HD
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1072
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="台湾酒店",厦门卫视
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1033
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="台湾酒店",CCTV4-中央卫视
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1034
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾酒店",海峡卫视
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1035
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="台湾酒店",浙江卫视
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1036
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="台湾酒店",东方卫视
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1037
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="台湾酒店",湖南卫视
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1038
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾酒店",鳯凰卫视资讯
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1666
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾酒店",鳯凰卫视中文
+http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1213
+
+
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="Meroser IP6",CCTV-1 综合
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="A02" tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV2.png" group-title="Meroser IP6",CCTV-2 财经
