@@ -721,7 +721,7 @@
 {"name": "海外看","hosts": ["."],"regex": [ "10.0099","10.3333","16.0599","8.1748","12.33","10.85","15.08","15.1666","15.2666"]},
 
 
-{"name": "海外看","hosts": ["."],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?muguacdn.*?\\.ts\\s+","#EXTINF.*?\\s+.*?original.*?\\.ts\\s+","#EXTINF.*?\\s+.*?\\/[\\d]{8}\\/[a-zA-Z0-9]{8}\\/[a-z0-9]{7}\\/hls\\/.*?\\.ts\\s+","#EXTINF.*?\\s+[a-zA-Z0-9]+[1-9][\\d]{4}\\.ts\\s+"]}
+{"name": "海外看","hosts": ["."],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?muguacdn.*?\\.ts\\s+","#EXTINF.*?\\s+.*?original.*?\\.ts\\s+","#EXTINF.*?\\s+.*?\\/[\\d]{8}\\/[a-zA-Z0-9]{8}\\/[a-z0-9]{7}\\/hls\\/.*?\\.ts\\s+","#EXTINF.*?\\s+[a-zA-Z0-9]+[1-9][\\d]{4}\\.ts\\s+"]},
 
 
     
