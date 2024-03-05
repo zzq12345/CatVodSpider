@@ -3918,42 +3918,42 @@ http://127.0.0.1:8081/cbsnewslive.php?id=18
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News miami
-http://127.0.0.1/cbsnewsweb.php?id=miami
+http://127.0.0.1:8081/cbsnewsweb.php?id=miami
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News baltimore
-http://127.0.0.1/cbsnewsweb.php?id=baltimore
+http://127.0.0.1:8081/cbsnewsweb.php?id=baltimore
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Minnesota
-http://127.0.0.1/cbsnewsweb.php?id=minnesota
+http://127.0.0.1:8081/cbsnewsweb.php?id=minnesota
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Bay Area
-http://127.0.0.1/cbsnewsweb.php?id=sanfrancisco
+http://127.0.0.1:8081/cbsnewsweb.php?id=sanfrancisco
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News New York
-http://127.0.0.1/cbsnewsweb.php?id=newyork
+http://127.0.0.1:8081/cbsnewsweb.php?id=newyork
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Boston
-http://127.0.0.1/cbsnewsweb.php?id=boston
+http://127.0.0.1:8081/cbsnewsweb.php?id=boston
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Philadelphia
-http://127.0.0.1/cbsnewsweb.php?id=philadelphia
+http://127.0.0.1:8081/cbsnewsweb.php?id=philadelphia
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Chicago
-http://127.0.0.1/cbsnewsweb.php?id=chicago
+http://127.0.0.1:8081/cbsnewsweb.php?id=chicago
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Pittsburgh
-http://127.0.0.1/cbsnewsweb.php?id=pittsburgh
+http://127.0.0.1:8081/cbsnewsweb.php?id=pittsburgh
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Colorado
-http://127.0.0.1/cbsnewsweb.php?id=colorado
+http://127.0.0.1:8081/cbsnewsweb.php?id=colorado
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Sacramento
-http://127.0.0.1/cbsnewsweb.php?id=sacramento
+http://127.0.0.1:8081/cbsnewsweb.php?id=sacramento
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Detroit
-http://127.0.0.1/cbsnewsweb.php?id=detroit
+http://127.0.0.1:8081/cbsnewsweb.php?id=detroit
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Texas
-http://127.0.0.1/cbsnewsweb.php?id=texas
+http://127.0.0.1:8081/cbsnewsweb.php?id=texas
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Los Angeles
-http://127.0.0.1/cbsnewsweb.php?id=losangeles
+http://127.0.0.1:8081/cbsnewsweb.php?id=losangeles
 
 
 
