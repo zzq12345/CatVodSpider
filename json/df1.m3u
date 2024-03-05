@@ -330,7 +330,6 @@ http://127.0.0.1:8081/douyu.php?id=1504768
 http://127.0.0.1:8081/douyin.php?id=80017709309
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",上海外语频道
 http://127.0.0.1:8081/douyin.php?id=250514675201
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",粤语🎤晴天
 http://127.0.0.1:8081/douyin.php?id=962535210669
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",cctv1
@@ -3879,36 +3878,84 @@ http://127.0.0.1:8081/firsttv.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",firsttvyoutube
 http://127.0.0.1:8081/firsttv1.php
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBSNLatest headlines
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Live
 http://127.0.0.1:8081/cbsnewslive.php?id=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBSN Baltimore
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Baltimore
 http://127.0.0.1:8081/cbsnewslive.php?id=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBSN Bay Area
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Bay Area
 http://127.0.0.1:8081/cbsnewslive.php?id=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBSN Boston
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Boston
 http://127.0.0.1:8081/cbsnewslive.php?id=4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBSN Chicago
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Chicago
 http://127.0.0.1:8081/cbsnewslive.php?id=5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBSN Dallas
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Colorado
 http://127.0.0.1:8081/cbsnewslive.php?id=6
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBSN Denver
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Detroit
 http://127.0.0.1:8081/cbsnewslive.php?id=7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBSN Los Angeles
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Los Angeles
 http://127.0.0.1:8081/cbsnewslive.php?id=8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBSN Minnesota
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Miami
 http://127.0.0.1:8081/cbsnewslive.php?id=9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBSN New York
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Minnesota
 http://127.0.0.1:8081/cbsnewslive.php?id=10
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBSN Philly
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News New York
 http://127.0.0.1:8081/cbsnewslive.php?id=11
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBSN Pittsburgh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Philadelphia
 http://127.0.0.1:8081/cbsnewslive.php?id=12
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBSN Sacramento
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Pittsburgh
 http://127.0.0.1:8081/cbsnewslive.php?id=13
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS Sports HQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Sacramento
 http://127.0.0.1:8081/cbsnewslive.php?id=14
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS fusion-et-live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Texas
 http://127.0.0.1:8081/cbsnewslive.php?id=15
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS Sports HQ
+http://127.0.0.1:8081/cbsnewslive.php?id=16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",Inside Edition 24/7
+http://127.0.0.1:8081/cbsnewslive.php?id=17
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",ET: The Leader in Celebrity News
+http://127.0.0.1:8081/cbsnewslive.php?id=18
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News miami
+http://127.0.0.1/cbsnewsweb.php?id=miami
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News baltimore
+http://127.0.0.1/cbsnewsweb.php?id=baltimore
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Minnesota
+http://127.0.0.1/cbsnewsweb.php?id=minnesota
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Bay Area
+http://127.0.0.1/cbsnewsweb.php?id=sanfrancisco
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News New York
+http://127.0.0.1/cbsnewsweb.php?id=newyork
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Boston
+http://127.0.0.1/cbsnewsweb.php?id=boston
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Philadelphia
+http://127.0.0.1/cbsnewsweb.php?id=philadelphia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Chicago
+http://127.0.0.1/cbsnewsweb.php?id=chicago
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Pittsburgh
+http://127.0.0.1/cbsnewsweb.php?id=pittsburgh
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Colorado
+http://127.0.0.1/cbsnewsweb.php?id=colorado
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Sacramento
+http://127.0.0.1/cbsnewsweb.php?id=sacramento
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Detroit
+http://127.0.0.1/cbsnewsweb.php?id=detroit
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Texas
+http://127.0.0.1/cbsnewsweb.php?id=texas
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CBS News Los Angeles
+http://127.0.0.1/cbsnewsweb.php?id=losangeles
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",美国CBN Newsy outube
 http://127.0.0.1:8081/cbnnewsyb.php
@@ -5387,7 +5434,6 @@ http://127.0.0.1:8081/shanghaijiaoyu.php?id=setv
 
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="地方",shanghai eye
 http://127.0.0.1:8081/shanghaieye.php
-
 
 
 
