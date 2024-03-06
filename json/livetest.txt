@@ -4107,6 +4107,7 @@ CBS News Detroit,http://127.0.0.1:8081/cbsnewsweb.php?id=detroit
 CBS News Texas,http://127.0.0.1:8081/cbsnewsweb.php?id=texas
 CBS News Los Angeles,http://127.0.0.1:8081/cbsnewsweb.php?id=losangeles
 美国CBN Newsy outube,http://127.0.0.1:8081/cbnnewsyb.php
+美国CBN Newsy weblive,http://127.0.0.1:8081/cbsnewsweblive.php
 cbn family,http://127.0.0.1:8081/cbn.php?id=5721815535001
 cbn news,http://127.0.0.1:8081/cbn.php?id=5721888200001
 cbn spain,http://127.0.0.1:8081/cbn.php?id=5721890224001
