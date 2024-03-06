@@ -4169,7 +4169,7 @@ RT News (1080p) [Geo-bloc,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 俄罗斯RTfrance,https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 俄罗斯RTdocument,https://rt-rtd.rttv.com/dvr/rtdoc/playlistr_4500Kb.m3u8
 俄羅斯HTB電影台,http://127.0.0.1:8081/russiantv.php
-俄羅斯第一電視台,http://127.0.0.1:8081/first.php
+俄羅斯第一電視台,http://127.0.0.1:8081/first.php?id=1
 俄罗斯紅星電視台,https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 俄罗斯紅星電視台,http://127.0.0.1:8081/redstar.php
 俄罗斯RT新闻,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
