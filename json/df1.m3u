@@ -3956,7 +3956,8 @@ http://127.0.0.1:8081/cbsnewsweb.php?id=losangeles
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",美国CBN Newsy outube
 http://127.0.0.1:8081/cbnnewsyb.php
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",美国CBN Newsy weblive
+http://127.0.0.1:8081/cbsnewsweblive.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",cbn family
 http://127.0.0.1:8081/cbn.php?id=5721815535001    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",cbn news
