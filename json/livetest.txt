@@ -4112,6 +4112,9 @@ cbn news,http://127.0.0.1:8081/cbn.php?id=5721888200001
 cbn spain,http://127.0.0.1:8081/cbn.php?id=5721890224001
 美国abc news now youtube,http://127.0.0.1:8081/abcnewsnow.php
 美国abc news,http://127.0.0.1:8081/abcnewsgo.php
+美国ABC NEWS,http://127.0.0.1:8081/youtube.php?v=w_Ma8oQLmSM
+美国ABC NEWS,http://127.0.0.1:8081/abcnews.php
+美国ABC NEWS,http://127.0.0.1:8081/abcnewsapp.php
 美国ABC 7 NEWS,http://127.0.0.1:8081/abc7news.php
 美国abc9,http://127.0.0.1:8081/abc9.php
 美国abc10,http://127.0.0.1:8081/abc10.php
@@ -4136,9 +4139,7 @@ NASA2,http://127.0.0.1:8081/youtube.php?v=nA9UZF-SZoQ
 Bloomberg Quicktake: Now 24/7 Live Breaking News,http://127.0.0.1:8081/bloombergquicktake.php
 BloombergHT Canlı Yayın ᴴᴰ,http://127.0.0.1:8081/bloomberghtyoutube.php
 美国蓬勃财经Bloomberg,http://127.0.0.1:8081/youtube.php?v=dp8PhLsUcFE
-美国ABC NEWS,http://127.0.0.1:8081/youtube.php?v=w_Ma8oQLmSM
-美国ABC NEWS,http://127.0.0.1:8081/abcnews.php
-美国ABC NEWS,http://127.0.0.1:8081/abcnewsapp.php
+
 美国News12,http://127.0.0.1:8081/news12.php
 gbnews,http://127.0.0.1:8081/gbnews.php
 半岛电视英文台Al Jazeera English,https://live-hls-web-aje.getaj.net/AJE/index.m3u8
