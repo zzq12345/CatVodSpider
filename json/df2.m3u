@@ -3731,8 +3731,7 @@ http://192.168.10.250/NatGeoWild.php
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",yahoofinace
 http://192.168.10.250/yahoofinace.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",60minutes
-http://192.168.10.250/60minutes.php
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",USATODAY
 http://192.168.10.250/USATODAY.php
 
