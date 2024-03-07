@@ -4108,13 +4108,15 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 http://192.168.10.250/trtenglish.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",伊朗presstv
 
-Https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",伊朗presstv
 http://192.168.10.250/presstv.php
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="youtube",RT Documentary (1080p) [G
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="youtube",RT Documentary (1080p) 
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="youtube",RT News (1080p) [Geo-bloc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="youtube",RT News (1080p)
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 
@@ -4175,26 +4177,22 @@ http://192.168.10.250/youtube.php?v=Ka4BElF4_3w
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",United Nations - LIVE
 http://192.168.10.250/un.php
 
+#EXTINF:-1 tvg-id="100194" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="youtube",Arirang TV UN
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="100194" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="youtube",Arirang KOREA
+https://amdlive-ch04-ctnd-com.akamaized.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="100194" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="youtube",Arirang TV World
 
-
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="100194" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="youtube",Arirang TV World
 http://192.168.10.250/arirangworldyoutbe.php
-#EXTINF:-1 tvg-id="100194" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="youtube",Arirang TV UN
-http://192.168.10.250/arirangunyoutbe.php
 
-#EXTINF:-1 tvg-id="100194" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="youtube",Arirang KOREA
-http://192.168.10.250/arirangkoreayoutbe.php
 
-#EXTINF:-1 tvg-id="100194" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="youtube",Arirang TV UN
-https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",kbsworld weblive
+http://192.168.10.250/kbsworldweb.php
 
-#EXTINF:-1 tvg-id="100194" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="youtube",Arirang KOREA
-https://amdlive-ch04-ctnd-com.akamaized.net/arirang_4ch/smil:arirang_4ch.smil/chunklist_b1728000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="100194" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="youtube",Arirang TV World
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",kbsworld
 http://192.168.10.250/kbsworld.php
 
@@ -4210,10 +4208,7 @@ http://192.168.10.250/kpop2.php
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",[YTN LIVE] 대한민국 24시간 뉴스채널 YTN
 
-http://192.168.10.250/ytn.php?id=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",[YTN LIVE] 대한민국 24시간 뉴스채널 YTN
-
-http://192.168.10.250/ytn.php?id=2
+http://192.168.10.250/ytn.php
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",YTNKOREAN
 http://192.168.10.250/ytnkorean.php
