@@ -4228,11 +4228,11 @@ http://127.0.0.1:8081/ytnkorean1.php
 http://127.0.0.1:8081/youtube.php?v=0GN8t2u3flc
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",日本中文台NHKCHINA
-http://127.0.0.1:8081/nhkchina.php
+
 #EXTINF:-1 tvg-id="100159" tvg-name="" tvg-logo="" group-title="youtube",日本NHKworld
 http://127.0.0.1:8081/nhkworld.php
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",日本中文台NHKCHINA
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/zh/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",日本24小时JAPAN24
 http://127.0.0.1:8081/youtube.php?v=coYw-eVU0Ks
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",日本KBC NEWS LIVE 24
@@ -4244,21 +4244,19 @@ http://127.0.0.1:8081/beihaidao.php
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",非洲24小时Africa24 english Live
-http://127.0.0.1:8081/youtube.php?v=L5Ppr0JvPws
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",非洲24小时Africanews english Live
+http://127.0.0.1:8081/africanews.php
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",ntv
 http://127.0.0.1:8081/ntv.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",NDTV Profit Live TV
-http://127.0.0.1:8081/youtube.php?v=GPKXF3mzAlU
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",tv9
 http://127.0.0.1:8081/tv9.php
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",印度NBC18 NEWS
 http://127.0.0.1:8081/cnbc18.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",印度NDTV Profit Live TV 
-http://127.0.0.1:8081/youtube.php?v=GPKXF3mzAlU
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",印度NDTV 24x7 LIVE TV 
@@ -4270,16 +4268,15 @@ http://127.0.0.1:8081/aljazeeraarabic.php
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",TJK TV | Canlı Yayın
 http://127.0.0.1:8081/TAYTV.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",TAfrica24 Live
-http://127.0.0.1:8081/youtube.php?v=L5Ppr0JvPws
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",BBC  阿拉伯语
-http://127.0.0.1:8081/youtube.php?v=HxI2TxhhS9A
+http://127.0.0.1:8081/bbcarabic.php.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",土耳其阿拉伯
 http://127.0.0.1:8081/trtarabic.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",土耳其阿拉伯
 https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",Sky News 阿拉伯语 
-http://127.0.0.1:8081/youtube.php?v=IT2pWSWneTc
+http://127.0.0.1:8081/skynewsarabic.php
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",DW阿拉伯语
@@ -4288,7 +4285,7 @@ http://127.0.0.1:8081/dwarabic.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",francearabic
 http://127.0.0.1:8081/france24arabic.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CNBC Awaaz Live 
-http://127.0.0.1:8081/youtube.php?v=iNz2lOJwd2g
+http://127.0.0.1:8081/cnbcarabic.php
 
 
 

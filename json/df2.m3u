@@ -4228,11 +4228,11 @@ http://192.168.10.250/ytnkorean1.php
 http://192.168.10.250/youtube.php?v=0GN8t2u3flc
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",日本中文台NHKCHINA
-http://192.168.10.250/nhkchina.php
+
 #EXTINF:-1 tvg-id="100159" tvg-name="" tvg-logo="" group-title="youtube",日本NHKworld
 http://192.168.10.250/nhkworld.php
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",日本中文台NHKCHINA
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/zh/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",日本24小时JAPAN24
 http://192.168.10.250/youtube.php?v=coYw-eVU0Ks
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",日本KBC NEWS LIVE 24
@@ -4244,21 +4244,19 @@ http://192.168.10.250/beihaidao.php
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",非洲24小时Africa24 english Live
-http://192.168.10.250/youtube.php?v=L5Ppr0JvPws
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",非洲24小时Africanews english Live
+http://192.168.10.250/africanews.php
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",ntv
 http://192.168.10.250/ntv.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",NDTV Profit Live TV
-http://192.168.10.250/youtube.php?v=GPKXF3mzAlU
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",tv9
 http://192.168.10.250/tv9.php
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",印度NBC18 NEWS
 http://192.168.10.250/cnbc18.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",印度NDTV Profit Live TV 
-http://192.168.10.250/youtube.php?v=GPKXF3mzAlU
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",印度NDTV 24x7 LIVE TV 
@@ -4270,16 +4268,15 @@ http://192.168.10.250/aljazeeraarabic.php
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",TJK TV | Canlı Yayın
 http://192.168.10.250/TAYTV.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",TAfrica24 Live
-http://192.168.10.250/youtube.php?v=L5Ppr0JvPws
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",BBC  阿拉伯语
-http://192.168.10.250/youtube.php?v=HxI2TxhhS9A
+http://192.168.10.250/bbcarabic.php.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",土耳其阿拉伯
 http://192.168.10.250/trtarabic.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",土耳其阿拉伯
 https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",Sky News 阿拉伯语 
-http://192.168.10.250/youtube.php?v=IT2pWSWneTc
+http://192.168.10.250/skynewsarabic.php
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",DW阿拉伯语
@@ -4288,7 +4285,7 @@ http://192.168.10.250/dwarabic.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",francearabic
 http://192.168.10.250/france24arabic.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube",CNBC Awaaz Live 
-http://192.168.10.250/youtube.php?v=iNz2lOJwd2g
+http://192.168.10.250/cnbcarabic.php
 
 
 
