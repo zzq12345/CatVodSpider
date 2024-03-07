@@ -4161,7 +4161,7 @@ R1SE-何洛洛,http://192.168.10.250/huya.php?id=532671
 -等雾散,http://192.168.10.250/huya.php?id=18055625
 娱乐大王牌,http://192.168.10.250/huya.php?id=880242
 NCT127-在玹,http://192.168.10.250/huya.php?id=637218
-youtube,#genre#
+youtube新闻中文,#genre#
 鳳凰資訊頻道,http://192.168.10.250/fenghuangyoutube.php?id=1
 喀秋莎,http://192.168.10.250/kaqiusha.php?id=1
 俄罗斯中文频道,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
@@ -4172,7 +4172,6 @@ CCTV NEWS欧洲,http://192.168.10.250/cctvfrench.php
 CCTV-13HD,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
 CCTV-6,http://192.168.10.250/douyin.php?id=69416429589
 CCTV-6,http://192.168.10.250/douyin.php?id=208823316033
-CCTV-6,http://mobilelive-pull.ysp.cctv.cn/ysp/2013693901.m3u8
 cctv-4亚洲,http://192.168.10.250/cctv4.php
 第一财经电视台,http://192.168.10.250/diyicaijing.php
 第一财经电视台,http://192.168.10.250/diyicaijing1.php
@@ -4244,6 +4243,9 @@ SupremeMasterTV Live,http://192.168.10.250/youtube.php?v=qHIk_qdNFy0
 海豚综合台,http://192.168.10.250/haitun.php
 诚心电视台,http://192.168.10.250/chengxin.php
 信大电视台,http://192.168.10.250/xinda.php
+
+youtube world news,#genre#
+
 AriseNewsChannel,http://192.168.10.250/AriseNewsChannel.php
 NatGeoyoutube,http://192.168.10.250/NatGeo.php
 NatGeoWildyoutube,http://192.168.10.250/NatGeoWild.php
@@ -4251,8 +4253,8 @@ yahoofinace,http://192.168.10.250/yahoofinace.php
 60minutes,http://192.168.10.250/60minutes.php
 USATODAY,http://192.168.10.250/USATODAY.php
 scrippsnews,http://192.168.10.250/scrippsnews.php
-
 schwab,http://192.168.10.250/schwab.php
+scrippsnews,http://192.168.10.250/scrippsnews.php
 zeebusiness,http://192.168.10.250/zeebusiness.php
 ntd news,https://ntd02.akamaized.net/NTDA/index.m3u8
 奥林匹克官网直播,http://192.168.10.250/olympic.php
@@ -4291,41 +4293,60 @@ FOX Weather,http://192.168.10.250/foxnews11.php?id=4
 KTVU FOX 2 (San Francisco),http://192.168.10.250/foxnews11.php?id=5
 FOX 10 Phoenix,http://192.168.10.250/foxnews11.php?id=6
 FOX 13 Seattle,http://192.168.10.250/foxnews11.php?id=7
-FOX 7 Austin,http://192.168.10.250/foxnews11.php?id=8
-FOX 4 (Dallas-Fort Worth),http://192.168.10.250/foxnews11.php?id=9
-FOX 26 Houston,http://192.168.10.250/foxnews11.php?id=10
-FOX 32 Chicago,http://192.168.10.250/foxnews11.php?id=11
-FOX 5 New York,http://192.168.10.250/foxnews11.php?id=12
-FOX 5 Atlanta,http://192.168.10.250/foxnews11.php?id=13
-FOX 5 Washington DC,http://192.168.10.250/foxnews11.php?id=14
-FOX 29 Philadelphia,http://192.168.10.250/foxnews11.php?id=15
-FOX 2 Detroit,http://192.168.10.250/foxnews11.php?id=16
-FOX6 Milwaukee,http://192.168.10.250/foxnews11.php?id=17
-FOX 9 (Minneapolis-St. Paul),http://192.168.10.250/foxnews11.php?id=18
-FOX 35 Orlando,http://192.168.10.250/foxnews11.php?id=20
-FOX 13 Tampa Bay,http://192.168.10.250/foxnews11.php?id=21
+FOX 4 (Dallas-Fort Worth),http://192.168.10.250/foxnews11.php?id=8
+FOX 26 Houston,http://192.168.10.250/foxnews11.php?id=9
+FOX 32 Chicago,http://192.168.10.250/foxnews11.php?id=10
+FOX 5 New York,http://192.168.10.250/foxnews11.php?id=11
+FOX 5 Atlanta,http://192.168.10.250/foxnews11.php?id=12
+FOX 5 Washington DC,http://192.168.10.250/foxnews11.php?id=13
+FOX 29 Philadelphia,http://192.168.10.250/foxnews11.php?id=14
+FOX 2 Detroit,http://192.168.10.250/foxnews11.php?id=15
+FOX6 Milwaukee,http://192.168.10.250/foxnews11.php?id=16
+FOX 35 Orlando,http://192.168.10.250/foxnews11.php?id=17
+FOX 13 Tampa Bay,http://192.168.10.250/foxnews11.php?id=18
 firsttv,http://192.168.10.250/firsttv.php
 firsttvyoutube,http://192.168.10.250/firsttv1.php
-CBSNLatest headlines,http://192.168.10.250/cbsnewslive.php?id=1
-CBSN Baltimore,http://192.168.10.250/cbsnewslive.php?id=2
-CBSN Bay Area,http://192.168.10.250/cbsnewslive.php?id=3
-CBSN Boston,http://192.168.10.250/cbsnewslive.php?id=4
-CBSN Chicago,http://192.168.10.250/cbsnewslive.php?id=5
-CBSN Dallas,http://192.168.10.250/cbsnewslive.php?id=6
-CBSN Denver,http://192.168.10.250/cbsnewslive.php?id=7
-CBSN Los Angeles,http://192.168.10.250/cbsnewslive.php?id=8
-CBSN Minnesota,http://192.168.10.250/cbsnewslive.php?id=9
-CBSN New York,http://192.168.10.250/cbsnewslive.php?id=10
-CBSN Philly,http://192.168.10.250/cbsnewslive.php?id=11
-CBSN Pittsburgh,http://192.168.10.250/cbsnewslive.php?id=12
-CBSN Sacramento,http://192.168.10.250/cbsnewslive.php?id=13
-CBS Sports HQ,http://192.168.10.250/cbsnewslive.php?id=14
-CBS fusion-et-live,http://192.168.10.250/cbsnewslive.php?id=15
+CBS News Live,http://192.168.10.250/cbsnewslive.php?id=1
+CBS News Baltimore,http://192.168.10.250/cbsnewslive.php?id=2
+CBS News Bay Area,http://192.168.10.250/cbsnewslive.php?id=3
+CBS News Boston,http://192.168.10.250/cbsnewslive.php?id=4
+CBS News Chicago,http://192.168.10.250/cbsnewslive.php?id=5
+CBS News Colorado,http://192.168.10.250/cbsnewslive.php?id=6
+CBS News Detroit,http://192.168.10.250/cbsnewslive.php?id=7
+CBS News Los Angeles,http://192.168.10.250/cbsnewslive.php?id=8
+CBS News Miami,http://192.168.10.250/cbsnewslive.php?id=9
+CBS News Minnesota,http://192.168.10.250/cbsnewslive.php?id=10
+CBS News New York,http://192.168.10.250/cbsnewslive.php?id=11
+CBS News Philadelphia,http://192.168.10.250/cbsnewslive.php?id=12
+CBS News Pittsburgh,http://192.168.10.250/cbsnewslive.php?id=13
+CBS News Sacramento,http://192.168.10.250/cbsnewslive.php?id=14
+CBS News Texas,http://192.168.10.250/cbsnewslive.php?id=15
+CBS Sports HQ,http://192.168.10.250/cbsnewslive.php?id=16
+Inside Edition 24/7,http://192.168.10.250/cbsnewslive.php?id=17
+ET: The Leader in Celebrity News,http://192.168.10.250/cbsnewslive.php?id=18
+CBS News miami,http://192.168.10.250/cbsnewsweb.php?id=miami
+CBS News baltimore,http://192.168.10.250/cbsnewsweb.php?id=baltimore
+CBS News Minnesota,http://192.168.10.250/cbsnewsweb.php?id=minnesota
+CBS News Bay Area,http://192.168.10.250/cbsnewsweb.php?id=sanfrancisco
+CBS News New York,http://192.168.10.250/cbsnewsweb.php?id=newyork
+CBS News Boston,http://192.168.10.250/cbsnewsweb.php?id=boston
+CBS News Philadelphia,http://192.168.10.250/cbsnewsweb.php?id=philadelphia
+CBS News Chicago,http://192.168.10.250/cbsnewsweb.php?id=chicago
+CBS News Pittsburgh,http://192.168.10.250/cbsnewsweb.php?id=pittsburgh
+CBS News Colorado,http://192.168.10.250/cbsnewsweb.php?id=colorado
+CBS News Sacramento,http://192.168.10.250/cbsnewsweb.php?id=sacramento
+CBS News Detroit,http://192.168.10.250/cbsnewsweb.php?id=detroit
+CBS News Texas,http://192.168.10.250/cbsnewsweb.php?id=texas
+CBS News Los Angeles,http://192.168.10.250/cbsnewsweb.php?id=losangeles
 美国CBN Newsy outube,http://192.168.10.250/cbnnewsyb.php
+美国CBN Newsy weblive,http://192.168.10.250/cbsnewsweblive.php
 cbn family,http://192.168.10.250/cbn.php?id=5721815535001
 cbn news,http://192.168.10.250/cbn.php?id=5721888200001
 cbn spain,http://192.168.10.250/cbn.php?id=5721890224001
 美国abc news now youtube,http://192.168.10.250/abcnewsnow.php
+美国abc news,http://192.168.10.250/abcnewsgo.php
+美国ABC NEWS,http://192.168.10.250/abcnews.php
+美国ABC NEWS,http://192.168.10.250/abcnewsapp.php
 美国ABC 7 NEWS,http://192.168.10.250/abc7news.php
 美国abc9,http://192.168.10.250/abc9.php
 美国abc10,http://192.168.10.250/abc10.php
@@ -4349,10 +4370,7 @@ NASA1,http://192.168.10.250/youtube.php?v=21X5lGlDOfg
 NASA2,http://192.168.10.250/youtube.php?v=nA9UZF-SZoQ
 Bloomberg Quicktake: Now 24/7 Live Breaking News,http://192.168.10.250/bloombergquicktake.php
 BloombergHT Canlı Yayın ᴴᴰ,http://192.168.10.250/bloomberghtyoutube.php
-美国蓬勃财经Bloomberg,http://192.168.10.250/youtube.php?v=dp8PhLsUcFE
-美国ABC NEWS,http://192.168.10.250/youtube.php?v=w_Ma8oQLmSM
-美国ABC NEWS,http://192.168.10.250/abcnews.php
-美国ABC NEWS,http://192.168.10.250/abcnewsapp.php
+Bloomberg HT Canlı Yayın ᴴᴰ,http://192.168.10.250/youtube.php?v=hHSmBJk6w0c
 美国News12,http://192.168.10.250/news12.php
 gbnews,http://192.168.10.250/gbnews.php
 半岛电视英文台Al Jazeera English,https://live-hls-web-aje.getaj.net/AJE/index.m3u8
@@ -4373,15 +4391,15 @@ FRANCE24Español,http://192.168.10.250/FRANCE24Español.php
 新加坡亚洲新闻CNA,http://192.168.10.250/youtube.php?v=XWq5kBlakcQ
 土耳其国际英语台TRTWORLD,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 土耳其国际英语台TRTWORLD,http://192.168.10.250/trtenglish.php
-伊朗presstv,Https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+伊朗presstv,https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 伊朗presstv,http://192.168.10.250/presstv.php
-RT Documentary (1080p) [G,https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-RT News (1080p) [Geo-bloc,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+RT Documentary (1080p),https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+RT News (1080p),https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 俄罗斯RT 德語,https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 俄罗斯RTfrance,https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 俄罗斯RTdocument,https://rt-rtd.rttv.com/dvr/rtdoc/playlistr_4500Kb.m3u8
 俄羅斯HTB電影台,http://192.168.10.250/russiantv.php
-俄羅斯第一電視台,http://192.168.10.250/first.php
+俄羅斯第一電視台,http://192.168.10.250/first.php?id=1
 俄罗斯紅星電視台,https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 俄罗斯紅星電視台,http://192.168.10.250/redstar.php
 俄罗斯RT新闻,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
@@ -4398,46 +4416,42 @@ RT News (1080p) [Geo-bloc,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 Channels Television,http://192.168.10.250/Television.php
 United Nations - LIVE,http://192.168.10.250/youtube.php?v=Ka4BElF4_3w
 United Nations - LIVE,http://192.168.10.250/un.php
+Arirang TV UN,https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+Arirang KOREA,https://amdlive-ch04-ctnd-com.akamaized.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
+Arirang TV World,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Arirang TV World,http://192.168.10.250/arirangworldyoutbe.php
-Arirang TV UN,http://192.168.10.250/arirangunyoutbe.php
-Arirang KOREA,http://192.168.10.250/arirangkoreayoutbe.php
-Arirang TV UN,https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/chunklist_b3256000_sleng.m3u8
-Arirang KOREA,https://amdlive-ch04-ctnd-com.akamaized.net/arirang_4ch/smil:arirang_4ch.smil/chunklist_b1728000_sleng.m3u8
-Arirang TV World,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+kbsworld weblive,http://192.168.10.250/kbsworldweb.php
 kbsworld,http://192.168.10.250/kbsworld.php
 K-POP,http://192.168.10.250/kpop.php
 K-POP,http://192.168.10.250/kpop1.php
 K-POP2,http://192.168.10.250/kpop2.php
-[YTN LIVE] 대한민국 24시간 뉴스채널 YTN,http://192.168.10.250/ytn.php?id=1
-[YTN LIVE] 대한민국 24시간 뉴스채널 YTN,http://192.168.10.250/ytn.php?id=2
+[YTN LIVE] 대한민국 24시간 뉴스채널 YTN,http://192.168.10.250/ytn.php
 YTNKOREAN,http://192.168.10.250/ytnkorean.php
 ytndmb,http://192.168.10.250/ytndtmb.php
 ytn news,http://192.168.10.250/ytnnews.php
 ytn2,http://192.168.10.250/ytn2.php
 ytn,http://192.168.10.250/ytnkorean1.php
 韩国YonhapnewsTV,http://192.168.10.250/youtube.php?v=0GN8t2u3flc
-日本中文台NHKCHINA,http://192.168.10.250/nhkchina.php
 日本NHKworld,http://192.168.10.250/nhkworld.php
+日本中文台NHKCHINA,https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/zh/playlist.m3u8
 日本24小时JAPAN24,http://192.168.10.250/youtube.php?v=coYw-eVU0Ks
 日本KBC NEWS LIVE 24,http://192.168.10.250/kbcnews.php
 日本北海道,http://192.168.10.250/beihaidao.php
-非洲24小时Africa24 english Live,http://192.168.10.250/youtube.php?v=L5Ppr0JvPws
+非洲24小时Africanews english Live,http://192.168.10.250/africanews.php
 ntv,http://192.168.10.250/ntv.php
-NDTV Profit Live TV,http://192.168.10.250/youtube.php?v=GPKXF3mzAlU
 tv9,http://192.168.10.250/tv9.php
 印度NBC18 NEWS,http://192.168.10.250/cnbc18.php
-印度NDTV Profit Live TV,http://192.168.10.250/youtube.php?v=GPKXF3mzAlU
 印度NDTV 24x7 LIVE TV,http://192.168.10.250/ndtv.php
 半岛新闻阿拉伯语Al Jazeera Arabic,http://192.168.10.250/aljazeeraarabic.php
 TJK TV | Canlı Yayın,http://192.168.10.250/TAYTV.php
-TAfrica24 Live,http://192.168.10.250/youtube.php?v=L5Ppr0JvPws
-BBC  阿拉伯语,http://192.168.10.250/youtube.php?v=HxI2TxhhS9A
+BBC  阿拉伯语,http://192.168.10.250/bbcarabic.php.php
 土耳其阿拉伯,http://192.168.10.250/trtarabic.php
 土耳其阿拉伯,https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
-Sky News 阿拉伯语,http://192.168.10.250/youtube.php?v=IT2pWSWneTc
+Sky News 阿拉伯语,http://192.168.10.250/skynewsarabic.php
 DW阿拉伯语,http://192.168.10.250/dwarabic.php
 francearabic,http://192.168.10.250/france24arabic.php
-CNBC Awaaz Live,http://192.168.10.250/youtube.php?v=iNz2lOJwd2g
+CNBC Awaaz Live,http://192.168.10.250/cnbcarabic.php
+
 香港,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
