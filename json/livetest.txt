@@ -6146,3 +6146,907 @@ Absolute Truth : Commentary,http://127.0.0.1:8081/klowdtv1.php?id=55
 
 
 
+日本频道,#genre##
+ABCテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
+BS-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
+BSアニマックス,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
+BSテレ東,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
+BSフジ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
+BS日テレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
+BS朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
+J Sports 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
+J Sports 2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
+J Sports 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+J Sports 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+MBS毎日放送,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=0
+NHK BS1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
+NHK BSプレミアム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
+NHK Eテレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
+NHK 総合,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
+NHK大阪 総合,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
+TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
+TOKYO MX,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0
+WOWOW シネマ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+WOWOW プライム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+WOWOW ライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+キッズステ���ション,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
+ゴルフネットワーク,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
+スカイA,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?c=0
+NHK BSプレミアム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
+NHK Eテレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
+NHK 総合,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
+NHK大阪 総合,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
+TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
+TOKYO MX,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0
+WOWOW シネマ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+WOWOW プライム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+WOWOW ライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+キッズステ���ション,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
+ゴルフネットワーク,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
+スカイA,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?c=0
+NHK BSプレミアム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
+NHK Eテレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
+NHK 総合,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
+NHK大阪 総合,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
+TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
+TOKYO MX,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0
+WOWOW シネマ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+WOWOW プライム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+WOWOW ライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+キッズステ���ション,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
+ゴルフネットワーク,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
+スカイA,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?c10&bind=0&uin=159413&playseek=0
+NHK Eテレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
+NHK 総合,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
+NHK大阪 総合,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
+TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
+TOKYO MX,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0
+WOWOW シネマ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+WOWOW プライム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+WOWOW ライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+キッズステ���ション,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
+ゴルフネットワーク,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
+スカイA,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cu8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
+NHK 総合,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
+NHK大阪 総合,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
+TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
+TOKYO MX,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0
+WOWOW シネマ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+WOWOW プライム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+WOWOW ライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+キッズステ���ション,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
+ゴルフネットワーク,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
+スカイA,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?clive/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
+NHK大阪 総合,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
+TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
+TOKYO MX,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0
+WOWOW シネマ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+WOWOW プライム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+WOWOW ライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+キッズステ���ション,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
+ゴルフネットワーク,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
+スカイA,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?c000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
+TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
+TOKYO MX,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0
+WOWOW シネマ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+WOWOW プライム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+WOWOW ライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+キッズステ���ション,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
+ゴルフネットワーク,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
+スカイA,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?come.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
+TOKYO MX,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0
+WOWOW シネマ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+WOWOW プライム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+WOWOW ライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+キッズステ���ション,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
+ゴルフネットワーク,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
+スカイA,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0
+WOWOW シネマ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+WOWOW プライム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+WOWOW ライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+キッズステ���ション,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
+ゴルフネットワーク,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
+スカイA,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?c�ネマ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+WOWOW プライム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+WOWOW ライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+キッズステ���ション,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
+ゴルフネットワーク,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
+スカイA,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cWOWOW プライム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+WOWOW ライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+キッズステ���ション,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
+ゴルフネットワーク,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
+スカイA,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?clayseek=0
+WOWOW ライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+キッズステ���ション,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
+ゴルフネットワーク,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
+スカイA,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?c://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+キッズステ���ション,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
+ゴルフネットワーク,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
+スカイA,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?c��ズステ���ション,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
+ゴルフネットワーク,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
+スカイA,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?c7&isp=10&bind=0&uin=159413&playseek=0
+ゴルフネットワーク,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
+スカイA,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cng/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
+スカイA,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cmehome.com:8000/zhongying/live/playlist.m3u8?clive/playlist.m3u8?cid=cs01&isp=10&bind=0&uin=159413&playseek=0
+スターチャンネル1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=10&bind=0&uin=159413&playseek=0
+スターチャンネル2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27&isp=10&bind=0&uin=159413&playseek=0
+スターチャンネル3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28&isp=10&bind=0&uin=159413&playseek=0
+ディスカバリー,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=10&bind=0&uin=159413&playseek=0
+テレビ大阪,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=0
+テレビ朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=0
+テレビ東京,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=159413&playseek=0
+ヒストリーチャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
+フジテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=10&bind=0&uin=159413&playseek=0
+ホームドラマチャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=10&bind=0&uin=159413&playseek=0
+ミュージック?ジャパンTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=10&bind=0&uin=159413&playseek=0
+旅チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=10&bind=0&uin=159413&playseek=0
+日テレジータス,http://cdns.jp-primehome.com:8000/zho
+美国测试,#genre##
+NBA Prime Video 1,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/903014
+NBA Prime Vídeo 2,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/903404
+NBA 1 Golden State Warriors ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51215
+NBA 10 Philadelphia 76ers ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51255
+NBA 11 Detroit Pistons ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51259
+NBA 12 Milwaukee Bucks ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51260
+NBA 13 Denver Nuggets,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51261
+NBA 14 Los Angeles Lakers ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51262
+NBA 15 New Orleans Pelicans ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51217
+NBA 16 Phoenix Suns ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51219
+NBA 17 Brooklyn Nets ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51220
+NBA 2 Miami Heat ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51216
+NBA 3 Boston Celtics ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51218
+NBA 4 Chicago Bulls ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51224
+NBA 5 Washington Wizards ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51225
+ABC News Live,https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
+FOXNEWS,https://lnc-kcpq.tubi.video/index_3.m3u8
+NBC News NOW,https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8
+FOX Weather,https://i.mjh.nz/SamsungTVPlus/USBD700003L7.m3u8
+Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+ CBC News International,https://i.mjh.nz/SamsungTVPlus/USBC4400003OU.m3u8
+ TODAY All Day,https://i.mjh.nz/SamsungTVPlus/USBB32000251N.m3u8
+ USA Today,https://i.mjh.nz/SamsungTVPlus/USBB1500001GD.m3u8
+Real America's Voice,https://i.mjh.nz/SamsungTVPlus/USBB1900002KF.m3u8
+TYT Network,https://i.mjh.nz/SamsungTVPlus/USBA30002142.m3u8
+TV Land Drama,https://i.mjh.nz/SamsungTVPlus/USBB3500002FL.m3u8
+ Drama Life,https://i.mjh.nz/SamsungTVPlus/USAJ26000015Y.m3u8
+Lucky Dog,https://i.mjh.nz/SamsungTVPlus/USBA3000044BJ.m3u8
+ The Bob Ross Channel,https://i.mjh.nz/SamsungTVPlus/USBD700012OA.m3u8
+Clarity 4K,https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
+ Shout! Factory,https://i.mjh.nz/SamsungTVPlus/USBD1200021JM.m3u8
+ Dove Channel,https://i.mjh.nz/SamsungTVPlus/USBD700016JY.m3u8
+Cowboy Way,https://i.mjh.nz/SamsungTVPlus/USBC3200020QF.m3u8
+FOX SOUL,https://i.mjh.nz/SamsungTVPlus/USBA300032J7.m3u8
+Hollywire,https://i.mjh.nz/SamsungTVPlus/USBC2400015DO.m3u8
+World’s Most Evil Killers,https://i.mjh.nz/SamsungTVPlus/USBC1000002NP.m3u8
+Crime ThrillHer,https://i.mjh.nz/SamsungTVPlus/USBB52000236D.m3u8
+Crimes Cults Killers,https://i.mjh.nz/SamsungTVPlus/USBB5200022PY.m3u8
+IMPACT Wrestling,https://i.mjh.nz/SamsungTVPlus/USBB1000001XP.m3u8
+Cars,https://i.mjh.nz/SamsungTVPlus/USAJ3504545A.m3u8
+Home Refresh,https://i.mjh.nz/SamsungTVPlus/USBC21000142T.m3u8
+BBC Food,https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
+ViX JaJaJa,https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
+Tastemade,https://i.mjh.nz/SamsungTVPlus/USBD7000189R.m3u8
+FOX News,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+CNN News,https://d25usgadhphvwi.cloudfront.net/hls/stv_plus_640x360/playlist.m3u8
+AFV family,https://futuretoday-afv-family-2-be.samsung.wurl.tv:443/1200.m3u8
+AZ,http://live.azstartv.com:80/azstar/smil:azstar.smil/chunklist_w1698552844_b800000_slen.m3u8
+红牛TV,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8?
+NASA,https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?
+好莱坞制造,https://connection3-ent-us.redbox.wurl.tv/playlist.m3u8
+ESTV,https://estv-rakuten-samsung.amagi.tv/playlist.m3u8?utm_medium=social&utm_source=heylink.me
+ABC NEWS,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=174535&extension=ts&play_token=Xordb9Yrqd
+美国中文http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
+ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/a34479f36e18de8ab839234f2a59ab7c.m3u8
+CNN USA,http://38.44.109.41:8888/play/a00d
+Action MAX,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=174538&extension=ts&play_token=tcXAKx88Rl
+A2iNaija,https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
+A2iMusic,https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+TVS Classic Movies,https://rpn1.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
+TVS Hollywood History,https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8
+Wu Tang Collection,https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=XMKDbHdQEJSUe7aX9xvq
+红牛TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+武当,https://stream.ads.ottera.tv/playlist.m3u8?network_id=73
+武当,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
+武当1,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=42
+武当2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=42
+影片,https://stream.ads.ottera.tv/playlist.m3u8?network_id=4032
+Bounce,http://72.46.118.193/Bounce/index.m3u8
+Grit,http://72.46.118.193/Grit/index.m3u8
+Laff,http://72.46.118.193/Laff/index.m3u8
+Defy,http://72.46.118.193/Defy/index.m3u8
+Court,http://72.46.118.193/Court/index.m3u8
+Newsy,http://72.46.118.193/Newsy/index.m3u8
+UTV,http://173.225.32.123/UTV-2362/index.m3u8
+KELO,http://173.225.32.123/KELO-2361/index.m3u8
+CW,http://173.225.32.123/KABY-CW-2364/index.m3u8
+ME TV,http://173.225.32.123/KPRY-MeTV-2347/index.m3u8
+KSFY,http://173.225.32.123/KSFY-2363/index.m3u8
+COZI,http://173.225.32.123/Cozi-2358/index.m3u8
+KTTW,http://173.225.32.123/KTTW-2357/index.m3u8
+KDLT,http://173.225.32.123/KDLT-2396/index.m3u8
+LAKEFIELD,http://173.225.32.123/LAKEFIELD-2370/index.m3u8
+JACKSON,http://173.225.32.123/JACKSON-2371/index.m3u8
+Bravo,http://170.254.18.106/BRAVO/index.m3u8
+OAN,https://stream.ads.ottera.tv/playlist.m3u8?network_id=23
+CAN NEWS,https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
+CAN NEWS,https://stream.ads.ottera.tv/playlist.m3u8?network_id=118
+CAN NEWS,https://stream.ads.ottera.tv/playlist.m3u8?network_id=56
+UTV,http://173.225.32.123/UTV-2362/index.m3u8
+KELO,http://173.225.32.123/KELO-2361/index.m3u8
+CW,http://173.225.32.123/KABY-CW-2364/index.m3u8
+ME TV,http://173.225.32.123/KPRY-MeTV-2347/index.m3u8
+KSFY,http://173.225.32.123/KSFY-2363/index.m3u8
+COZI,http://173.225.32.123/Cozi-2358/index.m3u8
+KTTW,http://173.225.32.123/KTTW-2357/index.m3u8
+KDLT,http://173.225.32.123/KDLT-2396/index.m3u8
+LAKEFIELD,http://173.225.32.123/LAKEFIELD-2370/index.m3u8
+JACKSON,http://173.225.32.123/JACKSON-2371/index.m3u8
+Logo,http://streamsy.online:2999/coachj88/N93DPKS9pJ/952
+Me TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/744
+NASA,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1610
+Nat Geo,http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
+Nat Geo Wild,http://streamsy.online:2999/coachj88/N93DPKS9pJ/140
+NBA TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
+Outdoor Channel,http://streamsy.online:2999/coachj88/N93DPKS9pJ/292
+PBS KIDS,http://streamsy.online:2999/coachj88/N93DPKS9pJ/227
+Pop,http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
+Showtime,http://streamsy.online:2999/coachj88/N93DPKS9pJ/223
+Showtime Women,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1251
+SNY,http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
+Start TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1467
+The Weather Channel,http://streamsy.online:2999/coachj88/N93DPKS9pJ/301
+Universal Kids,http://streamsy.online:2999/coachj88/N93DPKS9pJ/252
+WE TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/247
+Showtime Beyond,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1619
+WWE,http://streamsy.online:2999/coachj88/N93DPKS9pJ/398
+ABC Phoenix,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1233
+Mega TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/124
+Vegas Golden Knights,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77848
+Washington Capitals,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77708
+Anaheim Ducks,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77713
+Arizona Coyotes,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77712
+Arizona Diamondbacks,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77577
+Boston Bruins,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77707
+Chicago Blackhawks,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77843
+Chicago White Sox ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77579
+Colorado Avalanche ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77844
+Columbus Blue Jackets,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77581
+Dallas Star ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77847
+Detroit Red Wings,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77846
+Detroit Tigers,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77711
+Florida Panthers,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77845
+Miami Marlins,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77710
+Milwaukee Brewers,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/77580
+
+
+3ABN,https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
+3ABN,https://3abn-live.akamaized.net/hls/live/2010546/French/master.m3u8
+Kids Network (3ABN),https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
+International (3ABN),https://3abn-live.akamaized.net/hls/live/2010544/International/master.m3u8
+Latino (3ABN),https://3abn-live.akamaized.net/hls/live/2010547/Latino/playlist.m3u8
+Praise Him Music Network (3ABN),https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8
+30A Darcizzle Offshore,https://30a-tv.com/darcizzle.m3u8
+30A Investment Pitch,https://30a-tv.com/feeds/xodglobal/30atv.m3u8
+30A Music,https://30a-tv.com/music.m3u8
+30A Sidewalks,https://30a-tv.com/sidewalks.m3u8
+30A The Beach Show,https://30a-tv.com/beachy.m3u8
+ACTV,https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/6361162879_AZ-247.stream_247/chunklist.m3u8
+Aghapy Kids,https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
+Akaku 53 (Hawaii),https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
+Akaku 54 (Hawaii) (1080p)
+,https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
+Akaku 55 (Hawaii) (1080p),https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
+AXS TV NOW,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+Cloudflare TV (720p),https://cloudflare.tv/hls/live.m3u8
+MahdiTV (1080p),https://stream.al-mahdi.tv/hls/1234.m3u8
+Srv_1 HD,http://95.67.12.82:9061
+TRACE URBAN INTER HD,http://95.67.12.82:9068
+TRACE SPORTS INTER HD,http://95.67.12.82:9067
+Water Bear,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8
+Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+Wild Life,https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8
+Poker T,https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+Russia Today,http://69.64.57.208:8080/russiatoday/playlist.m3u8
+Sky News Australia,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+Smithsonian Channel,https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
+Spotlight Redbox,https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8
+TASTEMADE,https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
+Wild Planet,https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
+WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+Wonder,https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+Xplore,http://xlpore-samsungus.amagi.tv/playlist1080p.m3u8
+Yahoo Finance,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+ZOOMOO,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+rakuten tv,https://rakuten-comedy-12-eu.rakuten.wurl.tv/playlist.m3u8
+NASA,https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+NASA,https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+英国测试,#genre##
+BBC World,http://45.228.232.219:16000/play/a0m9/index.m3u8
+BBC News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+BBCNEWS,http://203.80.165.14/stream/channelid/576922833?profile=pass
+BBC2,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283283&extension=ts&play_token=zglR4Bz2UNAFRICABLE,http://69.64.57.208/africable/playlist.m3u8
+TM1,http://69.64.57.208/tm1/playlist.m3u8
+TM2,http://69.64.57.208/tm2/playlist.m3u8
+NCI,http://69.64.57.208/nci/playlist.m3u8
+2STV,http://69.64.57.208/2stv/playlist.m3u8
+TFM,http://69.64.57.208/tfm/playlist.m3u8
+RTB,http://69.64.57.208/rtb/playlist.m3u8
+RT FRANCE,http://69.64.57.208/rtfrance/playlist.m3u8
+ATV,http://69.64.57.208/atv/playlist.m3u8
+GTV,http://69.64.57.208/gtv/playlist.m3u8
+KTO,http://69.64.57.208/kto/playlist.m3u8
+LIFETV,http://69.64.57.208/lifetv/playlist.m3u8
+RTS1,http://69.64.57.208/rts1/playlist.m3u8
+TVT,http://69.64.57.208/tvt/playlist.m3u8
+UTV,http://69.64.57.208/utv/playlist.m3u8
+RTG,http://69.64.57.208/rtg/playlist.m3u8
+RUSSIA TODAY,http://69.64.57.208/russiatoday/playlist.m3u8
+FRANCE 2,http://69.64.57.208/france2/playlist.m3u8
+FRANCE 5,http://69.64.57.208/france5/playlist.m3u8
+BBC ONE,http://81.137.213.119:4200/bysid/4164
+BBC TWO,http://81.137.213.119:4200/bysid/4287
+BBC THREE,http://81.137.213.119:4200/bysid/4288
+BBC NEWS,http://81.137.213.119:4200/bysid/4352
+BBC FOUR,http://81.137.213.119:4200/bysid/4544
+CBeebies,http://81.137.213.119:4200/bysid/4672
+BBC Parliament,http://81.137.213.119:4200/bysid/4736
+俄罗斯测试,#genre##
+IGITV,http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+IGITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+Russia Today,https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+Redcams,https://camcity.redcom.ru/Redcams/index.m3u8
+1TV Crimea,http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
+3ABN,https://hls.tv.3angels.ru/stream/HQ.m3u8
+Мир,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+Мир 24,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+Суббота orig,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/9103/index.m3u8
+req,https://streaming101.goodstream.cyou/live/748-req_offset_28000000-req_window_0-1k_v5.m3u8
+Detskiy-HD,http://194.26.229.209/Detskiy-HD/index.m3u8?token=klimedia.space:Z2pzbGdoYThnYWdsczpnanNsZ2hhOGdhZ2xz
+Приключения HD,http://cdn.klimedia.space/lb/HD_Teletr/index.m3u8?token=klimedia.space:a2RzYWdmeTlhNjprZHNhZ2Z5OWE2
+Русская Комедия,http://aa7bc0b4.akadatel.com/iptv/ED8DTMPASXMV7Q/733/index.m3u8
+MM Honey HD,http://aa7bc0b4.akadatel.com/iptv/ED8DTMPASXMV7Q/13026/index.m3u8 
+Русская Комедия,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/733/index.m3u8
+БелРос,http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+Вместе-РФ HD,http://vmesterf.bonus-tv.ru/cdn/vmesterf/tracks-v1a1/index.m3u8
+Енисей,http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+КТК,http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+РБК ТВ,http://92.50.128.180/utv/1358/index.m3u8
+К?НО ТV VHS,https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
+ВИДЕОКАССЕТА,https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
+МУЛЬТИМАНИЯ,https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
+MiTV Фронтhttp://a23.iptv11.com/988/video.m3u8?token=95C80E0B63D1B
+MiTV Фронтhttp://serv7.iptv11.com/988/video.m3u8?token=95C80E0B63D1B
+Cartoon Network,http://89.254.128.5:22280/cartoon_network/video.m3u8
+1+2,http://89.254.128.5:22280/1_2/mono.m3u8
+Duo7 HD EE,http://89.254.128.5:22280/duo7_hd/index.m3u8
+8 канал HD UA,http://89.254.128.5:22280/8tv_hd/index.m3u8
+Тайна,https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+Звезда,https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+1+2,http://89.254.128.5:22280/1_2/mono.m3u8
+8 канал,http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
+86 канал,https://sitv.ru/hls/s861024.m3u8
+M4T4,http://bl.uma.media/live/126836/HLS/317848_3/2/1/playlist.m3u8
+Аист ТВ,http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+Астрахань 24,http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+C MORE FIRST HD SE,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/RZUAWTNHX5DKXU/12087/index.m3u8
+?нтер,http://lb.wisp.cat/lb0/INTER/video.m3u8?token=ssx4VYH
+Кулинар ТВ,http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+RUSSISCHER JAHRMARKT,https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
+МТВ (Волгоград),http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+Россия-24http://gcfmcrkp.akciatv.ru/iptv/PBL2QAUAQNXWXU/507/index.m3u8
+НТВ (+2)http://gcfmcrkp.akciatv.ru/iptv/PBL2QAUAQNXWXU/713/index.m3u8
+Первый канал (+2)http://gcfmcrkp.akciatv.ru/iptv/PBL2QAUAQNXWXU/714/index.m3u8
+Санкт-Петербургhttp://gcfmcrkp.akciatv.ru/iptv/PBL2QAUAQNXWXU/715/index.m3u8
+Пятый Канал (+2)http://gcfmcrkp.akciatv.ru/iptv/PBL2QAUAQNXWXU/746/index.m3u8
+СТБ,https://vmesterf.bonus-tv.ru/cdn/vmesterf/playlist.m3u8
+Маtch ТVhttp://dmi3y-tv.ru/hls/T2/CH_MATCHTV.m3u8
+Fashion TV,https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
+Кино 1 International,https://kino-1.catcast.tv/content/38617/index.m3u8?cur=tva.org.ua&key=3i277
+Малдер TV ХИТ,https://hls.goodgame.ru/hls/153640.m3u8
+Akudji,https://hls.goodgame.ru/hls/5346.m3u8
+FILM TV,http://hls.goodgame.ru/hls/163253.m3u8
+Series TV,http://hls.goodgame.ru/hls/186021.m3u8
+Cinema Classic TV,http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+KION Хит HD,http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/20211/index.m3u8
+
+乌克兰测试,#genre##
+1+1 HD,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/124/stream.m3u8
+ICTV2,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/4835/stream.m3u8
+NTA,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/3155/stream.m3u8
+НТК Коломия,https://stream.ntktv.ua/s/ntk/ntk.m3u8?cur=tva.org.ua&key=3i277
+ZTV,https://stream.ztv.zp.ua/hls/live.m3u8
+UWN,http://ca.ukrainske.tv/343/DF9D16B4057FD00/video.m3u8
+Freedom,http://95.67.12.84:10304
+Единi Новини,http://95.67.12.89:9018
+InRating TV,http://95.67.12.89:9034
+Sweet,http://95.67.12.82:9085
+Dorama,http://95.67.12.82:9046
+Epic,http://95.67.12.82:9083
+FLIX Snip,http://95.67.12.82:9061
+Gagsnetwork,http://95.67.12.82:9069
+Kino Kazka,http://95.67.12.82:9084
+Love Nature,http://95.67.12.82:9098
+UA Music,http://95.67.12.82:9087
+One Planet,http://95.67.12.82:9088
+OstWest 24,http://95.67.12.82:9077
+Trace Sport Stars,http://95.67.12.82:9067
+Trace Urban,http://95.67.12.82:9068
+TravelXP 4K,http://95.67.12.82:9086
+Канал 7 HD (Латвия) Baltic,http://89.254.128.5:22280/duo7_hd/index.m3u8
+CNN,http://89.254.128.5:22280/cnn/index.m3u8
+Cartoon Network,http://89.254.128.5:22280/cartoon_network/index.m3u8
+MTV_00,http://89.254.128.5:22280/mtv_00/index.m3u8
+Nicktoons,http://89.254.128.5:22280/nicktoons/index.m3u8
+QSport,http://89.254.128.5:22280/qsport/index.m3u8
+Viasat Kino,http://89.254.128.5:22280/viasat_kino/index.m3u8
+Viasat Kino Action,http://89.254.128.5:22280/viasat_kino_action/index.m3u8
+1+2,http://89.254.128.5:22280/1_2/index.m3u8
+8TV HD,http://89.254.128.5:22280/8tv_hd/index.m3u8
+К?но та Сер?али HD+,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/4867/stream.m3u8
+Орел ? Решка+,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/4872/stream.m3u8
+Вещдок HD+,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/4869/stream.m3u8
+НТН,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/129/stream.m3u8
+2+2 HD,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/3305/stream.m3u8
+Hollywood HD,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/262/stream.m3u8
+Kinowood,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/4844/stream.m3u8
+М1 HD,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/4598/stream.m3u8
+М2 HD,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/4601/stream.m3u8
+UA Music,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/4831/stream.m3u8
+EU Music HD,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/570/stream.m3u8
+Flix&Snip HD,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/4824/stream.m3u8
+Cine+ HD,http://cdnua03.hls.tv/524/hls/bce039e22cfeb8b5e1acfe0b5037ce48/4846/stream.m3u8
+AMC,http://cdnua03.hls.tv/524/hls/bce039e22cfeb8b5e1acfe0b5037ce48/4248/stream.m3u8
+SEA TV HD,http://cdnua03.hls.tv/524/hls/bce039e22cfeb8b5e1acfe0b5037ce48/4251/stream.m3u8
+Телеканал 36.6,http://cdnua03.hls.tv/524/hls/bce039e22cfeb8b5e1acfe0b5037ce48/4241/stream.m3u8
+ATR HD,http://cdnua03.hls.tv/524/hls/bce039e22cfeb8b5e1acfe0b5037ce48/3936/stream.m3u8
+UWN,http://cdnua03.hls.tv/524/hls/bce039e22cfeb8b5e1acfe0b5037ce48/97/stream.m3u8
+Flix&Snip,http://95.67.12.82:9061
+360TuneBox,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/166/stream.m3u8
+Fashion TV HD,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/226/stream.m3u8
+Nautical Channel HD,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/4245/stream.m3u8
+1+1 HD,http://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/124/stream.m3u8
+А1 HD,http://ott.server-iptv.live/640/video.m3u8?token=M4f082ab4c
+A2 HD,http://ott.server-iptv.live/641/video.m3u8?token=M4f082ab4c
+VIP Premiere,http://ott.server-iptv.live/605/video.m3u8?token=M4f082ab4c
+VIP Megahit,http://ott.server-iptv.live/606/video.m3u8?token=M4f082ab4c
+VIP Comedy http://ott.server-iptv.live/607/video.m3u8?token=M4f082ab4c
+Кинопоказ,http://ott.server-iptv.live/611/video.m3u8?token=M4f082ab4c
+UA Перший ,rtmp://93.189.60.202//1016
+Перший HD,http://portal.ott.pink/watch/6972/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+1+1 Марафон,http://portal.ott.pink/watch/45/index.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+1+1 Марафон HD,https://ext.cdn.nashnet.tv/228.0.0.9/index.m3u8
+1+1 International HDhttp://ca.ukrainske.tv/8798/5FB414E1EC8D010/video.m3u8
+2+2,http://91.210.251.166:4584/udp/239.0.2.58:4000
+itv,https://cdn10.live-tv.od.ua/itvrv/abr-lq/playlist.m3u8
+CTБ sd,http://91.210.251.166:4522/udp/239.0.2.22:4000
+CTБ ,http://lua.ath.cx:2600/live/stbhd/index.m3u8?token=b47f617d7dfc1ab821cf4dc0bad23861
+Новый канал,http://91.210.251.166:4510/udp/239.0.2.20:4000
+Новий канал HD,http://ext.cdn.nashnet.tv/228.0.3.238/index.m3u8
+НОВИЙ КАНАЛ,rtmp://93.189.60.202//935
+ICTV,http://91.210.251.166:4504/udp/239.0.2.21:4000
+ICTV 2 HD,http://ip1.orgip.net/339/video.m3u8?token=M4f082ab4c
+ICTV 2,http://46.18.107.105:9999/channel/n5ef91f61/index.mpeg?q=34f3e508660e39f2f68068dd1c8f4604
+?нтер,http://portal.ott.pink/watch/7316/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+INTER + HD,http://149.5.17.34:20041/play/a05v
+ТЕТ hd,http://149.5.17.34:20041/play/a06f
+ТЕТ HD,rtmp://93.189.60.202//1009
+ТЕТ ,http://91.210.251.166:4524/udp/239.0.2.43:4000
+НТН hd,http://91.210.251.166:4514/udp/239.0.2.49:4000
+НТН  HD,http://149.5.17.34:20041/play/a05i
+НТН  ,http://149.5.17.34:20041/play/a05v
+Enter Film HD,http://149.5.17.34:20041/play/a078
+Enter-ф?льм,http://91.210.251.166:4586/udp/239.0.2.41:4000
+Enter Film,rtmp://93.189.60.202//933
+K1 HD,http://149.5.17.34:20041/play/a05m
+К1 ,http://91.210.251.166:4506/udp/239.0.2.37:4000
+Bigudi,http://149.5.17.34:20041/play/a06h
+КВАРТАЛ ТВ,rtmp://93.189.60.202//932
+Квартал ТВ,http://91.233.215.250:7272/c5otUOm2IubgpDn
+ПРО К?НО HD,http://91.210.251.166:4905/udp/239.0.3.23:4000
+CINE HD,http://91.210.251.166:4899/udp/239.0.3.19:4000
+CINE HIT + HD,http://91.210.251.166:4900/udp/239.0.3.20:4000
+FILM UA DRAMA,http://91.210.251.166:4880/udp/239.0.2.4:4000
+Star Family HD UA,http://91.210.251.166:4882/udp/239.0.2.65:4000
+Star Family HD,rtmp://93.189.60.202//1042
+Star Cinema UA,rtmp://93.189.60.202//992
+Star Cinema HD UA,http://91.210.251.166:4883/udp/239.0.2.63:4000
+8 канал HD ,http://89.254.128.5:22280/8tv_hd/index.m3u8
+Comedy Central Укра?на,http://91.210.251.166:4550/udp/239.0.2.30:4000
+Viju+MEGAHIT,https://ucdn.beetv.kz/btv/live/hls/000000869.m3u8
+Vip Megahit HD,https://livetv.mylifeisgood.net.ru/channels/vip_megahit.m3u8
+Viasat Kino Comedy,https://ucdn.beetv.kz/btv/live/hls/000000870.m3u8
+Viasat Kino Comedy HD,http://91.210.251.166:4896/udp/239.0.3.7:4000
+VIASAT KINO HD,http://91.210.251.166:4893/udp/239.0.3.4:4000
+Viasat Kino World,http://91.210.251.166:4894/udp/239.0.3.5:4000
+Viasat Kino Action HD,http://91.210.251.166:4895/udp/239.0.3.6:4000
+Vip Premiere,https://ucdn.beetv.kz/btv/live/hls/000000868.m3u8
+VIP Serial,http://94.229.250.73:8008/play/a003
+Viju TV1000 Action HD,http://95.217.196.109:8081/russia/tv1000_action/chunks.m3u8
+Viju TV1000 HD,http://95.217.196.109:8081/russia/tv1000/chunks.m3u8
+TV1000,https://tbs01-edge11.itdc.ge/tv1000/tracks-v1a1/mono.m3u8
+Fox,https://stream01.vnet.am/Fox/mono.m3u8
+Fox ,https://ucdn.beetv.kz/btv/live/hls/000004472.m3u8
+Fox Life HD,https://ucdn.beetv.kz/btv/live/hls/000004471.m3u8
+Fox Life hd,http://185.37.150.40:8092/Fox_Life_HD/tracks-v1a1v1/playlist.m3u8
+A1 HD,http://91.196.39.252:4000/play/a01x
+Amedia 1 hd,https://tbs01-edge11.itdc.ge/amedia/tracks-v1a1/mono.m3u8
+NTAhttp://95.67.106.10/hls/nta_ua_mid/index.m3u8
+NTAhttp://95.67.106.10/hls/nta_ua_hi/index.m3u8
+7 канал,http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-sub/chunks.m3u8
+7 канал,http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
+ТIС (Одесса)http://cdn10.live-tv.od.ua:8081/riood/tisod720/chunks.m3u8
+ТIС (Одесса)http://cdn10.live-tv.od.ua:8081/riood/tisod360/chunks.m3u8
+СК1 HDhttp://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/chunks.m3u8
+FreeDOM,http://95.67.106.242/mobile-app/main/freedom/master.m3u8
+Полтавское TV HDhttp://cdn10.live-tv.od.ua:8081/hrpl/720p/chunks.m3u8
+Думская TV HDhttp://cdn1.live-tv.od.ua:8081/dumska/dumska720p/chunks.m3u8
+Репортер HDhttp://cdn1.live-tv.od.ua:8081/31chod/31chod/chunks.m3u8
+Сварожичи HD,http://tv.tv-project.com:1935/live/live1/chunklist.m3u8
+IТ3,http://cdn10.live-tv.od.ua:8081/it3od/it3od-abr/playlist.m3u8
+Южная Волна HD,http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr-lq/playlist.m3u8
+Репортер HD,http://cdn1.live-tv.od.ua:8081/31chod/31chod/playlist.m3u8
+Плюс (Одесса),http://85.238.112.69:8811/hls_sec/239.0.14.15-.m3u8
+ТРК Круг,http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/chunks.m3u8
+Измаил ТВhttp://cdn10.live-tv.od.ua:8081/izod/izod-abr-lq/izod/izod-sub2/playlist.m3u8
+SK 1http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+TIS TVhttps://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
+TRK Krughttp://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
+Viasat Historyhttp://ott-cdn.ucom.am/s23/index.m3u8
+Sochi Live HDhttp://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+ICTV HD,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/4305/stream.m3u8
+1+1 HD,http://iptv.prosto.tv:7000/ch1/video.m3u8
+2+2,http://iptv.prosto.tv:7000/ch8/video.m3u8
+ICTV,http://iptv.prosto.tv:7000/ch2/video.m3u8
+HTH,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/129/stream.m3u8
+Мега,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/123/stream.m3u8
+SEA,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/3696/stream.m3u8
+Наше ретро,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/3699/stream.m3u8
+Fashion TVhttps://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/226/stream.m3u8
+ID FASHION,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/3642/stream.m3u8
+OstWest24 HD,http://95.67.12.82:9077
+Service01 HD,http://95.67.12.82:9085
+CONTINENTE HD,http://95.67.12.82:9083
+UA MUSIC HD,http://95.67.12.82:9087
+OnePlanet HD,http://95.67.12.82:9088
+TRAVELXP 4K,http://95.67.12.82:9086
+Hhttp://iptv.prosto.tv:7000/ch6/video.m3u8
+K1,http://iptv.prosto.tv:7000/ch9/video.m3u8
+1mus,http://hz1.teleport.cc:80/HLS/SD.m3u8
+М1http://live.m2.tv/hls2/stream.m3u8
+М2,http://live.m2.tv/hls3/stream.m3u8
+М2 HD,http://live.m2.tv/hls3/720/stream.m3u8
+EU Music HD,https://cdnua03.hls.tv/69/hls/b24a169eeac8f76b6ff3d1d4854242a7/570/stream.m3u8
+НАШЕ Music,http://cdnua03.hls.tv/476/hls/7d6cd0c7b9b07175b951c0f5686affe3/550/stream.m3u8
+zoom,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/94/stream.m3u8
+zoom,http://iptv.prosto.tv:7000/ch13/video.m3u8
+TET,http://iptv.prosto.tv:7000/ch7/video.m3u8
+NEWS24,http://streamvideol1.luxnet.ua/news24/livenews.m3u8
+IHTEP,http://iptv.prosto.tv:7000/ch5/video.m3u8
+IHTEP,http://95.67.12.89:9004/
+IHTEP,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/110/stream.m3u8
+HTH,http://95.67.12.89:9005/
+TRACE MUSIC,http://95.67.12.89:9040/
+FS,http://95.67.12.89:9041/
+BBC NEW,http://95.67.12.89:9042/
+TIJI,http://95.67.12.89:9044/
+Gulli,http://95.67.12.89:9045/
+BollyWood HD,http://95.67.12.89:9046/
+Hollywood,http://95.67.12.89:9047/
+MCM,http://95.67.12.89:9048/
+TL 4K,http://95.67.12.89:9050/
+UA MUSIC,http://95.67.12.89:9087/
+ONE PLA,http://95.67.12.89:9088/
+KL,http://95.67.12.89:9089/
+24tv,http://w8hfogtv.megatv.fun/iptv/R93QFVW6TA8DGM/6410/index.m3u8
+24news,http://streamvideol1.luxnet.ua/news24/livenews_720p/index.m3u8
+24news,http://streamvideol1.luxnet.ua/news24/livenews_1080p/index.m3u8
+3,http://w8hfogtv.megatv.fun/iptv/R93QFVW6TA8DGM/6412/index.m3u8
+3life,http://w8hfogtv.megatv.fun/iptv/R93QFVW6TA8DGM/6413/index.m3u8
+6,http://w8hfogtv.megatv.fun/iptv/R93QFVW6TA8DGM/6416/index.m3u8
+ch4,http://iptv.prosto.tv:7000/ch4/video.m3u8
+М Студио,http://213.174.23.59:8080/MS
+UA Перший ,http://91.146.94.234:10001/play/a04d
+PERSHIY,http://78.26.128.59:9876/play/218/index.m3u8
+Перший HD,http://portal.ott.pink/watch/6972/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+1+1 HD,http://91.146.94.234:10001/play/a04i
+1+1 УКРА?НА,http://212.28.87.173:8000/play/a108/index.m3u8
+2+2,http://91.146.94.234:10001/play/a04r
+ICTV,http://portal.ott.pink/watch/13/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+ICTV р,http://91.146.94.234:10001/play/a04k
+ICTV2,http://85.223.221.130:8000/play/a08b
+ICTV 2,https://cdnua03.hls.tv/178/hls/5995ce439ad354ba83977f0d99a6a1ac/4835/stream.m3u8
+СТБ,http://91.146.94.234:10001/play/a04l
+Новий канал,http://91.146.94.234:10001/play/a04o
+?нтер,http://portal.ott.pink/watch/7316/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+ТЕТ ,http://91.146.94.234:10001/play/a04p
+НТН ,http://91.146.94.234:10001/play/a04t
+K1,http://91.146.94.234:10001/play/a052
+Квартал ТВ,http://85.223.221.130:8000/play/a076
+Viju+ Comedy,http://176.222.190.76/btv/SWM/vip_comedy_hd/vip_comedy_hd.m3u8
+V Comedy,http://188.190.222.52/ComedyHD/tracks-v1a1/mono.m3u8
+Viju+  Megahit,http://176.222.190.76/btv/SWM/vip_megahit_hd/vip_megahit_hd.m3u8
+V Megahit,http://188.190.222.52/MegahitHD/tracks-v1a1/mono.m3u8
+Viju+  Premiere,http://176.222.190.76/btv/SWM/vip_premiere_hd/vip_premiere_hd.m3u8
+V Premiere,http://188.190.222.52/PremiereHD/tracks-v1a1/mono.m3u8
+Viju+  Serial,http://176.222.190.76/btv/SWM/vip_serial_hd/vip_serial_hd.m3u8
+Viju+ TV1000 Action,http://176.222.190.76/btv/SWM/tv1000actionhd/tv1000actionhd.m3u8
+Viju+  TV-1000 Action ,http://176.74.80.162:8099/TV1000Action/index.m3u8
+Viju+  TV 1000 Action r2,http://91.234.255.18:8000/play/a05c/index.m3u8
+TV1000 Action HD,http://188.190.222.52/TV1000_Action/tracks-v1a1/mono.m3u8
+Viju+  TV 1000 Action r3,https://sc.id-tv.kz:443/TV1000Action_34_35.m3u8
+VIASAT KINO hg,http://89.254.128.5:22280/tv1000/video.m3u8
+Viju+ TV1000,http://91.234.255.18:8000/play/a05b/index.m3u8
+Viju+ TV 1000 ,http://176.222.190.76/btv/SWM/tv1000hd/tv1000hd.m3u8
+TV1000 HD,http://188.190.222.52/TV1000/tracks-v1a1/mono.m3u8
+KBC Fantastic,http://85.223.221.130:8000/play/a029
+TRASH,http://85.223.221.130:8000/play/a08i
+Fox ,http://176.222.190.76/btv/SWM/FOX/FOX.m3u8
+FOX HD,http://85.223.221.130:8000/play/a08d
+Fox Life HD,http://85.223.221.130:8000/play/a08e
+Fox Life,http://176.222.190.76/btv/SWM/FoxLife/FoxLife.m3u8
+Amedia 1,http://176.222.190.76/btv/SWM/A1/A1.m3u8
+Amedia 1HD,http://188.190.222.52/Amedia_1/tracks-v1a1/mono.m3u8
+Amedia 2,http://176.222.190.76/btv/SWM/A2/A2.m3u8
+Amedia 2 HD,http://188.190.222.52/Amedia_2/tracks-v1a1/mono.m3u8
+Amedia Hit HD,http://176.222.190.76/btv/SWM/AmediaHitHD/AmediaHitHD.m3u8
+Amedia Hit,http://85.223.221.130:8000/play/a03w
+Amedia Premium HD,http://176.222.190.76/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD.m3u8
+Еврокино,http://91.220.135.165:81/30/index.m3u8
+Еврокино HD,http://188.190.222.52/Evrokino/tracks-v1a1/mono.m3u8
+Hollywood HD,http://78.26.128.59:9876/play/539/index.m3u8
+FAN,http://185.23.80.28:8080/FAN/index.m3u8
+Star Family,http://85.223.221.130:8000/play/a05j
+Star cinema,http://85.223.221.130:8000/play/a05x
+FilmUA_drama,http://85.223.221.130:8000/play/a08j
+FilmBox,http://46.19.99.11:4000/play/a038/index.m3u8
+FilmBox Arthouse,http://46.19.99.11:4000/play/a039/index.m3u8
+FilmZone,http://81.198.190.9:7878/FilmZone/video.m3u8
+FOX HD,https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+Bollywood HD,http://78.26.128.59:9876/play/488/index.m3u8
+Bollywood HD r,http://176.222.190.76/btv/SWM/Bollywood_HD/Bollywood_HD.m3u8
+Bollywood ,https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+sci-fi,http://85.223.221.130:8000/play/a04q
+Bolt,http://85.223.221.130:8000/play/a080
+BOLT HD,http://81.198.190.9:7878/BOLT/video.m3u8
+4Ever Cinema HD,http://85.223.221.130:8000/play/a032
+4Ever Drama,http://85.223.221.130:8000/play/a06r
+BCU-Fantastic,http://85.223.221.130:8000/play/a029
+Зарубежное кино,http://fs1.persik.by/487672/index.m3u8
+Американские комедии,http://fs1.persik.by/394997/index.m3u8
+ Комедийные боевики,http://fs1.persik.by/394995/index.m3u8
+Мега,http://91.146.94.234:10001/play/a04u
+ТЕРРА,http://88.216.83.245/drive/index.m3u8
+Terra,http://176.222.190.76/btv/SWM/terra_hd/terra_hd.m3u8
+Трофей,http://81.198.190.9:7878/Trofey/video.m3u8
+Трофей,http://85.223.221.130:8000/play/a066
+Дача,http://85.223.221.130:8000/play/a07a
+Epoque UA,http://85.223.221.130:8000/play/a081
+Наука,http://85.223.221.130:8000/play/a064
+6 Соток,http://78.26.128.59:9876/play/242/index.m3u8
+Iсландiя,http://78.26.128.59:9876/play/248/index.m3u8
+ ПЕРШИЙ АВТОМОБ?ЛЬНИЙ HD,http://95.67.12.89:9035
+Eco TV,http://78.26.128.59:9876/play/26/index.m3u8
+Масон,http://portal.ott.pink/watch/117/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+History HD,http://176.222.190.76/btv/SWM/HistoryHD/HistoryHD.m3u8
+History hd,http://81.198.190.9:7878/HISTORY/video.m3u8
+H2,http://176.222.190.76/btv/SWM/History2HD/History2HD.m3u8
+Viju History,http://138.201.67.145:8081/ViasatHistory/index.m3u8
+Viju History,http://176.222.190.76/btv/SWM/viasathistoryhd/viasathistoryhd.m3u8
+V History HD,http://85.223.221.130:8000/play/a04c
+Discovery Central Europe HD,http://91.146.94.234:10001/play/a041
+Discovery Turbo Xtra HD,http://91.146.94.234:10001/play/a05d
+Investigation Discovery HD,http://91.146.94.234:10001/play/a045
+Discovery Channel,http://176.222.190.76/btv/SWM/discovery_hd/discovery_hd.m3u8
+Discovery Channel r,http://85.223.221.130:8000/play/a06v
+Discovery Channel r2,https://sc.id-tv.kz:443/Disc_chHD_34_35.m3u8
+Discovery HD,http://88.216.83.245/discovery/index.m3u8
+Discovery Science,http://91.146.94.234:10001/play/a03q
+Discovery Science r,http://85.223.221.130:8000/play/a052
+National Geographic,http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
+Nat Geo Wild HD,http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+Nat Geo Wild,http://85.223.221.130:8000/play/a083
+Science Europe HD,http://91.146.94.234:10001/play/a03q
+Travel Channel HD,http://91.146.94.234:10001/play/a04c
+Travel Channel hd,http://85.223.221.130:8000/play/a04g
+Travel Channel r,http://88.216.83.245/travel/index.m3u8
+Travel+Adventure,http://85.223.221.130:8000/play/a05i
+Sea TV,http://78.26.128.59:9876/play/486/index.m3u8
+ANIMAL PLANET HD,http://78.26.128.59:9876/play/286/index.m3u8
+Animal Planet,http://85.223.221.130:8000/play/a070
+Моя стихия,http://85.223.221.130:8000/play/a03n
+Da Vinci,http://85.223.221.130:8000/play/a08g
+Нано ТВ HD,http://185.23.80.28:8080/NANO_HD/index.m3u8
+УСАДЬБА,http://138.201.67.145:8081/PSIHOLOGIYA21/index.m3u8
+DocuBox,http://81.198.190.9:7878/DOCUBOX/video.m3u8
+Kinoliving,http://78.26.128.59:9876/play/250/index.m3u8
+I-UA TV HD,http://kie2.cdn.i-ua.tv/hlsme/iuatv_1080p.m3u8
+?зма?л ТВ,http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
+OBOZ TV tva.org.ua,http://player.obozrevatel.com/live2/stream.m3u8?cur=tva.org.ua&key=3i277
+Obozrevatel,http://78.26.128.59:9876/play/450/index.m3u8
+Еспресо HD,http://portal.ott.pink/watch/10/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+Закон-ТВ HD,http://portal.ott.pink/watch/7506/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+Сусп?льне Перший HD,http://portal.ott.pink/watch/6972/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+Сусп?льне Ки?в HD ,http://portal.ott.pink/watch/7592/index.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+Сусп?льне Культура,http://91.146.94.234:10001/play/a04j
+Правда ТУТ,http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+Правда ТУТ HD (Ки?в),http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+?Т3,http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8
+Круг (Одеса),http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr-lq/playlist.m3u8
+Ун?aн ,http://portal.ott.pink/watch/236/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+4 канал HD UA,http://portal.ott.pink/watch/6987/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+5 Канал,http://portal.ott.pink/watch/7/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+24 Канал,http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
+Рада,http://portal.ott.pink/watch/7418/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+Арм?я ТВ HD (UA),http://portal.ott.pink/watch/7572/index.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+FREEДОМ - UATV Channel,http://portal.ott.pink/watch/7431/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+FREEДОМ,https://cdnua03.hls.tv/178/hls/3ce9832c48b67915e9f2769b2dfbb005/91/stream.m3u8
+Первый Городской (Кривой Рог),http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr/playlist.m3u8
+Первый Городской (Одесса),http://cdn1.live-tv.od.ua:8081/1tvod/1tvod/playlist.m3u8
+100% News (Одесса),http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+Правда ТУТ HD (Ки?в),http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+D1,http://portal.ott.pink/watch/7494/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+Прямий,http://95.67.21.100/hls/prm_ua_hi/index.m3u8?cur=tva.org.ua&key=3i277
+Прямий HD,http://portal.ott.pink/watch/14/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+Галичина HD ,http://portal.ott.pink/watch/116/index.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+Белсат HD,http://portal.ott.pink/watch/149/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+Над?я/N.K.,http://nadiya.home-net.com.ua/mob/mystream.m3u8
+Полтавское ТВ,http://cdn10.live-tv.od.ua:8081/hrpl/720p/playlist.m3u8
+Т?М Прилуки,http://194.242.100.24:6666
+Терноп?ль 1,http://185.53.79.12/ternopil1/index.m3u8?cur=tva.org.ua&key=3i277
+Тернопiль 1 HD,http://ott.columbus.te.ua/ternopil1/index.m3u8?cur=tva.org.ua&key=3i277
+НТК Коломия,https://stream.ntktv.ua/s/ntk/ntk.m3u8?cur=tva.org.ua&key=3i277
+ТВА tva.org.ua,http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+ТВА tva.in.ua,http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+Г?Т (Волинь),http://stream.uagit.tv/gittv.m3u8?key=iptv.org.ua
+33 канал (Хмельницький),https://33news.org/33chanel/live/chunklist_w459617257.m3u8
+7 канал tva.org.ua,http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
+ТИС-ТВ (Одеса),http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/playlist.m3u8
+Аверс (Луцьк),https://avers.pp.ua/hls/efir.m3u8
+Аверс ,http://portal.ott.pink/watch/356/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+ATR,http://portal.ott.pink/watch/189/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+Bambarbia TV,http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-720p/playlist.m3u8
+Апостроф TV,http://portal.ott.pink/watch/7485/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+Дн?про TV HD,http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
+Nobel TV (Дн?про),http://159.224.232.27:1234
+ГРОМАДСЬКЕ ?НТЕРАКТИВНЕ ТЕЛЕБАЧЕННЯ (Луцьк),https://stream.uagit.tv/gittv.m3u8?cur=tva.org.ua&key=3i277
+Аверс (Луцьк),https://avers.pp.ua/hls/efir.m3u8
+Балта ТВ HD,http://194.50.51.34/playlist.m3u8
+Думская ТВ,http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
+Глас,http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+ТРК Над?я - Новий Канал (Первомайский),http://178.217.215.57/mob/mystream.m3u8
+Черн?вецький Пром?нь HD,http://portal.ott.pink/watch/131/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+СК1 (Житомир),http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr-lq/playlist.m3u8
+НТК,http://stream.ntktv.ua/s/ntk/ntk.m3u8
+ITV (Р?вне),http://cdn10.live-tv.od.ua:8081/itvrv/abr-lq/playlist.m3u8
+ITV HD,http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+ITV ,http://cdn10.live-tv.od.ua:8081/itvrv/720p/playlist.m3u8
+Сфера ТВ,http://cdn10.live-tv.od.ua:8081/sferarv/720p/playlist.m3u8
+Сварожич? ТВ UA HD,http://80.91.177.102:1935/live/live1/playlist.m3u8
+Сварожич? ТВ,http://tv.tv-project.com:1935/live/live1/playlist.m3u8
+Сварожич? р,http://tv.tv-project.com:1935/live/live2/playlist.m3u8
+Pеноме,http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+M 1,http://91.146.94.234:10001/play/a04s
+М2 ,http://live.m2.tv/hls3/720/stream.m3u8
+MTV Non-stop nostalgia,http://91.146.94.234:10001/play/a03k
+Black HD,http://78.26.128.59:9876/play/404/index.m3u8
+360TuneBox,http://81.198.190.9:7878/360TuneBox/video.m3u8
+4ever Music,http://78.26.128.59:9876/play/496/index.m3u8
+ROCK,http://78.26.128.59:9876/play/493/index.m3u8
+BG Balkanika,http://85.223.221.130:8000/play/a06o
+InRating TV,https://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
+Relax ,http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8?cur=tva.org.ua&key=3i277
+Фан Спорт.,https://live-k2311-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+Фан Спорт 2.,https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+XSPORT UA,http://91.146.94.234:10001/play/a056
+Xsport,http://91.146.94.234:10001/play/a059
+Eurosport 1 HD,http://91.146.94.234:10001/play/a05b
+Eurosport 1,http://78.26.128.59:9876/play/89/index.m3u8
+Eurosport 2 HD,http://91.146.94.234:10001/play/a05c
+Eurosport 2 ,http://91.146.94.234:10001/play/a05c
+Eurosport 2 R,http://85.223.221.130:8000/play/a04j
+Setanta Sports,http://78.26.128.59:9876/play/161/index.m3u8
+Setanta UA HD,http://85.223.221.130:8000/play/a085
+Setanta Sports Ukraine HD orig,https://bal.varcdn.top/setantasport/index.m3u8
+Setanta Sports + UA,https://bal.varcdn.top/setantaplusukraina/index.m3u8
+Setanta Sports plus HD UA,http://85.223.221.130:8000/play/a06k
+Setanta Sports+,http://78.26.128.59:9876/play/4/index.m3u8
+Спорт 1,https://bal.varcdn.top/sport1/index.m3u8
+Sport 1,http://78.26.128.59:9876/play/519/index.m3u8
+Sport1,http://78.26.128.59:9876/play/516/index.m3u8
+Спорт-2,http://bal.varcdn.top/sport2/index.m3u8
+Sport2,http://78.26.128.59:9876/play/517/index.m3u8
+Sport 3 HD,http://78.26.128.59:9876/play/535/index.m3u8
+Sport 4,http://78.26.128.59:9876/play/518/index.m3u8
+Nickelodeon ua,http://85.223.221.130:8000/play/a071
+Nicktoons,http://85.223.221.130:8000/play/a08l
+ПЛЮС ПЛЮС HD,http://91.146.94.234:10001/play/a04v
+П?ксель,http://91.146.94.234:10001/play/a057
+Niki Junior HD,http://78.26.128.59:9876/play/327/index.m3u8
+Niki Kids HD,http://78.26.128.59:9876/play/509/index.m3u8
+Cartoon Network,http://176.222.190.76/btv/SWM/Cartoon-Network_SWM/Cartoon-Network_SWM.m3u8
+Cartoon network r,http://85.223.221.130:8000/play/a03s
+Duck TV,http://78.26.128.59:9876/play/a03q/index.m3u8
+BCU Multserial,http://85.223.221.130:8000/play/a072
+Пром?нь (UA),http://portal.ott.pink/watch/201/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+
+Travel Guide TVhttp://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
+Думская ТВ,http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
+Правда ТУТ,http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+Правда ТУТ HD (Киев),http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+Прямый,http://95.67.21.100/hls/prm_ua_hi/index.m3u8
+Репортер (Одесса),http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+СК1,http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+TIC,http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod240/playlist.m3u8
+TIC,http://cdn10.live-tv.od.ua:8081/riood/tisod504/playlist.m3u8
+TPK,http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
+ТРК Надия,http://nadiya.home-net.com.ua/mob/mystream.m3u8
+Тернопiль 1 HD,http://ott.columbus.te.ua/ternopil1/index.m3u8
+Фан Спорт 2,https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+Фан Спорт,https://live-k2311-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+ZTV (Запорожье),http://stream.ztv.zp.ua/hls/live.m3u8
+2TV,http://65.109.110.117:6070/play/a00h
+3 plus EE,http://65.109.110.117:6070/play/a00i
+360 TV HD,http://65.109.110.117:6070/play/a00j
+3plus_EE_SD,http://65.109.110.117:6070/play/a00x
+BOLT_HD_RU,http://65.109.110.117:6070/play/a02n
+BTV HD,http://65.109.110.117:6070/play/a01s
+Best4Sport_HD_HVC,http://65.109.110.117:6070/play/a00v
+Big Planet HD,http://65.109.110.117:6070/play/a01x
+Bridge Fresh HD,http://65.109.110.117:6070/play/a01p
+CH_CLUBBINGHD,http://65.109.110.117:6070/play/a013
+CH_RATNIKHD,http://65.109.110.117:6070/play/a018
+CH_SHOTTVHD,http://65.109.110.117:6070/play/a01b
+CH_TV1000HD,http://65.109.110.117:6070/play/a00a
+CH_ZEETVHD,http://65.109.110.117:6070/play/a0043
+Duo 3 HD,http://65.109.110.117:6070/play/a027
+Duo 4 HD,http://65.109.110.117:6070/play/a00g
+FAN HD,http://65.109.110.117:6070/play/a01t
+GasgNetwork HD,http://65.109.110.117:6070/play/a01c
+Kino Living HD,http://65.109.110.117:6070/play/a03y3
+Kinojem_1_HD,http://65.109.110.117:6070/play/a02g
+LTV1 HD,http://65.109.110.117:6070/play/a00q
+Museum_HD,http://65.109.110.117:6070/play/a032
+MusicBoxGold,http://65.109.110.117:6070/play/a03l3
+OKINO,http://65.109.110.117:6070/play/a02r
+Plan B,http://65.109.110.117:6070/play/a023
+Poehali_HD,http://65.109.110.117:6070/play/a01l
+RU TV HD,http://65.109.110.117:6070/play/a020
+Russian Extreme HD,http://65.109.110.117:6070/play/a022
+RussianMusicBox,http://65.109.110.117:6070/play/a01h
+T24Riga,http://65.109.110.117:6070/play/a00y
+TV3 Mini HD,http://65.109.110.117:6070/play/a00t
+TV3 Sport 3 HD,http://65.109.110.117:6070/play/a00s
+TV8,http://65.109.110.117:6070/play/a00k
+Timel_Dizi_HD,http://65.109.110.117:6070/play/a02o
+True Love HD,http://65.109.110.117:6070/play/a01g
+Viasat Nature HD CEE,http://65.109.110.117:6070/play/a02t
+myzentvhd,http://65.109.110.117:6070/play/a031
+planetahd,http://65.109.110.117:6070/play/a007
+russianromanhd,http://65.109.110.117:6070/play/a01d3
+Диалоги о рыбалке HD,http://65.109.110.117:6070/play/a006
+Зал суда HD,http://65.109.110.117:6070/play/a017
+Охотник и рыболов HD,http://65.109.110.117:6070/play/a01u
+Comedy Central,http://65.109.110.117:6071/play/a009
+English Club,http://65.109.110.117:6071/play/a004
+NLO TV 2 HD,http://65.109.110.117:6071/play/a007
+NOW Series HD,http://65.109.110.117:6071/play/a003
+OTB Dnipro,http://65.109.110.117:6071/play/a005
+SW Eurosport 2 HD,http://65.109.110.117:6071/play/a001
+SW Investigation Discovery,http://65.109.110.117:6071/play/a01jd
+SW TRAVEL GUIDE-TV HD,http://65.109.110.117:6071/play/a02w
+SW Xsport+,http://65.109.110.117:6071/play/a02v
+SW Прямий SD,http://65.109.110.117:6071/play/a02u
+SW Ривне 1,http://65.109.110.117:6071/play/a01o
+Ukraina_1_HD,http://65.109.110.117:6071/play/a006
+Ukraina_2_HD,http://65.109.110.117:6071/play/a008
+Первый автомобильный HD,http://65.109.110.117:6071/play/a002
+Magic VHS HD,http://85chlkto.otttv.pw/iptv/2XGCY732NCTX4V/18062/index.m3u8
+Magic Disney HD,http://85chlkto.otttv.pw/iptv/2XGCY732NCTX4V/18064/index.m3u8
+5 Kanal,http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/196220
+ 1+1 Спорт,http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/290697
+ 100% News,http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/296187
+ 2+2,http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/196219
