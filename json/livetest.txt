@@ -1,3 +1,131 @@
+央视频,#genre#
+
+CCTV1,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576803.m3u8
+CCTV2,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576703.m3u8
+CCTV3,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576503.m3u8
+CCTV4,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576603.m3u8
+CCTV5,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576403.m3u8
+CCTV5+,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576303.m3u8
+CCTV6,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574301.m3u8
+CCTV7,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576203.m3u8
+CCTV8,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576103.m3u8
+CCTV9,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576003.m3u8
+CCTV10,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022573003.m3u8
+CCTV11,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575903.m3u8
+CCTV12,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575803.m3u8
+CCTV13,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575703.m3u8
+CCTV14,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575603.m3u8
+CCTV15,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575503.m3u8
+CCTV16,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575103.m3u8
+CCTV17,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575303.m3u8
+CCTV-4K,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575203.m3u8
+CCTV-8K,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
+
+北京卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
+东方卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
+天津卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2019927003.m3u8
+重庆卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000297803.m3u8
+辽宁卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000281303.m3u8
+山东卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000294803.m3u8
+安徽卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000298003.m3u8
+河南卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
+河北卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000293403.m3u8
+湖北卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000294503.m3u8
+湖南卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
+江西卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000294103.m3u8
+江苏卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
+浙江卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
+东南卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292503.m3u8
+广东卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
+广西卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
+深圳卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
+贵州卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000293303.m3u8
+四川卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000295003.m3u8
+新疆卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2019927403.m3u8
+海南卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000291503.m3u8
+黑龙江卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
+
+
+
+CCTV兵器科技,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+CCTV第一剧场,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
+CCTV怀旧剧场,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
+CCTV风云剧场,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
+CCTV风云音乐,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
+CCTV风云足球,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+CCTV电视指南,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
+CCTV女性时尚,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
+CCTV世界地理,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+CCTV央视台球,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
+CCTV卫生健康,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
+CCTV高尔夫网球,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+CCTV文化精品,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
+
+
+CCTV1,http://xxw.me0.cn/ysp2024.php?id=cctv1
+CCTV2,http://xxw.me0.cn/ysp2024.php?id=cctv2
+CCTV3,http://xxw.me0.cn/ysp2024.php?id=cctv3
+CCTV4,http://xxw.me0.cn/ysp2024.php?id=cctv4
+CCTV5,http://xxw.me0.cn/ysp2024.php?id=cctv5
+CCTV5+,http://xxw.me0.cn/ysp2024.php?id=cctv5p
+CCTV6,http://xxw.me0.cn/ysp2024.php?id=cctv6hd
+CCTV7,http://xxw.me0.cn/ysp2024.php?id=cctv7
+CCTV8,http://xxw.me0.cn/ysp2024.php?id=cctv8
+CCTV9,http://xxw.me0.cn/ysp2024.php?id=cctv9
+CCTV10,http://xxw.me0.cn/ysp2024.php?id=cctv10
+CCTV11,http://xxw.me0.cn/ysp2024.php?id=cctv11
+CCTV12,http://xxw.me0.cn/ysp2024.php?id=cctv12
+CCTV13,http://xxw.me0.cn/ysp2024.php?id=cctv13
+CCTV14,http://xxw.me0.cn/ysp2024.php?id=cctv14
+CCTV15,http://xxw.me0.cn/ysp2024.php?id=cctv15
+CCTV16,http://xxw.me0.cn/ysp2024.php?id=cctv16
+CCTV16,http://xxw.me0.cn/ysp2024.php?id=cctv16-4k
+CCTV17,http://xxw.me0.cn/ysp2024.php?id=cctv17
+CCTV-4K,http://xxw.me0.cn/ysp2024.php?id=cctv4k
+CCTV-8K,http://xxw.me0.cn/ysp2024.php?id=cctv8k
+
+
+北京卫视,http://xxw.me0.cn/ysp2024.php?id=bjws
+东方卫视,http://xxw.me0.cn/ysp2024.php?id=dfws
+天津卫视,http://xxw.me0.cn/ysp2024.php?id=tjws
+重庆卫视,http://xxw.me0.cn/ysp2024.php?id=cqws
+黑龙江卫视,http://xxw.me0.cn/ysp2024.php?id=hljws
+辽宁卫视,http://xxw.me0.cn/ysp2024.php?id=lnws
+河北卫视,http://xxw.me0.cn/ysp2024.php?id=hbws
+山东卫视,http://xxw.me0.cn/ysp2024.php?id=sdws
+安徽卫视,http://xxw.me0.cn/ysp2024.php?id=ahws
+河南卫视,http://xxw.me0.cn/ysp2024.php?id=hnws
+湖北卫视,http://xxw.me0.cn/ysp2024.php?id=hubws
+湖南卫视,http://xxw.me0.cn/ysp2024.php?id=hunws
+江西卫视,http://xxw.me0.cn/ysp2024.php?id=jxws
+江苏卫视,http://xxw.me0.cn/ysp2024.php?id=jsws
+浙江卫视,http://xxw.me0.cn/ysp2024.php?id=zjws
+东南卫视,http://xxw.me0.cn/ysp2024.php?id=dnws
+广东卫视,http://xxw.me0.cn/ysp2024.php?id=gdws
+深圳卫视,http://xxw.me0.cn/ysp2024.php?id=szws
+广西卫视,http://xxw.me0.cn/ysp2024.php?id=gxws
+贵州卫视,http://xxw.me0.cn/ysp2024.php?id=gzws
+四川卫视,http://xxw.me0.cn/ysp2024.php?id=scws
+新疆卫视,http://xxw.me0.cn/ysp2024.php?id=xjws
+海南卫视,http://xxw.me0.cn/ysp2024.php?id=hinws
+兵团卫视,http://xxw.me0.cn/ysp2024.php?id=btws
+
+
+CCTV兵器科技,http://xxw.me0.cn/ysp2024.php?id=bqkj
+CCTV第一剧场,http://xxw.me0.cn/ysp2024.php?id=dyjc
+CCTV怀旧剧场,http://xxw.me0.cn/ysp2024.php?id=hjjc
+CCTV风云剧场,http://xxw.me0.cn/ysp2024.php?id=fyjc
+CCTV风云音乐,http://xxw.me0.cn/ysp2024.php?id=fyyy
+CCTV风云足球,http://xxw.me0.cn/ysp2024.php?id=fyzq
+CCTV电视指南,http://xxw.me0.cn/ysp2024.php?id=dszn
+CCTV女性时尚,http://xxw.me0.cn/ysp2024.php?id=nxss
+CCTV文化精品,http://xxw.me0.cn/ysp2024.php?id=whjp
+CCTV世界地理,http://xxw.me0.cn/ysp2024.php?id=sjdl
+CCTV高尔夫网球,http://xxw.me0.cn/ysp2024.php?id=gefwq
+CCTV央视台球,http://xxw.me0.cn/ysp2024.php?id=ystq
+CCTV卫生健康,http://xxw.me0.cn/ysp2024.php?id=wsjk
+
+
 港台阿里,#genre#
 TVB J2台,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
 TVB 翡翠台,http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
@@ -20,7 +148,54 @@ VIU TV6频道,http://ali.hlspull.yximgs.com/live/twlivefhwzptdzbehztyhbvhfzcvszz
 RTHK31频道,http://ali.hlspull.yximgs.com/live/twlivehpzdthpthcvhnzuzulsfzhcvbzuyhbnzyzthz31.flv
 RTHK32频道,http://ali.hlspull.yximgs.com/live/twlivezpzzecxvzzuszfzzfdhnbthzzszfwdtncyzthz32.flv
 
+TVB J2台,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
+TVB 翡翠台,http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
+TVB 明珠台,http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv
+TVB 星河台(国),http://ali.hlspull.yximgs.com/live/twlivezzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh.flv
+TVB 无线新闻台,http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
+TVB 财经体育资1台,http://ali.hlspull.yximgs.com/live/twlivefhwylwpthzyzzfzxvzlmnduhyzmtvbwxcd.flv
+TVB 财经体育资2台,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthfgfbvcfghzyfzszbcvxzvbxzsfzfzsehbvbztvbd5.flv
+VIU TV,http://ali.hlspull.yximgs.com/live/twlivefhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv.flv
+VIU TV6,http://ali.hlspull.yximgs.com/live/twlivefhwzptdzbehztyhbvhfzcvszzfyztvzutvszx.flv
+RTHK31,http://ali.hlspull.yximgs.com/live/twlivehpzdthpthcvhnzuzulsfzhcvbzuyhbnzyzthz31.flv
+RTHK32,http://ali.hlspull.yximgs.com/live/twlivezpzzecxvzzuszfzzfdhnbthzzszfwdtncyzthz32.flv
+HOY 资讯台,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw.flv
+澳门莲花台,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh.flv
 
+台视,http://ali.hlspull.yximgs.com/live/twliveptezfsxlvczdewzzzpszfvvxczzzpfossvbxcfzztzvxzhlts.flv
+民视,http://ali.hlspull.yximgs.com/live/twlivephzwfpzwvnzfdlsetfzzzzszsftewzhvcbzzfdzuolzbms.flv
+中视,http://ali.hlspull.yximgs.com/live/twlivezphfwnmfdczfxcvhzzwzfbfzdyuzznmfcbsfzeztyhsdzs.flv
+华视,http://ali.hlspull.yximgs.com/live/twlivepdymvcznzzzcvbcvbztyzzzffcfzvzftozzbvczfednhs.flv
+AXN HD,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfybzssxszbczcfdvsfcbzbnztyzxn.flv
+HBO HD,http://ali.hlspull.yximgs.com/live/twlivemzzlzpwzdctdfhdvzdzduzlvcbeywezweefshzfhhzszzcxhbo.flv
+HBO 家庭,http://ali.hlspull.yximgs.com/live/twlivezzozzxcvyhzszhtezwfhfvzzdvbdzszzzhzlzszvcelevenerfyi.flv
+HBO 强档,http://ali.hlspull.yximgs.com/live/twlivetzcvszgczyhpvobzxclmvhzogdzbodbszhlelevendhbosignature.flv
+CINEMAX HD,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdbczcfdvsfcbzbnztcznemzx.flv
+TVBS HD,http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
+TVBS新闻台,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
+民视新闻台,http://ali.hlspull.yximgs.com/live/twlivecnbvzfhdzuzzvcbnzftuzscxzfzezyhzzvzfmsxw.flv
+中视新闻台,http://ali.hlspull.yximgs.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv
+台视新闻台,http://ali.hlspull.yximgs.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv
+寰宇新闻台,http://ali.hlspull.yximgs.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
+中天新闻台,http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
+年代新闻台,http://ali.hlspull.yximgs.com/live/twliveozevdyscvbudlozlnsfzewtzudvbbzxfznzlvczdzdnzxw.flv
+东森新闻台,http://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
+三立新闻台,http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzdfzfvchtzuzxczxvcbszfsdxcbmzsllivexw.flv
+非凡新闻台,http://ali.hlspull.yximgs.com/live/twlivesztnfzzozdcbfcxvzfuuzzwezzzszyuhhdzszhzynffxw.flv
+壹新闻台,http://ali.hlspull.yximgs.com/live/twlivemzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw.flv
+镜新闻台,http://ali.hlspull.yximgs.com/live/twliveexcvzzocvuozxucfdexzpzzyxchvlzxzfezhcelethzzdxw.flv
+华艺综合台,http://ali.hlspull.yximgs.com/live/twlivesfbxcvzsfzdhnfcvbsxzdnzsvmbnfzuzfdhyuzmzbvnzslhdz.flv
+
+
+三立LIVE台,http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzfdzfvchtcbszzzvfzhncvndvbsxcbmzsllive.flv
+动物星球台,http://ali.hlspull.yximgs.com/live/twlivexcvbpzyhvzcvnzzsfzvbhfhczhbnzszbcvzfdvzsfcbzbnzzwxz.flv
+探索频道台,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhfhcvbcvzfdvbnzczzszzzezztspz.flv
+东森戏剧台,http://ali.hlspull.yximgs.com/live/twliveyvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfvztycxzpzzmendsxd.flv
+龙祥电影台,http://ali.hlspull.yximgs.com/live/twlivemzloehzbzzzpvboydetzewszhthzyuzfzwetyzzzhflxsz.flv
+东森电影台,http://ali.hlspull.yximgs.com/live/twlivezowdxnzltdzhecvxczzezzezyhzdyduozuomdfzhzzzdzszy.flv
+龙华电影台,http://ali.hlspull.yximgs.com/live/twlivezpxnmzfhzuowezczxhvzlfzffzdwpoehcopvdzozzfxwzy.flv
+龙华洋片台,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfvxcvxszbcvzfdvsfcbzbnztyxty.flv
+好莱坞电影台,http://ali.hlspull.yximgs.com/live/twlivezmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy.flv
 
 中天新闻台,http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
 tvbs新闻台,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
