@@ -4138,7 +4138,8 @@ NASA1,http://127.0.0.1:8081/youtube.php?v=21X5lGlDOfg
 NASA2,http://127.0.0.1:8081/youtube.php?v=nA9UZF-SZoQ
 Bloomberg Quicktake: Now 24/7 Live Breaking News,http://127.0.0.1:8081/bloombergquicktake.php
 BloombergHT Canlı Yayın ᴴᴰ,http://127.0.0.1:8081/bloomberghtyoutube.php
-Bloomberg HT Canlı Yayın ᴴᴰ,http://127.0.0.1:8081/youtube.php?v=hHSmBJk6w0c
+Bloomberg HT Canlı Yayın ᴴᴰ,http://127.0.0.1:8081/bloomberght.php
+
 美国News12,http://127.0.0.1:8081/news12.php
 gbnews,http://127.0.0.1:8081/gbnews.php
 半岛电视英文台Al Jazeera English,https://live-hls-web-aje.getaj.net/AJE/index.m3u8
