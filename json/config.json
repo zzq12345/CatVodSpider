@@ -138,15 +138,7 @@
 "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/EXT/Movie5"
     },
     
-{
-     "key": "獨播庫",
-      "name": "獨播庫",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/duboku1.json"
-    },
+
     
      {
       "key": "百度",
