@@ -266,16 +266,7 @@
     },
  
     {
-      "key": "萌米",
-      "name": "👀萌米需要对儿童限制┃App",
-       "jar":"https://github.com/zzq12345/CatVodSpider/raw/main/json/fan.txt",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
-    },
+    
  {
       "key": "一起看 ",
       "name": "🎉一起┃App",
