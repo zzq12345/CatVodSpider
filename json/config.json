@@ -54,9 +54,6 @@
 
   "sites": [
   
-    
-    
-    
     {
     "key":"Czsapp",
     "name":"📔厂长之家",
@@ -265,7 +262,7 @@
       "changeable": 1
     },
  
-    {
+    
     
  {
       "key": "一起看 ",
@@ -378,17 +375,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-            "key": "T4-安博",
-            "name": "安博(T4)不适合儿童",
-            "type": 4,
-            "api": "https://tang.serv00.net/power/ub1818",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": true
-    },
+    
     {
       "key": "量子",
       "name": "量子",
