@@ -125,7 +125,17 @@
         "经典片"
       ]
     },
-    
+    {
+            "key": "T4-安博",
+            "name": "安博(T4)",
+            "type": 4,
+            "api": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/anbo.txt",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": true
+    },
      {
       "key":"云2",
       "name":" ‍🔥梦影（og）",
