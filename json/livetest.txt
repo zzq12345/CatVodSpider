@@ -5911,6 +5911,17 @@ shanghai eye,http://127.0.0.1:8081/shanghaieye.php
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 泉州综合,http://127.0.0.1:8081/fjqz.php?id=news
 泉州闽南语,http://127.0.0.1:8081/fjqz.php?id=mny
+广东大湾区卫视,http://php.jdshipin.com:8880/chudian.php?id=gdzj
+广东民生,http://php.jdshipin.com:8880/chudian.php?id=gdms
+广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
+广东少儿,http://php.jdshipin.com:8880/chudian.php?id=gdse
+广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
+广东移动,http://php.jdshipin.com:8880/chudian.php?id=gdyd
+广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
+广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
+广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
+广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
+
 广东珠江,http://127.0.0.1:8081/touchtv.php?id=1
 广东大湾区卫视,http://127.0.0.1:8081/touchtv.php?id=2
 广东体育,http://127.0.0.1:8081/touchtv.php?id=3
