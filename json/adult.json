@@ -72,7 +72,7 @@
             "key": "T4-安博少儿不宜",
             "name": "安博(T4)不适合儿童",
             "type": 4,
-            "api": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/anbo2.txt",
+            "api": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/anbo1.txt",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
