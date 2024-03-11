@@ -5814,6 +5814,14 @@ shanghai eye,http://127.0.0.1:8081/shanghaieye.php
 第一财经,http://127.0.0.1:8081/shanghai.php?id=dycj
 上海纪实人文,http://127.0.0.1:8081/shanghai.php?id=jsrw
 清华大学,http://127.0.0.1:8081/qinghuatv.php
+北京卫视,http://127.0.0.1:8081/btv8k.php?id=bjws
+北京纪实科教,http://127.0.0.1:8081/btv8k.php?id=bjjskj
+北京影视,http://127.0.0.1:8081/btv8k.php?id=bjys
+北京财经,http://127.0.0.1:8081/btv8k.php?id=bjcj
+北京卡酷,http://127.0.0.1:8081/btv8k.php?id=bjwy
+北京生活,http://127.0.0.1:8081/btv8k.php?id=bjsh
+北京新闻,http://127.0.0.1:8081/btv8k.php?id=bjxw
+BRTV8K,http://127.0.0.1:8081/btv8k.php?id=brtv8k
 北京8k,http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 北京卫视,http://127.0.0.1:8081/beijing.php?id=bjws
 北京体育休闲,http://127.0.0.1:8081/beijing.php?id=bjjs
