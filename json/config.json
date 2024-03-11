@@ -9,6 +9,13 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
+"name":"txt1",
+
+"url":"https://epg.pw/test_channels_taiwan.txt",
+    "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
     "name":"bby",
     "url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/MPD.txt"
     }, 
