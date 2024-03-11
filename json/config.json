@@ -43,7 +43,10 @@
         "referer": "https://github.com/"
       }
     },
-
+{
+      "name": "M3U",
+      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/印尼.m3u"
+    },
     
     {
       "name": "JSON",
