@@ -5693,7 +5693,117 @@ http://127.0.0.1:8081/fjqz.php?id=news
 #EXTINF:-1 tvg-id="100680" tvg-name="" tvg-logo="" group-title="地方",泉州闽南语
 http://127.0.0.1:8081/fjqz.php?id=mny
 
+#EXTINF:-1 tvg-id="101010" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="地方",广东卫视
+http://liulili.1919810.com/触电.php?id=gdws
+#EXTINF:-1 tvg-id="101011" tvg-name="珠江" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="地方",广东珠江
+http://liulili.1919810.com/触电.php?id=gdzj
+#EXTINF:-1 tvg-id="101014" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="地方",广东大湾区卫视
+http://liulili.1919810.com/触电.php?id=nfws
+#EXTINF:-1 tvg-id="101013" tvg-name="广东公共" tvg-logo="" group-title="地方",广东民生
+http://liulili.1919810.com/触电.php?id=gdms
+#EXTINF:-1 tvg-id="101012" tvg-name="广东新闻" tvg-logo="" group-title="地方",广东新闻
+http://liulili.1919810.com/触电.php?id=gdxw
+#EXTINF:-1 tvg-id="101016" tvg-name="广东经济科教" tvg-logo="" group-title="地方",广东经济科教
+http://liulili.1919810.com/触电.php?id=gdjjkj
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",广东体育
+http://liulili.1919810.com/触电.php?id=gdty
+#EXTINF:-1 tvg-id="101020" tvg-name="广东少儿" tvg-logo="" group-title="地方",广东少儿
+http://liulili.1919810.com/触电.php?id=gdse
+#EXTINF:-1 tvg-id="101017" tvg-name="广东影视" tvg-logo="" group-title="地方",广东影视
+http://liulili.1919810.com/触电.php?id=gdys
+#EXTINF:-1 tvg-id="101021" tvg-name="广东嘉佳卡通" tvg-logo="" group-title="地方",广东嘉佳卡通
+http://liulili.1919810.com/触电.php?id=jjkt
+#EXTINF:-1 tvg-id="101020" tvg-name="广东国际" tvg-logo="" group-title="地方",广东国际
+http://liulili.1919810.com/触电.php?id=gdgj
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",广东移动
+http://liulili.1919810.com/触电.php?id=gdyd
+#EXTINF:-1 tvg-id="101018" tvg-name="广东综艺" tvg-logo="" group-title="地方",广东综艺
+http://liulili.1919810.com/触电.php?id=gdzy
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",GRTN文化频道
+http://liulili.1919810.com/触电.php?id=gdwh
 
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",肇庆综合
+http://liulili.1919810.com/触电.php?id=zqzh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",肇庆公共
+http://liulili.1919810.com/触电.php?id=zqgg
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",惠州新闻综合
+http://liulili.1919810.com/触电.php?id=hzxw
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",清远综合
+http://liulili.1919810.com/触电.php?id=qyzh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",梅州综合
+http://liulili.1919810.com/触电.php?id=mzzh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",河源综合
+http://liulili.1919810.com/触电.php?id=hyzh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",河源公共
+http://liulili.1919810.com/触电.php?id=hygg
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",连平台
+http://liulili.1919810.com/触电.php?id=lpzh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",阳江-1
+http://liulili.1919810.com/触电.php?id=yjtv1
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",阳江-2
+http://liulili.1919810.com/触电.php?id=yjtv2
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",惠东综合
+http://liulili.1919810.com/触电.php?id=hdzh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",开平综合
+http://liulili.1919810.com/触电.php?id=kpzh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",开平生活
+http://liulili.1919810.com/触电.php?id=kpsh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",四惠新闻综合
+http://liulili.1919810.com/触电.php?id=shzh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",广宁综合
+http://liulili.1919810.com/触电.php?id=gnzh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",工布江达县广播电视台
+http://liulili.1919810.com/触电.php?id=gbjd
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",化州综合
+http://liulili.1919810.com/触电.php?id=hzzh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",鹤山综合
+http://liulili.1919810.com/触电.php?id=hszh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",廉江综合
+http://liulili.1919810.com/触电.php?id=ljzh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",英德新闻综合
+http://liulili.1919810.com/触电.php?id=ydxw
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",清新综合
+http://liulili.1919810.com/触电.php?id=qxzh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",普宁综合
+http://liulili.1919810.com/触电.php?id=pnzh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",紫金综合
+http://liulili.1919810.com/触电.php?id=zjzh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",连州综合
+http://liulili.1919810.com/触电.php?id=lzzh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",阳春综合
+http://liulili.1919810.com/触电.php?id=yczh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",佛冈综合
+http://liulili.1919810.com/触电.php?id=fgzh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",怀集综合
+http://liulili.1919810.com/触电.php?id=hjzh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",惠阳电视台
+http://liulili.1919810.com/触电.php?id=hytv
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",信宜综合
+http://liulili.1919810.com/触电.php?id=xyzh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",徐闻综合
+http://liulili.1919810.com/触电.php?id=xwzh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",阳西综合
+http://liulili.1919810.com/触电.php?id=yxzh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",台山台
+http://liulili.1919810.com/触电.php?id=tstv
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",遂溪台
+http://liulili.1919810.com/触电.php?id=sxtv
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",新会综合
+http://liulili.1919810.com/触电.php?id=xhzh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",罗定综合
+http://liulili.1919810.com/触电.php?id=ldzh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",和平综合
+http://liulili.1919810.com/触电.php?id=hpzh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",东源台
+http://liulili.1919810.com/触电.php?id=dytv
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",吴川综合
+,http://liulili.1919810.com/触电.php?id=wczh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",乐昌电视台
+,http://liulili.1919810.com/触电.php?id=lctv
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",潮安综合
+http://liulili.1919810.com/触电.php?id=cazh
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",恩平综合
+http://liulili.1919810.com/触电.php?id=epzh
 #EXTINF:-1 tvg-id="101011" tvg-name="珠江" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="地方",广东珠江
 http://php.jdshipin.com:8880/chudian.php?id=gdzj
 #EXTINF:-1 tvg-id="101012" tvg-name="广东新闻" tvg-logo="" group-title="地方",广东新闻
