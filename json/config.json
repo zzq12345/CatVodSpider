@@ -17,13 +17,6 @@
     },
 
     {
-"name":"mewatch",
-
-"url":"http://zzqwe.giize.com:12229/sgtv.php",
-   "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
     "name":"bby",
     "url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/MPD.txt"
     }, 
