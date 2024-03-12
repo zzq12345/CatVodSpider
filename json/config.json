@@ -12,7 +12,7 @@
 "name":"txt1",
 
 "url":"https://epg.pw/test_channels_taiwan.txt",
-    "epg": "https://epg.112114.xyz/?ch={name}&date={date} append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss"",
+   "epg": "https://epg.112114.xyz/?ch={name}&date={date}?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
@@ -24,13 +24,13 @@
 {
       "name": "M3U",
       "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/印尼.m3u",
-   "epg": "https://epg.112114.xyz/?ch={name}&date={date} append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss"",
+  "epg": "https://epg.112114.xyz/?ch={name}&date={date}?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
     "name":"sport",
     "url":"https://raw.githubusercontent.com/AberTown/V_Zone.m3u/main/V_Sport.m3u",
-       "epg": "https://epg.112114.xyz/?ch={name}&date={date} append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss"",
+       "epg": "https://epg.112114.xyz/?ch={name}&date={date}?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
 
