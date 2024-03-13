@@ -1,5 +1,6 @@
 {
-"class":[
+  "cookie": "http://127.0.0.1:9978/file/TV/cookie.txt",
+"classes":[
 {"type_name":"帕梅拉","type_id":"帕梅拉"},
 {"type_name":"太极拳","type_id":"太极拳"},
 {"type_name":"实用教程","type_id":"实用教程"},
@@ -34,7 +35,7 @@
 {"type_name":"热门","type_id":"热门"},
 {"type_name":"旅行探险","type_id":"旅行探险"}
 ],
-"filters":{
+"filter":{
 "短剧":[
 {"key":"order","name":"排序",
 "value":[{"n":"综合排序","v":"0"},
