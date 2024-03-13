@@ -5394,10 +5394,8 @@ DW阿拉伯语,http://192.168.10.250/dwarabic.php
 francearabic,http://192.168.10.250/france24arabic.php
 CNBC Awaaz Live,http://192.168.10.250/cnbcarabic.php
 香港,#genre#
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+凤凰资讯,https://ctrl.laotv.la/live/PhoenixNews/index.m3u8
+凤凰中文,https://ctrl.laotv.la/live/PhxChinese/index.m3u8
 無線新聞,http://192.168.10.250/tvb1.php?id=NEWS
 無線財經,http://192.168.10.250/tvb1.php?id=FINA
  无线新闻台·海外版[1920x1080],http://192.168.10.250/tvb2.php?id=2
