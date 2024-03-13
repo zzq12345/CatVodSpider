@@ -17,8 +17,8 @@
     },
 
     {
-      "name":"sporttest",
-"url":"http//zzqwe.giize.com:12228/sgtv.m3u",
+      "name":"mewatch",
+"url":"http//zzqwe.giize.com:12229/sgtv.php",
    "epg": "https://epg.112114.xyz/?ch={name}&date={date}?"
       
 },
