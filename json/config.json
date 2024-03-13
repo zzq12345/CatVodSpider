@@ -17,8 +17,8 @@
     },
 
     {
-      "name":"mewatch",
-"url":"http//zzqwe.giize.com:12229/sgtv.php",
+      "name":"sporttest",
+"url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/sport1.m3u",
    "epg": "https://epg.112114.xyz/?ch={name}&date={date}?"
       
 },
