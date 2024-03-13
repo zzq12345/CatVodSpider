@@ -25,12 +25,6 @@
   "name":"4gtv",
 "url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/4gtv.m3u"
 },
-{
-      "name": "M3U",
-      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/印尼.m3u",
-  "epg": "https://epg.112114.xyz/?ch={name}&date={date}?",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
     {
     "name":"sport",
     "url":"https://raw.githubusercontent.com/AberTown/V_Zone.m3u/main/V_Sport.m3u",
