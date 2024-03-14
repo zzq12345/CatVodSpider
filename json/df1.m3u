@@ -3917,6 +3917,8 @@ http://127.0.0.1:8081/nhk.php
 
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube world news",Sky News
 http://127.0.0.1:8081/skynews.php
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube world news",Sky News
+http://127.0.0.1:8081/skynewsweblive.php
 
 
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube world news",Sky News
