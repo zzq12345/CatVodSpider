@@ -5511,7 +5511,8 @@ cgtn俄语,http://127.0.0.1:8081/cgtnrussia.php
 金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 CCTV NEWS欧洲,http://127.0.0.1:8081/cctvfrench.php
-CCTV-13HD,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
+CCTV-13HD,https://live-play-rts.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
+
 CCTV-6,http://127.0.0.1:8081/douyin.php?id=69416429589
 CCTV-6,http://127.0.0.1:8081/douyin.php?id=208823316033
 cctv-4亚洲,http://127.0.0.1:8081/cctv4.php
@@ -5798,7 +5799,8 @@ francearabic,http://127.0.0.1:8081/france24arabic.php
 CNBC Awaaz Live,http://127.0.0.1:8081/cnbcarabic.php
 香港,#genre#
 
-凤凰卫视中文台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8凤凰卫视资讯台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+凤凰卫视中文台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+凤凰卫视资讯台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰资讯,https://ctrl.laotv.la/live/PhoenixNews/index.m3u8
 凤凰中文,https://ctrl.laotv.la/live/PhxChinese/index.m3u8
 無線新聞,http://127.0.0.1:8081/tvb1.php?id=NEWS
