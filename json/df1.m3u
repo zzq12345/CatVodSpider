@@ -5957,6 +5957,23 @@ http://127.0.0.1:8081/henan.php?id=16
 http://127.0.0.1:8081/henan.php?id=17
 
 
+#EXTINF:-1 tvg-id="100659" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="地方",河北卫视
+
+https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1963555056&k=a2a2ee6412906c8b2d9a6fd19116c6d9
+#EXTINF:-1 tvg-id="100660" tvg-name="河北经济" tvg-logo="" group-title="地方",河北经济
+https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1963555098&k=188078e4cff948b7252bb3e5f88306b2
+#EXTINF:-1 tvg-id="100661" tvg-name="河北农民" tvg-logo="" group-title="地方",河北农民
+https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1963555153&k=322fe32502d1e3695b0bdef5e698635e
+#EXTINF:-1 tvg-id="100662" tvg-name="河北都市" tvg-logo="" group-title="地方",河北都市
+https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=1711094393&k=70047c0cb4a0ee90aecae0661c9816eb
+#EXTINF:-1 tvg-id="100663" tvg-name="河北影视剧" tvg-logo="" group-title="地方",河北影视剧
+https://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=1963555862&k=c1c7d65caa03f1cbd6c9585b5d840534
+#EXTINF:-1 tvg-id="100664" tvg-name="河北少儿科技" tvg-logo="" group-title="地方",河北少儿
+https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1963555882&k=3b5e2390e33ef21bf9697e4d1811e261
+
+
+#EXTINF:-1 tvg-id="100665" tvg-name="河北公共" tvg-logo="" group-title="地方",河北公共
+https://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=1963555917&k=fc9fcfabd123ab877e24ee9a0ef0c862
 
 
 
