@@ -12,8 +12,10 @@
     "name":"yangshipin",
     "url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/yangshipin.m3u"
     }, 
-
-    
+{
+  "name":"fanmingming",
+    "url":"https://live.fanmingming.cn/tv/m3u/ipv6.m3u"
+},
     {
 "name":"txt1",
 
