@@ -10,10 +10,12 @@
     },
 {
     "name":"yangshipin",
+  "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
     "url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/yangshipin.m3u"
     }, 
 {
   "name":"fanmingming",
+  "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
     "url":"https://live.fanmingming.cn/tv/m3u/ipv6.m3u"
 },
     {
