@@ -5506,6 +5506,13 @@ GRTN文化频道,http://liulili.1919810.com/触电.php?id=gdwh
 保定生活健康,http://127.0.0.1:8081/baoding.php?id=3
 张家口一套,http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
 张家口手机台,rtmp://nlive.zjkgdcs.com:1935/live/zjksjt
+沧州新闻综合,http://127.0.0.1:8081/cangzhou.php?id=czxwzh
+沧州公共,http://127.0.0.1:8081/cangzhou.php?id=czgg
+沧州影视娱乐,http://127.0.0.1:8081/cangzhou.php?id=czysyl
+沧州新闻综合,https://czlive.czgd.tv:8813/live/czyt_czytzm.m3u8
+沧州公共,https://czlive.czgd.tv:8813/live/czet_czetzm.m3u8
+沧州影视娱乐,https://czlive.czgd.tv:8813/live/czet_czetzm.m3u8
+
 邯郸新闻综合,http://127.0.0.1:8081/handan.php?id=93
 邯郸公共,http://127.0.0.1:8081/handan.php?id=91
 邯郸科技教育,http://127.0.0.1:8081/handan.php?id=90
