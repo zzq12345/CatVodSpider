@@ -6024,6 +6024,18 @@ http://127.0.0.1:8081/tangshan.php?id=2
 http://127.0.0.1:8081/tangshan.php?id=3
 #EXTINF:-1 tvg-id="400371" tvg-name="" tvg-logo="" group-title="地方",唐山公共
 http://127.0.0.1:8081/tangshan.php?id=4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",沧州新闻综合
+http://127.0.0.1:8081/cangzhou.php?id=czxwzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",沧州公共
+http://127.0.0.1:8081/cangzhou.php?id=czgg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",沧州影视娱乐
+http://127.0.0.1:8081/cangzhou.php?id=czysyl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",沧州新闻综合
+https://czlive.czgd.tv:8813/live/czyt_czytzm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",沧州公共
+https://czlive.czgd.tv:8813/live/czet_czetzm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",沧州影视娱乐
+https://czlive.czgd.tv:8813/live/czet_czetzm.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",保定新闻综合
