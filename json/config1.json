@@ -23,12 +23,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
-    {
-      "name":"体育测试",
-"url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/sport1.m3u",
-   "epg": "https://epg.112114.xyz/?ch={name}&date={date}?"
-      
-},
+    
     {
     "name":"drm ",
     "url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/MPD.txt"
