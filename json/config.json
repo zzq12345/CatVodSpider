@@ -2,48 +2,49 @@
   "spider": "https://github.com/zzq12345/CatVodSpider/raw/main/jar/custom_spider.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
-    {
-      "name": "ziyong",
+      {
+      "name": "自用",
       "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
      {
-      "name": "jiaodian",
+      "name": "焦点",
       "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/jiaodian.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-{
-    "name":"yangshipin",
-  "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-    "url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/yangshipin.m3u"
-    }, 
-{
-  "name":"fanmingming",
-  "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-    "url":"https://live.fanmingming.cn/tv/m3u/ipv6.m3u"
-},
     {
-"name":"txt1",
+"name":"台湾",
 
 "url":"https://epg.pw/test_channels_taiwan.txt",
    "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
-    
     {
-    "name":"bby",
+      "name":"体育测试",
+"url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/sport1.m3u",
+   "epg": "https://epg.112114.xyz/?ch={name}&date={date}?"
+      
+},
+    {
+    "name":"drm ",
     "url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/MPD.txt"
     }, 
 {
   "name":"4gtv",
 "url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/4gtv.m3u"
 },
+{
+      "name": "印尼",
+      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/印尼.m3u",
+  "epg": "https://epg.112114.xyz/?ch={name}&date={date}?",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
     {
-    "name":"sport",
+    "name":"s体育",
     "url":"https://raw.githubusercontent.com/AberTown/V_Zone.m3u/main/V_Sport.m3u",
        "epg": "https://epg.112114.xyz/?ch={name}&date={date}?",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
