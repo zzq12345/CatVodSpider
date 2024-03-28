@@ -4,7 +4,7 @@
   "lives": [
     {
       "name": "自用",
-      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest.txt",
+      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest1.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -16,7 +16,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-"name":"txt1",
+"name":"台湾",
 
 "url":"https://epg.pw/test_channels_taiwan.txt",
    "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
@@ -24,13 +24,13 @@
     },
 
     {
-      "name":"sporttest",
+      "name":"体育测试",
 "url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/sport1.m3u",
    "epg": "https://epg.112114.xyz/?ch={name}&date={date}?"
       
 },
     {
-    "name":"bby",
+    "name":"drm ",
     "url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/MPD.txt"
     }, 
 {
@@ -38,13 +38,13 @@
 "url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/4gtv.m3u"
 },
 {
-      "name": "M3U",
+      "name": "印尼",
       "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/印尼.m3u",
   "epg": "https://epg.112114.xyz/?ch={name}&date={date}?",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-    "name":"sport",
+    "name":"s体育",
     "url":"https://raw.githubusercontent.com/AberTown/V_Zone.m3u/main/V_Sport.m3u",
        "epg": "https://epg.112114.xyz/?ch={name}&date={date}?",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
