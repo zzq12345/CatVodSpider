@@ -44,7 +44,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-    "name":"s体育",
+    "name":"体育",
     "url":"https://raw.githubusercontent.com/AberTown/V_Zone.m3u/main/V_Sport.m3u",
        "epg": "https://epg.112114.xyz/?ch={name}&date={date}?",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
