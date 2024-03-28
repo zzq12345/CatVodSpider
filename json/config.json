@@ -122,6 +122,18 @@
     },
 
     {
+        "key": "加菲猫",
+        "name": "加菲猫",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%8A%A0%E8%8F%B2%E7%8C%AB%E5%BD%B1%E8%A7%86.json",
+        "jar": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
+    },
+
+    {
       "key": "星星",
       "name": "星星",
       "type": 3,
