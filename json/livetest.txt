@@ -4471,7 +4471,8 @@ cgtn俄语,http://127.0.0.1:8081/cgtnrussia.php
 金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 CCTV NEWS欧洲,http://127.0.0.1:8081/cctvfrench.php
-CCTV-13HD,https://live-play-rts.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV-13HD,http://127.0.0.1:8081/newsweb.php
+
 CCTV-6,http://127.0.0.1:8081/douyin.php?id=69416429589
 CCTV-6,http://127.0.0.1:8081/douyin.php?id=208823316033
 cctv-4亚洲,http://127.0.0.1:8081/cctv4.php
