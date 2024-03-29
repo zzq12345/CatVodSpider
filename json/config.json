@@ -152,7 +152,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/tianlong.json",
-        "jar": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/jsonn/xyqxbpq.jar"
+        "jar": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/xyqxbpq.jar"
     },
     
     {
