@@ -129,8 +129,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%8A%A0%E8%8F%B2%E7%8C%AB%E5%BD%B1%E8%A7%86.json",
-        "jar": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
+        "ext": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/jiafeimaoyingshi.json",
+        "jar": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/xyqxbpq.jar"
     },
 {
         "key": "黑木资源",
@@ -140,8 +140,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E9%BB%91%E6%9C%A8%E8%80%B3%E8%B5%84%E6%BA%90.json",
-        "jar": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
+        "ext": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/heimu.json",
+        "jar": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/xyqxbpq.jar"
     },
 {
         "key": "天龙影视",
@@ -151,8 +151,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%A4%A9%E9%BE%99%E5%BD%B1%E8%A7%86.json",
-        "jar": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
+        "ext": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/tianlong.json",
+        "jar": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/jsonn/xyqxbpq.jar"
     },
     
     {
