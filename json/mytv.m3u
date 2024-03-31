@@ -1,6 +1,5 @@
 
-
-EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-id="JUHD" tvg-logo="",翡翠台(超高清)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
