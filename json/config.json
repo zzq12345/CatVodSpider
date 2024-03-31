@@ -25,7 +25,7 @@
     }, 
 {
 "name":"mytv",
-"url","https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/mytv.m3u"},
+"url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/mytv.m3u"},
     
 {
   "name":"4gtv",
