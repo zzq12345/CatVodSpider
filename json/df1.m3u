@@ -5929,6 +5929,22 @@ http://127.0.0.1:8081/guangzhou.php?id=yingshi
 http://127.0.0.1:8081/guangzhou.php?id=shenghuo
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳卫视
+http://127.0.0.1:8081/shenzhen.php?id=szws
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳娱乐
+http://127.0.0.1:8081/shenzhen.php?id=szyl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳少儿
+http://127.0.0.1:8081/shenzhen.php?id=szse
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳公共
+http://127.0.0.1:8081/shenzhen.php?id=szgg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳财经
+http://127.0.0.1:8081/shenzhen.php?id=szcjsh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳电视剧
+http://127.0.0.1:8081/shenzhen.php?id=szdsj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳都市
+http://127.0.0.1:8081/shenzhen.php?id=szds
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳移动
+http://127.0.0.1:8081/shenzhen.php?id=szyd
 
 
 
