@@ -1,6 +1,5 @@
 {
-  "spider": "https://github.com/zzq12345/jiemuyuan/raw/main/pg.jar, https://github.com/zzq12345/CatVodSpider/raw/main/jar/custom_spider.jar ",
-  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "spider": "https://github.com/zzq12345/jiemuyuan/raw/main/pg.jar", 
   "lives": [
       {
       "name": "自用",
@@ -77,6 +76,7 @@
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "changeable": 1,
+   "spider": "https://github.com/zzq12345/CatVodSpider/raw/main/jar/custom_spider.jar ",
       "ext": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/duboku.json"
     },
  {
