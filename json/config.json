@@ -8,12 +8,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
 },
     
-      {
-      "name": "自用",
-      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+      
 
      
     {
@@ -24,7 +19,12 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
-    
+    {
+      "name": "自用",
+      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
     {
     "name":"drm ",
     "url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/MPD.txt"
