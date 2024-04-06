@@ -93,7 +93,7 @@
         "经典片"
       ]
     },
-{"key":"kyB","name":"快鹰|采集","style":{"type":"rect","ratio":0.85},"type":1,"api":"http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"playUrl":"json:https://stray.serv00.net/ky.php?url="},
+
     {
     "key":"Czsapp",
     "name":"📔厂长之家",
@@ -106,6 +106,37 @@
     "changeable":1,
     "ext":"https://www.czzy88.com/"
   },
+
+{ "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":""},
+		{ 
+			"key": "泥巴", 
+			"name": "泥巴 | 海外", 
+			"type": 3, 
+			"api": "csp_NiNi", 
+			"searchable": 1, 
+			"filterable": 1, 
+			"changeable": 0, 
+			"ext":"0$$$" 
+		},
+		{
+			"key": "星星",
+			"name": "星星 | 海外",
+			"type": 3,
+			"api": "csp_Star",
+			"searchable": 1,
+			"changeable": 0,
+			"ext":""
+		},
+		{
+			"key": "獨播",
+			"name": "獨播 | 海外",
+			"type": 3,
+			"api": "csp_XPathMacFilter",
+			"searchable": 1,
+			"changeable": 0,
+			"ext": "./duboku.json$$$"
+		},
+    
     {
        "key":"drpy_js_爱看机器人",
        "name":"爱看机器[js]",
@@ -115,6 +146,8 @@
      
        "ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
      },
+    {"key":"kyB","name":"快鹰|采集","style":{"type":"rect","ratio":0.85},"type":1,"api":"http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"playUrl":"json:https://stray.serv00.net/ky.php?url="},
+    
     {
         "key": "加菲猫",
         "name": "加菲猫",
