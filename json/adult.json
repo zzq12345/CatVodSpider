@@ -55,7 +55,7 @@
             "filterable": 1,
             "api": "csp_XBPQ",
 
-      "jar":"./lib/XBPQ.jar",
+      "jar":"https://github.com/zzq12345/jiemuyuan/tree/main/lib/XBPQ.jar",
             "ext": {
             "分类": "亚洲$yazhou#欧美$oumei#国产$3guochan#动漫$dongman#伦理$lunli",
 "分类url":"https://www.uuge5.com/vodtype/{cateId}/area/{area}/lang/{lang}/page/{catePg}/year/{year}/"
