@@ -62,7 +62,7 @@
             }
         },
     
- {{"key":"csp_ysdq","name":"影视大全","type":3,"api":"csp_XBPQ","jar": "./xbpq.jar","ext": {
+ {"key":"csp_ysdq","name":"影视大全","type":3,"api":"csp_XBPQ","jar": "./xbpq.jar","ext": {
                 "主页url": "http://www.sxpxsm.com.cn/",
                 "副标题": "pic-text text-right\">&&</b>",
                 "搜索模式": "1",
@@ -73,7 +73,7 @@
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
                 "分类url": "http://www.sxpxsm.com.cn/frim/{cateId}.html"}
 },
-   "key": "萌米",
+ {"key": "萌米",
       "name": "👀萌米需要对儿童限制┃App",
        "jar":"https://github.com/zzq12345/CatVodSpider/raw/main/json/fan.txt",
       "type": 3,
