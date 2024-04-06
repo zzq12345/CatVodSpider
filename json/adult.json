@@ -54,15 +54,15 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "csp_XBPQ",
-"spider": "./pg.jar",
-      "spider":"./XBPQ.jar",
+
+      "spider":"https://github.com/zzq12345/jiemuyuan/tree/main/lib/xbpq.jar",
             "ext": {
             "分类": "亚洲$yazhou#欧美$oumei#国产$3guochan#动漫$dongman#伦理$lunli",
 "分类url":"https://www.uuge5.com/vodtype/{cateId}/area/{area}/lang/{lang}/page/{catePg}/year/{year}/"
             }
         },
     
- {"key":"csp_ysdq","name":"影视大全","type":3,"api":"csp_XBPQ","jar": "./xbpq.jar","ext": {
+ {"key":"csp_ysdq","name":"影视大全","type":3,"api":"csp_XBPQ","jar": "https://github.com/zzq12345/jiemuyuan/tree/main/lib./xbpq.jar","ext": {
                 "主页url": "http://www.sxpxsm.com.cn/",
                 "副标题": "pic-text text-right\">&&</b>",
                 "搜索模式": "1",
