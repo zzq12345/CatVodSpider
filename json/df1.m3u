@@ -4640,7 +4640,7 @@ http://127.0.0.1:8081/4gtv7201.php?id=36
 #EXTINF:-1 tvg-id="4gtv-live072" tvg-name="TVBS新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live072_mobile.png" group-title="4gtv",TVBS新聞
 http://127.0.0.1:8081/4gtv1080.php?id=37
 #EXTINF:-1 tvg-id="4gtv-live019" tvg-name="東森財經新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live019_mobile.png" group-title="4gtv",東森財經新聞台
-http://127.0.0.1:8081/4gtv1080.php?id=38
+http://127.0.0.1:8081/4gtv720.php?id=38
 #EXTINF:-1 tvg-id="4gtv-4gtv074" tvg-name="中視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv074_mobile.png" group-title="4gtv",中視新聞
 http://127.0.0.1:8081/4gtv720.php?id=39
 #EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-name="中天新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv009_mobile.png" group-title="4gtv",中天新聞台
