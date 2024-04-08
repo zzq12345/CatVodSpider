@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="http://zzqwe.giize.com:12228/epg4gtv2.xml,http://epg.51zmt.top:8000/e.xml,https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml,http://zzqwe.giize.com:12228/epgmysuper.xml,http://zzqwe.giize.com:12228/epganywhere.xml,https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz,https://weareblahs.github.io/epg/astro.xml,https://weareblahs.github.io/epg/astro.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="秦岭云",CCTV1
 http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="秦岭云",CCTV2
@@ -559,7 +560,6 @@ http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcl
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="秦岭云",CCTV2
 http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3u8
 
-
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"   group-title="百事通",CCTV1
 http://qc.v2free.cf/436768219群/bestv1.php?id=cctv1hd/4000000
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"   group-title="百事通",CCTV1
@@ -1053,17 +1053,17 @@ https://ctrl.laotv.la/live/CCTV14/index.m3u8
 https://ctrl.laotv.la/live/ChinaMovie/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="老挝直播",Hunan湖南卫视
 https://ctrl.laotv.la/live/Hunan/index.m3u8
-#EXTINF:-1 tvg-id="100262" tvg-name="東森電影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="老挝直播",東森電影台
+#EXTINF:-1 tvg-id="1002612" tvg-name="東森電影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="老挝直播",東森電影台
 https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
-#EXTINF:-1 tvg-id="100266" tvg-name="東森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="老挝直播",東森洋片台
+#EXTINF:-1 tvg-id="100265" tvg-name="東森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="老挝直播",東森洋片台
 https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
-#EXTINF:-1 tvg-id="100264"  tvg-name="LS TIME電影台" tvg-logo="" group-title="老挝直播",LS TIME電影台
+#EXTINF:-1 tvg-id="100263"  tvg-name="LS TIME電影台" tvg-logo="" group-title="老挝直播",LS TIME電影台
 https://ctrl.laotv.la/live/Longxiang/index.m3u8
 #EXTINF:-1  tvg-id="70020" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png" group-title="老挝直播",天映经典
 https://ctrl.laotv.la/live/CHCA/index.m3u8
 
 
-#EXTINF:-1 tvg-id="100265" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="老挝直播",HBO
+#EXTINF:-1 tvg-id="100264" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="老挝直播",HBO
 https://ctrl.laotv.la/live/HBO/index.m3u8
 #EXTINF:-1 tvg-id="100270" tvg-name="CINEMAX有線" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="老挝直播",CINEMAX有線
 https://ctrl.laotv.la/live/Cinemax/index.m3u8
