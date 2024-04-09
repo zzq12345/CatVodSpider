@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;96a99e445d620353890869d95755b890",
+  "spider": "./pg.jar",
   "wallpaper": "https://gao.chuqiuyu.workers.dev",
   "sites": [
     {
