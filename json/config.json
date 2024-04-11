@@ -11,6 +11,12 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 	  {
+  "name":"4gtv",
+"url":"./yangshipin.m3u",
+  "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+	  {
 "name":"台湾",
 
 "url":"https://epg.pw/test_channels_taiwan.txt",
