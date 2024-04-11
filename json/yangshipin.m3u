@@ -1,13 +1,13 @@
 
 #EXTM3U
 #EXTINF:-1 group-title="央視頻道",CCTV4K超高清
-video://https://www.yangshipin.cn/#/tv/home?pid=600002264
+https://www.yangshipin.cn/#/tv/home?pid=600002264
 #EXTINF:-1 group-title="央視頻道",CCTV1綜合
-video://https://www.yangshipin.cn/#/tv/home?pid=600001859
+https://www.yangshipin.cn/#/tv/home?pid=600001859
 #EXTINF:-1 group-title="央視頻道",CCTV2財經
-video://https://www.yangshipin.cn/#/tv/home?pid=600001800
+https://www.yangshipin.cn/#/tv/home?pid=600001800
 #EXTINF:-1 group-title="央視頻道",CCTV4中文國際
-video://https://www.yangshipin.cn/#/tv/home?pid=600001814
+https://www.yangshipin.cn/#/tv/home?pid=600001814
 #EXTINF:-1 group-title="央視頻道",CCTV7国防軍事
 video://https://www.yangshipin.cn/#/tv/home?pid=600004092
 #EXTINF:-1 group-title="央視頻道",CCTV9紀錄
