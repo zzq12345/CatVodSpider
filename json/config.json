@@ -11,7 +11,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 	  {
-  "name":"4gtv",
+  "name":"央视频",
 "url":"./yangshipin.m3u",
   "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
