@@ -10,12 +10,8 @@
    "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-	  {
-  "name":"yangshipin",
-"url":"./yangshipin.m3u",
-  "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-},
+	  
+
 	  {
 "name":"台湾",
 
