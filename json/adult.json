@@ -1,6 +1,92 @@
 {
   "spider": "./pg.jar",
   "wallpaper": "https://gao.chuqiuyu.workers.dev",
+  "lives": [
+	{
+"name":"youtubelive",
+
+"url":"./youtubelive.txt",
+"type": 0,
+"playerType": 1,
+   "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+	 {
+"name":"国内频道直播",
+
+"url":"./guoneizhibo.txt",
+"type": 0,
+"playerType": 1,
+				  
+   "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+	  {
+"name":"台湾",
+
+"url":"https://epg.pw/test_channels_taiwan.txt",
+   "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+{
+  "name":"4gtv",
+"url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/4gtv.m3u",
+  "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+    {
+      "name": "自用",
+      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+
+                        {
+                                "name": "live.ipv6",
+                                "type": 0,
+                                "url": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+                                "playerType": 1,
+                                "ua": "okhttp/3.15",
+                                "epg": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/http://epg.112114.xyz/?ch={name}&date={date}",
+                                "logo": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://epg.112114.xyz/logo/{name}.png"
+                        },
+                        {
+                                "name": "live.ipv6.m3u",
+                                "type": 0,
+                                "url": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+                                "playerType": 1,
+                                "ua": "okhttp/3.15",
+                                "epg": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/http://epg.112114.xyz/?ch={name}&date={date}",
+                                "logo": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://epg.112114.xyz/logo/{name}.png"
+                        },
+
+	  
+    {
+    "name":"drm ",
+    "url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/MPD.txt"
+    }, 
+{
+"name":"mytv",
+"url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/mytv.m3u"
+},
+    
+
+{
+      "name": "印尼",
+      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/印尼.m3u",
+  "epg": "https://epg.112114.xyz/?ch={name}&date={date}?",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+    "name":"体育",
+    "url":"https://raw.githubusercontent.com/AberTown/V_Zone.m3u/main/V_Sport.m3u",
+       "epg": "https://epg.112114.xyz/?ch={name}&date={date}?",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+
+  ],
   "sites": [
     {
       "key": "泥巴",
