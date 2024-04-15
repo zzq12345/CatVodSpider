@@ -215,6 +215,18 @@
       "quickSearch": 1,
       "filterable": 1
     },
+{
+            "key": "Taohuazu",
+            "name": "💖💃 | 桃花族",
+            "type": 3,
+            "api": "csp_Taohuazu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "http://thzl.cc/forum.php"},
+	  
     {
       "key": "cat_js_mt",
       "name": "🐱蜜桃[CAT]",
