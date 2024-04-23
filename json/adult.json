@@ -169,6 +169,9 @@
             "filterable": 0,
             "timeout": 60,
             "ext": "http://thzl.cc/forum.php"},
+
+{"key":"Xojav","name":"🔞XOJav🚀","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","type":3,"api":"csp_Xojav","searchable":0,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"null$$$127.0.0.1:10071"},
+	  
  {"key":"csp_ysdq","name":"影视大全","type":3,"api":"csp_XBPQ","jar": "https://raw.githubusercontent.com/zzq12345/jiemuyuan/main/lib/XBPQ.jar",
             "ext": {
                 "主页url": "http://www.sxpxsm.com.cn/",
