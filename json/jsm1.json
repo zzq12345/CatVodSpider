@@ -1004,10 +1004,10 @@
 		"lives":[
 
 {
-				"name": "墙外YouTubeLive",
+				"name": "墙内YouTubeLive",
 				"type": 0,
 				"playerType": 1,
-				"url": "./lib/yo22.txt"
+				"url": "./lib/yo21.txt"
 			},
 
 	{
