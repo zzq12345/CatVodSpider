@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,http://zzqwe.giize.com:12228/epgmysuper.xml,http://zzqwe.giize.com:12228/epg4gtv2.xml,http://zzqwe.giize.com:12228/epganywhere.xml,https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-
-
 #EXTINF:-1 tvg-id="cctv8k" tvg-name="cctv8k " tvg-logo="https://bkimg.cdn.bcebos.com/pic/6f061d950a7b02087bf4792df48be5d3572c10df62e6?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="央视频",cctv8k
 http://127.0.0.1:8081/ysp.php?id=cctv8k
 #EXTINF:-1 tvg-id="cctv8k" tvg-name="cctv8k " tvg-logo="https://bkimg.cdn.bcebos.com/pic/6f061d950a7b02087bf4792df48be5d3572c10df62e6?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="央视频",cctv8k
