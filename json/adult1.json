@@ -126,6 +126,11 @@
       "searchable": 1,
       "changeable": 1
     },
+
+	  {
+		  "key":"Eighteen","name":"🔞Eighteen|18av","type":3,"style":{"ratio":1.7},"api":"csp_Eighteen"
+	  },
+
     {
       "key": "caoliuzyw",
       "name": "草榴",
