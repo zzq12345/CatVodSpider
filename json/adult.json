@@ -158,6 +158,8 @@
 "分类url":"https://www.uuge5.com/vodtype/{cateId}/area/{area}/lang/{lang}/page/{catePg}/year/{year}/"
             }
         },
+	  {"key":"Eighteen","name":"🔞Eighteen|18av","type":3,"style":{"ratio":1.7},"api":"csp_Eighteen"},
+
     {
             "key": "Taohuazu",
             "name": "💖💃 | 桃花族",
