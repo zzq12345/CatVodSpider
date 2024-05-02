@@ -159,7 +159,41 @@
             }
         },
 	  {"key":"Eighteen","name":"🔞Eighteen|18av","type":3,"style":{"ratio":1.7},"api":"csp_Eighteen"},
-
+{"key":"csp_JavBus",
+        "name":"🔞🧲JavBus(自备梯子)",
+        "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
+        "type":3,"style":{"type":"rect","ratio":1.485},
+        "api":"csp_JavBus",
+        "searchable":1,
+        "quickSearch": 1,
+        "changeable":0,
+        "filterable": 1,
+        "ext":"127.0.0.1:2001"
+        },
+     
+        {
+            "key": "csp_JavDb",
+            "name": "🔞🧲JavDb",
+            "type": 3,
+            "api": "csp_JavDb",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "timeout": 1801,
+            "ext": "http://javdb523.com"
+        },
+        {
+            "key": "Cable",
+            "name": "🔞CableAV(vpn)",
+            "type": 3,
+            "api": "csp_Cable",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60
+        },
     {
             "key": "Taohuazu",
             "name": "💖💃 | 桃花族",
