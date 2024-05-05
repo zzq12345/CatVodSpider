@@ -95,7 +95,15 @@
 			"changeable": 0,
 			"ext":""
 		},
-
+        {
+                "key": "侠客影视",
+                "name": "侠客┃CSP",
+                "type": 1,
+                "api": "http://1.xkys.link/api.php/tvbox",
+                "searchable": 1,
+                "changeable": 1,
+                "filterable": 0
+        },
 	{
 			"key": "小爱",
 			"name": "小爱",
