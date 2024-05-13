@@ -3,9 +3,9 @@
   "wallpaper": "https://gao.chuqiuyu.workers.dev",
   "lives": [
 	{
-"name":"youtubelive",
+"name":"闲人大湿专用2",
 
-"url":"./youtubelive.txt",
+"url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/600.txt",
 "type": 0,
 "playerType": 1,
    "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
