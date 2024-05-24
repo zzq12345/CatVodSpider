@@ -30,7 +30,7 @@
   ],
 
   "sites": [
-  
+  { "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":""},
  {
       "key": "haiwaikan",
       "name": "海外看",
@@ -75,7 +75,7 @@
 
   {"key":"白嫖影视","name":"🔴白嫖影视","type":3,"api":"csp_BaiPiao","jar":"./3366.jar"},
 
-{ "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":""},
+
 		{ 
 			"key": "泥巴", 
 			"name": "泥巴 | 海外", 
