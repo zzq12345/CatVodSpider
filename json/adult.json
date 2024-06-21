@@ -135,17 +135,7 @@
 },
 
 	  
-    {
-      "key": "非凡",
-      "name": "非凡",
-      "type": 0,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
+
     {
       "key": "玩偶",
       "name": "玩偶",
@@ -174,43 +164,12 @@
             
         
 	  {"key":"Eighteen","name":"🔞Eighteen|18av","type":3,"style":{"ratio":1.7},"api":"csp_Eighteen"},
-{"key":"csp_JavBus",
-        "name":"🔞🧲JavBus(自备梯子)",
-        "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
-        "type":3,"style":{"type":"rect","ratio":1.485},
-        "api":"csp_JavBus",
-        "searchable":1,
-        "quickSearch": 1,
-        "changeable":0,
-        "filterable": 1,
-        "ext":"127.0.0.1:2001"
-        },
-     {"key":"u9a9","name":"🔞u9a9|磁力","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"ratio":1.7},
-            "ext": {
-        "搜索url":"https://u9a9b.cc/?type=2&search={wd}&p={pg}",
-        "数组":"<tr&&</tr>",
-        "首页":"0",
-        "副标题":"GB</td>*\">&& ",
-        "简介":"Date:</div>&&</",
-        "图片":"http+://欧阳.oyxx-1.eu.org/u9a9.php?u=+https+://u9a9b.cc+href=\"&&\"",
-        "播放二次截取":"panel-footer clearfix&&</div>",
-        "播放数组":"<a&&</a>[不包含:Torrent#filecove]",
-                "分类": "U9A9$2#DHT网络(无图)$1",
-        "分类url": "https://u9a9b.cc/?type={cateId}&p={catePg};;m"
-            }
-        },
-        {
-            "key": "csp_JavDb",
-            "name": "🔞🧲JavDb",
-            "type": 3,
-            "api": "csp_JavDb",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "timeout": 1801,
-            "ext": "http://javdb523.com"
-        },
+
+        
+     
+ 
+
+     
         {
             "key": "Cable",
             "name": "🔞CableAV(vpn)",
