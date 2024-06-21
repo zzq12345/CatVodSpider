@@ -270,29 +270,13 @@
 "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"},
 
     
-    {
-            "key": "T4-安博",
-            "name": "安博(T4)",
-            "type": 4,
-            "api": "https://tang.serv00.net/power/ub1818",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": true
-    },
     
-    {
-            "key": "T4-安博少儿不宜",
-            "name": "安博(T4)不适合儿童",
-            "type": 4,
-            "api": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/anbo1.txt",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": true
-    },
+  
+         
+    
+    
+    
+        
     {
       "key": "18AV",
       "name": "18AV",
@@ -305,18 +289,8 @@
         "ratio": 1.485
       }
     },
-    {
-      "key": "18A貓",
-      "name": "18A貓",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/18a_open.js",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      }
-    },
+    
+      
     {
       "key": "Jable",
       "name": "Jable",
@@ -393,18 +367,9 @@
       }
     },
     {
-      "key": "jcspcj8.com",
-      "name": "成人04",
-      "type": 0,
-      "api": "http://jcspcj8.com/api?ac=videolist",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
+
+     
+    
       "key": "bttcj.com",
       "name": "成人05",
       "type": 0,
@@ -416,18 +381,9 @@
         "ratio": 1.33
       }
     },
-    {
-      "key": "cjmygzy.com",
-      "name": "成人06",
-      "type": 0,
-      "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
+    
+  
+    
     {
       "key": "api.sexnguon.com",
       "name": "成人07",
@@ -441,18 +397,8 @@
       }
     },
     {
-      "key": "feifei67.com",
-      "name": "成人08",
-      "type": 1,
-      "api": "http://www.feifei67.com/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
+      
+    
       "key": "llzxcj.com",
       "name": "成人09",
       "type": 0,
@@ -477,18 +423,8 @@
       }
     },
     {
-      "key": "ggmmzy.com",
-      "name": "成人11",
-      "type": 0,
-      "api": "http://www.ggmmzy.com:9999/inc/xml",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
+
+    
       "key": "fhapi9.com",
       "name": "成人12",
       "type": 1,
@@ -500,18 +436,7 @@
         "ratio": 1.33
       }
     },
-    {
-      "key": "madouse.la",
-      "name": "成人13",
-      "type": 1,
-      "api": "http://madouse.la/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
+    
     {
       "key": "lbapiby.com",
       "name": "成人14",
@@ -561,18 +486,8 @@
       }
     },
     {
-      "key": "caiji.huakuiapi.com",
-      "name": "成人18",
-      "type": 1,
-      "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
+
+    
       "key": "kxgav.com",
       "name": "成人19",
       "type": 0,
@@ -632,18 +547,8 @@
         "ratio": 1.33
       }
     },
-    {
-      "key": "888dav.com",
-      "name": "成人24",
-      "type": 1,
-      "api": "https://www.888dav.com/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
+    
+      
     {
       "key": "apittzy.com",
       "name": "成人25",
