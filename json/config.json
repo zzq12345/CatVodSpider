@@ -3,8 +3,8 @@
   "lives": [
 	{
 "name":"youtubelive",
+"url": "./lib/yo22.txt"
 
-"url":"./youtubelive.txt",
 "type": 0,
 "playerType": 1,
    "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
