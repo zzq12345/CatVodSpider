@@ -2,23 +2,31 @@
   "spider": "./pg.jar", 
   "lives": [
 	{
-"name":"youtubelive",
-"url": "./lib/yo22.txt"
-
-"type": 0,
-"playerType": 1,
-   "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-	
-    {
+				"name": "墙外YouTubeLive",
+				 
+	                
+                         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+				"url": "./lib/yo22.txt"
+			},
+			
+			{
       "name": "自用",
-      "url": "https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/livetest.txt",
+      "url": "./livetest.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
 
+                                    {
+                                                   "name": "myTV SUPER",
+                                                 
+     
+                                        
+      "url": "https://yang-1989.eu.org/m3u/MyTV",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+     
+					    "logo": "https://diyp1.112114.xyz/logo/{name}.png"
+    },
                      
     {
     "name":"体育",
@@ -50,6 +58,17 @@
 				"type": "rect",
 				"ratio": 1.5
 			}
+		},
+	  {
+			"key":"欧乐影院",
+			"name":"欧乐影院|在线播",
+			"type":3,
+			"api":"csp_Olevod",
+			"quickSearch":1,
+			"changeable":1, "filterable":1,
+			"timeout":60,
+			"ext":"./lib/tokenm.json",
+			 "jar": "./lib/pg.jar"
 		},
 	  {
             "key": "黑木耳",
