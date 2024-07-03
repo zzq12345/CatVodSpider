@@ -1177,7 +1177,7 @@
 {
 				"name": "墙外YouTubeLive",
 				 
-	                
+	                "playerType": 2,
                          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
 				"url": "./lib/yo22.txt"
 			},
@@ -1185,6 +1185,8 @@
 			{
       "name": "自用",
       "url": "  https://yang-1989.eu.org/m3u/Gather  ",
+
+	"playerType": 2,			
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -1196,6 +1198,7 @@
      
                                         
       "url": "https://yang-1989.eu.org/m3u/MyTV",
+		"playerType": 2,			    
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
      
 					    "logo": "https://diyp1.112114.xyz/logo/{name}.png"
@@ -1204,7 +1207,7 @@
 	{
 				"name": "印尼",
 				"type": 0,
-				"playerType": 1,
+				"playerType": 2,
 				"url": "./yinni.m3u"
 			},		
 				
@@ -1213,6 +1216,8 @@
 "name":"台湾",
 
 "url":"https://epg.pw/test_channels_taiwan.txt",
+
+	"playerType": 2,  
    "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -1222,7 +1227,7 @@
 
 "url":"./guoneizhibo.txt",
 "type": 0,
-"playerType": 1,
+"playerType": 2,
 				  
    "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -1231,7 +1236,7 @@
   "name":"4gtv",
   "type": 0,
 				
-  "playerType": 1,
+  "playerType": 2,
   "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",                              
 "url":"https://raw.githubusercontent.com/zzq12345/CatVodSpider/main/json/4gtv.m3u",
   "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
@@ -1241,6 +1246,7 @@
     {
       "name": "自用",
       "url": "./livetest.txt",
+	    "playerType": 2,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -1250,6 +1256,7 @@
             "name": "央视频",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
             "type": 0,
+	"playerType": 2,
             "url": "./嗅探.m3u"
 },
 
@@ -1258,7 +1265,7 @@
 				"name": "live.ipv6",
 				"type": 0,
 				"url": "http://127.0.0.1:10079/p/0/proxy/https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-				"playerType": 1,
+				"playerType": 2,
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -1267,7 +1274,7 @@
 				"name": "live.ipv6.m3u",
 				"type": 0,
 				"url": "http://127.0.0.1:10079/p/0/proxy/https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-				"playerType": 1,
+				"playerType": 2,
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -1276,7 +1283,7 @@
 				"name": "live.ipv6.local",
 				"type": 0,
 				"url": "./lib/live.ipv6.txt",
-				"playerType": 1,
+				"playerType": 2,
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -1285,7 +1292,7 @@
 				"name": "live.fan",
 				"type": 0,
 				"url": "http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
-				"playerType": 1,
+				"playerType": 2,
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -1293,13 +1300,13 @@
 			{
 				"name": "YTLive",
 				"type": 0,
-				"playerType": 1,
+				"playerType": 2,
 				"url": "./lib/yo21.txt"
 			},
 			{
 				"name": "直播",
 				"type": 0,
-				"playerType": 1,
+				"playerType": 2,
 				"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -1307,7 +1314,7 @@
 			{
 				"name": "TXT",
 				"type": 0,
-				"playerType": 1,
+				"playerType": 2,
 				"url": "http://home.jundie.top:81/Cat/tv/live.txt",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
@@ -1316,7 +1323,7 @@
 			{
 				"name": "Json",
 				"type": 1,
-				"playerType": 1,
+				"playerType": 2,
 				"url": "http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
@@ -1325,7 +1332,7 @@
 			{
 				"name": "live.feimao",
 				"type": 0,
-				"playerType": 1,
+				"playerType": 2,
 				"url": "http://127.0.0.1:10079/p/0/proxy/http://我不是.肥猫.live/TV/tvzb.txt",
 				"ua": "okhttp/3.12.13",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
