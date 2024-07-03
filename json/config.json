@@ -4,7 +4,7 @@
 	{
 				"name": "墙外YouTubeLive",
 				 
-	                
+	                "playerType": 2,
                          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
 				"url": "./lib/yo22.txt"
 			},
@@ -12,6 +12,7 @@
 			{
       "name": "自用",
       "url": "  https://yang-1989.eu.org/m3u/Gather  ",
+		"playerType": 2,		
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -25,12 +26,15 @@
       "url": "https://yang-1989.eu.org/m3u/MyTV",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
      
-					    "logo": "https://diyp1.112114.xyz/logo/{name}.png"
+		"playerType": 2,
+		"logo": "https://diyp1.112114.xyz/logo/{name}.png"
     },
                      
     {
     "name":"体育",
     "url":"https://raw.githubusercontent.com/AberTown/V_Zone.m3u/main/V_Sport.m3u",
+
+	    "playerType": 2,
        "epg": "https://epg.112114.xyz/?ch={name}&date={date}?",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
