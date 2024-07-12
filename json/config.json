@@ -1200,7 +1200,8 @@
      
                                         
       "url": "https://yang-1989.eu.org/m3u/MyTV",
-		"playerType": 2,			    
+		"playerType": 2,	
+		"ua": "okhttp/3.0",		    
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
      
 					    "logo": "https://diyp1.112114.xyz/logo/{name}.png"
