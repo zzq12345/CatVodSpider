@@ -1,13 +1,7 @@
 {
   "spider": "./pg.jar", 
   "lives": [
-	{
-				"name": "墙外YouTubeLive",
-				 
-	                "playerType": 2,
-                         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
-				"url": "./lib/yo22.txt"
-			},
+	
 			
 			{
       "name": "自用",
@@ -17,7 +11,13 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
-
+{
+				"name": "墙外YouTubeLive",
+				 
+	                "playerType": 2,
+                         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+				"url": "./lib/yo22.txt"
+			},
                                     {
                                                    "name": "myTV SUPER",
                                                  
