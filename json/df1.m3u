@@ -3386,7 +3386,7 @@ http://127.0.0.1:8081/huya.php?id=880242
 http://127.0.0.1:8081/huya.php?id=637218
 
 #EXTINF:-1 tvg-id="70037" tvg-name="鳳凰資訊" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"  group-title="youtube中文新闻",鳳凰資訊
-http://127.0.0.1:8081/fenghuangyoutube.php?id=1
+http://127.0.0.1:8081/fenghuangyoutube.php
 
 
 #EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube中文新闻",cgtn俄语
@@ -3394,6 +3394,21 @@ http://127.0.0.1:8081/cgtnrussia.php
 
 #EXTINF:-1 tvg-id="20" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="youtube中文新闻",CCTV NEWS欧洲
 http://127.0.0.1:8081/cctvfrench.php
+
+#EXTINF:-1 tvg-id="20" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="youtube中文新闻",CCTV NEWS欧洲
+http://127.0.0.1:8081/cgtnweb.php?id=cgtn
+#EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube中文新闻",cgtn记录
+http://127.0.0.1:8081/cgtnweb.php?id=cgtnd
+#EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube中文新闻",cgtn西班牙
+http://127.0.0.1:8081/cgtnweb.php?id=cgtne
+#EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube中文新闻",cgtn法语
+http://127.0.0.1:8081/cgtnweb.php?id=cgtnf
+#EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube中文新闻",cgtn阿拉伯
+http://127.0.0.1:8081/cgtnweb.php?id=cgtna
+#EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube中文新闻",cgtn俄语
+http://127.0.0.1:8081/cgtnweb.php?id=cgtnr
+
+
 
 
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="youtube中文新闻",CCTV-13HD
@@ -3416,10 +3431,6 @@ http://127.0.0.1:8081/diyicaijing.php
 http://127.0.0.1:8081/diyicaijing1.php
 
 
-#EXTINF:-1 tvg-id="800102" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="youtube中文新闻",第一财经电视台
-https://www.yicai.com/api/dycj/liveIndex.m3u8
-#EXTINF:-1 tvg-id="100816" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="youtube中文新闻",第一财经.浦东电视台
-https://www.yicai.com/api/dfcj/liveIndex.m3u8
 
 
 #EXTINF:-1 tvg-id="100700" tvg-name="" tvg-logo="" group-title="youtube中文新闻",看看新聞直播
@@ -3525,12 +3536,12 @@ http://127.0.0.1:8081/gongshi14.php
 http://127.0.0.1:8081/gongshinews.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",taiwanplus
 http://127.0.0.1:8081/taiwanplus.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",倪珍24小時播新聞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",倪珍24小時英文新聞
 
-http://127.0.0.1:8081/youtube.php?v=m4q2I8rz5TQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",倪珍24小時播新聞
+http://127.0.0.1:8081/nizhen24.php?id=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",倪珍24小時中文新聞
 
-http://127.0.0.1:8081/youtube.php?v=ptsuKfjBoFo
+http://127.0.0.1:8081/nizhen24.php?id=2
 
 #EXTINF:-1 tvg-id="大愛電視台" tvg-name="大愛電視台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="youtube中文新闻",大愛電視台
 http://127.0.0.1:8081/youtube.php?v=oV_i3Hsl_zg&t=0s
@@ -3664,8 +3675,10 @@ http://127.0.0.1:8081/nhkworld.php
 #EXTINF:-1 tvg-id="100162" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" tvg-name="NHKWorld"  group-title="youtube world news",日本nhk world news
 http://127.0.0.1:8081/nhk.php
 
-#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube world news",Sky News
-http://127.0.0.1:8081/skynews.php
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube world news",Sky News youtube
+http://127.0.0.1:8081/skynews.php?id=1
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube world news",Sky News youtube 
+http://127.0.0.1:8081/skynews.php?id=2
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube world news",Sky News
 http://127.0.0.1:8081/skynewsweblive.php
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube world news",Sky News
